@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pwb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam"
+        },
+        "salience": 0.8303346,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sarah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11810632,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sarah",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "birth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.041668184,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birth",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "many",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.009890864,
+        "mentions": [
+            {
+                "text": {
+                    "content": "many",
+                    "beginOffset": 134
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

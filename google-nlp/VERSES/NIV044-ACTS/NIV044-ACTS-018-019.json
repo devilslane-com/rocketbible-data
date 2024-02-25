@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Ephesus",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ephesus",
+            "mid": "\/m\/02p8r"
+        },
+        "salience": 0.574807,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ephesus",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/060nc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Paul_the_Apostle"
+        },
+        "salience": 0.3367711,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Aquila",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.040002324,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aquila",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Priscilla",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.028910467,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Priscilla",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "synagogue",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.010037144,
+        "mentions": [
+            {
+                "text": {
+                    "content": "synagogue",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/041rx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews"
+        },
+        "salience": 0.009471976,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 120
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

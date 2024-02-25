@@ -1,0 +1,101 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.55106425,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "women",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16999812,
+        "mentions": [
+            {
+                "text": {
+                    "content": "women",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11153885,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ammon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0sk0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ammon"
+        },
+        "salience": 0.07790466,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ammon",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Moab",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0jdn4",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moab"
+        },
+        "salience": 0.05489843,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moab",
+                    "beginOffset": 88
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ashdod",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ashdod",
+            "mid": "\/m\/01q2k7"
+        },
+        "salience": 0.034595687,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ashdod",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

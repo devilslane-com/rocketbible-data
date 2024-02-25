@@ -1,0 +1,83 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5664501,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2425941,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "oak tree",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.084651105,
+        "mentions": [
+            {
+                "text": {
+                    "content": "oak tree",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Joab",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0jknj",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joab"
+        },
+        "salience": 0.074424684,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joab",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Absalom",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pxb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Absalom"
+        },
+        "salience": 0.031879984,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Absalom",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

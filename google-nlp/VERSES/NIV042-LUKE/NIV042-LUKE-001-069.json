@@ -1,0 +1,69 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3195434,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "salvation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29538068,
+        "mentions": [
+            {
+                "text": {
+                    "content": "salvation",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "horn",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29196724,
+        "mentions": [
+            {
+                "text": {
+                    "content": "horn",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.093108684,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

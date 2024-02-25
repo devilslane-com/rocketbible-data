@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Abner",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0qkw",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abner"
+        },
+        "salience": 0.7239245,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abner",
+                    "beginOffset": 9
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Joab",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0jknj",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joab"
+        },
+        "salience": 0.092779465,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joab",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Joab",
+                    "beginOffset": 167
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hebron",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07606442,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hebron",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Asahel",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/08jsbs",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Asahel"
+        },
+        "salience": 0.05627754,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 151
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Asahel",
+                    "beginOffset": 159
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "chamber",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.034125634,
+        "mentions": [
+            {
+                "text": {
+                    "content": "chamber",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "stomach",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.011680887,
+        "mentions": [
+            {
+                "text": {
+                    "content": "stomach",
+                    "beginOffset": 191
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "blood",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.005147508,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blood",
+                    "beginOffset": 138
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

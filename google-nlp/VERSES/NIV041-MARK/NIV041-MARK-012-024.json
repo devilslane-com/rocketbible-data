@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.49224892,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "error",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23007043,
+        "mentions": [
+            {
+                "text": {
+                    "content": "error",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "power",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16408561,
+        "mentions": [
+            {
+                "text": {
+                    "content": "power",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.06965925,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 94
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Scriptures",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/02mdj1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Religious_text"
+        },
+        "salience": 0.043935783,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Scriptures",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.41625357,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.31430057,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12828696,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 85
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "directions",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09430428,
+        "mentions": [
+            {
+                "text": {
+                    "content": "directions",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gates",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.032471176,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gates",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.014383432,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.6227475,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.26277006,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11448245,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

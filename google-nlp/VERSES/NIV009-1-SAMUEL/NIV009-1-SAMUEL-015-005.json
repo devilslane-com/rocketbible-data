@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070hm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul"
+        },
+        "salience": 0.4978373,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18857291,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ravine",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13539298,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ravine",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Amalek",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Amalek",
+            "mid": "\/m\/0hyby"
+        },
+        "salience": 0.11677034,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Amalek",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ambush",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.061426472,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ambush",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

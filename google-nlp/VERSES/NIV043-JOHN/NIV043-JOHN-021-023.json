@@ -1,0 +1,65 @@
+[
+    {
+        "name": "rumor",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.37076333,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rumor",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.32538685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "believers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15192491,
+        "mentions": [
+            {
+                "text": {
+                    "content": "believers",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disciple",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15192491,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciple",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

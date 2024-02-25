@@ -1,0 +1,95 @@
+[
+    {
+        "name": "brother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4235517,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sister",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.36169007,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sister",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "love",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09536434,
+        "mentions": [
+            {
+                "text": {
+                    "content": "love",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "someone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06948877,
+        "mentions": [
+            {
+                "text": {
+                    "content": "someone",
+                    "beginOffset": 129
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "eating",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0352322,
+        "mentions": [
+            {
+                "text": {
+                    "content": "eating",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.014672917,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 146
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

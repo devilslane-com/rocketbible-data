@@ -1,0 +1,95 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.57464385,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "coast",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.2197603,
+        "mentions": [
+            {
+                "text": {
+                    "content": "coast",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Assyria",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Assyria",
+            "mid": "\/m\/0wmn"
+        },
+        "salience": 0.06358299,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Assyria",
+                    "beginOffset": 163
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "help",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04733763,
+        "mentions": [
+            {
+                "text": {
+                    "content": "help",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "deliverance",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04733763,
+        "mentions": [
+            {
+                "text": {
+                    "content": "deliverance",
+                    "beginOffset": 134
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04733763,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 155
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

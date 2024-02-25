@@ -1,0 +1,87 @@
+[
+    {
+        "name": "command",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.7192555,
+        "mentions": [
+            {
+                "text": {
+                    "content": "command",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.14117283,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.068291895,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "another",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04837962,
+        "mentions": [
+            {
+                "text": {
+                    "content": "another",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.022900127,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

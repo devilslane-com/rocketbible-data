@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.44459206,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 117
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "tent",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.16795899,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tent",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pillar",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15008008,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pillar",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cloud",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11671241,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cloud",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.083238974,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "entrance",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0374175,
+        "mentions": [
+            {
+                "text": {
+                    "content": "entrance",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

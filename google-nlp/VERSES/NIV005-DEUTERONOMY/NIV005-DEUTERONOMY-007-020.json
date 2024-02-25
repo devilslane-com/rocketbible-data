@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3495547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hornet",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24489665,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hornet",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.2135619,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "survivors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19198674,
+        "mentions": [
+            {
+                "text": {
+                    "content": "survivors",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

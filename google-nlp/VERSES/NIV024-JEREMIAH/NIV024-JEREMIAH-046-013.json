@@ -1,0 +1,149 @@
+[
+    {
+        "name": "message",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.654351,
+        "mentions": [
+            {
+                "text": {
+                    "content": "message",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09375833,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prophet",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.065365456,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "coming",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.06019379,
+        "mentions": [
+            {
+                "text": {
+                    "content": "coming",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jeremiah",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jeremiah",
+            "mid": "\/m\/0j_7g"
+        },
+        "salience": 0.038883016,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jeremiah",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Babylon",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "mid": "\/m\/01cyh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Babylon"
+        },
+        "salience": 0.027428273,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylon",
+                    "beginOffset": 102
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.027428273,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 120
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02044401,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nebuchadnezzar",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0drvz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nebuchadnezzar_II"
+        },
+        "salience": 0.012147842,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nebuchadnezzar",
+                    "beginOffset": 79
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.41960546,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sternly.",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2645027,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sternly.",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "demon",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16770852,
+        "mentions": [
+            {
+                "text": {
+                    "content": "demon",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.14818332,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8225077,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "stronghold",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07375709,
+        "mentions": [
+            {
+                "text": {
+                    "content": "stronghold",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.04396555,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "others",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03662004,
+        "mentions": [
+            {
+                "text": {
+                    "content": "others",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wealth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.023149645,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wealth",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

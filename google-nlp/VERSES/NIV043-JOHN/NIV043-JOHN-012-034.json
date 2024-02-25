@@ -1,0 +1,75 @@
+[
+    {
+        "name": "crowd",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4973834,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crowd",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Law",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21045357,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Law",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "The Son of Man",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "mid": "\/m\/0j11n",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Son_of_man"
+        },
+        "salience": 0.18484926,
+        "mentions": [
+            {
+                "text": {
+                    "content": "The Son of Man",
+                    "beginOffset": 111
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Son of Man",
+                    "beginOffset": 163
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Messiah",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/04ys7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Messiah"
+        },
+        "salience": 0.107313775,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Messiah",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "name": "gift",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.40373433,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gift",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wages",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.267742,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wages",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sin",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11328738,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sin",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.0987064,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.04391654,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.039300196,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.033313137,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ Jesus",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

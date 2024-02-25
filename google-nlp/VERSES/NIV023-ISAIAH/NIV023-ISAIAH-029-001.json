@@ -1,0 +1,84 @@
+[
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.49533194,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ariel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.23393178,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ariel",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Ariel",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12750867,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "festivals",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.07248073,
+        "mentions": [
+            {
+                "text": {
+                    "content": "festivals",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cycle",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.070746884,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cycle",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

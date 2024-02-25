@@ -1,0 +1,39 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.862333,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.137667,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

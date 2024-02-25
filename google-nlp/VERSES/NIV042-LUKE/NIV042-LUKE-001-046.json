@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Mary",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7536083,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mary",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "soul",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15875754,
+        "mentions": [
+            {
+                "text": {
+                    "content": "soul",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.087634146,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

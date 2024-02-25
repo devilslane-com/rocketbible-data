@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.42580432,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "evil",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.26862025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "evil",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sabbath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2313921,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sabbath",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.074183315,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

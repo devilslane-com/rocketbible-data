@@ -1,0 +1,62 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6902514,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22872025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "party",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.06533149,
+        "mentions": [
+            {
+                "text": {
+                    "content": "party",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rescue",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.015696866,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rescue",
+                    "beginOffset": 182
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

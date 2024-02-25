@@ -1,0 +1,105 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.5196111,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 62
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 95
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.25844646,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 114
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "witnesses",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11912565,
+        "mentions": [
+            {
+                "text": {
+                    "content": "witnesses",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07075411,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fact",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.023020111,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fact",
+                    "beginOffset": 167
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009042515,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 176
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

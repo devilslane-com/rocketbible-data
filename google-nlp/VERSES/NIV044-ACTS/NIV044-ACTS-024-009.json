@@ -1,0 +1,50 @@
+[
+    {
+        "name": "accusation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.49684003,
+        "mentions": [
+            {
+                "text": {
+                    "content": "accusation",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/041rx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews"
+        },
+        "salience": 0.42807686,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 10
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07508313,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

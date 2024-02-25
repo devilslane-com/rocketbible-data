@@ -1,0 +1,110 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.64279807,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "oath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.096642345,
+        "mentions": [
+            {
+                "text": {
+                    "content": "oath",
+                    "beginOffset": 167
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.07619312,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 129
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.057673454,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 175
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0456337,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 148
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Isaac",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.040529653,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Isaac",
+                    "beginOffset": 184
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jacob",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.040529653,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 194
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

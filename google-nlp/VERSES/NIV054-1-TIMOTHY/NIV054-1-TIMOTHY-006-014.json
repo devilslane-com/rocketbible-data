@@ -1,0 +1,72 @@
+[
+    {
+        "name": "command",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29436374,
+        "mentions": [
+            {
+                "text": {
+                    "content": "command",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.27152985,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "spot",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22450715,
+        "mentions": [
+            {
+                "text": {
+                    "content": "spot",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "appearing",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.20959926,
+        "mentions": [
+            {
+                "text": {
+                    "content": "appearing",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

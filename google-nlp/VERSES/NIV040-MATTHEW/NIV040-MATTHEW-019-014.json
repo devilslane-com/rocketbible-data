@@ -1,0 +1,65 @@
+[
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.57906765,
+        "mentions": [
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.37778413,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "kingdom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.021574121,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdom",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heaven",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.021574121,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heaven",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

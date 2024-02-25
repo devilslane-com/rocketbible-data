@@ -1,0 +1,120 @@
+[
+    {
+        "name": "others",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.39390457,
+        "mentions": [
+            {
+                "text": {
+                    "content": "others",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14168093,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "step",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10049249,
+        "mentions": [
+            {
+                "text": {
+                    "content": "step",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Dagon",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0qmbc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Dagon"
+        },
+        "salience": 0.09789619,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Dagon",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Dagon",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "threshold",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07099273,
+        "mentions": [
+            {
+                "text": {
+                    "content": "threshold",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ashdod",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01q2k7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ashdod"
+        },
+        "salience": 0.060154345,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ashdod",
+                    "beginOffset": 98
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0448368,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

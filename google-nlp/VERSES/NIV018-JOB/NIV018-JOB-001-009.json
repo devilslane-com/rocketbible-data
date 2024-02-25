@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Job",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.45057327,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Job",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nothing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.32235208,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nothing",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.19655387,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Satan",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06wzv",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Satan"
+        },
+        "salience": 0.030520786,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Satan",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

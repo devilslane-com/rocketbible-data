@@ -1,0 +1,50 @@
+[
+    {
+        "name": "everyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.68085676,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everyone",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "interests",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22315559,
+        "mentions": [
+            {
+                "text": {
+                    "content": "interests",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.09598762,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

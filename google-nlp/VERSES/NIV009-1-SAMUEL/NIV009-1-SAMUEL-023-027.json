@@ -1,0 +1,68 @@
+[
+    {
+        "name": "messenger",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.71308666,
+        "mentions": [
+            {
+                "text": {
+                    "content": "messenger",
+                    "beginOffset": 2
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070hm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul"
+        },
+        "salience": 0.1895823,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07687787,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Philistines",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0618q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines"
+        },
+        "salience": 0.02045318,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistines",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

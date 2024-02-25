@@ -1,0 +1,50 @@
+[
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5905136,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.37889987,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.030586572,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 89
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

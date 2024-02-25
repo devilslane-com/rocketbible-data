@@ -1,0 +1,80 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5915879,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "places",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.27916694,
+        "mentions": [
+            {
+                "text": {
+                    "content": "places",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ancestors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05206537,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ancestors",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.04418094,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 97
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "hearts",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.032998838,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hearts",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

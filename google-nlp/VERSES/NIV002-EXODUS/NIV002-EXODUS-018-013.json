@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses",
+            "mid": "\/m\/04yfh"
+        },
+        "salience": 0.66229296,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13680717,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "seat",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12227645,
+        "mentions": [
+            {
+                "text": {
+                    "content": "seat",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "judge",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07862343,
+        "mentions": [
+            {
+                "text": {
+                    "content": "judge",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

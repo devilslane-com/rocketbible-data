@@ -1,0 +1,120 @@
+[
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.3939283,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heavens",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16870801,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heavens",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "One",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.108942114,
+        "mentions": [
+            {
+                "text": {
+                    "content": "One",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.08849142,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "rain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08819439,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rain",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sinai",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/06wjy",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sinai_Peninsula"
+        },
+        "salience": 0.06576013,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sinai",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God of Israel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.058367472,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God of Israel",
+                    "beginOffset": 93
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

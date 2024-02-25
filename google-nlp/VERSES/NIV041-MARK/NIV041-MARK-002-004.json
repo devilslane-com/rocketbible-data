@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.24511872,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 99
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "opening",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.17518483,
+        "mentions": [
+            {
+                "text": {
+                    "content": "opening",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "crowd",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1731289,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crowd",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "roof",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16127022,
+        "mentions": [
+            {
+                "text": {
+                    "content": "roof",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mat",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12264867,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mat",
+                    "beginOffset": 148
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12264867,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 156
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

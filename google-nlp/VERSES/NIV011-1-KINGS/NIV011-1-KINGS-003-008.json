@@ -1,0 +1,54 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.49398205,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.44684824,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "number",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.059169695,
+        "mentions": [
+            {
+                "text": {
+                    "content": "number",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Aaron",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8018614,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aaron",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "tent",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.075867616,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tent",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "linen garments",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.060166713,
+        "mentions": [
+            {
+                "text": {
+                    "content": "linen garments",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "meeting",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.05227445,
+        "mentions": [
+            {
+                "text": {
+                    "content": "meeting",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Most Holy Place",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/025t__f",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Holy_of_Holies"
+        },
+        "salience": 0.009829824,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Most Holy Place",
+                    "beginOffset": 112
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

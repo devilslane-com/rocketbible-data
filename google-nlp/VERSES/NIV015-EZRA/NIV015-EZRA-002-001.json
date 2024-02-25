@@ -1,0 +1,171 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6627236,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "exiles",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10231791,
+        "mentions": [
+            {
+                "text": {
+                    "content": "exiles",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05397399,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "province",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.053340778,
+        "mentions": [
+            {
+                "text": {
+                    "content": "province",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "captivity",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.036459588,
+        "mentions": [
+            {
+                "text": {
+                    "content": "captivity",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nebuchadnezzar",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0drvz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nebuchadnezzar_II"
+        },
+        "salience": 0.022056654,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nebuchadnezzar",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Babylon",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "mid": "\/m\/01cyh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Babylon"
+        },
+        "salience": 0.020370483,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylon",
+                    "beginOffset": 115
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Babylon",
+                    "beginOffset": 144
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.018109182,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 209
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.015323919,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 170
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04frh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kingdom_of_Judah"
+        },
+        "salience": 0.015323919,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 184
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "name": "omer",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6444603,
+        "mentions": [
+            {
+                "text": {
+                    "content": "omer",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3286979,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Everyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.026841816,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Everyone",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

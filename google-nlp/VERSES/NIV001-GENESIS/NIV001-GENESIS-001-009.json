@@ -1,0 +1,80 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.35000205,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25244322,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sky",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.17619067,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sky",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16449113,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ground",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.056872923,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ground",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

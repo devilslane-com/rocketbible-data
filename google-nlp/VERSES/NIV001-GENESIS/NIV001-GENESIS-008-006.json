@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Noah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05fzm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Noah"
+        },
+        "salience": 0.7220036,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Noah",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "window",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2176992,
+        "mentions": [
+            {
+                "text": {
+                    "content": "window",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ark",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06029723,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ark",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

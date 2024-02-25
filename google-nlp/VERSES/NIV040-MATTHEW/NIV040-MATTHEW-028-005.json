@@ -1,0 +1,50 @@
+[
+    {
+        "name": "angel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.39553234,
+        "mentions": [
+            {
+                "text": {
+                    "content": "angel",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.34992176,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "women",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2545459,
+        "mentions": [
+            {
+                "text": {
+                    "content": "women",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

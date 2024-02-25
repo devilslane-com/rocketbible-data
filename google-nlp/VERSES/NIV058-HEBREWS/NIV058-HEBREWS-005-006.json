@@ -1,0 +1,65 @@
+[
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5062601,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2742228,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "order",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13689311,
+        "mentions": [
+            {
+                "text": {
+                    "content": "order",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Melchizedek",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/02fp1z",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Melchizedek"
+        },
+        "salience": 0.082624,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Melchizedek",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

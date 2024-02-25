@@ -1,0 +1,108 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.57554907,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "head",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2840199,
+        "mentions": [
+            {
+                "text": {
+                    "content": "head",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Philistine",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines",
+            "mid": "\/m\/0618q"
+        },
+        "salience": 0.07271015,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistine",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Philistine",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.028914476,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "tent",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.023784725,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tent",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "weapons",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.015021692,
+        "mentions": [
+            {
+                "text": {
+                    "content": "weapons",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

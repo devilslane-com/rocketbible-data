@@ -1,0 +1,101 @@
+[
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.5948897,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rim",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12531689,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rim",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Aroer",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/052p41",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Aroer_(Moab)"
+        },
+        "salience": 0.110661246,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aroer",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Arnon Gorge",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Wadi_Mujib",
+            "mid": "\/m\/0cd3f9"
+        },
+        "salience": 0.076902814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Arnon Gorge",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hermon",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01txbx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mount_Hermon"
+        },
+        "salience": 0.06829802,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hermon",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Mount Sirion",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.023931349,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mount Sirion",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

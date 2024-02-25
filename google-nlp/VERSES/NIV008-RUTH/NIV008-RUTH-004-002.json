@@ -1,0 +1,65 @@
+[
+    {
+        "name": "elders",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4467889,
+        "mentions": [
+            {
+                "text": {
+                    "content": "elders",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ten",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.28230193,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ten",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Boaz",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Boaz",
+            "mid": "\/m\/014n52"
+        },
+        "salience": 0.18992934,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Boaz",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.080979824,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

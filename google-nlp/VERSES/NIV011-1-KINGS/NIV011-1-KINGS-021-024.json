@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Ahab",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02nxz9x",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Captain_Ahab"
+        },
+        "salience": 0.46351463,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ahab",
+                    "beginOffset": 36
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Dogs",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3128591,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Dogs",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09249365,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "birds",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.085209966,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birds",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.045922656,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.34109592,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "grain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23126589,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grain",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.12710401,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Joseph",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11842253,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joseph",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "everywhere",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1061248,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everywhere",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "famine",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07598685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "famine",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

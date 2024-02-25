@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.7619693,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Son of Man",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.23803067,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son of Man",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

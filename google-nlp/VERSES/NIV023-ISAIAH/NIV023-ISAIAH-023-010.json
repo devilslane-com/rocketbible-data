@@ -1,0 +1,65 @@
+[
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.66361195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nile",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/05b5w",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nile"
+        },
+        "salience": 0.12300036,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nile",
+                    "beginOffset": 36
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Daughter Tarshish",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.11320269,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Daughter Tarshish",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "harbor",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10018498,
+        "mentions": [
+            {
+                "text": {
+                    "content": "harbor",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

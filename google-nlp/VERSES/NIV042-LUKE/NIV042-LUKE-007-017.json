@@ -1,0 +1,68 @@
+[
+    {
+        "name": "news",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.57499224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "news",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.16890427,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.13739008,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judea",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judea",
+            "mid": "\/m\/0kf0p"
+        },
+        "salience": 0.11871343,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judea",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

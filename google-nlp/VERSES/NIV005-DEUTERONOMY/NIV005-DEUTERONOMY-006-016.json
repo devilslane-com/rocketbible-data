@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.39109513,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "test",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2879591,
+        "mentions": [
+            {
+                "text": {
+                    "content": "test",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.18779159,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Massah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02w2h77",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Massah"
+        },
+        "salience": 0.13315415,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Massah",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

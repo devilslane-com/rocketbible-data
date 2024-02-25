@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5211814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "numbers",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1545707,
+        "mentions": [
+            {
+                "text": {
+                    "content": "numbers",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.13636914,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "stars",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.109992675,
+        "mentions": [
+            {
+                "text": {
+                    "content": "stars",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sky",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07788608,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sky",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

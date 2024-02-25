@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.78248465,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 7
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "city gate",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.118985616,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city gate",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "blood",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.060204968,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blood",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03832475,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

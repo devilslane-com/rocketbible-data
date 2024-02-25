@@ -1,0 +1,101 @@
+[
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.45582944,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "war",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.30885202,
+        "mentions": [
+            {
+                "text": {
+                    "content": "war",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul",
+            "mid": "\/m\/070hm"
+        },
+        "salience": 0.1069638,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 130
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07203477,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.056319993,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

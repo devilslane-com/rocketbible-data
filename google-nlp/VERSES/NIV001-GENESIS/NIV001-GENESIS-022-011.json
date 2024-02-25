@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0h3wwt",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_Abraham"
+        },
+        "salience": 0.41121107,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.28625724,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "angel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22224368,
+        "mentions": [
+            {
+                "text": {
+                    "content": "angel",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heaven",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.066683084,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heaven",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Here I am",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.013604927,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Here I am",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

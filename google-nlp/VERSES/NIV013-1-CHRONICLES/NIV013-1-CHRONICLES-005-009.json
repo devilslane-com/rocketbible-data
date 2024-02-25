@@ -1,0 +1,113 @@
+[
+    {
+        "name": "east",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.36371136,
+        "mentions": [
+            {
+                "text": {
+                    "content": "east",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "desert",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.25339994,
+        "mentions": [
+            {
+                "text": {
+                    "content": "desert",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15235345,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "edge",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.104974866,
+        "mentions": [
+            {
+                "text": {
+                    "content": "edge",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "livestock",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07445734,
+        "mentions": [
+            {
+                "text": {
+                    "content": "livestock",
+                    "beginOffset": 115
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gilead",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02s25l",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gilead"
+        },
+        "salience": 0.031363312,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gilead",
+                    "beginOffset": 142
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Euphrates River",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02s22",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Euphrates"
+        },
+        "salience": 0.019739745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Euphrates River",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

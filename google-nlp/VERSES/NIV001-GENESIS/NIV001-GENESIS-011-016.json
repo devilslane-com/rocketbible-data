@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Eber",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01x3_h",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Eber"
+        },
+        "salience": 0.7340036,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Eber",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Peleg",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Peleg",
+            "mid": "\/m\/026q5w"
+        },
+        "salience": 0.15196566,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peleg",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11403072,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

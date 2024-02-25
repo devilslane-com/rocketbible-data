@@ -1,0 +1,104 @@
+[
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4647956,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jew",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.44560602,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jew",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Samaritan",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/06_8_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Samaritans"
+        },
+        "salience": 0.071270816,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samaritan",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Samaritan",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Samaritans",
+                    "beginOffset": 145
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/041rx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews"
+        },
+        "salience": 0.0069925245,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 118
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "drink",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.0052214516,
+        "mentions": [
+            {
+                "text": {
+                    "content": "drink",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

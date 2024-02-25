@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Herod",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Herod_the_Great",
+            "mid": "\/m\/0hsm_"
+        },
+        "salience": 0.6262902,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Herod",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Herod",
+                    "beginOffset": 94
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3737098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 106
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

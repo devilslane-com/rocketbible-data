@@ -1,0 +1,47 @@
+[
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8002299,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "jar",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.14840676,
+        "mentions": [
+            {
+                "text": {
+                    "content": "jar",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.051363338,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.6944413,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "crowd",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09880379,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crowd",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "swords",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06864882,
+        "mentions": [
+            {
+                "text": {
+                    "content": "swords",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "clubs",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.06317826,
+        "mentions": [
+            {
+                "text": {
+                    "content": "clubs",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rebellion",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.051586688,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rebellion",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "temple courts teaching",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.023341108,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple courts teaching",
+                    "beginOffset": 150
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.3734877,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.33278137,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pharisees",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/0j3fm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharisees"
+        },
+        "salience": 0.097018205,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharisees",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Pharisee",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "dinner",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09610809,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dinner",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "table",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.048846923,
+        "mentions": [
+            {
+                "text": {
+                    "content": "table",
+                    "beginOffset": 119
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.030878965,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

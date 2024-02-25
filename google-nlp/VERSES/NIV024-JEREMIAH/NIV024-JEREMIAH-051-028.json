@@ -1,0 +1,110 @@
+[
+    {
+        "name": "kings",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4687936,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kings",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nations",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.22635661,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nations",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "battle",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.11033058,
+        "mentions": [
+            {
+                "text": {
+                    "content": "battle",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "governors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07067911,
+        "mentions": [
+            {
+                "text": {
+                    "content": "governors",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "countries",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.053752635,
+        "mentions": [
+            {
+                "text": {
+                    "content": "countries",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Medes",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/g\/11bc5_g7cb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Medes"
+        },
+        "salience": 0.046143994,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Medes",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "officials",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.023943469,
+        "mentions": [
+            {
+                "text": {
+                    "content": "officials",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

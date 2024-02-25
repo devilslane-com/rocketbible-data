@@ -1,0 +1,68 @@
+[
+    {
+        "name": "apostles",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7345262,
+        "mentions": [
+            {
+                "text": {
+                    "content": "apostles",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.24212521,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.015687773,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 135
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Bethsaida",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04hv10",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Bethsaida"
+        },
+        "salience": 0.0076607834,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bethsaida",
+                    "beginOffset": 147
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

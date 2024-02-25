@@ -1,0 +1,50 @@
+[
+    {
+        "name": "temple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5307493,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fellow",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40952712,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fellow",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.05972356,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

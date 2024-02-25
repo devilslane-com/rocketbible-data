@@ -1,0 +1,65 @@
+[
+    {
+        "name": "relatives",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.701159,
+        "mentions": [
+            {
+                "text": {
+                    "content": "relatives",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hill country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.13148685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hill country",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jacob",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.111712255,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gilead",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02s25l",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gilead"
+        },
+        "salience": 0.055641882,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gilead",
+                    "beginOffset": 109
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

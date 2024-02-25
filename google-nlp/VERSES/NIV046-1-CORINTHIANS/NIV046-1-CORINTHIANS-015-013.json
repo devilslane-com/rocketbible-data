@@ -1,0 +1,50 @@
+[
+    {
+        "name": "resurrection",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.598317,
+        "mentions": [
+            {
+                "text": {
+                    "content": "resurrection",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.36627945,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.03540348,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

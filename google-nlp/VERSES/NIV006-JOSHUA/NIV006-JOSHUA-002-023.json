@@ -1,0 +1,102 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.76970685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08006153,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 124
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.058208413,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "river",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.033869967,
+        "mentions": [
+            {
+                "text": {
+                    "content": "river",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hills",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.03346372,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hills",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Joshua",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/043m0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joshua"
+        },
+        "salience": 0.018528566,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joshua",
+                    "beginOffset": 93
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Nun",
+                    "beginOffset": 107
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Joseph",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46827334,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joseph",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4479232,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "stranger",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06503886,
+        "mentions": [
+            {
+                "text": {
+                    "content": "stranger",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.014033609,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 212
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land of Canaan",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0d9f2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Canaan"
+        },
+        "salience": 0.004730965,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land of Canaan",
+                    "beginOffset": 169
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

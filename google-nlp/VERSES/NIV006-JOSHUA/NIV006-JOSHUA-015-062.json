@@ -1,0 +1,83 @@
+[
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.3395315,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nibshan",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.32261115,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nibshan",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "City of Salt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/07kht7d",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/City_of_Salt"
+        },
+        "salience": 0.13482745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "City of Salt",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "villages",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10907927,
+        "mentions": [
+            {
+                "text": {
+                    "content": "villages",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "En Gedi",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04bcnx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ein_Gedi"
+        },
+        "salience": 0.09395059,
+        "mentions": [
+            {
+                "text": {
+                    "content": "En Gedi",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Joash",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jehoash_of_Judah",
+            "mid": "\/m\/02cs8v"
+        },
+        "salience": 0.58101463,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joash",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.26996484,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14902057,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

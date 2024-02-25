@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.51822567,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.18107033,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12872806,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "preparations",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10911779,
+        "mentions": [
+            {
+                "text": {
+                    "content": "preparations",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Passover",
+        "type": "EVENT",
+        "metadata": {
+            "mid": "\/m\/05rds",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Passover"
+        },
+        "salience": 0.06285818,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Passover",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

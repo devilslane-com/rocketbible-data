@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Everyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5238244,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Everyone",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.360394,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "end",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.115781635,
+        "mentions": [
+            {
+                "text": {
+                    "content": "end",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

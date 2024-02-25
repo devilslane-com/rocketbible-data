@@ -1,0 +1,47 @@
+[
+    {
+        "name": "daughter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.53752416,
+        "mentions": [
+            {
+                "text": {
+                    "content": "daughter",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3566149,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wine",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.105860956,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

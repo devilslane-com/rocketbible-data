@@ -1,0 +1,130 @@
+[
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.42292628,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Beerah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40970436,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Beerah",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Beerah",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "leader",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.055228665,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "exile",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.045730148,
+        "mentions": [
+            {
+                "text": {
+                    "content": "exile",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Assyria",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0wmn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Assyria"
+        },
+        "salience": 0.029855663,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Assyria",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Tiglath-Pileser",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j0d4",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tiglath-Pileser_III"
+        },
+        "salience": 0.029499246,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Tiglath-Pileser",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Reubenites",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0h_9c",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tribe_of_Reuben"
+        },
+        "salience": 0.007055665,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Reubenites",
+                    "beginOffset": 101
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

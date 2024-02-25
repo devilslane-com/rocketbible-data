@@ -1,0 +1,135 @@
+[
+    {
+        "name": "whatever",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3610333,
+        "mentions": [
+            {
+                "text": {
+                    "content": "whatever",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.13610989,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 104
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.13350444,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12197453,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "deed",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.083749756,
+        "mentions": [
+            {
+                "text": {
+                    "content": "deed",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07799437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.059269384,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "thanks",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02636434,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thanks",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

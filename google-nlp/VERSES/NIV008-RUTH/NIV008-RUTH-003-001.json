@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Naomi",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5198398,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother-in-law",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Naomi",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ruth",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.29120848,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ruth",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15048857,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "daughter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03846313,
+        "mentions": [
+            {
+                "text": {
+                    "content": "daughter",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

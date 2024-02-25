@@ -1,0 +1,105 @@
+[
+    {
+        "name": "places",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.34776932,
+        "mentions": [
+            {
+                "text": {
+                    "content": "places",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.26726836,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04frh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kingdom_of_Judah"
+        },
+        "salience": 0.1586872,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 128
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "hills",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15021215,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hills",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prostitute",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.047700748,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prostitute",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.028362207,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

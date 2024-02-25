@@ -1,0 +1,62 @@
+[
+    {
+        "name": "nothing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5369923,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nothing",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "charge",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24567693,
+        "mentions": [
+            {
+                "text": {
+                    "content": "charge",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16115254,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.056178197,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

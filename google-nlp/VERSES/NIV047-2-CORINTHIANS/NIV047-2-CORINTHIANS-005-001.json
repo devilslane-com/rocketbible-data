@@ -1,0 +1,95 @@
+[
+    {
+        "name": "tent",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.33977464,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tent",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "building",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.2018755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "building",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heaven",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15566275,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heaven",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.12301397,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "human hands",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1100832,
+        "mentions": [
+            {
+                "text": {
+                    "content": "human hands",
+                    "beginOffset": 132
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06958996,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

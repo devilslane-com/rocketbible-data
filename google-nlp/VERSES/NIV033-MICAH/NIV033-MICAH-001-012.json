@@ -1,0 +1,110 @@
+[
+    {
+        "name": "pain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24234347,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pain",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disaster",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.21857972,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disaster",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "relief",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16932827,
+        "mentions": [
+            {
+                "text": {
+                    "content": "relief",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Maroth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.14754376,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Maroth",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "gate",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.118879825,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gate",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05314593,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.050179027,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 122
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

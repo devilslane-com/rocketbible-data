@@ -1,0 +1,120 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30826014,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16580664,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Topheth",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tophet",
+            "mid": "\/m\/03pgg7"
+        },
+        "salience": 0.10815241,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Topheth",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Topheth",
+                    "beginOffset": 183
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.095069386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 175
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Valley of Ben Hinnom",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0262q4",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gehenna"
+        },
+        "salience": 0.09260609,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Valley of Ben Hinnom",
+                    "beginOffset": 101
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Valley of Slaughter",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.085156515,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Valley of Slaughter",
+                    "beginOffset": 131
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "room",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.08038356,
+        "mentions": [
+            {
+                "text": {
+                    "content": "room",
+                    "beginOffset": 214
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

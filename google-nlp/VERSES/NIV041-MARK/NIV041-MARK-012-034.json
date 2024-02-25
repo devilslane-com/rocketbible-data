@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.7534553,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "kingdom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.088429496,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdom",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "no one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.081890255,
+        "mentions": [
+            {
+                "text": {
+                    "content": "no one",
+                    "beginOffset": 124
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.05315616,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 99
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "questions",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.023068838,
+        "mentions": [
+            {
+                "text": {
+                    "content": "questions",
+                    "beginOffset": 154
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

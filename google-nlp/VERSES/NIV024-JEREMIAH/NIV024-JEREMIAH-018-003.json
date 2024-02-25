@@ -1,0 +1,47 @@
+[
+    {
+        "name": "potter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.59180665,
+        "mentions": [
+            {
+                "text": {
+                    "content": "potter",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.27166182,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wheel",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13653155,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wheel",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

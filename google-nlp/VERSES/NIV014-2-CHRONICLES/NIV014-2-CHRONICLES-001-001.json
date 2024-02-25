@@ -1,0 +1,101 @@
+[
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.64758384,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Solomon",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Solomon",
+            "mid": "\/m\/070h3"
+        },
+        "salience": 0.111335166,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.111335166,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "kingdom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.050643433,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdom",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.047174547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.03192784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

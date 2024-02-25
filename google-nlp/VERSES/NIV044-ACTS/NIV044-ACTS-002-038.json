@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.33363748,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1535651,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1517629,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "forgiveness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1413677,
+        "mentions": [
+            {
+                "text": {
+                    "content": "forgiveness",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.09229418,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "gift",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05767099,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gift",
+                    "beginOffset": 147
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sins",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04789015,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sins",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Holy Spirit",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/03qsc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Holy_Spirit"
+        },
+        "salience": 0.0218115,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Holy Spirit",
+                    "beginOffset": 159
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

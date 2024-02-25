@@ -1,0 +1,50 @@
+[
+    {
+        "name": "friends",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7724441,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friends",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18865204,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Job",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/04115t2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Job"
+        },
+        "salience": 0.038903836,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Job",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

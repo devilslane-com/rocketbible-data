@@ -1,0 +1,135 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.33113247,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Dagon",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Dagon",
+            "mid": "\/m\/0qmbc"
+        },
+        "salience": 0.28872672,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Dagon",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Dagon",
+                    "beginOffset": 139
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ashdod",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01q2k7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ashdod"
+        },
+        "salience": 0.14306994,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ashdod",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "face",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06513616,
+        "mentions": [
+            {
+                "text": {
+                    "content": "face",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ground",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.05991842,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ground",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ark",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.05991842,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ark",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.020184398,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.015488429,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 169
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "boundary",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.3933195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boundary",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Azmon",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.3374622,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Azmon",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Wadi of Egypt",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.19623953,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Wadi of Egypt",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Mediterranean Sea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04swx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mediterranean_Sea"
+        },
+        "salience": 0.072978795,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mediterranean Sea",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.61455643,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heart",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1668394,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heart",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pharaoh",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05sx9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharaoh"
+        },
+        "salience": 0.14772967,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israelites",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites",
+            "mid": "\/m\/0dxbn"
+        },
+        "salience": 0.07087449,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

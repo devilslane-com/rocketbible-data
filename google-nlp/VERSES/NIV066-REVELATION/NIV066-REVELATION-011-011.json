@@ -1,0 +1,80 @@
+[
+    {
+        "name": "breath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3169157,
+        "mentions": [
+            {
+                "text": {
+                    "content": "breath",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25951767,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "terror",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18384854,
+        "mentions": [
+            {
+                "text": {
+                    "content": "terror",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.15782493,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "feet",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08189314,
+        "mentions": [
+            {
+                "text": {
+                    "content": "feet",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

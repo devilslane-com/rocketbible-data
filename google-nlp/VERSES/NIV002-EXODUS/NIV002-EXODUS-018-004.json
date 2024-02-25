@@ -1,0 +1,113 @@
+[
+    {
+        "name": "Eliezer",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.52913815,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Eliezer",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "other",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.26210868,
+        "mentions": [
+            {
+                "text": {
+                    "content": "other",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1094531,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "helper",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.037193798,
+        "mentions": [
+            {
+                "text": {
+                    "content": "helper",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.026011912,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.025172058,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Pharaoh",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharaoh",
+            "mid": "\/m\/05sx9"
+        },
+        "salience": 0.010922274,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 112
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

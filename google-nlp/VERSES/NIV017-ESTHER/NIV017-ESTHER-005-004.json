@@ -1,0 +1,83 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.41445577,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Esther",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01dpg",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Book_of_Esther"
+        },
+        "salience": 0.37776697,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Esther",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13472043,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Haman",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04742r",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Haman"
+        },
+        "salience": 0.046635076,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Haman",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "banquet",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.02642175,
+        "mentions": [
+            {
+                "text": {
+                    "content": "banquet",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

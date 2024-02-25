@@ -1,0 +1,62 @@
+[
+    {
+        "name": "birth",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.69618016,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birth",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18961085,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "womb",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06459893,
+        "mentions": [
+            {
+                "text": {
+                    "content": "womb",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04961007,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

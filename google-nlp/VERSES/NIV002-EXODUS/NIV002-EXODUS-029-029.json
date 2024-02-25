@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Aaron",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4399461,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aaron",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "descendants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4398882,
+        "mentions": [
+            {
+                "text": {
+                    "content": "descendants",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "garments",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.12016571,
+        "mentions": [
+            {
+                "text": {
+                    "content": "garments",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

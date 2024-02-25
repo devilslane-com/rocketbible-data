@@ -1,0 +1,135 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.37069362,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1659033,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11791258,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 190
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zeruiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/08jsfw",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zeruiah"
+        },
+        "salience": 0.099157356,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zeruiah",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "right",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08171208,
+        "mentions": [
+            {
+                "text": {
+                    "content": "right",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07467951,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 119
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.06508269,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 145
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 200
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.024858855,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 136
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

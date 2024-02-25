@@ -1,0 +1,142 @@
+[
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.31618008,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses",
+            "mid": "\/m\/04yfh"
+        },
+        "salience": 0.2167021,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12358767,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.103260554,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09739141,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Joshua",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/043m0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joshua"
+        },
+        "salience": 0.051112622,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joshua",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Nun",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "aide",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.045726232,
+        "mentions": [
+            {
+                "text": {
+                    "content": "aide",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.028879266,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

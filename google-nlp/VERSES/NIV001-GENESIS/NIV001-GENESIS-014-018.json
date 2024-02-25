@@ -1,0 +1,105 @@
+[
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.52740574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Melchizedek",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02fp1z",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Melchizedek"
+        },
+        "salience": 0.18593208,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Melchizedek",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "bread",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.110999346,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wine",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.0871345,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Salem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/05b1h8m",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Salem_(Bible)"
+        },
+        "salience": 0.075985566,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Salem",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God Most High",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.012542784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God Most High",
+                    "beginOffset": 76
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

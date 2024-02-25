@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Simon Peter",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saint_Peter",
+            "mid": "\/m\/071wp"
+        },
+        "salience": 0.3542745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Simon Peter",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.34441173,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30131376,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

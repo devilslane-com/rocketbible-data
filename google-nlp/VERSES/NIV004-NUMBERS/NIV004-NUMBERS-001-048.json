@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8606563,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.13934365,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

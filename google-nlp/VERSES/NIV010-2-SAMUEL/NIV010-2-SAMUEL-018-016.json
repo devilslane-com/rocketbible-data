@@ -1,0 +1,75 @@
+[
+    {
+        "name": "troops",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4981899,
+        "mentions": [
+            {
+                "text": {
+                    "content": "troops",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Joab",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joab",
+            "mid": "\/m\/0jknj"
+        },
+        "salience": 0.26499477,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joab",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Joab",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "trumpet",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16964912,
+        "mentions": [
+            {
+                "text": {
+                    "content": "trumpet",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.0671662,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

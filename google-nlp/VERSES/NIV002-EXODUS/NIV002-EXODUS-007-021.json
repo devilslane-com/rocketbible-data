@@ -1,0 +1,131 @@
+[
+    {
+        "name": "fish",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.40589845,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fish",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "river",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.2692318,
+        "mentions": [
+            {
+                "text": {
+                    "content": "river",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nile",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/05b5w",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nile"
+        },
+        "salience": 0.10456153,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nile",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egyptians",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/025tvhm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egyptians"
+        },
+        "salience": 0.075514786,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egyptians",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Blood",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04643711,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Blood",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everywhere",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.041148957,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everywhere",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.037663534,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.019543847,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 126
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

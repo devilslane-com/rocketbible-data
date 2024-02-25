@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.48224849,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "elders",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1736369,
+        "mentions": [
+            {
+                "text": {
+                    "content": "elders",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Holy Spirit",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/03qsc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Holy_Spirit"
+        },
+        "salience": 0.14780465,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Holy Spirit",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12340869,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Rulers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07290129,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rulers",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

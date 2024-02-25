@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.45690098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "flesh",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16760707,
+        "mentions": [
+            {
+                "text": {
+                    "content": "flesh",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.16617753,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hebron",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.114123784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hebron",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "blood",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09519065,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blood",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

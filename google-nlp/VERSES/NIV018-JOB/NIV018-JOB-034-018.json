@@ -1,0 +1,47 @@
+[
+    {
+        "name": "One",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8714609,
+        "mentions": [
+            {
+                "text": {
+                    "content": "One",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "kings",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09733418,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kings",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nobles",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03120492,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nobles",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

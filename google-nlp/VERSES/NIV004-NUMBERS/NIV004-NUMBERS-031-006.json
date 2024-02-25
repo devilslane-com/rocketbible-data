@@ -1,0 +1,150 @@
+[
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.49053353,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "battle",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.19316301,
+        "mentions": [
+            {
+                "text": {
+                    "content": "battle",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11197313,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tribe",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.054271784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tribe",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sanctuary",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0383742,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sanctuary",
+                    "beginOffset": 141
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Phinehas",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0grcvj",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Phinehas"
+        },
+        "salience": 0.032920796,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Phinehas",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Eleazar",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02p2_c9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Eleazar"
+        },
+        "salience": 0.032920796,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Eleazar",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "trumpets",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.027048945,
+        "mentions": [
+            {
+                "text": {
+                    "content": "trumpets",
+                    "beginOffset": 159
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "articles",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.018793814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "articles",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

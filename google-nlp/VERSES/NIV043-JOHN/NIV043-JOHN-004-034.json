@@ -1,0 +1,65 @@
+[
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.615297,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "will",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17996305,
+        "mentions": [
+            {
+                "text": {
+                    "content": "will",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.12704332,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "work",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07769661,
+        "mentions": [
+            {
+                "text": {
+                    "content": "work",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

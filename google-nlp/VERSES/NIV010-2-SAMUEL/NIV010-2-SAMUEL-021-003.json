@@ -1,0 +1,80 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.77816755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gibeonites",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02x00s",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gibeon_(ancient_city)"
+        },
+        "salience": 0.15863784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gibeonites",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "atonement",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.024098538,
+        "mentions": [
+            {
+                "text": {
+                    "content": "atonement",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.022958113,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "inheritance",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.016137945,
+        "mentions": [
+            {
+                "text": {
+                    "content": "inheritance",
+                    "beginOffset": 119
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

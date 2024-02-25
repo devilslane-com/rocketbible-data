@@ -1,0 +1,95 @@
+[
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.43099305,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "vineyard",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.14647938,
+        "mentions": [
+            {
+                "text": {
+                    "content": "vineyard",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14647938,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "field",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14471944,
+        "mentions": [
+            {
+                "text": {
+                    "content": "field",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "territory",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0711603,
+        "mentions": [
+            {
+                "text": {
+                    "content": "territory",
+                    "beginOffset": 194
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "King's Highway",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0h1f2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/King's_Highway_(Charleston_to_Boston)"
+        },
+        "salience": 0.060168438,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King\u2019s Highway",
+                    "beginOffset": 143
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

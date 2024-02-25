@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Lachish",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/013pc5",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tel_Lachish"
+        },
+        "salience": 0.7444753,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lachish",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lachish",
+                    "beginOffset": 96
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16926605,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.08625863,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

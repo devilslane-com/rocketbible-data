@@ -1,0 +1,50 @@
+[
+    {
+        "name": "crowd",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6120442,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crowd",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.34172884,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "everyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04622698,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everyone",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

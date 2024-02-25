@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Mary",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.44123822,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mary",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "angel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.41894302,
+        "mentions": [
+            {
+                "text": {
+                    "content": "angel",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "favor",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09802989,
+        "mentions": [
+            {
+                "text": {
+                    "content": "favor",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.04178887,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

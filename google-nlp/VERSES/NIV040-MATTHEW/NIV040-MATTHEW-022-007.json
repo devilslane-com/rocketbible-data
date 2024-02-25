@@ -1,0 +1,62 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.65319544,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "army",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.30417386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "army",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.026155725,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "murderers",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.01647496,
+        "mentions": [
+            {
+                "text": {
+                    "content": "murderers",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.69639534,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21494275,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.052059643,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gethsemane",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/020kxk",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gethsemane"
+        },
+        "salience": 0.036602277,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gethsemane",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

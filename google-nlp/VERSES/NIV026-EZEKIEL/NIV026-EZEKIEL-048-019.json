@@ -1,0 +1,65 @@
+[
+    {
+        "name": "workers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6171094,
+        "mentions": [
+            {
+                "text": {
+                    "content": "workers",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.22364996,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tribes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11164695,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tribes",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04fry",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kingdom_of_Israel_(Samaria)"
+        },
+        "salience": 0.047593646,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

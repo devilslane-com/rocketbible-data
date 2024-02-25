@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.45860368,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "guard",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25699648,
+        "mentions": [
+            {
+                "text": {
+                    "content": "guard",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pharisees",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/0j3fm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharisees"
+        },
+        "salience": 0.116242774,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharisees",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "yeast",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08650731,
+        "mentions": [
+            {
+                "text": {
+                    "content": "yeast",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sadducees",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/0196f4",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sadducees"
+        },
+        "salience": 0.08164976,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sadducees",
+                    "beginOffset": 97
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

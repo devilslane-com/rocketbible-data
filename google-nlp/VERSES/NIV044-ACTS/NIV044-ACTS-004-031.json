@@ -1,0 +1,68 @@
+[
+    {
+        "name": "place",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.8631412,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08143218,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.034043424,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 133
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Holy Spirit",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/03qsc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Holy_Spirit"
+        },
+        "salience": 0.021383222,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Holy Spirit",
+                    "beginOffset": 99
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

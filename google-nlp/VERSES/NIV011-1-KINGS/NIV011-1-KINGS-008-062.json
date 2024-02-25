@@ -1,0 +1,65 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.73054796,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11738807,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.10006709,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sacrifices",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.051996894,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sacrifices",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "People",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6422195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "People",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "shade",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10905009,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shade",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "grain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.075886324,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grain",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "vine",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06985881,
+        "mentions": [
+            {
+                "text": {
+                    "content": "vine",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wine",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.03750004,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 141
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fame",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0290899,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fame",
+                    "beginOffset": 119
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lebanon",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04hqz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Lebanon"
+        },
+        "salience": 0.022340788,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lebanon",
+                    "beginOffset": 149
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.014054556,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 108
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

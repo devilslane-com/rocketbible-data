@@ -1,0 +1,104 @@
+[
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.29537868,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "slavery",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29537868,
+        "mentions": [
+            {
+                "text": {
+                    "content": "slavery",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.25706717,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Aaron",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0llm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Aaron"
+        },
+        "salience": 0.059814285,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aaron",
+                    "beginOffset": 104
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses",
+            "mid": "\/m\/04yfh"
+        },
+        "salience": 0.050407283,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Miriam",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01r0xz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Miriam"
+        },
+        "salience": 0.041953884,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Miriam",
+                    "beginOffset": 114
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

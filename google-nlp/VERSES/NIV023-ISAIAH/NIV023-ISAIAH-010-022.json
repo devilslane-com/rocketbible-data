@@ -1,0 +1,95 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.45662814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16884814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sand",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "remnant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16696751,
+        "mentions": [
+            {
+                "text": {
+                    "content": "remnant",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sea",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.117330275,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sea",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.072001696,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Destruction",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.018224219,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Destruction",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

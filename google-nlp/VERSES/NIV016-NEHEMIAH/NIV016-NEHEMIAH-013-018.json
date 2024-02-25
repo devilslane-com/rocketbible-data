@@ -1,0 +1,128 @@
+[
+    {
+        "name": "ancestors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4063224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ancestors",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20867744,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "calamity",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.15083754,
+        "mentions": [
+            {
+                "text": {
+                    "content": "calamity",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10713223,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.04746113,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wrath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03957983,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wrath",
+                    "beginOffset": 139
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.023505898,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 153
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sabbath",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.016483545,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sabbath",
+                    "beginOffset": 179
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

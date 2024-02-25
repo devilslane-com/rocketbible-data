@@ -1,0 +1,113 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2995371,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22657192,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hands",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14657347,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hands",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.122577764,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Babylonians",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.099743985,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylonians",
+                    "beginOffset": 89
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Babylon",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "mid": "\/m\/01cyh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Babylon"
+        },
+        "salience": 0.07558455,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylon",
+                    "beginOffset": 131
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Nebuchadnezzar",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nebuchadnezzar_II",
+            "mid": "\/m\/0drvz"
+        },
+        "salience": 0.029411232,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nebuchadnezzar",
+                    "beginOffset": 108
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

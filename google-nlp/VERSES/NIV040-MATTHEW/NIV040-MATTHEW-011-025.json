@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.5356646,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14161357,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heaven",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07218614,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heaven",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07218614,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07133899,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07133899,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.035671555,
+        "mentions": [
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 168
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

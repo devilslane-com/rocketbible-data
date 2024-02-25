@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.840678,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sea of Galilee",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sea_of_Galilee",
+            "mid": "\/m\/0j1t3"
+        },
+        "salience": 0.10078388,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sea of Galilee",
+                    "beginOffset": 36
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mountainside",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.058538154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mountainside",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

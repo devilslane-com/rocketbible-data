@@ -1,0 +1,60 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.86233866,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ground",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0780656,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ground",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Garden of Eden",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Garden_of_Eden",
+            "mid": "\/m\/03f87"
+        },
+        "salience": 0.05959576,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Garden of Eden",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

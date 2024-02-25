@@ -1,0 +1,83 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.72511256,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Stephen",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10311782,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Stephen",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.07836908,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 121
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "words",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.058534034,
+        "mentions": [
+            {
+                "text": {
+                    "content": "words",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.034866493,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 103
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

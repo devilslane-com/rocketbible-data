@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8306693,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Job",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/04115t2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Job"
+        },
+        "salience": 0.11030519,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Job",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "storm",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.0590255,
+        "mentions": [
+            {
+                "text": {
+                    "content": "storm",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

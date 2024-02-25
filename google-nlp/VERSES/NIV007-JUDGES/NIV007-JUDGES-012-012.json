@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Elon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5945238,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Elon",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Aijalon",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0hy72",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ayalon_Valley"
+        },
+        "salience": 0.18150876,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aijalon",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Zebulun",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0h_40",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tribe_of_Zebulun"
+        },
+        "salience": 0.12795423,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zebulun",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.096013226,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

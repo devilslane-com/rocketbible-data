@@ -1,0 +1,75 @@
+[
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.8858772,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "testimony",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.051542174,
+        "mentions": [
+            {
+                "text": {
+                    "content": "testimony",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.04076931,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.021811334,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

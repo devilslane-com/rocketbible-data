@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3603347,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 112
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "commands",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2739865,
+        "mentions": [
+            {
+                "text": {
+                    "content": "commands",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "decrees",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2739865,
+        "mentions": [
+            {
+                "text": {
+                    "content": "decrees",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "laws",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.091692336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "laws",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

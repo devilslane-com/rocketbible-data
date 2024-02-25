@@ -1,0 +1,135 @@
+[
+    {
+        "name": "Cornelius",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.57057244,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cornelius",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.32429972,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "centurion",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.047223825,
+        "mentions": [
+            {
+                "text": {
+                    "content": "centurion",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.014552742,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 137
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "angel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.014481062,
+        "mentions": [
+            {
+                "text": {
+                    "content": "angel",
+                    "beginOffset": 152
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.010938985,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 193
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.0092944475,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 85
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jewish",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/03_gx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judaism"
+        },
+        "salience": 0.008636767,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jewish",
+                    "beginOffset": 130
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

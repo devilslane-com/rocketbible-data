@@ -1,0 +1,65 @@
+[
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46897814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ransom",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23110478,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ransom",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.19634843,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "pit",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10356867,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pit",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

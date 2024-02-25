@@ -1,0 +1,50 @@
+[
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.6825202,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2201853,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Solomon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070h3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Solomon"
+        },
+        "salience": 0.09729451,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

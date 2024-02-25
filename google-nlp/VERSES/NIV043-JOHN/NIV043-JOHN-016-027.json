@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.93703055,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.06296945,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 94
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

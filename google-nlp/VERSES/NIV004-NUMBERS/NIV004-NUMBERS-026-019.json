@@ -1,0 +1,86 @@
+[
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.38076243,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Er",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2854151,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Er",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Onan",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Onan",
+            "mid": "\/m\/0jhtk"
+        },
+        "salience": 0.15277055,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Onan",
+                    "beginOffset": 7
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01db4k",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judah_(son_of_Jacob)"
+        },
+        "salience": 0.106453724,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Canaan",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0d9f2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Canaan"
+        },
+        "salience": 0.07459818,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Canaan",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

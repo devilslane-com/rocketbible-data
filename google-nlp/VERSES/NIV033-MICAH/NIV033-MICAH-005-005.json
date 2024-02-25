@@ -1,0 +1,87 @@
+[
+    {
+        "name": "peace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.7594762,
+        "mentions": [
+            {
+                "text": {
+                    "content": "peace",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07019207,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fortresses",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06536838,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fortresses",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "commanders",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06284517,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shepherds",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "commanders",
+                    "beginOffset": 149
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Assyrians",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0wmn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Assyria"
+        },
+        "salience": 0.042118214,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Assyrians",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Rachel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.86992705,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rachel",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "shepherd",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09692528,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sheep",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.033147655,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sheep",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

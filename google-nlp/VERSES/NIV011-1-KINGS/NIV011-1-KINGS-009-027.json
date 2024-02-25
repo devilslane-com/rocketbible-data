@@ -1,0 +1,99 @@
+[
+    {
+        "name": "sailors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.55304176,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "sailors",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hiram",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3062123,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hiram",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sea",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.070176445,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sea",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.030627163,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Solomon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.022879513,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 79
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "fleet",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.017062848,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fleet",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

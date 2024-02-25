@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Caesar",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.80502754,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Caesar",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Caesar",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/024c73",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Caesar_(title)"
+        },
+        "salience": 0.11531876,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Caesar",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Caesar",
+                    "beginOffset": 88
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.07965369,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 107
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 119
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

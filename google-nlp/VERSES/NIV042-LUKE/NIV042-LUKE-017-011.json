@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.638878,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1677415,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.070687756,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Samaria",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Samaria",
+            "mid": "\/m\/070j2"
+        },
+        "salience": 0.050032057,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samaria",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "border",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.03736905,
+        "mentions": [
+            {
+                "text": {
+                    "content": "border",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Galilee",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Galilee",
+            "mid": "\/m\/039yt"
+        },
+        "salience": 0.035291675,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Galilee",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

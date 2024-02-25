@@ -1,0 +1,50 @@
+[
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.80035317,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "famine",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15620914,
+        "mentions": [
+            {
+                "text": {
+                    "content": "famine",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.043437656,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 95
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

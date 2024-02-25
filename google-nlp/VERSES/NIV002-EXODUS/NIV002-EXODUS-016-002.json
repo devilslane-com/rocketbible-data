@@ -1,0 +1,68 @@
+[
+    {
+        "name": "desert",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.4616089,
+        "mentions": [
+            {
+                "text": {
+                    "content": "desert",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "community",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.33024725,
+        "mentions": [
+            {
+                "text": {
+                    "content": "community",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Aaron",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0llm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Aaron"
+        },
+        "salience": 0.14360107,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aaron",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.06454279,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

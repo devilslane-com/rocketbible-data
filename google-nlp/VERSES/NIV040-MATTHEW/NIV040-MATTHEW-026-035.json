@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.91958475,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.045764882,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "same",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.034650367,
+        "mentions": [
+            {
+                "text": {
+                    "content": "same",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

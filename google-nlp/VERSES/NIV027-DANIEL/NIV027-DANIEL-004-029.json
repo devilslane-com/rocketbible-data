@@ -1,0 +1,65 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.33679312,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "roof",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.31509563,
+        "mentions": [
+            {
+                "text": {
+                    "content": "roof",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "palace",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.24309689,
+        "mentions": [
+            {
+                "text": {
+                    "content": "palace",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Babylon",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "mid": "\/m\/01cyh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Babylon"
+        },
+        "salience": 0.105014354,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylon",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Dan",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.47389835,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Dan",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Dan",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "cub",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23579137,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cub",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lion",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20346938,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lion",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Bashan",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01tw_n",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Bashan"
+        },
+        "salience": 0.08684092,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bashan",
+                    "beginOffset": 62
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

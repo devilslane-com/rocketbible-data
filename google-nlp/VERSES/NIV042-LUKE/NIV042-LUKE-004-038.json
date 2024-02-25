@@ -1,0 +1,109 @@
+[
+    {
+        "name": "mother-in-law",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3106256,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother-in-law",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.23868799,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 132
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "synagogue",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.23688786,
+        "mentions": [
+            {
+                "text": {
+                    "content": "synagogue",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.13079609,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Simon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06922806,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Simon",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Simon",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "fever",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.013774391,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fever",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

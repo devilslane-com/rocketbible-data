@@ -1,0 +1,98 @@
+[
+    {
+        "name": "messengers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.23495704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "messengers",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "crime",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20681463,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crime",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tribes",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20535505,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tribes",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kingdom_of_Israel_(Samaria)",
+            "mid": "\/m\/04fry"
+        },
+        "salience": 0.19596247,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "tribe",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10190682,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tribe",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Benjamin",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01czh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Benjamin"
+        },
+        "salience": 0.05500399,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Benjamin",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

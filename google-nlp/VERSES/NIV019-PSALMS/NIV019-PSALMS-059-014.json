@@ -1,0 +1,47 @@
+[
+    {
+        "name": "dogs",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.4901601,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dogs",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.34990883,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prowl",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15993106,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prowl",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

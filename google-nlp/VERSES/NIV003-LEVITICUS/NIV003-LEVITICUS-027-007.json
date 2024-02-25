@@ -1,0 +1,62 @@
+[
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5309633,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "value",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17772192,
+        "mentions": [
+            {
+                "text": {
+                    "content": "value",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "male",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16444509,
+        "mentions": [
+            {
+                "text": {
+                    "content": "male",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "female",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1268697,
+        "mentions": [
+            {
+                "text": {
+                    "content": "female",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

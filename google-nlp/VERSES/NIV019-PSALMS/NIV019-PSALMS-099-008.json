@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.551512,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.2604704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 9
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.10318071,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "misdeeds",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08483692,
+        "mentions": [
+            {
+                "text": {
+                    "content": "misdeeds",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

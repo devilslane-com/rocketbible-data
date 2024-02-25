@@ -1,0 +1,80 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.42541313,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.31754738,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12874362,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abner",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "oath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07335832,
+        "mentions": [
+            {
+                "text": {
+                    "content": "oath",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.054937545,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

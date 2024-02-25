@@ -1,0 +1,113 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.32851717,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "treasurer",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25876576,
+        "mentions": [
+            {
+                "text": {
+                    "content": "treasurer",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Cyrus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03d0c1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cyrus_the_Great"
+        },
+        "salience": 0.19296964,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cyrus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Persia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01lzsb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Achaemenid_Empire"
+        },
+        "salience": 0.07772449,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Persia",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "prince",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06257044,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prince",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mithredath",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.053096276,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mithredath",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.026356248,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 117
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

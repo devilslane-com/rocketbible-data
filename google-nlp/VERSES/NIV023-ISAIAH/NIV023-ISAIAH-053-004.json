@@ -1,0 +1,50 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.4618182,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 85
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "pain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.27367327,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pain",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "suffering",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.26450855,
+        "mentions": [
+            {
+                "text": {
+                    "content": "suffering",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

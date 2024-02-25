@@ -1,0 +1,95 @@
+[
+    {
+        "name": "room",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.5948111,
+        "mentions": [
+            {
+                "text": {
+                    "content": "room",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "revenge",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21248399,
+        "mentions": [
+            {
+                "text": {
+                    "content": "revenge",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "friends",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.078691,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friends",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wrath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.054759886,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wrath",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.032518353,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.026735675,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 142
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.31274614,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kings",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19792672,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kings",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1896868,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hands",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13209882,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hands",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.11238853,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Moab",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moab,_Utah",
+            "mid": "\/m\/010f5z"
+        },
+        "salience": 0.055152997,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moab",
+                    "beginOffset": 126
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

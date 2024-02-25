@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Jonathan",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.72577244,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jonathan",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "permission",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13566427,
+        "mentions": [
+            {
+                "text": {
+                    "content": "permission",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07540672,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Bethlehem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01cy_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Bethlehem"
+        },
+        "salience": 0.06315659,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bethlehem",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

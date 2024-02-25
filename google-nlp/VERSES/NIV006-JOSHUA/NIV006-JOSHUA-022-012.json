@@ -1,0 +1,65 @@
+[
+    {
+        "name": "assembly",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.4804812,
+        "mentions": [
+            {
+                "text": {
+                    "content": "assembly",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Shiloh",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.20661403,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shiloh",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.20421644,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "war",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.10868831,
+        "mentions": [
+            {
+                "text": {
+                    "content": "war",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

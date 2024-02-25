@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.53737336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 132
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "crowd",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21402577,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crowd",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10145621,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "search",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.07196161,
+        "mentions": [
+            {
+                "text": {
+                    "content": "search",
+                    "beginOffset": 122
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Capernaum",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01yrdx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Capernaum"
+        },
+        "salience": 0.043075886,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Capernaum",
+                    "beginOffset": 109
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "boats",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.032107156,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boats",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

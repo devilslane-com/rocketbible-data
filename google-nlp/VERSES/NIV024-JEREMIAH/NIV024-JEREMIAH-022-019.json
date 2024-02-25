@@ -1,0 +1,65 @@
+[
+    {
+        "name": "burial",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.44454697,
+        "mentions": [
+            {
+                "text": {
+                    "content": "burial",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "donkey",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.31546327,
+        "mentions": [
+            {
+                "text": {
+                    "content": "donkey",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.13722955,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "gates",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.102760226,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gates",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "name": "all",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.43423647,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "centurion",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3560619,
+        "mentions": [
+            {
+                "text": {
+                    "content": "centurion",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earthquake",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.10170526,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earthquake",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.061113384,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Son of God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Son_of_God",
+            "mid": "\/m\/06_5d"
+        },
+        "salience": 0.046882987,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son of God",
+                    "beginOffset": 165
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Rabbi",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0djbw",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Rabbi"
+        },
+        "salience": 0.75838387,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rabbi",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18376444,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "parents",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05785167,
+        "mentions": [
+            {
+                "text": {
+                    "content": "parents",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

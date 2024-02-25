@@ -1,0 +1,50 @@
+[
+    {
+        "name": "interest",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.6473983,
+        "mentions": [
+            {
+                "text": {
+                    "content": "interest",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "profit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2532219,
+        "mentions": [
+            {
+                "text": {
+                    "content": "profit",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.09937979,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

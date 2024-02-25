@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Sarah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6814213,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sarah",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "everyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1633046,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everyone",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "laughter",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10529004,
+        "mentions": [
+            {
+                "text": {
+                    "content": "laughter",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.049984045,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Jacob",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7032368,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Pharaoh",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharaoh",
+            "mid": "\/m\/05sx9"
+        },
+        "salience": 0.16364253,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "pilgrimage",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.0850994,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pilgrimage",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pilgrimage",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.029658519,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pilgrimage",
+                    "beginOffset": 160
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fathers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.01836275,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fathers",
+                    "beginOffset": 177
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

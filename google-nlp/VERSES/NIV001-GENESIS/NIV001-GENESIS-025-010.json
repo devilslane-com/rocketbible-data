@@ -1,0 +1,85 @@
+[
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pwb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam"
+        },
+        "salience": 0.6877017,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 10
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "field",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.22956552,
+        "mentions": [
+            {
+                "text": {
+                    "content": "field",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hittites",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03gsz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hittites"
+        },
+        "salience": 0.041655015,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hittites",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sarah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01b5wx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sarah"
+        },
+        "salience": 0.041077755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Sarah",
+                    "beginOffset": 87
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "officials",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.83763593,
+        "mentions": [
+            {
+                "text": {
+                    "content": "officials",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09513387,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.048054483,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "posts",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.019175716,
+        "mentions": [
+            {
+                "text": {
+                    "content": "posts",
+                    "beginOffset": 140
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

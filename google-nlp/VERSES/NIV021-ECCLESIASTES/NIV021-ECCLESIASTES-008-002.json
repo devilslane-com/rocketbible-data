@@ -1,0 +1,65 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5619225,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "command",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24880113,
+        "mentions": [
+            {
+                "text": {
+                    "content": "command",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "oath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13633046,
+        "mentions": [
+            {
+                "text": {
+                    "content": "oath",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.05294592,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

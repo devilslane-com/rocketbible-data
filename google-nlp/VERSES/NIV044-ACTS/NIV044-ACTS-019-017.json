@@ -1,0 +1,126 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.26401094,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 122
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fear",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1604378,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fear",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/041rx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews"
+        },
+        "salience": 0.15170811,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Greeks",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0jt85pd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Greeks"
+        },
+        "salience": 0.15170811,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Greeks",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ephesus",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02p8r",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ephesus"
+        },
+        "salience": 0.10363705,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ephesus",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "honor",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08627807,
+        "mentions": [
+            {
+                "text": {
+                    "content": "honor",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0822199,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

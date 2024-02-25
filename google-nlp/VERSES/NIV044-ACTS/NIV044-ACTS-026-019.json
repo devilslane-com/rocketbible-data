@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Agrippa",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7613903,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Agrippa",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "vision",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1393171,
+        "mentions": [
+            {
+                "text": {
+                    "content": "vision",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heaven",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09929259,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heaven",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

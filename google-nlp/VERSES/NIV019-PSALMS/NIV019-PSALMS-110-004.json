@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5273986,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2701422,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mind",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.100427665,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mind",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "order",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07162474,
+        "mentions": [
+            {
+                "text": {
+                    "content": "order",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Melchizedek",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/02fp1z",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Melchizedek"
+        },
+        "salience": 0.030406842,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Melchizedek",
+                    "beginOffset": 94
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

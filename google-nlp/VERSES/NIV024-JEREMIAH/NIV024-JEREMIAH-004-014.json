@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.4410179,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "evil",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.298704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "evil",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heart",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.208478,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heart",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "thoughts",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05180009,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thoughts",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

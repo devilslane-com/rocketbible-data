@@ -1,0 +1,47 @@
+[
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8026843,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disease",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11031635,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disease",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "body",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.086999334,
+        "mentions": [
+            {
+                "text": {
+                    "content": "body",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

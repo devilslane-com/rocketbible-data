@@ -1,0 +1,62 @@
+[
+    {
+        "name": "buyer",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3209779,
+        "mentions": [
+            {
+                "text": {
+                    "content": "buyer",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "seller",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.29551122,
+        "mentions": [
+            {
+                "text": {
+                    "content": "seller",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wrath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22480038,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wrath",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "crowd",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15871052,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crowd",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

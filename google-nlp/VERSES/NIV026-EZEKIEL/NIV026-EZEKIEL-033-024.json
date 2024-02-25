@@ -1,0 +1,157 @@
+[
+    {
+        "name": "Son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24369831,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2026536,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.16138968,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 132
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 166
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15481366,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pwb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam"
+        },
+        "salience": 0.10189526,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 85
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ruins",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.055980578,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ruins",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.04745974,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.02290884,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "possession",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009200321,
+        "mentions": [
+            {
+                "text": {
+                    "content": "possession",
+                    "beginOffset": 199
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

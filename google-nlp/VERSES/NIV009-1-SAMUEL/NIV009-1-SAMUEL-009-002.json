@@ -1,0 +1,117 @@
+[
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6647544,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Kish",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12566848,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Kish",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06469445,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "anywhere",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.04990353,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anywhere",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "head",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.038030453,
+        "mentions": [
+            {
+                "text": {
+                    "content": "head",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.03005393,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.026894772,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 119
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

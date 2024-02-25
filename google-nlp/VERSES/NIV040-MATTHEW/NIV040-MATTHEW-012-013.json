@@ -1,0 +1,47 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5369804,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3718589,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "other",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09116072,
+        "mentions": [
+            {
+                "text": {
+                    "content": "other",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

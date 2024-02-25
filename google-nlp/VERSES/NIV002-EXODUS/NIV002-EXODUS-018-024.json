@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.816656,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father-in-law",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1382952,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father-in-law",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.045048814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

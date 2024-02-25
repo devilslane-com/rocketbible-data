@@ -1,0 +1,110 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3761072,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.2048527,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "kingdom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.111625165,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdom",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "parable",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.099311024,
+        "mentions": [
+            {
+                "text": {
+                    "content": "parable",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heaven",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09475564,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heaven",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "seed",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06642352,
+        "mentions": [
+            {
+                "text": {
+                    "content": "seed",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "field",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.046924774,
+        "mentions": [
+            {
+                "text": {
+                    "content": "field",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

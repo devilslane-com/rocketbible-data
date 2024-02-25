@@ -1,0 +1,101 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.5138022,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "promise",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14895503,
+        "mentions": [
+            {
+                "text": {
+                    "content": "promise",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "number",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13729273,
+        "mentions": [
+            {
+                "text": {
+                    "content": "number",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pwb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam"
+        },
+        "salience": 0.09008025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.06291682,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 96
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.046952993,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

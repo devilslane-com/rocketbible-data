@@ -1,0 +1,77 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.43240842,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22437346,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15772256,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "behalf",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11119749,
+        "mentions": [
+            {
+                "text": {
+                    "content": "behalf",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "order",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07429808,
+        "mentions": [
+            {
+                "text": {
+                    "content": "order",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

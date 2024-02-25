@@ -1,0 +1,32 @@
+[
+    {
+        "name": "enemy",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7801583,
+        "mentions": [
+            {
+                "text": {
+                    "content": "enemy",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "foe",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21984175,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foe",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

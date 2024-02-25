@@ -1,0 +1,101 @@
+[
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.46293637,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "half",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15512887,
+        "mentions": [
+            {
+                "text": {
+                    "content": "half",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "half",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14473023,
+        "mentions": [
+            {
+                "text": {
+                    "content": "half",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Dead Sea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02cnp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Dead_Sea"
+        },
+        "salience": 0.087612696,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Dead Sea",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.08300699,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Mediterranean Sea",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mediterranean_Sea",
+            "mid": "\/m\/04swx"
+        },
+        "salience": 0.06658484,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mediterranean Sea",
+                    "beginOffset": 114
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

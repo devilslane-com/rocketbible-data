@@ -1,0 +1,50 @@
+[
+    {
+        "name": "cloak",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5120593,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cloak",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "feet",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.33365604,
+        "mentions": [
+            {
+                "text": {
+                    "content": "feet",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.15428472,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

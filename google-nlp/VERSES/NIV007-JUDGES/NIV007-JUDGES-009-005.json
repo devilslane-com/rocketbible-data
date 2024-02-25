@@ -1,0 +1,137 @@
+[
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.31010598,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.27632296,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1270698,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerub-Baal",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0jq6h",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gideon"
+        },
+        "salience": 0.093225814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerub-Baal",
+                    "beginOffset": 101
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jerub-Baal",
+                    "beginOffset": 145
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "stone",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.087128505,
+        "mentions": [
+            {
+                "text": {
+                    "content": "stone",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ophrah",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0j3sm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ophrah"
+        },
+        "salience": 0.07666824,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ophrah",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jotham",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0119rys5",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jotham"
+        },
+        "salience": 0.029478673,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jotham",
+                    "beginOffset": 117
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 138
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

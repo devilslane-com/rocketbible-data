@@ -1,0 +1,120 @@
+[
+    {
+        "name": "Simon Peter",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/071wp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saint_Peter"
+        },
+        "salience": 0.48257926,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Simon Peter",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "disciple",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17381783,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciple",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.16083057,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 120
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "disciple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0594766,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciple",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "high priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05534986,
+        "mentions": [
+            {
+                "text": {
+                    "content": "high priest",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "high priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.041964207,
+        "mentions": [
+            {
+                "text": {
+                    "content": "high priest",
+                    "beginOffset": 135
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "courtyard",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.025981681,
+        "mentions": [
+            {
+                "text": {
+                    "content": "courtyard",
+                    "beginOffset": 151
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

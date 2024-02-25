@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.6405794,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israelites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.3594206,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

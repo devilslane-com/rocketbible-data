@@ -1,0 +1,102 @@
+[
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.50463784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam",
+            "mid": "\/m\/0pwb"
+        },
+        "salience": 0.31497046,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "master",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08009138,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "thigh",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05518472,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thigh",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "matter",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.027651666,
+        "mentions": [
+            {
+                "text": {
+                    "content": "matter",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "oath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.017463932,
+        "mentions": [
+            {
+                "text": {
+                    "content": "oath",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

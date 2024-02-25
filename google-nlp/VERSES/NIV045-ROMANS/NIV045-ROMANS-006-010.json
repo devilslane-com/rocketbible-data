@@ -1,0 +1,65 @@
+[
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.5955538,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17869288,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17256509,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.053188212,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

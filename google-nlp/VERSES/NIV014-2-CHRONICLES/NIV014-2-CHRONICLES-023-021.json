@@ -1,0 +1,80 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.49062732,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.22244556,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.17662896,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.079906136,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Athaliah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/023bsx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Athaliah"
+        },
+        "salience": 0.030392025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Athaliah",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

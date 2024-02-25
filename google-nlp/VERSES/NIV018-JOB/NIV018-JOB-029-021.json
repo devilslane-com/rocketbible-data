@@ -1,0 +1,47 @@
+[
+    {
+        "name": "People",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.71026886,
+        "mentions": [
+            {
+                "text": {
+                    "content": "People",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "counsel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19930735,
+        "mentions": [
+            {
+                "text": {
+                    "content": "counsel",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "silence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0904238,
+        "mentions": [
+            {
+                "text": {
+                    "content": "silence",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

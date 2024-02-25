@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Pharaoh",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05sx9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharaoh"
+        },
+        "salience": 0.75370896,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 10
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "army",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.13030936,
+        "mentions": [
+            {
+                "text": {
+                    "content": "army",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Red Sea",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Red_Sea",
+            "mid": "\/m\/06jfd"
+        },
+        "salience": 0.07391891,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Red Sea",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "love",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.042062804,
+        "mentions": [
+            {
+                "text": {
+                    "content": "love",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

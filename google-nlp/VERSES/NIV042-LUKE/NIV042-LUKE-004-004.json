@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.5790065,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.32082564,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Man",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bread",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10016788,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

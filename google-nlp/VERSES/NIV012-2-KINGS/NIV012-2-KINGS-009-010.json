@@ -1,0 +1,110 @@
+[
+    {
+        "name": "no one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.43801898,
+        "mentions": [
+            {
+                "text": {
+                    "content": "no one",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dogs",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2224692,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dogs",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jezebel",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.140456,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jezebel",
+                    "beginOffset": 7
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "plot",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06420936,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plot",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ground",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06420936,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ground",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jezreel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0ch2_dr",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jezreel_(city)"
+        },
+        "salience": 0.03911272,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jezreel",
+                    "beginOffset": 62
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "door",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03152441,
+        "mentions": [
+            {
+                "text": {
+                    "content": "door",
+                    "beginOffset": 122
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

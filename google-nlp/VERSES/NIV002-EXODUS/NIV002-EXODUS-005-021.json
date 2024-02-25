@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3080589,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pharaoh",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharaoh",
+            "mid": "\/m\/05sx9"
+        },
+        "salience": 0.2897146,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 88
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "officials",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25372976,
+        "mentions": [
+            {
+                "text": {
+                    "content": "officials",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07424837,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 129
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07424837,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 144
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

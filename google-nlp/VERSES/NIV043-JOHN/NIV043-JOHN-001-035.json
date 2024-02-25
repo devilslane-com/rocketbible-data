@@ -1,0 +1,47 @@
+[
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7862158,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "two",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12089329,
+        "mentions": [
+            {
+                "text": {
+                    "content": "two",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09289095,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

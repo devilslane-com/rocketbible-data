@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Hagar",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01sq9c",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hagar"
+        },
+        "salience": 0.85708207,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hagar",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "slave",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sarai",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12509632,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sarai",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Sarai",
+                    "beginOffset": 132
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mistress",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.017821632,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mistress",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

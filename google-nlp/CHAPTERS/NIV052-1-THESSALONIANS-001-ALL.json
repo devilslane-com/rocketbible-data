@@ -1,0 +1,831 @@
+[
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.31081897,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 91
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 352
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 347
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 1198
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God the Father",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.24492988,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God the Father",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 145
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 231
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 409
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 906
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 1081
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 1125
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "church",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0477815,
+        "mentions": [
+            {
+                "text": {
+                    "content": "church",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "peace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0477815,
+        "mentions": [
+            {
+                "text": {
+                    "content": "peace",
+                    "beginOffset": 115
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Silas",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.028407687,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Silas",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Timothy",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.028407687,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Timothy",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Thessalonians",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02q2v",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/First_Epistle_to_the_Thessalonians"
+        },
+        "salience": 0.028407687,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Thessalonians",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Grace",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0bh7h21",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Grace_in_Christianity"
+        },
+        "salience": 0.028407687,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Grace",
+                    "beginOffset": 105
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.028407687,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "endurance",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.011571671,
+        "mentions": [
+            {
+                "text": {
+                    "content": "endurance",
+                    "beginOffset": 313
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009980394,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 153
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "faith",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009930832,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faith",
+                    "beginOffset": 268
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.009131941,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 379
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prayers",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.008768486,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prayers",
+                    "beginOffset": 199
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "love",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.008724925,
+        "mentions": [
+            {
+                "text": {
+                    "content": "love",
+                    "beginOffset": 298
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "work",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.008724925,
+        "mentions": [
+            {
+                "text": {
+                    "content": "work",
+                    "beginOffset": 251
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.007268135,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 639
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0072553954,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son",
+                    "beginOffset": 1150
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gospel",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0067999386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gospel",
+                    "beginOffset": 450
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "message",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.006173454,
+        "mentions": [
+            {
+                "text": {
+                    "content": "message",
+                    "beginOffset": 666
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "words",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0059399353,
+        "mentions": [
+            {
+                "text": {
+                    "content": "words",
+                    "beginOffset": 485
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "power",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0059399353,
+        "mentions": [
+            {
+                "text": {
+                    "content": "power",
+                    "beginOffset": 505
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "conviction",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0059399353,
+        "mentions": [
+            {
+                "text": {
+                    "content": "conviction",
+                    "beginOffset": 542
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sake",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0059236623,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sake",
+                    "beginOffset": 595
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "imitators",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0059103994,
+        "mentions": [
+            {
+                "text": {
+                    "content": "imitators",
+                    "beginOffset": 612
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hope",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0058881445,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hope",
+                    "beginOffset": 335
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sisters",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.005867356,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sisters",
+                    "beginOffset": 392
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "midst",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.005422991,
+        "mentions": [
+            {
+                "text": {
+                    "content": "midst",
+                    "beginOffset": 681
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "suffering",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.005422991,
+        "mentions": [
+            {
+                "text": {
+                    "content": "suffering",
+                    "beginOffset": 697
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "joy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.005422991,
+        "mentions": [
+            {
+                "text": {
+                    "content": "joy",
+                    "beginOffset": 716
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "model",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0054127215,
+        "mentions": [
+            {
+                "text": {
+                    "content": "model",
+                    "beginOffset": 766
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "labor",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0045480696,
+        "mentions": [
+            {
+                "text": {
+                    "content": "labor",
+                    "beginOffset": 280
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Holy Spirit",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/03qsc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Holy_Spirit"
+        },
+        "salience": 0.004298437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Holy Spirit",
+                    "beginOffset": 521
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Holy Spirit",
+                    "beginOffset": 733
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "reception",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.0040665055,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reception",
+                    "beginOffset": 1030
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0040665055,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anything",
+                    "beginOffset": 971
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kind",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0040665055,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kind",
+                    "beginOffset": 1022
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "idols",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0040612384,
+        "mentions": [
+            {
+                "text": {
+                    "content": "idols",
+                    "beginOffset": 1090
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0028424459,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 1191
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heaven",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0028424459,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heaven",
+                    "beginOffset": 1159
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wrath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0028424459,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wrath",
+                    "beginOffset": 1236
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "living",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0028424459,
+        "mentions": [
+            {
+                "text": {
+                    "content": "living",
+                    "beginOffset": 1109
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0023939258,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 822
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "faith",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0020328755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faith",
+                    "beginOffset": 897
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "message",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0020328755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "message",
+                    "beginOffset": 831
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "believers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0017883943,
+        "mentions": [
+            {
+                "text": {
+                    "content": "believers",
+                    "beginOffset": 783
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everywhere",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0017854568,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everywhere",
+                    "beginOffset": 927
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Achaia",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.001358993,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Achaia",
+                    "beginOffset": 810
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Achaia",
+                    "beginOffset": 883
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Macedonia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0bjv6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Republic_of_Macedonia"
+        },
+        "salience": 0.001358993,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Macedonia",
+                    "beginOffset": 796
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Macedonia",
+                    "beginOffset": 869
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

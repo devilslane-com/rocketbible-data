@@ -1,0 +1,47 @@
+[
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.42235693,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lawsuit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.32780895,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lawsuit",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "favoritism",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24983415,
+        "mentions": [
+            {
+                "text": {
+                    "content": "favoritism",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

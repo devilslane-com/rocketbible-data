@@ -1,0 +1,155 @@
+[
+    {
+        "name": "many",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.50882846,
+        "mentions": [
+            {
+                "text": {
+                    "content": "many",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "places",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10087512,
+        "mentions": [
+            {
+                "text": {
+                    "content": "places",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "east",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09506125,
+        "mentions": [
+            {
+                "text": {
+                    "content": "east",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "west",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09506125,
+        "mentions": [
+            {
+                "text": {
+                    "content": "west",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kingdom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.04737833,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdom",
+                    "beginOffset": 138
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heaven",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04737833,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heaven",
+                    "beginOffset": 149
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jacob",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0jt0lm_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jacob_in_Islam"
+        },
+        "salience": 0.040112272,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 125
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "feast",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.029863648,
+        "mentions": [
+            {
+                "text": {
+                    "content": "feast",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.017720679,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 106
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Isaac",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.017720679,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Isaac",
+                    "beginOffset": 115
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

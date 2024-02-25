@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam",
+            "mid": "\/m\/0pwb"
+        },
+        "salience": 0.72213244,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "servants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22025932,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servants",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Beersheba",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01tdm6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Beersheba"
+        },
+        "salience": 0.057608236,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Beersheba",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Beersheba",
+                    "beginOffset": 102
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

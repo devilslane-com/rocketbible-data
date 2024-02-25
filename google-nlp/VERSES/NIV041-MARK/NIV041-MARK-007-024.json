@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.66316557,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15735042,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "vicinity",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08645046,
+        "mentions": [
+            {
+                "text": {
+                    "content": "vicinity",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Tyre",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.035724882,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Tyre",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.02948094,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.014761488,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "presence secret",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.01306625,
+        "mentions": [
+            {
+                "text": {
+                    "content": "presence secret",
+                    "beginOffset": 137
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

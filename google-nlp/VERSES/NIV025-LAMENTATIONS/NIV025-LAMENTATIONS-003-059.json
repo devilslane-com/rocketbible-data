@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7034925,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wrong",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2198937,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wrong",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cause",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07661376,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cause",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

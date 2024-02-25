@@ -1,0 +1,62 @@
+[
+    {
+        "name": "place",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.57878,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "horses",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19493368,
+        "mentions": [
+            {
+                "text": {
+                    "content": "horses",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "palace grounds",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1471526,
+        "mentions": [
+            {
+                "text": {
+                    "content": "palace grounds",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.079133734,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

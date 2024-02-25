@@ -1,0 +1,62 @@
+[
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3120386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rebuke",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.30854386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rebuke",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "song",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.22153062,
+        "mentions": [
+            {
+                "text": {
+                    "content": "song",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fools",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15788692,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fools",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

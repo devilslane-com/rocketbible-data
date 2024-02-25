@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Sovereign",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.78713036,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Sovereign",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.1029303,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "covenant",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.054926127,
+        "mentions": [
+            {
+                "text": {
+                    "content": "covenant",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03230505,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.022708187,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

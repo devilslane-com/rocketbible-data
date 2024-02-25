@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.502084,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30807415,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.068948716,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.048406634,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sodom",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0jhj2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sodom_and_Gomorrah"
+        },
+        "salience": 0.038253807,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sodom",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sake",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03423271,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sake",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

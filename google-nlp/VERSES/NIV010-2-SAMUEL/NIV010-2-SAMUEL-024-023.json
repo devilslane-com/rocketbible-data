@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Majesty",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.45416373,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Majesty",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2763214,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Araunah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d8myn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Araunah"
+        },
+        "salience": 0.23888718,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Araunah",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Araunah",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.017569005,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 100
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.013058689,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "case",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.7450664,
+        "mentions": [
+            {
+                "text": {
+                    "content": "case",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prophet",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17802803,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.07690554,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 105
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

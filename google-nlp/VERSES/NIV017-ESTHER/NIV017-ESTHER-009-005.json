@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/041rx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews"
+        },
+        "salience": 0.8693983,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "enemies",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.077383585,
+        "mentions": [
+            {
+                "text": {
+                    "content": "enemies",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.053218108,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.64081466,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12760323,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "are",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08879719,
+        "mentions": [
+            {
+                "text": {
+                    "content": "are",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "family",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08174419,
+        "mentions": [
+            {
+                "text": {
+                    "content": "family",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.030262738,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 124
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sisters",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.021263454,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sisters",
+                    "beginOffset": 137
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.009514534,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 90
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

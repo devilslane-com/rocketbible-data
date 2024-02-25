@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.5224551,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.32515824,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "countryside",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.12037262,
+        "mentions": [
+            {
+                "text": {
+                    "content": "countryside",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judean",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judea",
+            "mid": "\/m\/0kf0p"
+        },
+        "salience": 0.032014053,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judean",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

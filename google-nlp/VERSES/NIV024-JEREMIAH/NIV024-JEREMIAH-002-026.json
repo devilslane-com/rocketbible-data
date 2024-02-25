@@ -1,0 +1,110 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4671388,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "thief",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40184888,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thief",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "officials",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.032695375,
+        "mentions": [
+            {
+                "text": {
+                    "content": "officials",
+                    "beginOffset": 115
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.032695375,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 132
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.028048998,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "prophets",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.023046093,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophets",
+                    "beginOffset": 150
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kings",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.014526482,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kings",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

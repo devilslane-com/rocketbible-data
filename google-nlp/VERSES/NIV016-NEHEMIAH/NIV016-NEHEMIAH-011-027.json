@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Beersheba",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01tdm6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Beersheba"
+        },
+        "salience": 0.6494495,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Beersheba",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hazar Shual",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19330905,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hazar Shual",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "settlements",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1572414,
+        "mentions": [
+            {
+                "text": {
+                    "content": "settlements",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6665759,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "command",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20279408,
+        "mentions": [
+            {
+                "text": {
+                    "content": "command",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06421848,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.041088548,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "obedience",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02532297,
+        "mentions": [
+            {
+                "text": {
+                    "content": "obedience",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

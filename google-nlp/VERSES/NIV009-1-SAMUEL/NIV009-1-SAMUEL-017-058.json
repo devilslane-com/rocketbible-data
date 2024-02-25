@@ -1,0 +1,94 @@
+[
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7999105,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David",
+            "mid": "\/m\/02cvn"
+        },
+        "salience": 0.15497935,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.019522455,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.013993916,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 36
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesse of Bethlehem",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.0115938,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesse of Bethlehem",
+                    "beginOffset": 96
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

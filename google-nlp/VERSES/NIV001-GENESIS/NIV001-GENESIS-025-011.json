@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Isaac",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03xqw",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Isaac_in_Islam"
+        },
+        "salience": 0.32568634,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Isaac",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.27769813,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pwb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam"
+        },
+        "salience": 0.21931836,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.14670439,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Beer Lahai Roi",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.03059278,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Beer Lahai Roi",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "name": "well",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.821773,
+        "mentions": [
+            {
+                "text": {
+                    "content": "well",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Beer Lahai Roi",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.08809154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Beer Lahai Roi",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Kadesh",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02_gp5",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kadesh_(biblical)"
+        },
+        "salience": 0.052853562,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Kadesh",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Bered",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/g\/121nm91x",
+            "wikipedia_url": "https:\/\/pl.wikipedia.org\/wiki\/Bered"
+        },
+        "salience": 0.037281916,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bered",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

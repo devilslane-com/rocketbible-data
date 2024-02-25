@@ -1,0 +1,78 @@
+[
+    {
+        "name": "daughter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.73912656,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "daughter",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam",
+            "mid": "\/m\/0pwb"
+        },
+        "salience": 0.1921868,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Satan",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Satan",
+            "mid": "\/m\/06wzv"
+        },
+        "salience": 0.038641594,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Satan",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sabbath",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05pdjw_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Biblical_Sabbath"
+        },
+        "salience": 0.03004506,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sabbath",
+                    "beginOffset": 121
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

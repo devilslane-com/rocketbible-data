@@ -1,0 +1,39 @@
+[
+    {
+        "name": "My Father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7562618,
+        "mentions": [
+            {
+                "text": {
+                    "content": "My Father",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "friend",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "youth",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24373819,
+        "mentions": [
+            {
+                "text": {
+                    "content": "youth",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

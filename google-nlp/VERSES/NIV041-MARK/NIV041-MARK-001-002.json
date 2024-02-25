@@ -1,0 +1,65 @@
+[
+    {
+        "name": "prophet",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6845953,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "messenger",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1317286,
+        "mentions": [
+            {
+                "text": {
+                    "content": "messenger",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Isaiah",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/03x0k",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Isaiah"
+        },
+        "salience": 0.12456103,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Isaiah",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0591151,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

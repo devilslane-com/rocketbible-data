@@ -1,0 +1,65 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7423745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hearts",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15524839,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hearts",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Messiah",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/04ys7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Messiah"
+        },
+        "salience": 0.06266156,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Messiah",
+                    "beginOffset": 105
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.039715555,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

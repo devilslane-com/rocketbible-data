@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5347602,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.21109895,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18526283,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "prayer",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06887807,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prayer",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

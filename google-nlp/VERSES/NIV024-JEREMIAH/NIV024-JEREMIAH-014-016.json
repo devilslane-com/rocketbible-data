@@ -1,0 +1,140 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.38682985,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wives",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21912971,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wives",
+                    "beginOffset": 162
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "streets",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.12684031,
+        "mentions": [
+            {
+                "text": {
+                    "content": "streets",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08761036,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "famine",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.086564906,
+        "mentions": [
+            {
+                "text": {
+                    "content": "famine",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.051669266,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "calamity",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.015357873,
+        "mentions": [
+            {
+                "text": {
+                    "content": "calamity",
+                    "beginOffset": 229
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0129988585,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 175
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "daughters",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0129988585,
+        "mentions": [
+            {
+                "text": {
+                    "content": "daughters",
+                    "beginOffset": 190
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

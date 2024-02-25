@@ -1,0 +1,105 @@
+[
+    {
+        "name": "everyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5254525,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everyone",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Everyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2882944,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Everyone",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.055728443,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "child",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03990387,
+        "mentions": [
+            {
+                "text": {
+                    "content": "child",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.032288775,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.017824087,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

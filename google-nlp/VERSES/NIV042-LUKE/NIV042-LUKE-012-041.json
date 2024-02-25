@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.37927997,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.32512513,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14866063,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everyone",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "parable",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.14693429,
+        "mentions": [
+            {
+                "text": {
+                    "content": "parable",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

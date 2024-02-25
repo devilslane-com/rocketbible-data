@@ -1,0 +1,98 @@
+[
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.4873051,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "territory",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15427989,
+        "mentions": [
+            {
+                "text": {
+                    "content": "territory",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Levites",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Levite",
+            "mid": "\/m\/0j8nd"
+        },
+        "salience": 0.13623707,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levites",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israelites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.09467645,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "pasturelands",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07804001,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pasturelands",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.049461473,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "east",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.49430487,
+        "mentions": [
+            {
+                "text": {
+                    "content": "east",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "west",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29622492,
+        "mentions": [
+            {
+                "text": {
+                    "content": "west",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "transgressions",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.20947021,
+        "mentions": [
+            {
+                "text": {
+                    "content": "transgressions",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

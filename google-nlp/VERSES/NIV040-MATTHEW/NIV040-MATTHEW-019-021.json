@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.40414098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "possessions",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2031291,
+        "mentions": [
+            {
+                "text": {
+                    "content": "possessions",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "poor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18713309,
+        "mentions": [
+            {
+                "text": {
+                    "content": "poor",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heaven",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14261028,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heaven",
+                    "beginOffset": 124
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "treasure",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.062986545,
+        "mentions": [
+            {
+                "text": {
+                    "content": "treasure",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

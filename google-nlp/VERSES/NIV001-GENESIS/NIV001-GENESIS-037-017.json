@@ -1,0 +1,87 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.54456466,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Joseph",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.26020953,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joseph",
+                    "beginOffset": 109
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.096473776,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 131
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Dothan",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0q6lr",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Dothan,_Alabama"
+        },
+        "salience": 0.056656513,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Dothan",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Dothan",
+                    "beginOffset": 160
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Let's go",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.042095482,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Let\u2019s go",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

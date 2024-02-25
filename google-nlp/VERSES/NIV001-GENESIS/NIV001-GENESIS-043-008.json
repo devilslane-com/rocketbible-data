@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.51942027,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.19707671,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13035133,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "boy",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.089645,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boy",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06350667,
+        "mentions": [
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 119
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

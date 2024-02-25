@@ -1,0 +1,62 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6919861,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11733489,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "instinct",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.108148254,
+        "mentions": [
+            {
+                "text": {
+                    "content": "instinct",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "animals",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08253075,
+        "mentions": [
+            {
+                "text": {
+                    "content": "animals",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

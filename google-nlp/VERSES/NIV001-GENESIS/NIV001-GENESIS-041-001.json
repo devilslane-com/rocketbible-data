@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Pharaoh",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharaoh",
+            "mid": "\/m\/05sx9"
+        },
+        "salience": 0.6748723,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "dream",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24385598,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dream",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nile",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/05b5w",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nile"
+        },
+        "salience": 0.08127176,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nile",
+                    "beginOffset": 76
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/043mx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/John_the_Baptist"
+        },
+        "salience": 0.52436864,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.36277604,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Holy Spirit",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/03qsc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Holy_Spirit"
+        },
+        "salience": 0.112855345,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Holy Spirit",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "name": "distance",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.8263098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boat",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "distance",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.08217989,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wind",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06528443,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wind",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "waves",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02622588,
+        "mentions": [
+            {
+                "text": {
+                    "content": "waves",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

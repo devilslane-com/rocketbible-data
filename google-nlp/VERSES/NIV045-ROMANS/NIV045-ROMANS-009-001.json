@@ -1,0 +1,68 @@
+[
+    {
+        "name": "truth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.6961138,
+        "mentions": [
+            {
+                "text": {
+                    "content": "truth",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "conscience",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13392597,
+        "mentions": [
+            {
+                "text": {
+                    "content": "conscience",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.12671073,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Holy Spirit",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/03qsc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Holy_Spirit"
+        },
+        "salience": 0.043249447,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Holy Spirit",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

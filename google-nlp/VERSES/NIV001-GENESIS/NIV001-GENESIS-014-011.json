@@ -1,0 +1,65 @@
+[
+    {
+        "name": "kings",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.82565784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kings",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "goods",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08992076,
+        "mentions": [
+            {
+                "text": {
+                    "content": "goods",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sodom and Gomorrah",
+        "type": "EVENT",
+        "metadata": {
+            "mid": "\/m\/0jhj2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sodom_and_Gomorrah"
+        },
+        "salience": 0.0553957,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sodom and Gomorrah",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.029025692,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

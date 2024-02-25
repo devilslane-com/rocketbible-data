@@ -1,0 +1,50 @@
+[
+    {
+        "name": "foreigner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.47039783,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foreigner",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "foreigners",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3473919,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foreigners",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt",
+            "mid": "\/m\/02k54"
+        },
+        "salience": 0.18221025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

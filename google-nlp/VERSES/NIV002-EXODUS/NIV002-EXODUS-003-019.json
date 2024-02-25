@@ -1,0 +1,47 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7993558,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10838437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09225984,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

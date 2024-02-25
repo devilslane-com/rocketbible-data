@@ -1,0 +1,165 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.46244133,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40811595,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pilate",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0svr8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pontius_Pilate"
+        },
+        "salience": 0.032546334,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pilate",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "reason",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.021487571,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reason",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fact",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.019499253,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fact",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "truth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0153893335,
+        "mentions": [
+            {
+                "text": {
+                    "content": "truth",
+                    "beginOffset": 162
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "side",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.013485983,
+        "mentions": [
+            {
+                "text": {
+                    "content": "side",
+                    "beginOffset": 185
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "truth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.010764483,
+        "mentions": [
+            {
+                "text": {
+                    "content": "truth",
+                    "beginOffset": 193
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Everyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.010308304,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Everyone",
+                    "beginOffset": 169
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0059614447,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 135
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

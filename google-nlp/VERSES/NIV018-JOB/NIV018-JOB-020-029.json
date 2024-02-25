@@ -1,0 +1,57 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.5803878,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "fate",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2742384,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fate",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heritage",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1453738,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heritage",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

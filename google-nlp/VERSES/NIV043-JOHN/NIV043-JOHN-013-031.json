@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.8729449,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Son of Man",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "mid": "\/m\/0n47grq",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Son_of_man_(Christianity)"
+        },
+        "salience": 0.10051195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son of Man",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.026543153,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

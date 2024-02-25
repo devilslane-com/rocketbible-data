@@ -1,0 +1,62 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7843792,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11740188,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06027859,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "figure",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03794037,
+        "mentions": [
+            {
+                "text": {
+                    "content": "figure",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

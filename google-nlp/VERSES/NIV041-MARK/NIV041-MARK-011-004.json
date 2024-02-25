@@ -1,0 +1,47 @@
+[
+    {
+        "name": "colt",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.51780057,
+        "mentions": [
+            {
+                "text": {
+                    "content": "colt",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "street",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.36554417,
+        "mentions": [
+            {
+                "text": {
+                    "content": "street",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "doorway",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.116655275,
+        "mentions": [
+            {
+                "text": {
+                    "content": "doorway",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

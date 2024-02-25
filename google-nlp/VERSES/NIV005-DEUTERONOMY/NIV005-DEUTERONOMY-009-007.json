@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.598769,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 186
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anger",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18666415,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anger",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wilderness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12952079,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wilderness",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.07670765,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.008338398,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 119
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "disciples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5995175,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.26964337,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "words",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0642463,
+        "mentions": [
+            {
+                "text": {
+                    "content": "words",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.038196128,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 128
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "scripture",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02839667,
+        "mentions": [
+            {
+                "text": {
+                    "content": "scripture",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

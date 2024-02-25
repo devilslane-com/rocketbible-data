@@ -1,0 +1,65 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8163302,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13504212,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "prisoner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.031964812,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prisoner",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Samson",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/012zc3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Samson"
+        },
+        "salience": 0.016662896,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samson",
+                    "beginOffset": 88
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

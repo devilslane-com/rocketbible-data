@@ -1,0 +1,65 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.47563884,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.40233415,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "righteousness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07468924,
+        "mentions": [
+            {
+                "text": {
+                    "content": "righteousness",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "faith",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.047337767,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faith",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

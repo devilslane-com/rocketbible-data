@@ -1,0 +1,89 @@
+[
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.83001876,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 136
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 131
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11307053,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.032626778,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 119
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "grace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02428391,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grace",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

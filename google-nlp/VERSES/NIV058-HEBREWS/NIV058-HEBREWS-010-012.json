@@ -1,0 +1,80 @@
+[
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.61169934,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sins",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13004087,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sins",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sacrifice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.127104,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sacrifice",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09195611,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.039199695,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 103
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

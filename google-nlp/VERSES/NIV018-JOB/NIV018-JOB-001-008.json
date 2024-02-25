@@ -1,0 +1,105 @@
+[
+    {
+        "name": "no one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.48977247,
+        "mentions": [
+            {
+                "text": {
+                    "content": "no one",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 134
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30210578,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Satan",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06wzv",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Satan"
+        },
+        "salience": 0.11782572,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Satan",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "servant Job",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.053175416,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant Job",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.026281107,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.010839501,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 148
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

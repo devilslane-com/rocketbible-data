@@ -1,0 +1,53 @@
+[
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.70348126,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pwb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam"
+        },
+        "salience": 0.15331583,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Isaac and Ishmael",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01ghr4",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ishmael_in_Islam"
+        },
+        "salience": 0.14320293,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Isaac and Ishmael",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

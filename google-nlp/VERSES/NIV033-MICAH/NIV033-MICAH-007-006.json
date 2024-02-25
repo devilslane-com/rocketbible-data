@@ -1,0 +1,144 @@
+[
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.26440415,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2393681,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "daughter-in-law",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2262318,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "daughter-in-law",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "daughter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16309386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "daughter",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother-in-law",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.032604747,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother-in-law",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "members",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.027412247,
+        "mentions": [
+            {
+                "text": {
+                    "content": "members",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "enemies",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.021823885,
+        "mentions": [
+            {
+                "text": {
+                    "content": "enemies",
+                    "beginOffset": 129
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "household",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.015374759,
+        "mentions": [
+            {
+                "text": {
+                    "content": "household",
+                    "beginOffset": 164
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.009686442,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

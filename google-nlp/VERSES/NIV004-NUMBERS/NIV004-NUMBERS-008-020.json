@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.33450326,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 95
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Aaron",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.23689875,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aaron",
+                    "beginOffset": 7
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1881926,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "community",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11072325,
+        "mentions": [
+            {
+                "text": {
+                    "content": "community",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israelite",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites",
+            "mid": "\/m\/0dxbn"
+        },
+        "salience": 0.06714732,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelite",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Levites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j8nd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Levite"
+        },
+        "salience": 0.06253481,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levites",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

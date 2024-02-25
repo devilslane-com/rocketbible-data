@@ -1,0 +1,120 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3535854,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "road",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15222508,
+        "mentions": [
+            {
+                "text": {
+                    "content": "road",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "battle",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.107839905,
+        "mentions": [
+            {
+                "text": {
+                    "content": "battle",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Bashan",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01tw_n",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Bashan"
+        },
+        "salience": 0.10379598,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bashan",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Bashan",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Og",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02fwt3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Og"
+        },
+        "salience": 0.09257525,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Og",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "army",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.048035994,
+        "mentions": [
+            {
+                "text": {
+                    "content": "army",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Edrei",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.04534695,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Edrei",
+                    "beginOffset": 135
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

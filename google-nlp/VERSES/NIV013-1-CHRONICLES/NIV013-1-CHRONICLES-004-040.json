@@ -1,0 +1,50 @@
+[
+    {
+        "name": "pasture",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.53919697,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pasture",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.42339778,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hamites",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hamites",
+            "mid": "\/m\/03dk2n"
+        },
+        "salience": 0.03740522,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hamites",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

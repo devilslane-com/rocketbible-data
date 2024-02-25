@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Martha",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.43925655,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Martha",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.38315943,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sister",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.121173434,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sister",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lazarus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03bxbp2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Lazarus_of_Bethany"
+        },
+        "salience": 0.056410585,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lazarus",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070hm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul"
+        },
+        "salience": 0.6530774,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Samuel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.098575845,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samuel",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09279539,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hall",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06393806,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hall",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "head",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05957557,
+        "mentions": [
+            {
+                "text": {
+                    "content": "head",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "number",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.032037742,
+        "mentions": [
+            {
+                "text": {
+                    "content": "number",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

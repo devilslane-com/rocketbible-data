@@ -1,0 +1,98 @@
+[
+    {
+        "name": "truth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3282892,
+        "mentions": [
+            {
+                "text": {
+                    "content": "truth",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nobody",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18987085,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nobody",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "regions",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.17912246,
+        "mentions": [
+            {
+                "text": {
+                    "content": "regions",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.16947228,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mine",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09679266,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mine",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Achaia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0ld56",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Achaea"
+        },
+        "salience": 0.036452547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Achaia",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

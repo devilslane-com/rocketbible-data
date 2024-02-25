@@ -1,0 +1,83 @@
+[
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8100563,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09703522,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "donkeys",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06439028,
+        "mentions": [
+            {
+                "text": {
+                    "content": "donkeys",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gilead",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gilead",
+            "mid": "\/m\/02s25l"
+        },
+        "salience": 0.017584426,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gilead",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Havvoth Jair",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0f_zfp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Havoth-Jair"
+        },
+        "salience": 0.0109337205,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Havvoth Jair",
+                    "beginOffset": 114
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

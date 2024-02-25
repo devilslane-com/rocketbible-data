@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Abram",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pwb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam"
+        },
+        "salience": 0.4937995,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abram",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 98
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.44331548,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ur of the Chaldeans",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/09hq0h",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ur_of_the_Chaldees"
+        },
+        "salience": 0.03416311,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ur of the Chaldeans",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

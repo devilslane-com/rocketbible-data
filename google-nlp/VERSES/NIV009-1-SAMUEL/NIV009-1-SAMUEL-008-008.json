@@ -1,0 +1,35 @@
+[
+    {
+        "name": "gods",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8466651,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gods",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt",
+            "mid": "\/m\/02k54"
+        },
+        "salience": 0.15333495,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

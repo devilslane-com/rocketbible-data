@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Kenan",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.62345636,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Kenan",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1652276,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08248228,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mahalalel",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02m2mb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mahalalel"
+        },
+        "salience": 0.070211254,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mahalalel",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "daughters",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.058622506,
+        "mentions": [
+            {
+                "text": {
+                    "content": "daughters",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

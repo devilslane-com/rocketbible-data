@@ -1,0 +1,105 @@
+[
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.72205424,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kindness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11177992,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kindness",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "table",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05254114,
+        "mentions": [
+            {
+                "text": {
+                    "content": "table",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Barzillai",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04964288,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Barzillai",
+                    "beginOffset": 36
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gilead",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02s25l",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gilead"
+        },
+        "salience": 0.033765297,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gilead",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Absalom",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Absalom",
+            "mid": "\/m\/0pxb"
+        },
+        "salience": 0.030216511,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 146
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Absalom",
+                    "beginOffset": 154
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

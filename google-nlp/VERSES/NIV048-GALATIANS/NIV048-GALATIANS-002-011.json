@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Cephas",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.84829056,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cephas",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "face",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07793982,
+        "mentions": [
+            {
+                "text": {
+                    "content": "face",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Antioch",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0qyjk",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Antioch,_California"
+        },
+        "salience": 0.07376961,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Antioch",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

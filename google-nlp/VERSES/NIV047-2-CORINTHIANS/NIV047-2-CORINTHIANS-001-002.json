@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Grace",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30062217,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Grace",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.28323793,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "peace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20108938,
+        "mentions": [
+            {
+                "text": {
+                    "content": "peace",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12985216,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.08519836,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

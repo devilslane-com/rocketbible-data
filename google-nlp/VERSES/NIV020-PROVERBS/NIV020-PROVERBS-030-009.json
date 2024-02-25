@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7089334,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2052571,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.0858095,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 141
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.38400584,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "prison",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18152726,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prison",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.14630851,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "news",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12983766,
+        "mentions": [
+            {
+                "text": {
+                    "content": "news",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Galilee",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Galilee",
+            "mid": "\/m\/039yt"
+        },
+        "salience": 0.10297263,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Galilee",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.055348106,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

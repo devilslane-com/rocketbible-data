@@ -1,0 +1,87 @@
+[
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.45408577,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heads",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.26831782,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heads",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "families",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18581007,
+        "mentions": [
+            {
+                "text": {
+                    "content": "families",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06472676,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.02705958,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 121
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

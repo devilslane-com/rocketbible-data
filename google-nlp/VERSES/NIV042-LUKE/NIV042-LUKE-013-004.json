@@ -1,0 +1,83 @@
+[
+    {
+        "name": "eighteen",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.58385605,
+        "mentions": [
+            {
+                "text": {
+                    "content": "eighteen",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tower",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.21038824,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tower",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "others",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.090648904,
+        "mentions": [
+            {
+                "text": {
+                    "content": "others",
+                    "beginOffset": 115
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Siloam",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0j372",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pool_of_Siloam"
+        },
+        "salience": 0.076923214,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Siloam",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.038183607,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 132
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

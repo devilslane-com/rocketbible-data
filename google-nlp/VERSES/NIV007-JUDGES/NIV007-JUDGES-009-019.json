@@ -1,0 +1,75 @@
+[
+    {
+        "name": "faith",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.4062094,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faith",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "family",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.28267506,
+        "mentions": [
+            {
+                "text": {
+                    "content": "family",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerub-Baal",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0jq6h",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gideon"
+        },
+        "salience": 0.16786242,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerub-Baal",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abimelek",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/011911zg",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abimelech"
+        },
+        "salience": 0.1432531,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abimelek",
+                    "beginOffset": 103
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "joy",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

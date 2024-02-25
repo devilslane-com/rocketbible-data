@@ -1,0 +1,72 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.57202023,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.21166782,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "urge",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1446331,
+        "mentions": [
+            {
+                "text": {
+                    "content": "urge",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07167887,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

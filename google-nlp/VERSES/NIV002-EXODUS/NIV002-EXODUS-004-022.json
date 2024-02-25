@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34464744,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pharaoh",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharaoh",
+            "mid": "\/m\/05sx9"
+        },
+        "salience": 0.3300108,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.23970126,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.0856405,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

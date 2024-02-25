@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Mary",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.82764554,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mary",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "child",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17235449,
+        "mentions": [
+            {
+                "text": {
+                    "content": "child",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

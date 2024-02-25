@@ -1,0 +1,87 @@
+[
+    {
+        "name": "brother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6931392,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David",
+            "mid": "\/m\/02cvn"
+        },
+        "salience": 0.17748551,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0543878,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Shimeah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03771681,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shimeah",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jonathan",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.037270714,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jonathan",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

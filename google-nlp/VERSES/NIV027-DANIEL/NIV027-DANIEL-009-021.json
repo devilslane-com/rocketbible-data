@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Gabriel",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0151j6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gabriel"
+        },
+        "salience": 0.5845855,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gabriel",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prayer",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18797913,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prayer",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "vision",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12100023,
+        "mentions": [
+            {
+                "text": {
+                    "content": "vision",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "evening sacrifice",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.065211296,
+        "mentions": [
+            {
+                "text": {
+                    "content": "evening sacrifice",
+                    "beginOffset": 129
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "flight",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.04122383,
+        "mentions": [
+            {
+                "text": {
+                    "content": "flight",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

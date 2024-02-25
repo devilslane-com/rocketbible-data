@@ -1,0 +1,62 @@
+[
+    {
+        "name": "gossip",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.6100208,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gossip",
+                    "beginOffset": 2
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "confidence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20193976,
+        "mentions": [
+            {
+                "text": {
+                    "content": "confidence",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "secret",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13300286,
+        "mentions": [
+            {
+                "text": {
+                    "content": "secret",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.055036575,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

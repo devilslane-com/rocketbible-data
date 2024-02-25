@@ -1,0 +1,87 @@
+[
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5270653,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God of Israel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20251183,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "God of Israel",
+                    "beginOffset": 96
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "order",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1003642,
+        "mentions": [
+            {
+                "text": {
+                    "content": "order",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Levites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j8nd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Levite"
+        },
+        "salience": 0.08862674,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levites",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ark",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08143195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ark",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

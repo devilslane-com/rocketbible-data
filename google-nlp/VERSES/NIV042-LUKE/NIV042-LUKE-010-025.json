@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.2905188,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "expert",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.26874423,
+        "mentions": [
+            {
+                "text": {
+                    "content": "expert",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "occasion",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.26874423,
+        "mentions": [
+            {
+                "text": {
+                    "content": "occasion",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "law",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11371144,
+        "mentions": [
+            {
+                "text": {
+                    "content": "law",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Teacher",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.039120317,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Teacher",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.019160993,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

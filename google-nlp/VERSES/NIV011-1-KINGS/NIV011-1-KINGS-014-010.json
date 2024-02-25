@@ -1,0 +1,134 @@
+[
+    {
+        "name": "slave",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.29936832,
+        "mentions": [
+            {
+                "text": {
+                    "content": "male",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "slave",
+                    "beginOffset": 135
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disaster",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.20876758,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disaster",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1866011,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jeroboam",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/043mj",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jeroboam"
+        },
+        "salience": 0.122033834,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jeroboam",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jeroboam",
+                    "beginOffset": 98
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jeroboam",
+                    "beginOffset": 178
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "dung",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11084903,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dung",
+                    "beginOffset": 200
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.044272438,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 126
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.028107697,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 169
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

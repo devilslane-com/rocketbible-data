@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.36372066,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 88
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 169
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/041rx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews"
+        },
+        "salience": 0.27055547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24570823,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 157
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "spirits",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10537648,
+        "mentions": [
+            {
+                "text": {
+                    "content": "spirits",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.014639169,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 180
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

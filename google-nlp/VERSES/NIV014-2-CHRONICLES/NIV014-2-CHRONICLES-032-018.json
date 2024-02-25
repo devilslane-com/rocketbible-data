@@ -1,0 +1,98 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.39761427,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wall",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16450326,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wall",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hebrew",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/03hkp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hebrew_language"
+        },
+        "salience": 0.14324518,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hebrew",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "order",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11531647,
+        "mentions": [
+            {
+                "text": {
+                    "content": "order",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.09785572,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0814651,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 141
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

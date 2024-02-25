@@ -1,0 +1,95 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.43954962,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2975958,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "helper stay",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.10048774,
+        "mentions": [
+            {
+                "text": {
+                    "content": "helper stay",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "workers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07044171,
+        "mentions": [
+            {
+                "text": {
+                    "content": "workers",
+                    "beginOffset": 152
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.0604961,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 85
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "guards",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.031429023,
+        "mentions": [
+            {
+                "text": {
+                    "content": "guards",
+                    "beginOffset": 129
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

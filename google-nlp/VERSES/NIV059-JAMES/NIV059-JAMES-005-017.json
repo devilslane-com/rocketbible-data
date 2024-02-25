@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Elijah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02p7w",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Elijah"
+        },
+        "salience": 0.9519581,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Elijah",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "human being",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.048041884,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 113
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.53300416,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.40883344,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Spirit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03095314,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Spirit",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wisdom",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.013604617,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wisdom",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "revelation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.013604617,
+        "mentions": [
+            {
+                "text": {
+                    "content": "revelation",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

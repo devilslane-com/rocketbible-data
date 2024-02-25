@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7913826,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 9
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "appeal",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08981515,
+        "mentions": [
+            {
+                "text": {
+                    "content": "appeal",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "decision",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06261639,
+        "mentions": [
+            {
+                "text": {
+                    "content": "decision",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Emperor",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Emperor",
+            "mid": "\/m\/02rbq"
+        },
+        "salience": 0.037696615,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Emperor",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Caesar",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/024c73",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Caesar_(title)"
+        },
+        "salience": 0.018489249,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Caesar",
+                    "beginOffset": 121
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

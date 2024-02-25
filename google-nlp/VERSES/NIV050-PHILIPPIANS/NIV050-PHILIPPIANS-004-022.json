@@ -1,0 +1,80 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5974819,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.21273284,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "greetings",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.09898294,
+        "mentions": [
+            {
+                "text": {
+                    "content": "greetings",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "household",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.049144555,
+        "mentions": [
+            {
+                "text": {
+                    "content": "household",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Caesar",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.041657787,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Caesar",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

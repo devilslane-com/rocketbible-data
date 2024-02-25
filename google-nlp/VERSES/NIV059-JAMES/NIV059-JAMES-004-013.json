@@ -1,0 +1,47 @@
+[
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.61195284,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "business",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2479489,
+        "mentions": [
+            {
+                "text": {
+                    "content": "business",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "money",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14009823,
+        "mentions": [
+            {
+                "text": {
+                    "content": "money",
+                    "beginOffset": 126
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

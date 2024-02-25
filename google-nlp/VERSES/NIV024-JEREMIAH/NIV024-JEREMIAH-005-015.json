@@ -1,0 +1,125 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2883136,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "People",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.28395206,
+        "mentions": [
+            {
+                "text": {
+                    "content": "People",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.14905232,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 10
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0830291,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nation",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06590088,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nation",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nation",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06134598,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nation",
+                    "beginOffset": 113
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "speech",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04737769,
+        "mentions": [
+            {
+                "text": {
+                    "content": "speech",
+                    "beginOffset": 168
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "language",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.021028394,
+        "mentions": [
+            {
+                "text": {
+                    "content": "language",
+                    "beginOffset": 136
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

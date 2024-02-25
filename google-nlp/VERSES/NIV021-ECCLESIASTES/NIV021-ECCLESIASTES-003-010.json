@@ -1,0 +1,35 @@
+[
+    {
+        "name": "human race",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.5357756,
+        "mentions": [
+            {
+                "text": {
+                    "content": "human race",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.46422437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

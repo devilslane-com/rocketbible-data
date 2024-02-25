@@ -1,0 +1,128 @@
+[
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.49035364,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dwelling",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.20092854,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dwelling",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13777155,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Name",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anniversary",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.04730828,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anniversary",
+                    "beginOffset": 148
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sun",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04087533,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sun",
+                    "beginOffset": 126
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "departure",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.03321793,
+        "mentions": [
+            {
+                "text": {
+                    "content": "departure",
+                    "beginOffset": 168
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Passover",
+        "type": "EVENT",
+        "metadata": {
+            "mid": "\/m\/05rds",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Passover"
+        },
+        "salience": 0.029854437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Passover",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.019690296,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 183
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

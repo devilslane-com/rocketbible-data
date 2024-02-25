@@ -1,0 +1,50 @@
+[
+    {
+        "name": "festival",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.5140318,
+        "mentions": [
+            {
+                "text": {
+                    "content": "festival",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.31315178,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "temple courts",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.17281635,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple courts",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

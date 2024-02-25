@@ -1,0 +1,62 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.41144654,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.29046294,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20539574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "streets",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.092694774,
+        "mentions": [
+            {
+                "text": {
+                    "content": "streets",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

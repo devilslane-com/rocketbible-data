@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Perez: Perez",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6866563,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Perez: Perez",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "family line",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25196663,
+        "mentions": [
+            {
+                "text": {
+                    "content": "family line",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hezron",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hezron",
+            "mid": "\/m\/01x2cb"
+        },
+        "salience": 0.06137704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hezron",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

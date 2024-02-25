@@ -1,0 +1,77 @@
+[
+    {
+        "name": "someone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.53235525,
+        "mentions": [
+            {
+                "text": {
+                    "content": "someone",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.16640058,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "capital offense",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16451167,
+        "mentions": [
+            {
+                "text": {
+                    "content": "capital offense",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pole",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08362945,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pole",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "body",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.053103033,
+        "mentions": [
+            {
+                "text": {
+                    "content": "body",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Thomas",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.60615695,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Thomas",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24282041,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15102266,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "name": "law",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.7303049,
+        "mentions": [
+            {
+                "text": {
+                    "content": "law",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "possession",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09806397,
+        "mentions": [
+            {
+                "text": {
+                    "content": "possession",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.09281699,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jacob",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0jt0lm_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jacob_in_Islam"
+        },
+        "salience": 0.045116514,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 62
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "assembly",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.03369762,
+        "mentions": [
+            {
+                "text": {
+                    "content": "assembly",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

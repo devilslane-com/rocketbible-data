@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30579397,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Anyone",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.24584125,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1840462,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12716989,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.056313857,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04041741,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04041741,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

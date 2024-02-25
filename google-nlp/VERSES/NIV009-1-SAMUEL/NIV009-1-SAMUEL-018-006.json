@@ -1,0 +1,216 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3107311,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.21028388,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul",
+            "mid": "\/m\/070hm"
+        },
+        "salience": 0.09386987,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 133
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 128
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "women",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06768776,
+        "mentions": [
+            {
+                "text": {
+                    "content": "women",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0593935,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.053513706,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "songs",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.04146678,
+        "mentions": [
+            {
+                "text": {
+                    "content": "songs",
+                    "beginOffset": 176
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Philistine",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0618q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines"
+        },
+        "salience": 0.03513773,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistine",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.032679867,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 113
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "timbrels",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.029213028,
+        "mentions": [
+            {
+                "text": {
+                    "content": "timbrels",
+                    "beginOffset": 191
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lyres",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.029213028,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lyres",
+                    "beginOffset": 204
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "singing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.018404862,
+        "mentions": [
+            {
+                "text": {
+                    "content": "singing",
+                    "beginOffset": 143
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dancing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.018404862,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dancing",
+                    "beginOffset": 155
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

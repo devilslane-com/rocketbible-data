@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Israel",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.5740888,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "rebellion",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.19965968,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rebellion",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18679684,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03945465,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.58905965,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Antioch",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0qyjk",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Antioch,_California"
+        },
+        "salience": 0.31063306,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Antioch",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "letter",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.061350755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "letter",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "church",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.038956508,
+        "mentions": [
+            {
+                "text": {
+                    "content": "church",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

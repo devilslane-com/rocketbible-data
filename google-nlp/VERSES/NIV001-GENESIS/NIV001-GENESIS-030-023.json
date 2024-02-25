@@ -1,0 +1,65 @@
+[
+    {
+        "name": "birth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.35099635,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birth",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2477878,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.20207565,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "disgrace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19914022,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disgrace",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.42510515,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ram",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.20810157,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ram",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Nahshon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05fz2x",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nahshon"
+        },
+        "salience": 0.13578473,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nahshon",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "leader",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Amminadab",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03m5_5h",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Amminadab"
+        },
+        "salience": 0.08562608,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Amminadab",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Amminadab",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.060961228,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01db4k",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judah_(son_of_Jacob)"
+        },
+        "salience": 0.02573166,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 98
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

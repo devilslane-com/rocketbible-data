@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Sarah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.69142175,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sarah",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "daughters",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1634331,
+        "mentions": [
+            {
+                "text": {
+                    "content": "daughters",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.060891353,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lord",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pwb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam"
+        },
+        "salience": 0.053581003,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.01599136,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fear",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.014681441,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fear",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

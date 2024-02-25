@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Samuel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.72099596,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samuel",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "leader",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10791149,
+        "mentions": [
+            {
+                "text": {
+                    "content": "leader",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.09448119,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07661135,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

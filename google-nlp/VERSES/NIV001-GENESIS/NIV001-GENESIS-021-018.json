@@ -1,0 +1,47 @@
+[
+    {
+        "name": "boy",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8201119,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boy",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10537446,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nation",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07451369,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nation",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

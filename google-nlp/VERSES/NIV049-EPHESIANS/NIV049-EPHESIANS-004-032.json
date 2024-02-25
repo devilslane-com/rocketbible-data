@@ -1,0 +1,80 @@
+[
+    {
+        "name": "one",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.35216573,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "each other",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24861334,
+        "mentions": [
+            {
+                "text": {
+                    "content": "each other",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "another",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2457912,
+        "mentions": [
+            {
+                "text": {
+                    "content": "another",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.106108405,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.047321312,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

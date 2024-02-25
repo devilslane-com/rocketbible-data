@@ -1,0 +1,65 @@
+[
+    {
+        "name": "law",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.6068308,
+        "mentions": [
+            {
+                "text": {
+                    "content": "law",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "guardian",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1850894,
+        "mentions": [
+            {
+                "text": {
+                    "content": "guardian",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.121197104,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "faith",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0868827,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faith",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

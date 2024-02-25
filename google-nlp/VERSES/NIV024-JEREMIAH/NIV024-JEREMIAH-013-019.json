@@ -1,0 +1,65 @@
+[
+    {
+        "name": "cities",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.5517591,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cities",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Negev",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/011xr8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Negev"
+        },
+        "salience": 0.36069545,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Negev",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "exile",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.060089253,
+        "mentions": [
+            {
+                "text": {
+                    "content": "exile",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.027456183,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

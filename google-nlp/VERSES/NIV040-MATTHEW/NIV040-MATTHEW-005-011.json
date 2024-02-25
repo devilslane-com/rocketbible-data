@@ -1,0 +1,47 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5357384,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kinds",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.34594962,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kinds",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "evil",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11831195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "evil",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

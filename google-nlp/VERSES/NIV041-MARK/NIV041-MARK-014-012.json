@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.2898928,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 108
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24225816,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Festival of Unleavened Bread",
+        "type": "EVENT",
+        "metadata": {
+            "mid": "\/m\/05rds",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Passover"
+        },
+        "salience": 0.08544722,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Festival of Unleavened Bread",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Passover lamb",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Passover",
+                    "beginOffset": 209
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "preparations",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.054668125,
+        "mentions": [
+            {
+                "text": {
+                    "content": "preparations",
+                    "beginOffset": 177
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

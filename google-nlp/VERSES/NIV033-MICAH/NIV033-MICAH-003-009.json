@@ -1,0 +1,75 @@
+[
+    {
+        "name": "leaders",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.88873756,
+        "mentions": [
+            {
+                "text": {
+                    "content": "leaders",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "rulers",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.045956913,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jacob",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0jt0lm_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jacob_in_Islam"
+        },
+        "salience": 0.045409657,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "justice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.019895876,
+        "mentions": [
+            {
+                "text": {
+                    "content": "justice",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

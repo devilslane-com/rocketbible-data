@@ -1,0 +1,72 @@
+[
+    {
+        "name": "thing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.45038715,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thing",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.3714245,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 10
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 76
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13877286,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Power",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03941547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Power",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

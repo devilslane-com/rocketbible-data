@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.7344087,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.12914264,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "temple courts",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.08599978,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple courts",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.029586632,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Bethany",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.012258933,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bethany",
+                    "beginOffset": 135
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Twelve",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.008603317,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Twelve",
+                    "beginOffset": 152
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

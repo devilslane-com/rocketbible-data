@@ -1,0 +1,65 @@
+[
+    {
+        "name": "heavens",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4893281,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heavens",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3807536,
+        "mentions": [
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06900115,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02j71",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Earth"
+        },
+        "salience": 0.06091715,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

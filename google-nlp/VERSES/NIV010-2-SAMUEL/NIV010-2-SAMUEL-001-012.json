@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul",
+            "mid": "\/m\/070hm"
+        },
+        "salience": 0.50891626,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jonathan",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05lm5pv",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jonathan_(1_Samuel)"
+        },
+        "salience": 0.20651013,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Jonathan",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "army",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.09773138,
+        "mentions": [
+            {
+                "text": {
+                    "content": "army",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.089968756,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04829501,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 167
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nation",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.030478086,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nation",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.018100379,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 128
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

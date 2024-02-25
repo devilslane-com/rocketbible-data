@@ -1,0 +1,64 @@
+[
+    {
+        "name": "laborers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.50516844,
+        "mentions": [
+            {
+                "text": {
+                    "content": "laborers",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Solomon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070h3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Solomon"
+        },
+        "salience": 0.4430255,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.051806055,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3663538,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18288527,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Methuselah",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Methuselah",
+            "mid": "\/m\/0f1fx"
+        },
+        "salience": 0.16510203,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Methuselah",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lamech",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/025sm3m",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Lamech_(descendant_of_Cain)"
+        },
+        "salience": 0.15567712,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lamech",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "daughters",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12998177,
+        "mentions": [
+            {
+                "text": {
+                    "content": "daughters",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

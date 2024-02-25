@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070hm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul"
+        },
+        "salience": 0.7645398,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.122271,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "armor-bearer",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.08594999,
+        "mentions": [
+            {
+                "text": {
+                    "content": "armor-bearer",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02723924,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

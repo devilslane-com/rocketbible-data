@@ -1,0 +1,77 @@
+[
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6386599,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sisters",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13994673,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sisters",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "feasts",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.110460214,
+        "mentions": [
+            {
+                "text": {
+                    "content": "feasts",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "birthdays",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.055793975,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birthdays",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "homes",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.055139188,
+        "mentions": [
+            {
+                "text": {
+                    "content": "homes",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

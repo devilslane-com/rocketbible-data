@@ -1,0 +1,65 @@
+[
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.7485137,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "desires",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16354804,
+        "mentions": [
+            {
+                "text": {
+                    "content": "desires",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.04927743,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "will",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03866081,
+        "mentions": [
+            {
+                "text": {
+                    "content": "will",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

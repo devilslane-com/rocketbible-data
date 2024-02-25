@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.79394287,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wrath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13821083,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wrath",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "breach",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.067846306,
+        "mentions": [
+            {
+                "text": {
+                    "content": "breach",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

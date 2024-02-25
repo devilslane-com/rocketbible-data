@@ -1,0 +1,50 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.47619116,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/041rx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews"
+        },
+        "salience": 0.37207332,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "learning",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15173548,
+        "mentions": [
+            {
+                "text": {
+                    "content": "learning",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

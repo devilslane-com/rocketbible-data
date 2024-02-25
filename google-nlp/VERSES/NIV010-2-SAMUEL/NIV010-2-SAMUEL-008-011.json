@@ -1,0 +1,102 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.7178091,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "articles",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.09270034,
+        "mentions": [
+            {
+                "text": {
+                    "content": "articles",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06401768,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "silver",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.059670255,
+        "mentions": [
+            {
+                "text": {
+                    "content": "silver",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nations",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.045473475,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nations",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gold",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.020329189,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gold",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

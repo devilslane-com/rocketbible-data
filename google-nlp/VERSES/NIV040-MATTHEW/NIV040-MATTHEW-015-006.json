@@ -1,0 +1,95 @@
+[
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4428129,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30453053,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sake",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.105018735,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sake",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tradition",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07378913,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tradition",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04638055,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.027468178,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 89
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

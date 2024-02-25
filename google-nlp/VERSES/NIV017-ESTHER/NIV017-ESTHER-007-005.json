@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Xerxes",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0cjm1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Xerxes_I"
+        },
+        "salience": 0.54101944,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Xerxes",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Esther",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Esther",
+            "mid": "\/m\/02pn7"
+        },
+        "salience": 0.4419353,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Esther",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Queen",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "thing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.01704524,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thing",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

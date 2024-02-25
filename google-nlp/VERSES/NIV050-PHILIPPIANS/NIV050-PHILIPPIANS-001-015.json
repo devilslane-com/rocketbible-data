@@ -1,0 +1,95 @@
+[
+    {
+        "name": "some",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2987805,
+        "mentions": [
+            {
+                "text": {
+                    "content": "some",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "envy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21002674,
+        "mentions": [
+            {
+                "text": {
+                    "content": "envy",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rivalry",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19370194,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rivalry",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.12590875,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "goodwill",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.105020486,
+        "mentions": [
+            {
+                "text": {
+                    "content": "goodwill",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "others",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0665616,
+        "mentions": [
+            {
+                "text": {
+                    "content": "others",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "name": "horse",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.41966265,
+        "mentions": [
+            {
+                "text": {
+                    "content": "horse",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ancestors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.27345076,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ancestors",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.18044119,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "City of David",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0j3w2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/City_of_David"
+        },
+        "salience": 0.1264454,
+        "mentions": [
+            {
+                "text": {
+                    "content": "City of David",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

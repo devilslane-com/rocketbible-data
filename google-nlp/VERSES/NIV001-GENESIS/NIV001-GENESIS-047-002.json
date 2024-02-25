@@ -1,0 +1,35 @@
+[
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8618834,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pharaoh",
+        "type": "EVENT",
+        "metadata": {
+            "mid": "\/m\/05sx9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharaoh"
+        },
+        "salience": 0.1381166,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

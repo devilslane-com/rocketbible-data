@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.7458587,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "desires",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14838554,
+        "mentions": [
+            {
+                "text": {
+                    "content": "desires",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "flesh",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.105755754,
+        "mentions": [
+            {
+                "text": {
+                    "content": "flesh",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "name": "baptism",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3969399,
+        "mentions": [
+            {
+                "text": {
+                    "content": "baptism",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "province",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.23176673,
+        "mentions": [
+            {
+                "text": {
+                    "content": "province",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0kf0p",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judea"
+        },
+        "salience": 0.14179909,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judea",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Galilee",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Galilee",
+            "mid": "\/m\/039yt"
+        },
+        "salience": 0.13045427,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Galilee",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09904001,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 105
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

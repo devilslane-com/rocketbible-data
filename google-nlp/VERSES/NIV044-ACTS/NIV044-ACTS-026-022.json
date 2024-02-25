@@ -1,0 +1,68 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.83409524,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "prophets",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07842101,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophets",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses",
+            "mid": "\/m\/04yfh"
+        },
+        "salience": 0.05017301,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 143
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "nothing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.037310757,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nothing",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

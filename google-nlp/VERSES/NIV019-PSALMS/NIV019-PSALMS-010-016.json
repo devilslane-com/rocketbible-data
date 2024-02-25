@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.860617,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nations",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.090062514,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nations",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.049320523,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

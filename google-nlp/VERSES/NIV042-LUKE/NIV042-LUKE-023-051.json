@@ -1,0 +1,116 @@
+[
+    {
+        "name": "decision",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.36374253,
+        "mentions": [
+            {
+                "text": {
+                    "content": "decision",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "action",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24975173,
+        "mentions": [
+            {
+                "text": {
+                    "content": "action",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.123623304,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kingdom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.08592944,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdom",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judean",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0kf0p",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judea"
+        },
+        "salience": 0.07359185,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judean",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Arimathea",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/02xtb2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Arimathea"
+        },
+        "salience": 0.06757469,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Arimathea",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.035786454,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 141
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070hm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul"
+        },
+        "salience": 0.80393445,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14789097,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.04817458,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

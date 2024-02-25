@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Stephen",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7262456,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Stephen",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.19540046,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "spirit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.078353964,
+        "mentions": [
+            {
+                "text": {
+                    "content": "spirit",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

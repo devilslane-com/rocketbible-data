@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Philip",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7538349,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philip",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "request",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08105512,
+        "mentions": [
+            {
+                "text": {
+                    "content": "request",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Bethsaida",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04hv10",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Bethsaida"
+        },
+        "salience": 0.07058069,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bethsaida",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Galilee",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/039yt",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Galilee"
+        },
+        "salience": 0.048216105,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Galilee",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sir",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.034029823,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sir",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.012283381,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 118
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

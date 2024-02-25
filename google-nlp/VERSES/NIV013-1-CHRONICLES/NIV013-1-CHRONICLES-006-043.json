@@ -1,0 +1,82 @@
+[
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.44075757,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jahath",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.32918203,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jahath",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gershon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/056qh3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gershon"
+        },
+        "salience": 0.18020938,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gershon",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Levi",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01kqk3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Levi"
+        },
+        "salience": 0.049851008,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levi",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

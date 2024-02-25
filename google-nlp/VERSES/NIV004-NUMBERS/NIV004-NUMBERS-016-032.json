@@ -1,0 +1,80 @@
+[
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.61353105,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "households",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22327399,
+        "mentions": [
+            {
+                "text": {
+                    "content": "households",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mouth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13072583,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mouth",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "possessions",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02360914,
+        "mentions": [
+            {
+                "text": {
+                    "content": "possessions",
+                    "beginOffset": 129
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Korah",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/02w21v",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Korah"
+        },
+        "salience": 0.008860004,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Korah",
+                    "beginOffset": 102
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

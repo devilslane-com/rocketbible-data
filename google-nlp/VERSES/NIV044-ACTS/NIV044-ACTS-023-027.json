@@ -1,0 +1,72 @@
+[
+    {
+        "name": "citizen",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.84638834,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "citizen",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/041rx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews"
+        },
+        "salience": 0.093881585,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "troops",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.045281406,
+        "mentions": [
+            {
+                "text": {
+                    "content": "troops",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Roman",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.014448671,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Roman",
+                    "beginOffset": 139
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

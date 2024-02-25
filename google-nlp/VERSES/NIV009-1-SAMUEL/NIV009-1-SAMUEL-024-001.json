@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul",
+            "mid": "\/m\/070hm"
+        },
+        "salience": 0.6673679,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.1521021,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Philistines",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0618q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines"
+        },
+        "salience": 0.1369729,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistines",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Desert of En Gedi",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04bcnx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ein_Gedi"
+        },
+        "salience": 0.043557137,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Desert of En Gedi",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

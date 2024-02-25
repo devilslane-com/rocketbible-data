@@ -1,0 +1,50 @@
+[
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.523751,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prayer",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.37388822,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prayer",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.10236074,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

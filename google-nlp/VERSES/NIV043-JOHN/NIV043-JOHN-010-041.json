@@ -1,0 +1,69 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.86562115,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sign",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.052283995,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sign",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.042458326,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 88
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.039636537,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

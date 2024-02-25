@@ -1,0 +1,32 @@
+[
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5472977,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "penalty",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.45270228,
+        "mentions": [
+            {
+                "text": {
+                    "content": "penalty",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3958435,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "hearing",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.29272968,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hearing",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "body",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16792484,
+        "mentions": [
+            {
+                "text": {
+                    "content": "body",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.099756025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tomb",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.04374594,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tomb",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

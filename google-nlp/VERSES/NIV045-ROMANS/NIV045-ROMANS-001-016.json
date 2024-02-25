@@ -1,0 +1,108 @@
+[
+    {
+        "name": "gospel",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.81803,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gospel",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "power",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07225214,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everyone",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "salvation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0414659,
+        "mentions": [
+            {
+                "text": {
+                    "content": "salvation",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.031217936,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jew",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews",
+            "mid": "\/m\/041rx"
+        },
+        "salience": 0.021742262,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jew",
+                    "beginOffset": 128
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gentile",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/018wvh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gentile"
+        },
+        "salience": 0.015291755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gentile",
+                    "beginOffset": 145
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

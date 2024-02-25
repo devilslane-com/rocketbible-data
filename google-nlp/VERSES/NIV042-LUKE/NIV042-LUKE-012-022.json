@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.71373636,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13482367,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08607439,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "body",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.065365605,
+        "mentions": [
+            {
+                "text": {
+                    "content": "body",
+                    "beginOffset": 122
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.9106926,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.06199223,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0273152,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

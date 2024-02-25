@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4424263,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Son of Man",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Son_of_man_(Christianity)",
+            "mid": "\/m\/0n47grq"
+        },
+        "salience": 0.3908115,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son of Man",
+                    "beginOffset": 7
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sabbath",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05pdjw_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Biblical_Sabbath"
+        },
+        "salience": 0.1667622,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sabbath",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

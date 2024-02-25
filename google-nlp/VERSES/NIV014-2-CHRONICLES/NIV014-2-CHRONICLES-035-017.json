@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Israelites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.73658806,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Passover",
+        "type": "EVENT",
+        "metadata": {
+            "mid": "\/m\/05rds",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Passover"
+        },
+        "salience": 0.22388639,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Passover",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Festival of Unleavened Bread",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

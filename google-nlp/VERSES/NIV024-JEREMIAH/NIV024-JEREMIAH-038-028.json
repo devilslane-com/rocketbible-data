@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Jeremiah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.41841197,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jeremiah",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "courtyard",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.23809308,
+        "mentions": [
+            {
+                "text": {
+                    "content": "courtyard",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.17731985,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 102
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "guard",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16617511,
+        "mentions": [
+            {
+                "text": {
+                    "content": "guard",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

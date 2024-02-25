@@ -1,0 +1,110 @@
+[
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.25317165,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "trees",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17689405,
+        "mentions": [
+            {
+                "text": {
+                    "content": "trees",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sea",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.17483714,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sea",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "seal",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.162964,
+        "mentions": [
+            {
+                "text": {
+                    "content": "seal",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "servants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.124191515,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servants",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "foreheads",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.055520553,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foreheads",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.052421086,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 108
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

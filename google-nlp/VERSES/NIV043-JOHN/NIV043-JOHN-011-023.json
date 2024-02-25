@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.6730524,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "brother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.32694766,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

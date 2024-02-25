@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.63292205,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "arrival",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.26119754,
+        "mentions": [
+            {
+                "text": {
+                    "content": "arrival",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lazarus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Lazarus_of_Bethany",
+            "mid": "\/m\/03bxbp2"
+        },
+        "salience": 0.078800656,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lazarus",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "tomb",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.02707974,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tomb",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

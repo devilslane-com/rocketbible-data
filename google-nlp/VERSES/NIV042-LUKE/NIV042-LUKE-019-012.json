@@ -1,0 +1,62 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.68557096,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "birth",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.13935055,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birth",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.13009728,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04498123,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

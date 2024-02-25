@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Paul_the_Apostle",
+            "mid": "\/m\/060nc"
+        },
+        "salience": 0.68901736,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "apostle",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12757775,
+        "mentions": [
+            {
+                "text": {
+                    "content": "apostle",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gospel",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.080528505,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gospel",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.06854814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ Jesus",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.034328256,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 89
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

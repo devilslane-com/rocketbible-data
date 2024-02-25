@@ -1,0 +1,65 @@
+[
+    {
+        "name": "soldiers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6968392,
+        "mentions": [
+            {
+                "text": {
+                    "content": "soldiers",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "money",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21083038,
+        "mentions": [
+            {
+                "text": {
+                    "content": "money",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "story",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.06345637,
+        "mentions": [
+            {
+                "text": {
+                    "content": "story",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews",
+            "mid": "\/m\/041rx"
+        },
+        "salience": 0.028874021,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 116
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

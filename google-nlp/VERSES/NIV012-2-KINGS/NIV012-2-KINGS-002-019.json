@@ -1,0 +1,110 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40623862,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.26261392,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09244265,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07673639,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lord",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Elisha",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0crqz1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Elisha"
+        },
+        "salience": 0.067650706,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Elisha",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06509883,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 131
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0292189,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

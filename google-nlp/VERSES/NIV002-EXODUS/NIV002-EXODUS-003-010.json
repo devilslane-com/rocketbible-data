@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Pharaoh",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharaoh",
+            "mid": "\/m\/05sx9"
+        },
+        "salience": 0.40366054,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.2805999,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2088211,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israelites",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites",
+            "mid": "\/m\/0dxbn"
+        },
+        "salience": 0.10691846,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

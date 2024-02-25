@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4409423,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.2510864,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Herod",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Herod_the_Great",
+            "mid": "\/m\/0hsm_"
+        },
+        "salience": 0.15206462,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Herod",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "prophet",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.078684025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04184035,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 135
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.035382334,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 117
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4630998,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews",
+            "mid": "\/m\/041rx"
+        },
+        "salience": 0.20436244,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Greeks",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18847287,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Greeks",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "church of God",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/01gyz7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Church_of_God_(Cleveland,_Tennessee)"
+        },
+        "salience": 0.14406489,
+        "mentions": [
+            {
+                "text": {
+                    "content": "church of God",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

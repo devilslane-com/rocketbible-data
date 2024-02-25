@@ -1,0 +1,68 @@
+[
+    {
+        "name": "leaders",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.37807408,
+        "mentions": [
+            {
+                "text": {
+                    "content": "leaders",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.27145243,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.23411548,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Levites",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0j8nd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Levite"
+        },
+        "salience": 0.11635803,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levites",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

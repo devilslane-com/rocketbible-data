@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.80839574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07141454,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.05436258,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.042928237,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Aaron",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Aaron",
+            "mid": "\/m\/0llm"
+        },
+        "salience": 0.022898892,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aaron",
+                    "beginOffset": 101
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

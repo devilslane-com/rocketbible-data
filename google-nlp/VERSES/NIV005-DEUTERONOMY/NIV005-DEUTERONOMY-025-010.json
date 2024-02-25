@@ -1,0 +1,80 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.54028606,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "line",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24496034,
+        "mentions": [
+            {
+                "text": {
+                    "content": "line",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.10648199,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 36
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Unsandaled",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07480347,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Unsandaled",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "The Family",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.033468146,
+        "mentions": [
+            {
+                "text": {
+                    "content": "The Family",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

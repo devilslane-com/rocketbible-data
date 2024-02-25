@@ -1,0 +1,65 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6610904,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ai",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/0mkz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Artificial_intelligence"
+        },
+        "salience": 0.15289406,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ai",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Joshua",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.098101504,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joshua",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.08791404,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

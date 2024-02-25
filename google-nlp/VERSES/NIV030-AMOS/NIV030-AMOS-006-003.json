@@ -1,0 +1,47 @@
+[
+    {
+        "name": "disaster",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.5008449,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disaster",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "terror",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.35753632,
+        "mentions": [
+            {
+                "text": {
+                    "content": "terror",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "reign",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14161883,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reign",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

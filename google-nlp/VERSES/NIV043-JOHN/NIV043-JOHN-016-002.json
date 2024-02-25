@@ -1,0 +1,80 @@
+[
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4121705,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "synagogue",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.24781221,
+        "mentions": [
+            {
+                "text": {
+                    "content": "synagogue",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fact",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17074805,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fact",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "service",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11825487,
+        "mentions": [
+            {
+                "text": {
+                    "content": "service",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.051014353,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 136
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

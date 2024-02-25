@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pwb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam"
+        },
+        "salience": 0.4925451,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sarah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01b5wx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sarah"
+        },
+        "salience": 0.19722058,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Sarah",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Isaac",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03xqw",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Isaac_in_Islam"
+        },
+        "salience": 0.16394943,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Isaac",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Rebekah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12937203,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Rebekah",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Leah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.016912874,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Leah",
+                    "beginOffset": 111
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

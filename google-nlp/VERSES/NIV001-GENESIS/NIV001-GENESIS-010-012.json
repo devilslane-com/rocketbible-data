@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Nineveh",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nineveh",
+            "mid": "\/m\/05fym"
+        },
+        "salience": 0.7029525,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nineveh",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Resen",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05nt_5",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Resen_(Bible)"
+        },
+        "salience": 0.23005193,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Resen",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Calah",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nimrud",
+            "mid": "\/m\/02cbtw"
+        },
+        "salience": 0.06699556,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Calah",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

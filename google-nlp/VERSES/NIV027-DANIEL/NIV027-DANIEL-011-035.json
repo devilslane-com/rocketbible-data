@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Some",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.49215877,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Some",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wise",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.47429422,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wise",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "end",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.03354699,
+        "mentions": [
+            {
+                "text": {
+                    "content": "end",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

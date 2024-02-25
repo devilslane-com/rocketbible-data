@@ -1,0 +1,69 @@
+[
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.73904306,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "child",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17844304,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "shame",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.045441426,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shame",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disgrace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.037072442,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disgrace",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

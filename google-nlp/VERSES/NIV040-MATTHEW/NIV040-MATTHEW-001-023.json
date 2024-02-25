@@ -1,0 +1,83 @@
+[
+    {
+        "name": "virgin",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3895327,
+        "mentions": [
+            {
+                "text": {
+                    "content": "virgin",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.35947472,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "birth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12790151,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birth",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Immanuel",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01g0m2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Immanuel"
+        },
+        "salience": 0.074624434,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Immanuel",
+                    "beginOffset": 76
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.048466638,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 104
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

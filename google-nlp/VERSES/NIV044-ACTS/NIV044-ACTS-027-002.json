@@ -1,0 +1,164 @@
+[
+    {
+        "name": "ship",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.40076852,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ship",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "province",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11394739,
+        "mentions": [
+            {
+                "text": {
+                    "content": "province",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ports",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11260138,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ports",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "coast",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11260138,
+        "mentions": [
+            {
+                "text": {
+                    "content": "coast",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Adramyttium",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Adramyttium",
+            "mid": "\/g\/122dm0xl"
+        },
+        "salience": 0.099082954,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Adramyttium",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Asia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04ldyr",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Asia_(Roman_province)"
+        },
+        "salience": 0.06830303,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Asia",
+                    "beginOffset": 94
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sea",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.03537391,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sea",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Macedonian",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Macedonian_language",
+            "mid": "\/m\/04t67"
+        },
+        "salience": 0.022953141,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Macedonian",
+                    "beginOffset": 138
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Thessalonica",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0b2mc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Thessaloniki"
+        },
+        "salience": 0.022953141,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Thessalonica",
+                    "beginOffset": 154
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Aristarchus",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.011415155,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aristarchus",
+                    "beginOffset": 123
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

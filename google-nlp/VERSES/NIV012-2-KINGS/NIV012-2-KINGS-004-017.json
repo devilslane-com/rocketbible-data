@@ -1,0 +1,65 @@
+[
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7923462,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "birth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1148428,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birth",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Elisha",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0crqz1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Elisha"
+        },
+        "salience": 0.053104054,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Elisha",
+                    "beginOffset": 103
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03970698,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

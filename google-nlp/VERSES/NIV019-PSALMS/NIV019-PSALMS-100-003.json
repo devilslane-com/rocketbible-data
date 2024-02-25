@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.78701955,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14276001,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.046119653,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sheep",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.014160502,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sheep",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pasture",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009940291,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pasture",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

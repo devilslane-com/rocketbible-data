@@ -1,0 +1,77 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6038235,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "work",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1357458,
+        "mentions": [
+            {
+                "text": {
+                    "content": "work",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "age",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.117121145,
+        "mentions": [
+            {
+                "text": {
+                    "content": "age",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tent",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.08377108,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tent",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "meeting",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.05953849,
+        "mentions": [
+            {
+                "text": {
+                    "content": "meeting",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

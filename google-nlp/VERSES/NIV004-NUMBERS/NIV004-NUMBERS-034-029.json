@@ -1,0 +1,98 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.58844846,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24352019,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "inheritance",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07661825,
+        "mentions": [
+            {
+                "text": {
+                    "content": "inheritance",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.054017358,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Canaan",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0d9f2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Canaan"
+        },
+        "salience": 0.022931982,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Canaan",
+                    "beginOffset": 96
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israelites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.01446376,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

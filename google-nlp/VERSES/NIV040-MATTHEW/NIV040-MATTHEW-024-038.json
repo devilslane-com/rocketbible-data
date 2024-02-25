@@ -1,0 +1,95 @@
+[
+    {
+        "name": "flood",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.26461443,
+        "mentions": [
+            {
+                "text": {
+                    "content": "flood",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "drinking",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18680602,
+        "mentions": [
+            {
+                "text": {
+                    "content": "drinking",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18468548,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "marriage",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17242186,
+        "mentions": [
+            {
+                "text": {
+                    "content": "marriage",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Noah",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Noah",
+            "mid": "\/m\/05fzm"
+        },
+        "salience": 0.09758742,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Noah",
+                    "beginOffset": 114
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ark",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.093884796,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ark",
+                    "beginOffset": 131
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

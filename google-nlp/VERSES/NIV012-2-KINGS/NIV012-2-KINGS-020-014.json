@@ -1,0 +1,105 @@
+[
+    {
+        "name": "prophet",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4102002,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "King Hezekiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03myb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hezekiah"
+        },
+        "salience": 0.21860406,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King Hezekiah",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Hezekiah",
+                    "beginOffset": 144
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Isaiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03x0k",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Isaiah"
+        },
+        "salience": 0.20121364,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Isaiah",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14295325,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0139396945,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 135
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Babylon",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.013089163,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylon",
+                    "beginOffset": 180
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

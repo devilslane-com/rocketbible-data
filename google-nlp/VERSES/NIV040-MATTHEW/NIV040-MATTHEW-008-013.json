@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.7146318,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "centurion",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22974506,
+        "mentions": [
+            {
+                "text": {
+                    "content": "centurion",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.055623125,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

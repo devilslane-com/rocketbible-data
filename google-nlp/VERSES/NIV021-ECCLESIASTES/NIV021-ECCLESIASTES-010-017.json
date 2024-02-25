@@ -1,0 +1,92 @@
+[
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.36826003,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34168825,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "princes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09092858,
+        "mentions": [
+            {
+                "text": {
+                    "content": "princes",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "birth",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.0898778,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birth",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "strength",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06395714,
+        "mentions": [
+            {
+                "text": {
+                    "content": "strength",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "drunkenness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.045288205,
+        "mentions": [
+            {
+                "text": {
+                    "content": "drunkenness",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

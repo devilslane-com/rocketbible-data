@@ -1,0 +1,65 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.571009,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses",
+            "mid": "\/m\/04yfh"
+        },
+        "salience": 0.3031601,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mountain",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.08367048,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mountain",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "clothes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04216042,
+        "mentions": [
+            {
+                "text": {
+                    "content": "clothes",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.7209874,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22642048,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "My name is Legion",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.052592162,
+        "mentions": [
+            {
+                "text": {
+                    "content": "My name is Legion",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.818739,
+        "mentions": [
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "beggars",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10567606,
+        "mentions": [
+            {
+                "text": {
+                    "content": "beggars",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "homes",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07558497,
+        "mentions": [
+            {
+                "text": {
+                    "content": "homes",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

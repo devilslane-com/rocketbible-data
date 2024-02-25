@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Elijah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.49291372,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Elijah",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ahab",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02nxz9x",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Captain_Ahab"
+        },
+        "salience": 0.22261168,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ahab",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "rain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18050769,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rain",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sound",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1039669,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sound",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

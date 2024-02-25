@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Ishmael",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.93223655,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ishmael",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 142
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "numbers",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.047715776,
+        "mentions": [
+            {
+                "text": {
+                    "content": "numbers",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nation",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.012314958,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nation",
+                    "beginOffset": 200
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rulers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0077327443,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rulers",
+                    "beginOffset": 159
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

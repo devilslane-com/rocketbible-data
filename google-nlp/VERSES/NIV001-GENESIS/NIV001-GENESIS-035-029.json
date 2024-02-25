@@ -1,0 +1,68 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5711238,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19584322,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Esau",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/016zh8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Esau"
+        },
+        "salience": 0.1165165,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Esau",
+                    "beginOffset": 103
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jacob",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0jt0lm_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jacob_in_Islam"
+        },
+        "salience": 0.1165165,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 112
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

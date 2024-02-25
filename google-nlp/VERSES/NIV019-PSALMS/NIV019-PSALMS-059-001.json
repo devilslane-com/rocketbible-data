@@ -1,0 +1,50 @@
+[
+    {
+        "name": "enemies",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.45422125,
+        "mentions": [
+            {
+                "text": {
+                    "content": "enemies",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fortress",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.35659915,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fortress",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.1891796,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

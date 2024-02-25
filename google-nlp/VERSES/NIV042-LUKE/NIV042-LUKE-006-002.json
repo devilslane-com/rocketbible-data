@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Some",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.63263994,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Some",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pharisees",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/0j3fm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharisees"
+        },
+        "salience": 0.20286459,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharisees",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sabbath",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1644955,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sabbath",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

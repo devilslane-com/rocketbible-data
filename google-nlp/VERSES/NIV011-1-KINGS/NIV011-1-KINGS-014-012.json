@@ -1,0 +1,62 @@
+[
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.50841904,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "foot",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23460376,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foot",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "boy",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1780075,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boy",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.078969724,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

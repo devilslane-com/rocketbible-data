@@ -1,0 +1,65 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3556208,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pleasures",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24669488,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pleasures",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.21774541,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sin",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17993888,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sin",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

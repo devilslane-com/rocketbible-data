@@ -1,0 +1,65 @@
+[
+    {
+        "name": "ones",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.76060236,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ones",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "adultery",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10178208,
+        "mentions": [
+            {
+                "text": {
+                    "content": "adultery",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.09613848,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "testimony",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04147709,
+        "mentions": [
+            {
+                "text": {
+                    "content": "testimony",
+                    "beginOffset": 151
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

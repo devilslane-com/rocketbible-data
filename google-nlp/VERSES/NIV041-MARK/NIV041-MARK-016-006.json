@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.73205143,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18956792,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 135
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nazarene",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/06zkbqf",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nazarene_(title)"
+        },
+        "salience": 0.078380644,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nazarene",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

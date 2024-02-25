@@ -1,0 +1,95 @@
+[
+    {
+        "name": "garments",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.6205284,
+        "mentions": [
+            {
+                "text": {
+                    "content": "garments",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "presence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17724729,
+        "mentions": [
+            {
+                "text": {
+                    "content": "presence",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Samuel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10650561,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samuel",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul",
+            "mid": "\/m\/070hm"
+        },
+        "salience": 0.04339937,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 152
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "prophets",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.042735983,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophets",
+                    "beginOffset": 172
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.009583323,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 134
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

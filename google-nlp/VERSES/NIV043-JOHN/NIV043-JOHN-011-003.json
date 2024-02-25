@@ -1,0 +1,80 @@
+[
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.37918577,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sisters",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.29912117,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sisters",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1810204,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.09193251,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.048740152,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

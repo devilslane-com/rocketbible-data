@@ -1,0 +1,102 @@
+[
+    {
+        "name": "liar",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.6738379,
+        "mentions": [
+            {
+                "text": {
+                    "content": "liar",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09083051,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.05858155,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05740833,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "antichrist",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03239903,
+        "mentions": [
+            {
+                "text": {
+                    "content": "antichrist",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.023944452,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son",
+                    "beginOffset": 125
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

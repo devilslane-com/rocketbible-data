@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40596536,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.38226062,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ground",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13291183,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ground",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ground",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.060909193,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ground",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "snake",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.017952988,
+        "mentions": [
+            {
+                "text": {
+                    "content": "snake",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

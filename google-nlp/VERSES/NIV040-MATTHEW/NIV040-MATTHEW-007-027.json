@@ -1,0 +1,77 @@
+[
+    {
+        "name": "rain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.55672944,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rain",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "streams",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16342673,
+        "mentions": [
+            {
+                "text": {
+                    "content": "streams",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "winds",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.115371995,
+        "mentions": [
+            {
+                "text": {
+                    "content": "winds",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10648829,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "crash",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.05798355,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crash",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.68113893,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disciplines",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18742876,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciplines",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13143232,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

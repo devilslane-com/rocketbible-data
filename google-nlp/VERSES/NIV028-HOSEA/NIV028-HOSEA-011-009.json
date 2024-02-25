@@ -1,0 +1,95 @@
+[
+    {
+        "name": "anger",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.4080209,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anger",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2498378,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ephraim",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16767187,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ephraim",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.08226239,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "cities",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06712165,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cities",
+                    "beginOffset": 159
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Holy One",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.02508539,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Holy One",
+                    "beginOffset": 109
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

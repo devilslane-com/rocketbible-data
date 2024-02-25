@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.40887251,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.33281544,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lake",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.25831205,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lake",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

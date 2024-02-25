@@ -1,0 +1,211 @@
+[
+    {
+        "name": "families",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46690807,
+        "mentions": [
+            {
+                "text": {
+                    "content": "families",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.121709935,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rest",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Joshua",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joshua",
+            "mid": "\/m\/043m0"
+        },
+        "salience": 0.07443957,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joshua",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Zerubbabel",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zerubbabel",
+            "mid": "\/m\/0hz9x"
+        },
+        "salience": 0.06857926,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zerubbabel",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "King Cyrus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03d0c1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cyrus_the_Great"
+        },
+        "salience": 0.062292036,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King Cyrus",
+                    "beginOffset": 205
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 221
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05528759,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heads",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0485148,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heads",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.032991525,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "part",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03267318,
+        "mentions": [
+            {
+                "text": {
+                    "content": "part",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02083558,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 141
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God of Israel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.011093863,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 177
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "God of Israel",
+                    "beginOffset": 187
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Persia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/010gnvyp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Persian_Empire"
+        },
+        "salience": 0.00467461,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Persia",
+                    "beginOffset": 229
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "name": "ancestors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5089328,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ancestors",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "ancestors",
+                    "beginOffset": 155
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.37562606,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "possession",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11544111,
+        "mentions": [
+            {
+                "text": {
+                    "content": "possession",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

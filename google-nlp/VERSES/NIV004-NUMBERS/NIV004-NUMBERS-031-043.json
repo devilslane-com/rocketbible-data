@@ -1,0 +1,39 @@
+[
+    {
+        "name": "sheep",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.55838776,
+        "mentions": [
+            {
+                "text": {
+                    "content": "half",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "sheep",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "community",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4416122,
+        "mentions": [
+            {
+                "text": {
+                    "content": "community",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

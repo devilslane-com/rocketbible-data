@@ -1,0 +1,83 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.35942468,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "flock",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25265637,
+        "mentions": [
+            {
+                "text": {
+                    "content": "flock",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23301809,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Aaron",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Aaron",
+            "mid": "\/m\/0llm"
+        },
+        "salience": 0.10720517,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aaron",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.047695704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

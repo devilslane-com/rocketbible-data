@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34830326,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "battle",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.32586426,
+        "mentions": [
+            {
+                "text": {
+                    "content": "battle",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.2172292,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Beth Aven",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/g\/11f2bn4zcr"
+        },
+        "salience": 0.10860329,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Beth Aven",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

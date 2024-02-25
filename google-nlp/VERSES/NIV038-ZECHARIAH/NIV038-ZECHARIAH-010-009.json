@@ -1,0 +1,47 @@
+[
+    {
+        "name": "peoples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.9250474,
+        "mentions": [
+            {
+                "text": {
+                    "content": "peoples",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lands",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06511638,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lands",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.009836248,
+        "mentions": [
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

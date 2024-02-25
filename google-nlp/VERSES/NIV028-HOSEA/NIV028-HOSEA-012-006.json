@@ -1,0 +1,57 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.35184523,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "love",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.33718148,
+        "mentions": [
+            {
+                "text": {
+                    "content": "love",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "justice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3109733,
+        "mentions": [
+            {
+                "text": {
+                    "content": "justice",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

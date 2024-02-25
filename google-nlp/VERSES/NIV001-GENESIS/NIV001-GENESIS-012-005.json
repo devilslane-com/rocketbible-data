@@ -1,0 +1,127 @@
+[
+    {
+        "name": "Sarai",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.36797005,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Sarai",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.32905364,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lot",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14636537,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lot",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "nephew",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.064499624,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 150
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "possessions",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04663356,
+        "mentions": [
+            {
+                "text": {
+                    "content": "possessions",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Harran",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Harran",
+            "mid": "\/m\/0lq6s"
+        },
+        "salience": 0.025897617,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Harran",
+                    "beginOffset": 117
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Canaan",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0d9f2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Canaan"
+        },
+        "salience": 0.01958012,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Canaan",
+                    "beginOffset": 158
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "leader",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4456108,
+        "mentions": [
+            {
+                "text": {
+                    "content": "leader",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tribe",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3223799,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tribe",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.23200932,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.50109893,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 108
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "voice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.35866877,
+        "mentions": [
+            {
+                "text": {
+                    "content": "voice",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "door",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14023228,
+        "mentions": [
+            {
+                "text": {
+                    "content": "door",
+                    "beginOffset": 124
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

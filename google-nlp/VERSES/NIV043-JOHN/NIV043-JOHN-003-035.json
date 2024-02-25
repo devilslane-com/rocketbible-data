@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7000832,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11521875,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10649286,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hands",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07820517,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hands",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

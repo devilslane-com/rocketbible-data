@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.39558107,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "region",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.23118214,
+        "mentions": [
+            {
+                "text": {
+                    "content": "region",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17732556,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Caesarea Philippi",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Caesarea_Philippi",
+            "mid": "\/m\/0f4mkl"
+        },
+        "salience": 0.09628556,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Caesarea Philippi",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Son of Man",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.08142419,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son of Man",
+                    "beginOffset": 101
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.018201469,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

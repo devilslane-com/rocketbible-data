@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Bethlehem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01cy_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Bethlehem"
+        },
+        "salience": 0.68245775,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bethlehem",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "child",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.31754228,
+        "mentions": [
+            {
+                "text": {
+                    "content": "child",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

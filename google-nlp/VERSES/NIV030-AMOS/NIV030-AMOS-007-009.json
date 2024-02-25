@@ -1,0 +1,113 @@
+[
+    {
+        "name": "places",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.4877437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "places",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sanctuaries",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.13411066,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sanctuaries",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Isaac",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11823177,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Isaac",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09526239,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.081853695,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04258762,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jeroboam",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/043mj",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jeroboam"
+        },
+        "salience": 0.040210143,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jeroboam",
+                    "beginOffset": 139
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

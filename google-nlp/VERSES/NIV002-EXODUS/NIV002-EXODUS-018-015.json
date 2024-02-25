@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.64559263,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20545328,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "will",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08054963,
+        "mentions": [
+            {
+                "text": {
+                    "content": "will",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.068404466,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

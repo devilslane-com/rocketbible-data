@@ -1,0 +1,116 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3346235,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3281489,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21554384,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070hm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul"
+        },
+        "salience": 0.044285547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Kish",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03w95k2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kish_(Bible)"
+        },
+        "salience": 0.04071998,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Kish",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "tribe",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.023007292,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tribe",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Benjamin",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01czh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Benjamin"
+        },
+        "salience": 0.013670946,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Benjamin",
+                    "beginOffset": 85
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

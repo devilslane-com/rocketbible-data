@@ -1,0 +1,87 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.646013,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "roadside",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14092517,
+        "mentions": [
+            {
+                "text": {
+                    "content": "roadside",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.07899892,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mercy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.068313316,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mercy",
+                    "beginOffset": 131
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Son of David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.065749586,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Son of David",
+                    "beginOffset": 112
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

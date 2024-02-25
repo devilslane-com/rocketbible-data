@@ -1,0 +1,90 @@
+[
+    {
+        "name": "mind",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.31808224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mind",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.26741666,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "voice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22027193,
+        "mentions": [
+            {
+                "text": {
+                    "content": "voice",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.1239842,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07024497,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

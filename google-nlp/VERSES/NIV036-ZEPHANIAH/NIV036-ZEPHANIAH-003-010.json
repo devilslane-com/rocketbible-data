@@ -1,0 +1,72 @@
+[
+    {
+        "name": "worshipers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.55183005,
+        "mentions": [
+            {
+                "text": {
+                    "content": "worshipers",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rivers",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.2604369,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rivers",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Cush",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/025wsg",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cush_(Bible)"
+        },
+        "salience": 0.10903787,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cush",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "offerings",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07869519,
+        "mentions": [
+            {
+                "text": {
+                    "content": "offerings",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5643799,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17513469,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "table",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10046283,
+        "mentions": [
+            {
+                "text": {
+                    "content": "table",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "feast",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.048816506,
+        "mentions": [
+            {
+                "text": {
+                    "content": "feast",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kingdom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.048816506,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdom",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.041891765,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.02049781,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 136
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

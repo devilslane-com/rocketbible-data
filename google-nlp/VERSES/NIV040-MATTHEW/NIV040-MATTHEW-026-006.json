@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.5303295,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.22061501,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Bethany",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.14538054,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bethany",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Simon the Leper",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Simon_the_Leper",
+            "mid": "\/m\/026_t3w"
+        },
+        "salience": 0.1036749,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Simon the Leper",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

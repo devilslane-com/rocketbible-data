@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.51365215,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.239549,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06782098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sisters",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06782098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sisters",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "believer",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06316023,
+        "mentions": [
+            {
+                "text": {
+                    "content": "believer",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "teaching",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04799665,
+        "mentions": [
+            {
+                "text": {
+                    "content": "teaching",
+                    "beginOffset": 171
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

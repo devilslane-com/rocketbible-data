@@ -1,0 +1,65 @@
+[
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.60486037,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "brother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1392013,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wife",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13757327,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Herod",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0hsm_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Herod_the_Great"
+        },
+        "salience": 0.11836505,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Herod",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

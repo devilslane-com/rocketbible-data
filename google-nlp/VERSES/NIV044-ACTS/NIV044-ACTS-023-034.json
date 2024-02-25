@@ -1,0 +1,65 @@
+[
+    {
+        "name": "governor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.74561715,
+        "mentions": [
+            {
+                "text": {
+                    "content": "governor",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "letter",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.1534354,
+        "mentions": [
+            {
+                "text": {
+                    "content": "letter",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "province",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.08807235,
+        "mentions": [
+            {
+                "text": {
+                    "content": "province",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Cilicia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0k0gz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cilicia"
+        },
+        "salience": 0.012875078,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cilicia",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,938 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.72440445,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 126
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 603
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 968
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 1193
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 1271
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 1449
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 2108
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 2103
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 2259
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mary Magdalene",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05723",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mary_Magdalene"
+        },
+        "salience": 0.047790293,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mary Magdalene",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Mary Magdalene",
+                    "beginOffset": 1036
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "each other",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03328878,
+        "mentions": [
+            {
+                "text": {
+                    "content": "each other",
+                    "beginOffset": 252
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "spices",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.030040754,
+        "mentions": [
+            {
+                "text": {
+                    "content": "spices",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.012833409,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "body",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009574186,
+        "mentions": [
+            {
+                "text": {
+                    "content": "body",
+                    "beginOffset": 135
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mary",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02pjgf2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mary,_mother_of_James"
+        },
+        "salience": 0.009490878,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mary",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sabbath",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.008604093,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sabbath",
+                    "beginOffset": 9
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "tomb",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.008280562,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tomb",
+                    "beginOffset": 232
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.007853668,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 467
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "stone",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.007647775,
+        "mentions": [
+            {
+                "text": {
+                    "content": "stone",
+                    "beginOffset": 373
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Salome",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/038sh3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Salome_(disciple)"
+        },
+        "salience": 0.0076130345,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Salome",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "James",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0076130345,
+        "mentions": [
+            {
+                "text": {
+                    "content": "James",
+                    "beginOffset": 62
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "stone",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.007037951,
+        "mentions": [
+            {
+                "text": {
+                    "content": "stone",
+                    "beginOffset": 285
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "two",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.007012231,
+        "mentions": [
+            {
+                "text": {
+                    "content": "two",
+                    "beginOffset": 1309
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0061851433,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 221
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "signswill",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.005540295,
+        "mentions": [
+            {
+                "text": {
+                    "content": "signswill",
+                    "beginOffset": 1807
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.003992487,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 928
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "women",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0038163709,
+        "mentions": [
+            {
+                "text": {
+                    "content": "women",
+                    "beginOffset": 868
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0032950419,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 680
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tomb",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.00314227,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tomb",
+                    "beginOffset": 321
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tomb",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0031156219,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tomb",
+                    "beginOffset": 444
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0029342251,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 2207
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "entrance",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0023446344,
+        "mentions": [
+            {
+                "text": {
+                    "content": "entrance",
+                    "beginOffset": 305
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "side",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.002324738,
+        "mentions": [
+            {
+                "text": {
+                    "content": "side",
+                    "beginOffset": 516
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "robe",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.002324738,
+        "mentions": [
+            {
+                "text": {
+                    "content": "robe",
+                    "beginOffset": 490
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.002279448,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 2299
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tomb",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0020998297,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tomb",
+                    "beginOffset": 901
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "demons",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0017800002,
+        "mentions": [
+            {
+                "text": {
+                    "content": "demons",
+                    "beginOffset": 1083
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nothing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0015649308,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nothing",
+                    "beginOffset": 917
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "weeping",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.00143327,
+        "mentions": [
+            {
+                "text": {
+                    "content": "weeping",
+                    "beginOffset": 1163
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "form",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0014310646,
+        "mentions": [
+            {
+                "text": {
+                    "content": "form",
+                    "beginOffset": 1301
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0014310646,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 1352
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rest",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0014300584,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rest",
+                    "beginOffset": 1399
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hands",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0013417747,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hands",
+                    "beginOffset": 1951
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0013141396,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 724
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "demons",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0012237898,
+        "mentions": [
+            {
+                "text": {
+                    "content": "demons",
+                    "beginOffset": 1877
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "poison",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0010748855,
+        "mentions": [
+            {
+                "text": {
+                    "content": "poison",
+                    "beginOffset": 1985
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0010748855,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 1852
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tongues",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0010748855,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tongues",
+                    "beginOffset": 1907
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hands",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0009864208,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hands",
+                    "beginOffset": 2045
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0009385178,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 2185
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nazarene",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.00092231436,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nazarene",
+                    "beginOffset": 613
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0009165333,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 738
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Galilee",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Galilee",
+            "mid": "\/m\/039yt"
+        },
+        "salience": 0.0009165333,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Galilee",
+                    "beginOffset": 778
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "signsthat",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0008555192,
+        "mentions": [
+            {
+                "text": {
+                    "content": "signsthat",
+                    "beginOffset": 2311
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0007522023,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 2058
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heavenand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.00075179077,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heavenand",
+                    "beginOffset": 2155
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everywhere",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.000751397,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everywhere",
+                    "beginOffset": 2239
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "refusal",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.00047198628,
+        "mentions": [
+            {
+                "text": {
+                    "content": "refusal",
+                    "beginOffset": 1558
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "faith",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.00047198628,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faith",
+                    "beginOffset": 1533
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lack",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.00047198628,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lack",
+                    "beginOffset": 1525
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "creation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.00047168825,
+        "mentions": [
+            {
+                "text": {
+                    "content": "creation",
+                    "beginOffset": 1691
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gospel",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.00047168825,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gospel",
+                    "beginOffset": 1677
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.00047168825,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 1656
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.00044419806,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 2193
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Eleven",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.00027884886,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Eleven",
+                    "beginOffset": 1471
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

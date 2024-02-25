@@ -1,0 +1,101 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.7839411,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09304808,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lord",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06428365,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Solomon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.031017186,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "throne",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.027710015,
+        "mentions": [
+            {
+                "text": {
+                    "content": "throne",
+                    "beginOffset": 155
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6127542,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Spirit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.26872292,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Spirit",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jephthah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0146dm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jephthah"
+        },
+        "salience": 0.04070346,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jephthah",
+                    "beginOffset": 36
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gilead",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02s25l",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gilead"
+        },
+        "salience": 0.022745673,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gilead",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Gilead",
+                    "beginOffset": 103
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Manasseh",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j3lb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tribe_of_Manasseh"
+        },
+        "salience": 0.020009568,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Manasseh",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Mizpah",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.018375065,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mizpah",
+                    "beginOffset": 93
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ammonites",
+        "type": "CONSUMER_GOOD",
+        "metadata": {
+            "mid": "\/m\/0sk0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ammon"
+        },
+        "salience": 0.009735502,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ammonites",
+                    "beginOffset": 150
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.4148838,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sun",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14953084,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sun",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "moon",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.119744316,
+        "mentions": [
+            {
+                "text": {
+                    "content": "moon",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "glory",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11157417,
+        "mentions": [
+            {
+                "text": {
+                    "content": "glory",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lamp",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.07627811,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lamp",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.06706873,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 76
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lamb",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.060920045,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lamb",
+                    "beginOffset": 104
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

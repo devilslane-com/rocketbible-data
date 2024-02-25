@@ -1,0 +1,49 @@
+[
+    {
+        "name": "nation",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.6538897,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nation",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "laws",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20963424,
+        "mentions": [
+            {
+                "text": {
+                    "content": "laws",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Praise the Lord",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/g\/11f64ddh6x"
+        },
+        "salience": 0.13647605,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Praise the Lord",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

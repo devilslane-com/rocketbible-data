@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.59781724,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "courage",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20372336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "courage",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Paul",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15642121,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Rome",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Rome",
+            "mid": "\/m\/06c62"
+        },
+        "salience": 0.025820134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rome",
+                    "beginOffset": 145
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.01621804,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 106
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

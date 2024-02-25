@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.84057426,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10102965,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "works",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.058396056,
+        "mentions": [
+            {
+                "text": {
+                    "content": "works",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

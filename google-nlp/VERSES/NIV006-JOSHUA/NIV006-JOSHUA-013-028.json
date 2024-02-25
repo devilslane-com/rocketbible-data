@@ -1,0 +1,80 @@
+[
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.5829684,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "villages",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.17043227,
+        "mentions": [
+            {
+                "text": {
+                    "content": "villages",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "inheritance",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11980479,
+        "mentions": [
+            {
+                "text": {
+                    "content": "inheritance",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gadites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01x2ps",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tribe_of_Gad"
+        },
+        "salience": 0.066888064,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gadites",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "clans",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.059906457,
+        "mentions": [
+            {
+                "text": {
+                    "content": "clans",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

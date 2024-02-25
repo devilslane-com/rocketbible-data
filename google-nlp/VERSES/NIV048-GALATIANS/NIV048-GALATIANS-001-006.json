@@ -1,0 +1,65 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6502078,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "grace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20058298,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grace",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gospel",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10838931,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gospel",
+                    "beginOffset": 135
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.040819895,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 97
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

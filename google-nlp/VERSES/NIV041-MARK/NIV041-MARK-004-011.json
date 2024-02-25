@@ -1,0 +1,80 @@
+[
+    {
+        "name": "secret",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.34317166,
+        "mentions": [
+            {
+                "text": {
+                    "content": "secret",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kingdom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.29838333,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdom",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.18211661,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10352194,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "parables",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.07280645,
+        "mentions": [
+            {
+                "text": {
+                    "content": "parables",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

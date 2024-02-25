@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.64565593,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24645834,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disciple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.053632054,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciple",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.034031082,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02022263,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Woman",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

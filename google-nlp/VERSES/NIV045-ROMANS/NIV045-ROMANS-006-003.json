@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Christ Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.6346275,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ Jesus",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24263795,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.12273452,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

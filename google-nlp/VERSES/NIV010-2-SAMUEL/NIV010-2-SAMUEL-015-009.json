@@ -1,0 +1,50 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.79377174,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "peace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17965753,
+        "mentions": [
+            {
+                "text": {
+                    "content": "peace",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hebron",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/09c10_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hebron,_Kentucky"
+        },
+        "salience": 0.026570711,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hebron",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

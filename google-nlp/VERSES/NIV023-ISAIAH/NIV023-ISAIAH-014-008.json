@@ -1,0 +1,65 @@
+[
+    {
+        "name": "junipers",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5471824,
+        "mentions": [
+            {
+                "text": {
+                    "content": "junipers",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cedars",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.23783614,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cedars",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lebanon",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04hqz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Lebanon"
+        },
+        "salience": 0.1459411,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lebanon",
+                    "beginOffset": 36
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "no one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0690404,
+        "mentions": [
+            {
+                "text": {
+                    "content": "no one",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

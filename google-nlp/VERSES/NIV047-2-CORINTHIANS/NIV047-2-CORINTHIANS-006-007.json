@@ -1,0 +1,110 @@
+[
+    {
+        "name": "speech",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.43063584,
+        "mentions": [
+            {
+                "text": {
+                    "content": "speech",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "weapons",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13157648,
+        "mentions": [
+            {
+                "text": {
+                    "content": "weapons",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "power",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13006777,
+        "mentions": [
+            {
+                "text": {
+                    "content": "power",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "righteousness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.121349394,
+        "mentions": [
+            {
+                "text": {
+                    "content": "righteousness",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.07887866,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "left",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.065792695,
+        "mentions": [
+            {
+                "text": {
+                    "content": "left",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04169917,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

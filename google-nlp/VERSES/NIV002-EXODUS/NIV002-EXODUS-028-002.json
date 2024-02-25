@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Aaron",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0llm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Aaron"
+        },
+        "salience": 0.64092404,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Aaron",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "garments",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.19664791,
+        "mentions": [
+            {
+                "text": {
+                    "content": "garments",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "honor",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12081164,
+        "mentions": [
+            {
+                "text": {
+                    "content": "honor",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dignity",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.041616388,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dignity",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

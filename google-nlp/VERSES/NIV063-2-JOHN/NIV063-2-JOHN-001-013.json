@@ -1,0 +1,65 @@
+[
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5080514,
+        "mentions": [
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sister",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.37787047,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sister",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "greetings",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.06366304,
+        "mentions": [
+            {
+                "text": {
+                    "content": "greetings",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.050415114,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

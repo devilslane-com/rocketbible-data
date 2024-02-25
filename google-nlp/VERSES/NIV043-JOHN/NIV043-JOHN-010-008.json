@@ -1,0 +1,54 @@
+[
+    {
+        "name": "thieves",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.9047266,
+        "mentions": [
+            {
+                "text": {
+                    "content": "All",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "thieves",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "robbers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07665653,
+        "mentions": [
+            {
+                "text": {
+                    "content": "robbers",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sheep",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.018616835,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sheep",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.35825408,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "instructions",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.28902498,
+        "mentions": [
+            {
+                "text": {
+                    "content": "instructions",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.20751631,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Samaritans",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Samaritans",
+            "mid": "\/m\/06_8_"
+        },
+        "salience": 0.088951826,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samaritans",
+                    "beginOffset": 118
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gentiles",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/018wvh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gentile"
+        },
+        "salience": 0.0562528,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gentiles",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

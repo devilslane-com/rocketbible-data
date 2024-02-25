@@ -1,0 +1,123 @@
+[
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.38247827,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.19067071,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Tebah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18751936,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Tebah",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Berothai",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/08s0hc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Berothah"
+        },
+        "salience": 0.07602621,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Berothai",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "quantity",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.067351475,
+        "mentions": [
+            {
+                "text": {
+                    "content": "quantity",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hadadezer",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/08s0l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hadadezer_bar_Rehob"
+        },
+        "salience": 0.052634124,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hadadezer",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "bronze",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04331985,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bronze",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

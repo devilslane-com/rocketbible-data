@@ -1,0 +1,110 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8895062,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "god",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.027410446,
+        "mentions": [
+            {
+                "text": {
+                    "content": "god",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.024427949,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gods",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.022444755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gods",
+                    "beginOffset": 135
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.015182684,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 128
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.013571225,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 240
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wrath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0074567045,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wrath",
+                    "beginOffset": 181
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

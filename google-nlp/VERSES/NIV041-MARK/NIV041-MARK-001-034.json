@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.5028284,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "many",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.37792027,
+        "mentions": [
+            {
+                "text": {
+                    "content": "many",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "diseases",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.059237294,
+        "mentions": [
+            {
+                "text": {
+                    "content": "diseases",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "demons",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.037077256,
+        "mentions": [
+            {
+                "text": {
+                    "content": "demons",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "demons",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.022936739,
+        "mentions": [
+            {
+                "text": {
+                    "content": "demons",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

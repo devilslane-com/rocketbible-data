@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Elon",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.7063267,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Elon",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Timnah",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/07954h",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Timnah"
+        },
+        "salience": 0.22174805,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Timnah",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ekron",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/021k1f",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ekron"
+        },
+        "salience": 0.07192525,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ekron",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

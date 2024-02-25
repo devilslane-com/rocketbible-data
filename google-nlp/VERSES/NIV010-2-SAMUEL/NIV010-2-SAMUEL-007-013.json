@@ -1,0 +1,77 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7559223,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1089396,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06772706,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Name",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kingdom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.047476538,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdom",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "throne",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.01993446,
+        "mentions": [
+            {
+                "text": {
+                    "content": "throne",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

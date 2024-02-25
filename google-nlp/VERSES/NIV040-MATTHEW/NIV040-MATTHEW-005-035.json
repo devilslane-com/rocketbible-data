@@ -1,0 +1,80 @@
+[
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.4022881,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "footstool",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3872068,
+        "mentions": [
+            {
+                "text": {
+                    "content": "footstool",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10742154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.06715567,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Great King",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.035927877,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Great King",
+                    "beginOffset": 85
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

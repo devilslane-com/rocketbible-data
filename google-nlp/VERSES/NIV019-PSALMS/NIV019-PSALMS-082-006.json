@@ -1,0 +1,39 @@
+[
+    {
+        "name": "gods",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.9603237,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gods",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Most High",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.039676286,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Most High",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

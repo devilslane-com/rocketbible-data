@@ -1,0 +1,80 @@
+[
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.590418,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "famine",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29424167,
+        "mentions": [
+            {
+                "text": {
+                    "content": "famine",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "camp",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07543299,
+        "mentions": [
+            {
+                "text": {
+                    "content": "camp",
+                    "beginOffset": 142
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "surrender",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.025074195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "surrender",
+                    "beginOffset": 167
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Arameans",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Arameans",
+            "mid": "\/m\/02dcx_"
+        },
+        "salience": 0.014833171,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Arameans",
+                    "beginOffset": 154
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

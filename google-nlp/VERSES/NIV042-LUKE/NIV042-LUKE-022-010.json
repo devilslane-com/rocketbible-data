@@ -1,0 +1,77 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7802255,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "jar",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.058433767,
+        "mentions": [
+            {
+                "text": {
+                    "content": "jar",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.057748,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.053792477,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.049800217,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

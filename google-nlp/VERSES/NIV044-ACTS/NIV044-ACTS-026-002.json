@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Agrippa",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8379631,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Agrippa",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "accusations",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.091270186,
+        "mentions": [
+            {
+                "text": {
+                    "content": "accusations",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews",
+            "mid": "\/m\/041rx"
+        },
+        "salience": 0.03844531,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 127
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "defense",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.032321382,
+        "mentions": [
+            {
+                "text": {
+                    "content": "defense",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

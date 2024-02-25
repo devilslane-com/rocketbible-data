@@ -1,0 +1,65 @@
+[
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.33065388,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fellowship",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.319401,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fellowship",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.18460697,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "worshipers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16533816,
+        "mentions": [
+            {
+                "text": {
+                    "content": "worshipers",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

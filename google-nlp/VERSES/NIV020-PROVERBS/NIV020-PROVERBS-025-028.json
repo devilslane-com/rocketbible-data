@@ -1,0 +1,62 @@
+[
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.4411454,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2942287,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "walls",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19532493,
+        "mentions": [
+            {
+                "text": {
+                    "content": "walls",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "self-control",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06930099,
+        "mentions": [
+            {
+                "text": {
+                    "content": "self-control",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

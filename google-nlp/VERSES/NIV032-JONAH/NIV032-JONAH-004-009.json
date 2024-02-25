@@ -1,0 +1,53 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.72825485,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jonah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/044ch",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jonah"
+        },
+        "salience": 0.18580166,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jonah",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "plant",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.08594349,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plant",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

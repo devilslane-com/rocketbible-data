@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Joshua",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.800856,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joshua",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.107101254,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Eglon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0464yl0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Eglon_(king)"
+        },
+        "salience": 0.06871944,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Eglon",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hebron",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.023323307,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hebron",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

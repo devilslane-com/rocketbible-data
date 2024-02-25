@@ -1,0 +1,65 @@
+[
+    {
+        "name": "money",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.40994304,
+        "mentions": [
+            {
+                "text": {
+                    "content": "money",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.29337263,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Haman",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Haman",
+            "mid": "\/m\/04742r"
+        },
+        "salience": 0.19441386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Haman",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10227046,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

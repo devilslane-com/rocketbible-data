@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.9167461,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.034762308,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pharaoh",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05sx9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharaoh"
+        },
+        "salience": 0.027686188,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.011592411,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.009213001,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

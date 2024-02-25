@@ -1,0 +1,167 @@
+[
+    {
+        "name": "Ner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5688135,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ner",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08894351,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08288451,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Kish",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08064547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Kish",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Kish",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul",
+            "mid": "\/m\/070hm"
+        },
+        "salience": 0.073370844,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jonathan",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jonathan_(1_Samuel)",
+            "mid": "\/m\/05lm5pv"
+        },
+        "salience": 0.04014003,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jonathan",
+                    "beginOffset": 76
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abinadab",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/de.wikipedia.org\/wiki\/Abinadab",
+            "mid": "\/m\/0hxkl"
+        },
+        "salience": 0.030395875,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abinadab",
+                    "beginOffset": 98
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Esh-Baal",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.021368556,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Esh-Baal",
+                    "beginOffset": 111
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Malki-Shua",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.013437703,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Malki-Shua",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.6829873,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 10
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 114
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Zechariah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/089bt",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zechariah_(Hebrew_prophet)"
+        },
+        "salience": 0.21280912,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zechariah",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05433677,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fear",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04025376,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fear",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "success",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009613105,
+        "mentions": [
+            {
+                "text": {
+                    "content": "success",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

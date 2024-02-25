@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Judas Iscariot",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0g3y0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judas_Iscariot"
+        },
+        "salience": 0.6498353,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judas",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Judas Iscariot",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.23343785,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11672684,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

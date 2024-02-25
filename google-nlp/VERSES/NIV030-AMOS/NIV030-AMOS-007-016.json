@@ -1,0 +1,83 @@
+[
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.4462173,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3114337,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "descendants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10975334,
+        "mentions": [
+            {
+                "text": {
+                    "content": "descendants",
+                    "beginOffset": 115
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.08654518,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 76
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Isaac",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03xqw",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Isaac_in_Islam"
+        },
+        "salience": 0.046050463,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Isaac",
+                    "beginOffset": 130
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

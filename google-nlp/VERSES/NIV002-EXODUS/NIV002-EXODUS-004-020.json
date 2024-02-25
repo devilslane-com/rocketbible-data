@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.73992693,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wife",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07626334,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.069502644,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "donkey",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.048290405,
+        "mentions": [
+            {
+                "text": {
+                    "content": "donkey",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt",
+            "mid": "\/m\/02k54"
+        },
+        "salience": 0.026638262,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "staff",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.018095007,
+        "mentions": [
+            {
+                "text": {
+                    "content": "staff",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.011532357,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.009751066,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 106
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

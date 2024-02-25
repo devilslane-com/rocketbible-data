@@ -1,0 +1,108 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4222267,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sarah",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sarah",
+            "mid": "\/m\/01b5wx"
+        },
+        "salience": 0.16721335,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Sarah",
+                    "beginOffset": 106
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "women",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13796294,
+        "mentions": [
+            {
+                "text": {
+                    "content": "women",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "household",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12871537,
+        "mentions": [
+            {
+                "text": {
+                    "content": "household",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abimelek",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/011911zg",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abimelech"
+        },
+        "salience": 0.08466328,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abimelek",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pwb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam"
+        },
+        "salience": 0.059218373,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 89
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

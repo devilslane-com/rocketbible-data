@@ -1,0 +1,110 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.35495198,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070hm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul"
+        },
+        "salience": 0.26683018,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1703018,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10001862,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sake",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0495311,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sake",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jonathan",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.041969236,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jonathan",
+                    "beginOffset": 96
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "kindness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.016397113,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kindness",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

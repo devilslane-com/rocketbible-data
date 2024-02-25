@@ -1,0 +1,50 @@
+[
+    {
+        "name": "temple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.79328436,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1198892,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "King Solomon",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Solomon",
+            "mid": "\/m\/070h3"
+        },
+        "salience": 0.08682644,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King Solomon",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

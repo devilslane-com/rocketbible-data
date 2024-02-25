@@ -1,0 +1,113 @@
+[
+    {
+        "name": "commanders",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.37912968,
+        "mentions": [
+            {
+                "text": {
+                    "content": "commanders",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "shields",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24453397,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shields",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "units",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15881196,
+        "mentions": [
+            {
+                "text": {
+                    "content": "units",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "spears",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10942492,
+        "mentions": [
+            {
+                "text": {
+                    "content": "spears",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05483006,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 146
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.032692853,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 156
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "King David",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David",
+            "mid": "\/m\/02cvn"
+        },
+        "salience": 0.020576546,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King David",
+                    "beginOffset": 114
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25145975,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2320972,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2116657,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Topheth",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03pgg7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tophet"
+        },
+        "salience": 0.16433628,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Topheth",
+                    "beginOffset": 94
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Valley of Slaughter",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.086046614,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Valley of Slaughter",
+                    "beginOffset": 139
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Valley of Ben Hinnom",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0262q4",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gehenna"
+        },
+        "salience": 0.054394454,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Valley of Ben Hinnom",
+                    "beginOffset": 109
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

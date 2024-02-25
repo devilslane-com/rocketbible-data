@@ -1,0 +1,117 @@
+[
+    {
+        "name": "disciple",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6230849,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciple",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Simon Peter",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/071wp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saint_Peter"
+        },
+        "salience": 0.1495886,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Simon Peter",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10887064,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.046412718,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "garment",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.04320255,
+        "mentions": [
+            {
+                "text": {
+                    "content": "garment",
+                    "beginOffset": 153
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.021115275,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0077253086,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 218
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

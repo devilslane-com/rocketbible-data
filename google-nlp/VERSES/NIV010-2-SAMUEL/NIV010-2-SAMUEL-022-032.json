@@ -1,0 +1,60 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.6893313,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.27970868,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Rock",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/014g_s",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Dwayne_Johnson"
+        },
+        "salience": 0.030960023,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rock",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

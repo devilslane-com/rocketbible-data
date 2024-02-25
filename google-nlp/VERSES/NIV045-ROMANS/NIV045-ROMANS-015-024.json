@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Spain",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/06mkj",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Spain"
+        },
+        "salience": 0.64392614,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Spain",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "company",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.24523734,
+        "mentions": [
+            {
+                "text": {
+                    "content": "company",
+                    "beginOffset": 149
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "journey",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.110836536,
+        "mentions": [
+            {
+                "text": {
+                    "content": "journey",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.35030583,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "regard",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22548825,
+        "mentions": [
+            {
+                "text": {
+                    "content": "regard",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "celebration",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.17183997,
+        "mentions": [
+            {
+                "text": {
+                    "content": "celebration",
+                    "beginOffset": 115
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "New Moon",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "mid": "\/m\/05h14",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/New_moon"
+        },
+        "salience": 0.10301046,
+        "mentions": [
+            {
+                "text": {
+                    "content": "New Moon",
+                    "beginOffset": 106
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "festival",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.07682208,
+        "mentions": [
+            {
+                "text": {
+                    "content": "festival",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sabbath",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05pdjw_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Biblical_Sabbath"
+        },
+        "salience": 0.072533436,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sabbath",
+                    "beginOffset": 132
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

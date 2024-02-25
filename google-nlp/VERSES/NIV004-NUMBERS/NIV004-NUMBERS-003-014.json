@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7676337,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.1754561,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Desert of Sinai",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.056910194,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Desert of Sinai",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

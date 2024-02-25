@@ -1,0 +1,53 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7531638,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.16560386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israelites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.08123229,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 116
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

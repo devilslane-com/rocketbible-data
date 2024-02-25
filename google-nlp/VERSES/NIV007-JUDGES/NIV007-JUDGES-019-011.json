@@ -1,0 +1,72 @@
+[
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40166202,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jebus",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01y7jz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jebusite"
+        },
+        "salience": 0.3417149,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jebus",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jebusites",
+                    "beginOffset": 129
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "master",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14299877,
+        "mentions": [
+            {
+                "text": {
+                    "content": "master",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.045075484,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

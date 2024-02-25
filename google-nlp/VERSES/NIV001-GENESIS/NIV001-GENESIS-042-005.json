@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.337373,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2603966,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "grain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1723277,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grain",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11020843,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Canaan",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0d9f2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Canaan"
+        },
+        "salience": 0.06606508,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Canaan",
+                    "beginOffset": 95
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "famine",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.053629212,
+        "mentions": [
+            {
+                "text": {
+                    "content": "famine",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

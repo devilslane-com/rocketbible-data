@@ -1,0 +1,95 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.23443428,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "times",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.23168302,
+        "mentions": [
+            {
+                "text": {
+                    "content": "times",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jordan",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.20402744,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jordan",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.14089738,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 76
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "boy",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.115848206,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boy",
+                    "beginOffset": 159
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "flesh",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.073109664,
+        "mentions": [
+            {
+                "text": {
+                    "content": "flesh",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

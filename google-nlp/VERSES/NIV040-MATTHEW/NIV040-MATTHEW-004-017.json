@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.37775156,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Repent",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/014syz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Repentance"
+        },
+        "salience": 0.3413632,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Repent",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "kingdom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.14044262,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdom",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heaven",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14044262,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heaven",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

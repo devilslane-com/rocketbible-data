@@ -1,0 +1,80 @@
+[
+    {
+        "name": "cavalry",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.41095737,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cavalry",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "governor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30429205,
+        "mentions": [
+            {
+                "text": {
+                    "content": "governor",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "letter",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.1255639,
+        "mentions": [
+            {
+                "text": {
+                    "content": "letter",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Caesarea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/09jt1l",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Caesarea"
+        },
+        "salience": 0.109608,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Caesarea",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04957869,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 91
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

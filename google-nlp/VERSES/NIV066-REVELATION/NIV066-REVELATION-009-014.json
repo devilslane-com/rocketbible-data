@@ -1,0 +1,65 @@
+[
+    {
+        "name": "angel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.62385726,
+        "mentions": [
+            {
+                "text": {
+                    "content": "angel",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "trumpet",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16371801,
+        "mentions": [
+            {
+                "text": {
+                    "content": "trumpet",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "angels",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16285522,
+        "mentions": [
+            {
+                "text": {
+                    "content": "angels",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "river Euphrates",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02s22",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Euphrates"
+        },
+        "salience": 0.049569488,
+        "mentions": [
+            {
+                "text": {
+                    "content": "river Euphrates",
+                    "beginOffset": 102
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

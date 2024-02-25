@@ -1,0 +1,98 @@
+[
+    {
+        "name": "sky",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.5105709,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sky",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1369588,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rain",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wind rose",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1168612,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wind rose",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "clouds",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11553464,
+        "mentions": [
+            {
+                "text": {
+                    "content": "clouds",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ahab",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pjp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ahab"
+        },
+        "salience": 0.084847644,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ahab",
+                    "beginOffset": 91
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jezreel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0ch2_dr",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jezreel_(city)"
+        },
+        "salience": 0.035226796,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jezreel",
+                    "beginOffset": 108
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

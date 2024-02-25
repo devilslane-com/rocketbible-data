@@ -1,0 +1,101 @@
+[
+    {
+        "name": "officers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.31535643,
+        "mentions": [
+            {
+                "text": {
+                    "content": "officers",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21913688,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "siege",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.15628783,
+        "mentions": [
+            {
+                "text": {
+                    "content": "siege",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Babylon",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "mid": "\/m\/01cyh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Babylon"
+        },
+        "salience": 0.13447703,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylon",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Nebuchadnezzar",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0drvz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nebuchadnezzar_II"
+        },
+        "salience": 0.132894,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nebuchadnezzar",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.04184784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

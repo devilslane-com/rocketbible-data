@@ -1,0 +1,65 @@
+[
+    {
+        "name": "apostles",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5208157,
+        "mentions": [
+            {
+                "text": {
+                    "content": "apostles",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "speech",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.45690766,
+        "mentions": [
+            {
+                "text": {
+                    "content": "speech",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.012778671,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 128
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009498027,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

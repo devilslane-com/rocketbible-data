@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Savior",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.47187823,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Savior",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.22532403,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.13826342,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Messiah",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/04ys7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Messiah"
+        },
+        "salience": 0.085333556,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Messiah",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07920075,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

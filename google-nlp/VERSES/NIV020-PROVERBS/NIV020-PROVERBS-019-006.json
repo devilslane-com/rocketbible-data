@@ -1,0 +1,69 @@
+[
+    {
+        "name": "everyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.45721117,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everyone",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "friend",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "curry favor",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3796019,
+        "mentions": [
+            {
+                "text": {
+                    "content": "curry favor",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ruler",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.11730689,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ruler",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gifts",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.045880068,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gifts",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

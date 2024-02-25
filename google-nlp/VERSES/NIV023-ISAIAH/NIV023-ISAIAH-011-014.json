@@ -1,0 +1,134 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30046436,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "slopes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18751644,
+        "mentions": [
+            {
+                "text": {
+                    "content": "slopes",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "west",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12875193,
+        "mentions": [
+            {
+                "text": {
+                    "content": "west",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ammonites",
+        "type": "CONSUMER_GOOD",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ammon",
+            "mid": "\/m\/0sk0"
+        },
+        "salience": 0.12687588,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ammonites",
+                    "beginOffset": 152
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "east",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11990393,
+        "mentions": [
+            {
+                "text": {
+                    "content": "east",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Philistia",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0618q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines"
+        },
+        "salience": 0.11333533,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistia",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Edom",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01sn3h",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Edom"
+        },
+        "salience": 0.011576073,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Edom",
+                    "beginOffset": 129
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Moab",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moab",
+            "mid": "\/m\/0jdn4"
+        },
+        "salience": 0.011576073,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moab",
+                    "beginOffset": 138
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

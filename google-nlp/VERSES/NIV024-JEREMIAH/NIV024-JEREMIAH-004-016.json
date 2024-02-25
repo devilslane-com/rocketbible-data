@@ -1,0 +1,110 @@
+[
+    {
+        "name": "nations",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.2525818,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nations",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "army",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.17695782,
+        "mentions": [
+            {
+                "text": {
+                    "content": "army",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.16310306,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "war cry",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12446819,
+        "mentions": [
+            {
+                "text": {
+                    "content": "war cry",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cities",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.12446819,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cities",
+                    "beginOffset": 141
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.10574915,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.052671768,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 151
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

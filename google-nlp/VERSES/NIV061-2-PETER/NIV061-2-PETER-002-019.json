@@ -1,0 +1,84 @@
+[
+    {
+        "name": "slaves",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.41785514,
+        "mentions": [
+            {
+                "text": {
+                    "content": "slaves",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.32231793,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "slaves",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "freedom",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17421854,
+        "mentions": [
+            {
+                "text": {
+                    "content": "freedom",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "depravity",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.050354607,
+        "mentions": [
+            {
+                "text": {
+                    "content": "depravity",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "whatever",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03525377,
+        "mentions": [
+            {
+                "text": {
+                    "content": "whatever",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

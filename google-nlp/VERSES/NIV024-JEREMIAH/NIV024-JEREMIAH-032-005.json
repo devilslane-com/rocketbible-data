@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Zedekiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0hzcr",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zedekiah"
+        },
+        "salience": 0.66823703,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zedekiah",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Babylon",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01cyh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Babylon"
+        },
+        "salience": 0.27579176,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylon",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Babylonians",
+                    "beginOffset": 122
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04952576,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

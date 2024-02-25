@@ -1,0 +1,95 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4281247,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.27058643,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.117293626,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Moses and Aaron",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1092818,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses and Aaron",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "labor",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.042249694,
+        "mentions": [
+            {
+                "text": {
+                    "content": "labor",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "work",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.032463755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "work",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

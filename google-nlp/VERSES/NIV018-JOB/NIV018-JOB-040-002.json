@@ -1,0 +1,50 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.84650165,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Almighty",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.117055535,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Almighty",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.036442805,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

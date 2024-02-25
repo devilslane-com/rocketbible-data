@@ -1,0 +1,65 @@
+[
+    {
+        "name": "grain offering",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.40870228,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grain offering",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "olive oil",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.2923965,
+        "mentions": [
+            {
+                "text": {
+                    "content": "olive oil",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20873201,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Aaron",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0llm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Aaron"
+        },
+        "salience": 0.09016922,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aaron",
+                    "beginOffset": 98
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

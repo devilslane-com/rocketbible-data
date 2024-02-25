@@ -1,0 +1,80 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3902703,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "introduction",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.22106135,
+        "mentions": [
+            {
+                "text": {
+                    "content": "introduction",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "letters",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1684302,
+        "mentions": [
+            {
+                "text": {
+                    "content": "letters",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gift",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15496358,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gift",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.065274574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 112
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

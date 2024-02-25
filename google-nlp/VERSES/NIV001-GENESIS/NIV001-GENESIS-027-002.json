@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Isaac",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.9411152,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Isaac",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.058884785,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

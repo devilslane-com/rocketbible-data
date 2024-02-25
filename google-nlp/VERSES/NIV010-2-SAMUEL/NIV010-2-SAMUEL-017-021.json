@@ -1,0 +1,83 @@
+[
+    {
+        "name": "two",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8153629,
+        "mentions": [
+            {
+                "text": {
+                    "content": "two",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "well",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11055813,
+        "mentions": [
+            {
+                "text": {
+                    "content": "well",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "King David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.046599828,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King David",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ahithophel",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ahitophel",
+            "mid": "\/m\/0hy4p"
+        },
+        "salience": 0.01575963,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ahithophel",
+                    "beginOffset": 142
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "river",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.011719522,
+        "mentions": [
+            {
+                "text": {
+                    "content": "river",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.793023,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "gold",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08714599,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gold",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Silver",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.086142585,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Silver",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.012280349,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 96
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Nazareth",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.012280349,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nazareth",
+                    "beginOffset": 112
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009127736,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

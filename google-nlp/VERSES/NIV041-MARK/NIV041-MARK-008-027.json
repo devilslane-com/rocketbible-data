@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.6608559,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2087254,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "villages",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.059620168,
+        "mentions": [
+            {
+                "text": {
+                    "content": "villages",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Caesarea Philippi",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Caesarea_Philippi",
+            "mid": "\/m\/0f4mkl"
+        },
+        "salience": 0.036257837,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Caesarea Philippi",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.027167268,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0073734606,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

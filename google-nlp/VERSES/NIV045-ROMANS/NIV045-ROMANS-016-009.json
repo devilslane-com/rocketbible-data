@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Greet Urbanus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.43703187,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Greet Urbanus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "co-worker",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20426273,
+        "mentions": [
+            {
+                "text": {
+                    "content": "co-worker",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "friend",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14567964,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friend",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.12534927,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Stachys",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/036cg9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Stachys"
+        },
+        "salience": 0.087676495,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Stachys",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

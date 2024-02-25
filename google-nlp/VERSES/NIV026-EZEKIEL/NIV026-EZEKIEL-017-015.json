@@ -1,0 +1,110 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7150716,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "envoys",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08791969,
+        "mentions": [
+            {
+                "text": {
+                    "content": "envoys",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "horses",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07637609,
+        "mentions": [
+            {
+                "text": {
+                    "content": "horses",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "army",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.0610049,
+        "mentions": [
+            {
+                "text": {
+                    "content": "army",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.036129665,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "treaty",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.014412531,
+        "mentions": [
+            {
+                "text": {
+                    "content": "treaty",
+                    "beginOffset": 169
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009085494,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 136
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

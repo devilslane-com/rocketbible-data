@@ -1,0 +1,60 @@
+[
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7430136,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friends",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.20096436,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 113
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.056022022,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

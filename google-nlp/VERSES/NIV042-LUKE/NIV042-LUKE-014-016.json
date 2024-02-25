@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.4925678,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3164022,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "guests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12452367,
+        "mentions": [
+            {
+                "text": {
+                    "content": "guests",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "banquet",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.06650631,
+        "mentions": [
+            {
+                "text": {
+                    "content": "banquet",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

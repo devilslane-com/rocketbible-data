@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.36035013,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kingdom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.27567405,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdom",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15702276,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.09583797,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "glory",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.061251603,
+        "mentions": [
+            {
+                "text": {
+                    "content": "glory",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "power",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.049863495,
+        "mentions": [
+            {
+                "text": {
+                    "content": "power",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

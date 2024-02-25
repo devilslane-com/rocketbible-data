@@ -1,0 +1,69 @@
+[
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7287602,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "master",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1717052,
+        "mentions": [
+            {
+                "text": {
+                    "content": "master",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "servants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07116562,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servants",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 142
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "women",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.028368976,
+        "mentions": [
+            {
+                "text": {
+                    "content": "women",
+                    "beginOffset": 150
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "attendants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5738845,
+        "mentions": [
+            {
+                "text": {
+                    "content": "attendants",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "court",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.19173113,
+        "mentions": [
+            {
+                "text": {
+                    "content": "court",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Haman",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04742r",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Haman"
+        },
+        "salience": 0.1675828,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Haman",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06680157,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

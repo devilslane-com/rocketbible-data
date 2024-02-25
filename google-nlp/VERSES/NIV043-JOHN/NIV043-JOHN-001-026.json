@@ -1,0 +1,32 @@
+[
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7876429,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21235712,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

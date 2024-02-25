@@ -1,0 +1,50 @@
+[
+    {
+        "name": "power",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.58615774,
+        "mentions": [
+            {
+                "text": {
+                    "content": "power",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "countries",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.3470522,
+        "mentions": [
+            {
+                "text": {
+                    "content": "countries",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.066790104,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

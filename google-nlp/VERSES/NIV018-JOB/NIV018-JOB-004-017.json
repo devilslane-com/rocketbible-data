@@ -1,0 +1,50 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.61493355,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.2725365,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Maker",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.11252998,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Maker",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

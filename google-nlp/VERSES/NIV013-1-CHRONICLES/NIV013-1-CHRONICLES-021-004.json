@@ -1,0 +1,93 @@
+[
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.40266243,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40266243,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Joab",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0jknj",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joab"
+        },
+        "salience": 0.13277847,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joab",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Joab",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.037939988,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 106
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.023956686,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

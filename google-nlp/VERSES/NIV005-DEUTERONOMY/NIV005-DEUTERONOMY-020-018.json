@@ -1,0 +1,65 @@
+[
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5408154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gods",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22056319,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gods",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16789837,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.070723034,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 140
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

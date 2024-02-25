@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.6964204,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Baal of Peor",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.20043813,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Baal of Peor",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "anger",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05157076,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anger",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05157076,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

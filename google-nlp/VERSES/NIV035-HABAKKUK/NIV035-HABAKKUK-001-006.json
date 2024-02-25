@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Babylonians",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.9074425,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylonians",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dwellings",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06385394,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dwellings",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.028703557,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

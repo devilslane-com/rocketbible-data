@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.90867287,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05738906,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "times",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.020839358,
+        "mentions": [
+            {
+                "text": {
+                    "content": "times",
+                    "beginOffset": 141
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rooster crows",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.013098691,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rooster crows",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

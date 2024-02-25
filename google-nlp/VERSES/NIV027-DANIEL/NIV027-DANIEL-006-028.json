@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Daniel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.38211182,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Daniel",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "reign",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.2036247,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reign",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "reign",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19022965,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reign",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Darius",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Darius_I",
+            "mid": "\/m\/0cpcj"
+        },
+        "salience": 0.11127833,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Darius",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Persian",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Persian_people",
+            "mid": "\/m\/064pj"
+        },
+        "salience": 0.07797906,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Persian",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Cyrus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03d0c1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cyrus_the_Great"
+        },
+        "salience": 0.034776427,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cyrus",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

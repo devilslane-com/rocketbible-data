@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Joab",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0jknj",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joab"
+        },
+        "salience": 0.5829908,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joab",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Absalom",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pxb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Absalom"
+        },
+        "salience": 0.2534223,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Absalom",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06503149,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "field",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04612601,
+        "mentions": [
+            {
+                "text": {
+                    "content": "field",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fire",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.032585636,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fire",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "servants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.019843774,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servants",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

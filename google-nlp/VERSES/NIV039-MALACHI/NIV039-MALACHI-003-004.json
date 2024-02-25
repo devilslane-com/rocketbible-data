@@ -1,0 +1,68 @@
+[
+    {
+        "name": "offerings",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.55499125,
+        "mentions": [
+            {
+                "text": {
+                    "content": "offerings",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16151462,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04frh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kingdom_of_Judah"
+        },
+        "salience": 0.14174706,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.14174706,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

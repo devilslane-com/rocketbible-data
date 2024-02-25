@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01db4k",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judah_(son_of_Jacob)"
+        },
+        "salience": 0.9653812,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Shelah",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Shelah_(son_of_Judah)",
+            "mid": "\/m\/02_w0m"
+        },
+        "salience": 0.034618802,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Shelah",
+                    "beginOffset": 103
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

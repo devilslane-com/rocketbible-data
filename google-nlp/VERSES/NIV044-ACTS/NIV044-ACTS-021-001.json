@@ -1,0 +1,65 @@
+[
+    {
+        "name": "sea",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.52651274,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sea",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Kos",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/01kv_0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kos"
+        },
+        "salience": 0.29145312,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Kos",
+                    "beginOffset": 85
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Rhodes",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10697936,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rhodes",
+                    "beginOffset": 114
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Patara",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07505482,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Patara",
+                    "beginOffset": 139
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

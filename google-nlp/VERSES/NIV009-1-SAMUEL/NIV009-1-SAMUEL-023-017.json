@@ -1,0 +1,86 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.74236405,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19921303,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 147
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 154
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.032080267,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.026342666,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 102
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

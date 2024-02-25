@@ -1,0 +1,72 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.46637,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 62
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "tents",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.38917384,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tents",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "marauders",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10708855,
+        "mentions": [
+            {
+                "text": {
+                    "content": "marauders",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.037367623,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

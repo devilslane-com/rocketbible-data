@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Benjamites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01x2mb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tribe_of_Benjamin"
+        },
+        "salience": 0.49348977,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Benjamites",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israelites",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.35029176,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 99
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "casualties",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07154488,
+        "mentions": [
+            {
+                "text": {
+                    "content": "casualties",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "battle",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.03552057,
+        "mentions": [
+            {
+                "text": {
+                    "content": "battle",
+                    "beginOffset": 182
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

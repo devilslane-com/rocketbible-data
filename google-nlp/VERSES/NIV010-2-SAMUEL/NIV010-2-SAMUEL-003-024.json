@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Abner",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0qkw",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abner"
+        },
+        "salience": 0.41485882,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abner",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Joab",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joab",
+            "mid": "\/m\/0jknj"
+        },
+        "salience": 0.38646245,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joab",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19867872,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

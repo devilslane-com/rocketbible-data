@@ -1,0 +1,144 @@
+[
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46178946,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Noah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05fzm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Noah"
+        },
+        "salience": 0.20709966,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Noah",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ark",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09467546,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ark",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ham",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0272rc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ham_(son_of_Noah)"
+        },
+        "salience": 0.06541718,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ham",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Ham",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Shem",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0788r",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Shem"
+        },
+        "salience": 0.05767095,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shem",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Japheth",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/046d3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Japheth"
+        },
+        "salience": 0.053027682,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Japheth",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.035636656,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Canaan",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/02q6yqy",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Canaan_(son_of_Ham)"
+        },
+        "salience": 0.013655654,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Canaan",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

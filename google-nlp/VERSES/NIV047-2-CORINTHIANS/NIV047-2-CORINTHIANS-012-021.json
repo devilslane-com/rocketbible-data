@@ -1,0 +1,80 @@
+[
+    {
+        "name": "many",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5690412,
+        "mentions": [
+            {
+                "text": {
+                    "content": "many",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "impurity",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22794513,
+        "mentions": [
+            {
+                "text": {
+                    "content": "impurity",
+                    "beginOffset": 154
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.07789136,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sin",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.062561154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sin",
+                    "beginOffset": 171
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "debauchery",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.062561154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "debauchery",
+                    "beginOffset": 179
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

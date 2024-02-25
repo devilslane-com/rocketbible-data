@@ -1,0 +1,147 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30417,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.1609564,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 175
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "friendship",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13648212,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friendship",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10913542,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10907913,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "enmity",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09746293,
+        "mentions": [
+            {
+                "text": {
+                    "content": "enmity",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.03759478,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 149
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "enemy",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.024683496,
+        "mentions": [
+            {
+                "text": {
+                    "content": "enemy",
+                    "beginOffset": 166
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "friend",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.020435728,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friend",
+                    "beginOffset": 135
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

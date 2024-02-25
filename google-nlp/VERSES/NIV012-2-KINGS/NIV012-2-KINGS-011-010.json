@@ -1,0 +1,95 @@
+[
+    {
+        "name": "spears",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5123113,
+        "mentions": [
+            {
+                "text": {
+                    "content": "spears",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "commanders",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16726339,
+        "mentions": [
+            {
+                "text": {
+                    "content": "commanders",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "shields",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11550998,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shields",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08204984,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "King David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.06484067,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King David",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05802486,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

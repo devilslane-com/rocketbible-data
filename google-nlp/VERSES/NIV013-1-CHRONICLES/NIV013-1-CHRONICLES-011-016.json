@@ -1,0 +1,86 @@
+[
+    {
+        "name": "stronghold",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.3520646,
+        "mentions": [
+            {
+                "text": {
+                    "content": "stronghold",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.34524205,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "garrison",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1277989,
+        "mentions": [
+            {
+                "text": {
+                    "content": "garrison",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Bethlehem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/013ksx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Bethlehem,_Pennsylvania"
+        },
+        "salience": 0.1071397,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bethlehem",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Philistine",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0618q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines"
+        },
+        "salience": 0.067754745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistine",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "answer",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.60245895,
+        "mentions": [
+            {
+                "text": {
+                    "content": "answer",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22040293,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews",
+            "mid": "\/m\/041rx"
+        },
+        "salience": 0.101401284,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 106
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.075736836,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

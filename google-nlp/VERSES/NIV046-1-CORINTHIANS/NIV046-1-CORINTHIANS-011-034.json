@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.60163784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Anyone",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "something",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25203347,
+        "mentions": [
+            {
+                "text": {
+                    "content": "something",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10870479,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "judgment",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.023703087,
+        "mentions": [
+            {
+                "text": {
+                    "content": "judgment",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "directions",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.013920833,
+        "mentions": [
+            {
+                "text": {
+                    "content": "directions",
+                    "beginOffset": 149
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

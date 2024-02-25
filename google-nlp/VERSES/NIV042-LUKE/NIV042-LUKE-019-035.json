@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.55921227,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "colt",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22296827,
+        "mentions": [
+            {
+                "text": {
+                    "content": "colt",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cloaks",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21781945,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cloaks",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

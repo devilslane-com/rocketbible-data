@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Hur",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.78674,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hur",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Uri",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/07wz2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Uniform_Resource_Identifier"
+        },
+        "salience": 0.121415265,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Uri",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Uri",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Bezalel",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Bezalel",
+            "mid": "\/m\/06mk19"
+        },
+        "salience": 0.04968233,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bezalel",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.042162415,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

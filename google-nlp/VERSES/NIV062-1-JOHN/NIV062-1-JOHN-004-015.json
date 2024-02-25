@@ -1,0 +1,67 @@
+[
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.59286225,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Son of God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Son_of_God",
+            "mid": "\/m\/06_5d"
+        },
+        "salience": 0.27574587,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Son of God",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.13139188,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

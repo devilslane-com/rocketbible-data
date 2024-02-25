@@ -1,0 +1,75 @@
+[
+    {
+        "name": "sinners",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.340306,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sinners",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sin",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2596964,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sin",
+                    "beginOffset": 137
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.2064857,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 121
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/041rx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews"
+        },
+        "salience": 0.19351189,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

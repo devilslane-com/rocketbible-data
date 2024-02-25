@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.65772784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "compassion",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25445893,
+        "mentions": [
+            {
+                "text": {
+                    "content": "compassion",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "eyes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07522824,
+        "mentions": [
+            {
+                "text": {
+                    "content": "eyes",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sight",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.012584992,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sight",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.45183787,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "demon",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.45091513,
+        "mentions": [
+            {
+                "text": {
+                    "content": "demon",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "boy",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09724703,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boy",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

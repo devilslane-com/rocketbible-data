@@ -1,0 +1,83 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.68315,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14030176,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.11758048,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "someone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.041192833,
+        "mentions": [
+            {
+                "text": {
+                    "content": "someone",
+                    "beginOffset": 137
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "John the Baptist",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/043mx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/John_the_Baptist"
+        },
+        "salience": 0.017774917,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John the Baptist",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

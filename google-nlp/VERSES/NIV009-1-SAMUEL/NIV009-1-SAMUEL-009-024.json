@@ -1,0 +1,124 @@
+[
+    {
+        "name": "cook",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.35348785,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cook",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "thigh",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.34571123,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thigh",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "front",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12635776,
+        "mentions": [
+            {
+                "text": {
+                    "content": "front",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul",
+            "mid": "\/m\/070hm"
+        },
+        "salience": 0.09118404,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 245
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Samuel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.041174088,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samuel",
+                    "beginOffset": 79
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Samuel",
+                    "beginOffset": 261
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "guests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02922358,
+        "mentions": [
+            {
+                "text": {
+                    "content": "guests",
+                    "beginOffset": 227
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "occasion",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.01286143,
+        "mentions": [
+            {
+                "text": {
+                    "content": "occasion",
+                    "beginOffset": 178
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

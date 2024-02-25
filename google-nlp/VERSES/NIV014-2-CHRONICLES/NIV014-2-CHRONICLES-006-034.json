@@ -1,0 +1,92 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.73617893,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "war",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.0869102,
+        "mentions": [
+            {
+                "text": {
+                    "content": "war",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "enemies",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0869102,
+        "mentions": [
+            {
+                "text": {
+                    "content": "enemies",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0419197,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 144
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.029505994,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Name",
+                    "beginOffset": 173
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.01857495,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 115
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

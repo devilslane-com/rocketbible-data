@@ -1,0 +1,98 @@
+[
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.74092835,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.117715105,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.052758515,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "family",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.040098224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "family",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.030398494,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Philistines",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0618q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines"
+        },
+        "salience": 0.018101307,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistines",
+                    "beginOffset": 109
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

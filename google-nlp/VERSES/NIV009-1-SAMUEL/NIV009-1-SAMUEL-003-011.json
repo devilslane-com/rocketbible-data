@@ -1,0 +1,95 @@
+[
+    {
+        "name": "something",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.44905585,
+        "mentions": [
+            {
+                "text": {
+                    "content": "something",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34369397,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.095619984,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everyone",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Samuel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.055958264,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samuel",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.03557284,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ears",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.020099098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ears",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

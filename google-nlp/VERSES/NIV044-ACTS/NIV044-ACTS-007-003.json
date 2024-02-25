@@ -1,0 +1,65 @@
+[
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.7087006,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18086101,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.07049721,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.03994117,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

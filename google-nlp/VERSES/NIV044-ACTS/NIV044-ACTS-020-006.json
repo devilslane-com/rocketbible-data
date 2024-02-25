@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Troas",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/013hr",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Alexandria_Troas"
+        },
+        "salience": 0.5621997,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Troas",
+                    "beginOffset": 109
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Philippi",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/06371",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philippi"
+        },
+        "salience": 0.18980883,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philippi",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Festival of Unleavened Bread",
+        "type": "EVENT",
+        "metadata": {
+            "mid": "\/m\/05rds",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Passover"
+        },
+        "salience": 0.18980883,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Festival of Unleavened Bread",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "others",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.058182605,
+        "mentions": [
+            {
+                "text": {
+                    "content": "others",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

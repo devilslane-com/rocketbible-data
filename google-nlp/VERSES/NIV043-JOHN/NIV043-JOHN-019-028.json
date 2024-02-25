@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.53224266,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 96
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.32454023,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Scripture",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/02mdj1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Religious_text"
+        },
+        "salience": 0.14321715,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Scripture",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

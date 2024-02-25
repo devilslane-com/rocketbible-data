@@ -1,0 +1,47 @@
+[
+    {
+        "name": "prisoners",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7091038,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prisoners",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dungeon",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21305552,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dungeon",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prison",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07784067,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prison",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

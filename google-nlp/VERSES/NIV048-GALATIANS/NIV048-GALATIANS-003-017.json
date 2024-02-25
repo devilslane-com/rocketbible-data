@@ -1,0 +1,65 @@
+[
+    {
+        "name": "law",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.4605642,
+        "mentions": [
+            {
+                "text": {
+                    "content": "law",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "covenant",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.30880266,
+        "mentions": [
+            {
+                "text": {
+                    "content": "covenant",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "promise",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16742532,
+        "mentions": [
+            {
+                "text": {
+                    "content": "promise",
+                    "beginOffset": 146
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.0632078,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 116
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

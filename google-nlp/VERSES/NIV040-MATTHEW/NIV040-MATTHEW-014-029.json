@@ -1,0 +1,65 @@
+[
+    {
+        "name": "boat",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.34475476,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boat",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.28262234,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.26227322,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.11034966,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 94
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

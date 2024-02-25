@@ -1,0 +1,47 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5697539,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "war",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.21633448,
+        "mentions": [
+            {
+                "text": {
+                    "content": "war",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "horn",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21391161,
+        "mentions": [
+            {
+                "text": {
+                    "content": "horn",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

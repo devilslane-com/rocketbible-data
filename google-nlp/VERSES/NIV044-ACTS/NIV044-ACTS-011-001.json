@@ -1,0 +1,101 @@
+[
+    {
+        "name": "apostles",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4381629,
+        "mentions": [
+            {
+                "text": {
+                    "content": "apostles",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "believers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21763113,
+        "mentions": [
+            {
+                "text": {
+                    "content": "believers",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.119250864,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0kf0p",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judea"
+        },
+        "salience": 0.09247942,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judea",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gentiles",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/018wvh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gentile"
+        },
+        "salience": 0.08616288,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gentiles",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.046312813,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 102
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

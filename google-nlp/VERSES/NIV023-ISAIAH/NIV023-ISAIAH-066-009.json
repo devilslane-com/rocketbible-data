@@ -1,0 +1,95 @@
+[
+    {
+        "name": "birth",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.36505726,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birth",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25153244,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "delivery",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2197358,
+        "mentions": [
+            {
+                "text": {
+                    "content": "delivery",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "delivery",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09882613,
+        "mentions": [
+            {
+                "text": {
+                    "content": "delivery",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.035838865,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 140
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "womb",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.029009491,
+        "mentions": [
+            {
+                "text": {
+                    "content": "womb",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

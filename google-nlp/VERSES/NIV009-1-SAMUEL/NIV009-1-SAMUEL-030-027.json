@@ -1,0 +1,65 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5126772,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Bethel",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.23226659,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bethel",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jattir",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/052x35",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jattir"
+        },
+        "salience": 0.17652155,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jattir",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ramoth Negev",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07853465,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ramoth Negev",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

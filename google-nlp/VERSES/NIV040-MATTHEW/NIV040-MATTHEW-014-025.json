@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.6128327,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "lake",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.38716727,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lake",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

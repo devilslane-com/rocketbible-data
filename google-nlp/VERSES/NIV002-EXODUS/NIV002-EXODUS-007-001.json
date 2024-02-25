@@ -1,0 +1,103 @@
+[
+    {
+        "name": "Aaron",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0llm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Aaron"
+        },
+        "salience": 0.4754355,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Aaron",
+                    "beginOffset": 91
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3849945,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses",
+            "mid": "\/m\/04yfh"
+        },
+        "salience": 0.061492737,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Pharaoh",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05sx9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharaoh"
+        },
+        "salience": 0.03903863,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.03903863,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

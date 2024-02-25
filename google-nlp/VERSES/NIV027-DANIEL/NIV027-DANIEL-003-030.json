@@ -1,0 +1,65 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.36318353,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Shadrach, Meshach and Abednego",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02plxdd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Shadrach,_Meshach,_and_Abednego"
+        },
+        "salience": 0.2832513,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shadrach, Meshach and Abednego",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Babylon",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.20199434,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylon",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "province",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15157083,
+        "mentions": [
+            {
+                "text": {
+                    "content": "province",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

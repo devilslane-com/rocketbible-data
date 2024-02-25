@@ -1,0 +1,65 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.60935724,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "war",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.26778266,
+        "mentions": [
+            {
+                "text": {
+                    "content": "war",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "force",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07510267,
+        "mentions": [
+            {
+                "text": {
+                    "content": "force",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Philistines",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines",
+            "mid": "\/m\/0618q"
+        },
+        "salience": 0.047757443,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistines",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

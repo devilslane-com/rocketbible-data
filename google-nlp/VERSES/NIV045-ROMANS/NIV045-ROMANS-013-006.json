@@ -1,0 +1,65 @@
+[
+    {
+        "name": "servants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6234179,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servants",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "taxes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17727517,
+        "mentions": [
+            {
+                "text": {
+                    "content": "taxes",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "authorities",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12419829,
+        "mentions": [
+            {
+                "text": {
+                    "content": "authorities",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.075108655,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

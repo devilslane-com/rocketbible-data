@@ -1,0 +1,87 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.5762942,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "commanders",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2275107,
+        "mentions": [
+            {
+                "text": {
+                    "content": "warriors",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "commanders",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bands",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11827732,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bands",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "army",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.040835418,
+        "mentions": [
+            {
+                "text": {
+                    "content": "army",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03708238,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

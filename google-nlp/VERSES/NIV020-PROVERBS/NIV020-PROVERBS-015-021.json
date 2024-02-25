@@ -1,0 +1,80 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.41585654,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "joy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2576152,
+        "mentions": [
+            {
+                "text": {
+                    "content": "joy",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Folly",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Folly",
+            "mid": "\/m\/0160m1"
+        },
+        "salience": 0.1976345,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Folly",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sense",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08861867,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sense",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "course",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.040275063,
+        "mentions": [
+            {
+                "text": {
+                    "content": "course",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.9199765,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 10
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "covers",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08002354,
+        "mentions": [
+            {
+                "text": {
+                    "content": "covers",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.63373876,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11258813,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Levites",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tribe_of_Levi",
+            "mid": "\/m\/010f4kdg"
+        },
+        "salience": 0.10656403,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levites",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "gates",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.086066544,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gates",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wall",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06104255,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wall",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Jonah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/044ch",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jonah"
+        },
+        "salience": 0.45460853,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jonah",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.22501142,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "journey",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22253856,
+        "mentions": [
+            {
+                "text": {
+                    "content": "journey",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nineveh",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/05fym",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nineveh"
+        },
+        "salience": 0.09784149,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nineveh",
+                    "beginOffset": 90
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

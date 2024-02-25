@@ -1,0 +1,65 @@
+[
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.5010814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hebrews",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j4s1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hebrews"
+        },
+        "salience": 0.21116015,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hebrews",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "dungeon",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17612869,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dungeon",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nothing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11162972,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nothing",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

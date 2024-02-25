@@ -1,0 +1,60 @@
+[
+    {
+        "name": "friends",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.83925956,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friends",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "enemies",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Herod",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0hsm_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Herod_the_Great"
+        },
+        "salience": 0.09518769,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Herod",
+                    "beginOffset": 9
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Pilate",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0svr8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pontius_Pilate"
+        },
+        "salience": 0.06555273,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pilate",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

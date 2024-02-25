@@ -1,0 +1,50 @@
+[
+    {
+        "name": "tunics",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.5727611,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tunics",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.24445496,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "camp",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18278393,
+        "mentions": [
+            {
+                "text": {
+                    "content": "camp",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

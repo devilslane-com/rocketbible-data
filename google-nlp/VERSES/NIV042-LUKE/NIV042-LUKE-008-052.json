@@ -1,0 +1,50 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.52150214,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mourning",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.38292828,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mourning",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.09556957,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

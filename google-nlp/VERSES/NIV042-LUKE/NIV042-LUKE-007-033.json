@@ -1,0 +1,65 @@
+[
+    {
+        "name": "John the Baptist",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/043mx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/John_the_Baptist"
+        },
+        "salience": 0.6696762,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John the Baptist",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wine",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.122533634,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bread",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.121142685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "demon",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.086647496,
+        "mentions": [
+            {
+                "text": {
+                    "content": "demon",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

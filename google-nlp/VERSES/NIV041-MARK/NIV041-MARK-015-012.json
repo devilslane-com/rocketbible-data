@@ -1,0 +1,68 @@
+[
+    {
+        "name": "one",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.43818274,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40387562,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/041rx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews"
+        },
+        "salience": 0.08219122,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Pilate",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0svr8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pontius_Pilate"
+        },
+        "salience": 0.07575043,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pilate",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

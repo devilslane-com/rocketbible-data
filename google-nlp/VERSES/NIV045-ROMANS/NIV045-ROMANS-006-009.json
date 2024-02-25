@@ -1,0 +1,65 @@
+[
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.39753446,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mastery",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.28026956,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mastery",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.17484958,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.14734639,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

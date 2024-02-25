@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Sovereign",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5292277,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Sovereign",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25042787,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.15202904,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "practices",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04194238,
+        "mentions": [
+            {
+                "text": {
+                    "content": "practices",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "idols",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.026373047,
+        "mentions": [
+            {
+                "text": {
+                    "content": "idols",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

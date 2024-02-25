@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.30969453,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 98
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29359022,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "signs",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20637824,
+        "mentions": [
+            {
+                "text": {
+                    "content": "signs",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19033703,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

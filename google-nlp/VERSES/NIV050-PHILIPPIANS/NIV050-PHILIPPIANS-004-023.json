@@ -1,0 +1,57 @@
+[
+    {
+        "name": "grace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5566942,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grace",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.39357623,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "spirit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.049729533,
+        "mentions": [
+            {
+                "text": {
+                    "content": "spirit",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

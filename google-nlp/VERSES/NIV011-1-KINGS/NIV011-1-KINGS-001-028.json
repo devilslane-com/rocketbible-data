@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Bathsheba",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.51052195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bathsheba",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "King David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.2718655,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King David",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19617407,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "presence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.021438504,
+        "mentions": [
+            {
+                "text": {
+                    "content": "presence",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

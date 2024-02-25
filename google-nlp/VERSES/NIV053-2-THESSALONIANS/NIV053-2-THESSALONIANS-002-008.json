@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.5687738,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lawless one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2791648,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lawless one",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "breath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05762896,
+        "mentions": [
+            {
+                "text": {
+                    "content": "breath",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "splendor",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.043868642,
+        "mentions": [
+            {
+                "text": {
+                    "content": "splendor",
+                    "beginOffset": 126
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "coming",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.030990921,
+        "mentions": [
+            {
+                "text": {
+                    "content": "coming",
+                    "beginOffset": 142
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mouth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0195729,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mouth",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

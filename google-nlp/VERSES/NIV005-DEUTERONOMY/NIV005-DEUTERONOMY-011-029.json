@@ -1,0 +1,116 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.35762966,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.31387,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.14277118,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "curses",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07138973,
+        "mentions": [
+            {
+                "text": {
+                    "content": "curses",
+                    "beginOffset": 156
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "blessings",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.045052733,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blessings",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mount Ebal",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/07rvck",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mount_Ebal"
+        },
+        "salience": 0.042530693,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mount Ebal",
+                    "beginOffset": 141
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Mount Gerizim",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/037vk5",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mount_Gerizim"
+        },
+        "salience": 0.026755996,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mount Gerizim",
+                    "beginOffset": 105
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

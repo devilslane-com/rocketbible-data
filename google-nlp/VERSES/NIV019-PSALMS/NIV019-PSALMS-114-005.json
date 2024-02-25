@@ -1,0 +1,35 @@
+[
+    {
+        "name": "sea",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.9857792,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sea",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jordan",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Michael_Jordan",
+            "mid": "\/m\/054c1"
+        },
+        "salience": 0.0142207965,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jordan",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

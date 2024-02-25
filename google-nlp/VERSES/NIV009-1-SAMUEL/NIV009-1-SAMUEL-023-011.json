@@ -1,0 +1,101 @@
+[
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3110215,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 128
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God of Israel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.26909822,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "God of Israel",
+                    "beginOffset": 103
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 148
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "citizens",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24281278,
+        "mentions": [
+            {
+                "text": {
+                    "content": "citizens",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Keilah",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0270gsp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Keilah"
+        },
+        "salience": 0.15116486,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Keilah",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.025902634,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

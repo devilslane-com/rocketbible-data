@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt",
+            "mid": "\/m\/02k54"
+        },
+        "salience": 0.6399118,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "trumpet",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16486222,
+        "mentions": [
+            {
+                "text": {
+                    "content": "trumpet",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bread",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.11673934,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "war",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.07848668,
+        "mentions": [
+            {
+                "text": {
+                    "content": "war",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

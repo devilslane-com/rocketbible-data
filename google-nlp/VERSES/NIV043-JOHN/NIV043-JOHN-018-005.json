@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Jesus of Nazareth",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.9743426,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus of Nazareth",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "traitor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.016110722,
+        "mentions": [
+            {
+                "text": {
+                    "content": "traitor",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judas",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0g3y0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judas_Iscariot"
+        },
+        "salience": 0.009546671,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judas",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

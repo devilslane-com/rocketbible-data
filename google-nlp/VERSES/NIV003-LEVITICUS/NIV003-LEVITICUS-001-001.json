@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5169631,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.3580184,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "tent",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.09289871,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tent",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "meeting",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.032119796,
+        "mentions": [
+            {
+                "text": {
+                    "content": "meeting",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

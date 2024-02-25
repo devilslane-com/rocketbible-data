@@ -1,0 +1,50 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.69859,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15158634,
+        "mentions": [
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "punishment",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1498237,
+        "mentions": [
+            {
+                "text": {
+                    "content": "punishment",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

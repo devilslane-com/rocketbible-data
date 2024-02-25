@@ -1,0 +1,62 @@
+[
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5791714,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "lamp",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.2929257,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lamp",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "light",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.085942,
+        "mentions": [
+            {
+                "text": {
+                    "content": "light",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "light",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.041960884,
+        "mentions": [
+            {
+                "text": {
+                    "content": "light",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

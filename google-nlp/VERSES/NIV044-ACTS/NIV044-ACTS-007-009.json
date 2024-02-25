@@ -1,0 +1,83 @@
+[
+    {
+        "name": "slave",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3543148,
+        "mentions": [
+            {
+                "text": {
+                    "content": "slave",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "patriarchs",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25484347,
+        "mentions": [
+            {
+                "text": {
+                    "content": "patriarchs",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Joseph",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2297228,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joseph",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.089013636,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 91
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.07210529,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

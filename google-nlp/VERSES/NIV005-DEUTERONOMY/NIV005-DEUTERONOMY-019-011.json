@@ -1,0 +1,77 @@
+[
+    {
+        "name": "someone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3883645,
+        "mentions": [
+            {
+                "text": {
+                    "content": "someone",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "assaults",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.19479497,
+        "mentions": [
+            {
+                "text": {
+                    "content": "assaults",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "neighbor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17998321,
+        "mentions": [
+            {
+                "text": {
+                    "content": "neighbor",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13829395,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cities",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09856338,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cities",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

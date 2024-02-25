@@ -1,0 +1,54 @@
+[
+    {
+        "name": "father-in-law",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8741844,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father-in-law",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08440922,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "drinking",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.041406326,
+        "mentions": [
+            {
+                "text": {
+                    "content": "drinking",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

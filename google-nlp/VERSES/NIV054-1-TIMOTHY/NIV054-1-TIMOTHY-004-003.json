@@ -1,0 +1,65 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.47834837,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "foods",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.38388133,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foods",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.07559044,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "truth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06217985,
+        "mentions": [
+            {
+                "text": {
+                    "content": "truth",
+                    "beginOffset": 163
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

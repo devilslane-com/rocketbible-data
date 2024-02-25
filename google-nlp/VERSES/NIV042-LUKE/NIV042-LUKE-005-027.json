@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.71977615,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 114
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Levi",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.094295286,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levi",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06391068,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tax collector",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06316377,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tax collector",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tax booth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.058854114,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tax booth",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

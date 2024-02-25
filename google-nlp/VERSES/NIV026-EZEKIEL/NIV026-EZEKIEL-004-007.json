@@ -1,0 +1,65 @@
+[
+    {
+        "name": "face",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5027389,
+        "mentions": [
+            {
+                "text": {
+                    "content": "face",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "siege",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.25647324,
+        "mentions": [
+            {
+                "text": {
+                    "content": "siege",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.1580004,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "arm prophesy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.082787484,
+        "mentions": [
+            {
+                "text": {
+                    "content": "arm prophesy",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

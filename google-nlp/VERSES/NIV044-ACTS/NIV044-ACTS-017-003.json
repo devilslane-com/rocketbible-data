@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Messiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04ys7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Messiah"
+        },
+        "salience": 0.8648629,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Messiah",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Messiah",
+                    "beginOffset": 123
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10184423,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.03329283,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

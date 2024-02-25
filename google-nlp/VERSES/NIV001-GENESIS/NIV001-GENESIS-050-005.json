@@ -1,0 +1,72 @@
+[
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7514966,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 159
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "oath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.119794644,
+        "mentions": [
+            {
+                "text": {
+                    "content": "oath",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tomb",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.083025776,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tomb",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land of Canaan",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0d9f2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Canaan"
+        },
+        "salience": 0.04568297,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land of Canaan",
+                    "beginOffset": 111
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

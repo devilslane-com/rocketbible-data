@@ -1,0 +1,95 @@
+[
+    {
+        "name": "all",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.27920085,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "blood",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22768874,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blood",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15951784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prophets",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15767445,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophets",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.09646808,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07945002,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

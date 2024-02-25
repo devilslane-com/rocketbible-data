@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses",
+            "mid": "\/m\/04yfh"
+        },
+        "salience": 0.3431828,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "community",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15439211,
+        "mentions": [
+            {
+                "text": {
+                    "content": "community",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Aaron",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0llm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Aaron"
+        },
+        "salience": 0.1358142,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aaron",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Desert of Paran",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Desert_of_Paran",
+            "mid": "\/m\/08jr0_"
+        },
+        "salience": 0.09355751,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Desert of Paran",
+                    "beginOffset": 85
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israelite",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.09243449,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelite",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Kadesh",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02_gp5",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kadesh_(biblical)"
+        },
+        "salience": 0.09243449,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Kadesh",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.037152193,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 189
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fruit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.027699092,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fruit",
+                    "beginOffset": 176
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "assembly",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.02333312,
+        "mentions": [
+            {
+                "text": {
+                    "content": "assembly",
+                    "beginOffset": 147
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

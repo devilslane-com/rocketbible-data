@@ -1,0 +1,87 @@
+[
+    {
+        "name": "ancestor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5288118,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ancestor",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Dan",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.32750592,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Dan",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Dan",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.06562023,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Laish",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.040985778,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Laish",
+                    "beginOffset": 103
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.037076242,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

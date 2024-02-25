@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.81786066,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "voice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15074173,
+        "mentions": [
+            {
+                "text": {
+                    "content": "voice",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lazarus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03bxbp2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Lazarus_of_Bethany"
+        },
+        "salience": 0.031397607,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lazarus",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

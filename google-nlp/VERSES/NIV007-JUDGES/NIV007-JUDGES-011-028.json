@@ -1,0 +1,83 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7647645,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "attention",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09227685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "attention",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ammon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0sk0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ammon"
+        },
+        "salience": 0.087383226,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ammon",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "message",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.031904783,
+        "mentions": [
+            {
+                "text": {
+                    "content": "message",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jephthah",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jephthah",
+            "mid": "\/m\/0146dm"
+        },
+        "salience": 0.023670638,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jephthah",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

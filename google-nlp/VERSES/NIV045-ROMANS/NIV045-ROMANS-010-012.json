@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.63509893,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11436472,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "difference",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10130833,
+        "mentions": [
+            {
+                "text": {
+                    "content": "difference",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06202505,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jew",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/041rx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews"
+        },
+        "salience": 0.051809844,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jew",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gentile",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/018wvh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gentile"
+        },
+        "salience": 0.035393093,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gentile",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

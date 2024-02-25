@@ -1,0 +1,102 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5386992,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Maon",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.2810657,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Maon",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "goats",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06976513,
+        "mentions": [
+            {
+                "text": {
+                    "content": "goats",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "property",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06036137,
+        "mentions": [
+            {
+                "text": {
+                    "content": "property",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Carmel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0r1yc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Carmel-by-the-Sea,_California"
+        },
+        "salience": 0.04381521,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Carmel",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Carmel",
+                    "beginOffset": 150
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sheep",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0062933504,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sheep",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

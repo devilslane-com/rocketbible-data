@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Simon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4045799,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Simon",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.3587997,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15022227,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.044434134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gentiles",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/018wvh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gentile"
+        },
+        "salience": 0.04196401,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gentiles",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

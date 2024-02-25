@@ -1,0 +1,39 @@
+[
+    {
+        "name": "gods",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.9162935,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gods",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "gods",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "peoples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0837065,
+        "mentions": [
+            {
+                "text": {
+                    "content": "peoples",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

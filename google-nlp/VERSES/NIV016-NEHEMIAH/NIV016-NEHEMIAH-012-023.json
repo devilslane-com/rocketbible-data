@@ -1,0 +1,128 @@
+[
+    {
+        "name": "family",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.38565347,
+        "mentions": [
+            {
+                "text": {
+                    "content": "family",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "descendants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16516414,
+        "mentions": [
+            {
+                "text": {
+                    "content": "descendants",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.106653675,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "book",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.081390195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "book",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Johanan",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05f6dsz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Johanan_(High_Priest)"
+        },
+        "salience": 0.06997741,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Johanan",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Levi",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06914975,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levi",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Eliashib",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Eliashib_(High_Priest)",
+            "mid": "\/m\/05f2vrt"
+        },
+        "salience": 0.064378776,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Eliashib",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "annals",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0576326,
+        "mentions": [
+            {
+                "text": {
+                    "content": "annals",
+                    "beginOffset": 122
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

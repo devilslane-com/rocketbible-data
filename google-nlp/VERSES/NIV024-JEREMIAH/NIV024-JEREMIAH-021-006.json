@@ -1,0 +1,62 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.29340887,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.2900182,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "beast",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.27043667,
+        "mentions": [
+            {
+                "text": {
+                    "content": "beast",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "plague",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.14613625,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plague",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

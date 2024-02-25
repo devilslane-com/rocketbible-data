@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Asa",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.46467885,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Asa",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "war",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.20892678,
+        "mentions": [
+            {
+                "text": {
+                    "content": "war",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13078277,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "reigns",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09198969,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reigns",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Baasha",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Baasha_of_Israel",
+            "mid": "\/m\/023bgx"
+        },
+        "salience": 0.0790906,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Baasha",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04fry",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kingdom_of_Israel_(Samaria)"
+        },
+        "salience": 0.024531307,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

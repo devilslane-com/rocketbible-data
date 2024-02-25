@@ -1,0 +1,50 @@
+[
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7514761,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "situation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20841454,
+        "mentions": [
+            {
+                "text": {
+                    "content": "situation",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.040109325,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

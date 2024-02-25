@@ -1,0 +1,113 @@
+[
+    {
+        "name": "human",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46499187,
+        "mentions": [
+            {
+                "text": {
+                    "content": "human",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "male",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.29207674,
+        "mentions": [
+            {
+                "text": {
+                    "content": "male",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mine",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09135374,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mine",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "animal",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.071393415,
+        "mentions": [
+            {
+                "text": {
+                    "content": "animal",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.062871315,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "firstborn",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.010873347,
+        "mentions": [
+            {
+                "text": {
+                    "content": "firstborn",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.0064395745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 106
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

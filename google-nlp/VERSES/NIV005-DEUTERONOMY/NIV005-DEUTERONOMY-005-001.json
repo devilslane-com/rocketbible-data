@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30288815,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.28788933,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "decrees",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14010243,
+        "mentions": [
+            {
+                "text": {
+                    "content": "decrees",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "laws",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14010243,
+        "mentions": [
+            {
+                "text": {
+                    "content": "laws",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hearing",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.12901764,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hearing",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

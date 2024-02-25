@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.8616356,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 10
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sheep",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08462755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sheep",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gate",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.053736806,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gate",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

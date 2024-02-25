@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Sovereign",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.825034,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Sovereign",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04834929,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "monster",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0444393,
+        "mentions": [
+            {
+                "text": {
+                    "content": "monster",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pharaoh",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05sx9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharaoh"
+        },
+        "salience": 0.028831279,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 87
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.028831279,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 103
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "streams",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.014875877,
+        "mentions": [
+            {
+                "text": {
+                    "content": "streams",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nile",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/05b5w",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nile"
+        },
+        "salience": 0.009638967,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nile",
+                    "beginOffset": 170
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Zion",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.71013993,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zion",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "mountain",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.28986007,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

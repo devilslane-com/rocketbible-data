@@ -1,0 +1,110 @@
+[
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3750417,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zechariah",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zechariah_(Hebrew_prophet)",
+            "mid": "\/m\/089bt"
+        },
+        "salience": 0.22016828,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zechariah",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "gatekeeper",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.111533694,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gatekeeper",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "entrance",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09600607,
+        "mentions": [
+            {
+                "text": {
+                    "content": "entrance",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Meshelemiah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09086921,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Meshelemiah",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "meeting",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.0733906,
+        "mentions": [
+            {
+                "text": {
+                    "content": "meeting",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tent",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.03299047,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tent",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

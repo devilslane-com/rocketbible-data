@@ -1,0 +1,62 @@
+[
+    {
+        "name": "custom",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7314146,
+        "mentions": [
+            {
+                "text": {
+                    "content": "custom",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12889287,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "festival",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.10167696,
+        "mentions": [
+            {
+                "text": {
+                    "content": "festival",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prisoner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.038015578,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prisoner",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

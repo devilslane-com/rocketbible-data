@@ -1,0 +1,131 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.698882,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1404553,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Prophets",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.058587506,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Prophets",
+                    "beginOffset": 236
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "numbers",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05754861,
+        "mentions": [
+            {
+                "text": {
+                    "content": "numbers",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kingdom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.026061129,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdom",
+                    "beginOffset": 181
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.008190751,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 277
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.005137357,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 192
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Law of Moses",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/0h66s27",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Law_of_Moses"
+        },
+        "salience": 0.005137357,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Law of Moses",
+                    "beginOffset": 210
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

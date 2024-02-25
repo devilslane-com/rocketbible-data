@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Nazareth",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.486179,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nazareth",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "synagogue",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.20709184,
+        "mentions": [
+            {
+                "text": {
+                    "content": "synagogue",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "custom",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17134313,
+        "mentions": [
+            {
+                "text": {
+                    "content": "custom",
+                    "beginOffset": 113
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sabbath",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Biblical_Sabbath",
+            "mid": "\/m\/05pdjw_"
+        },
+        "salience": 0.13538603,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sabbath",
+                    "beginOffset": 62
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "descendants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.68769467,
+        "mentions": [
+            {
+                "text": {
+                    "content": "descendants",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "strangers",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.14910166,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.099291064,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06391264,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

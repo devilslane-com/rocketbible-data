@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5978522,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nations",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15919757,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nations",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "compassion",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09168546,
+        "mentions": [
+            {
+                "text": {
+                    "content": "compassion",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.080707155,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "fortunes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07055767,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fortunes",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "cross",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.43382007,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cross",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.35686535,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.13598746,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07332714,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

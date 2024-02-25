@@ -1,0 +1,68 @@
+[
+    {
+        "name": "kingdom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.5127609,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdom",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.21909876,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "news",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19502166,
+        "mentions": [
+            {
+                "text": {
+                    "content": "news",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Repent",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/014syz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Repentance"
+        },
+        "salience": 0.073118724,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Repent",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

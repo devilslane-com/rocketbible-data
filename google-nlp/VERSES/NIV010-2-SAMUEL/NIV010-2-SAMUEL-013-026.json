@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Absalom",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pxb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Absalom"
+        },
+        "salience": 0.64921355,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Absalom",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Amnon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0138d",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Amnon"
+        },
+        "salience": 0.32603085,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Amnon",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.024755599,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

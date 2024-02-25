@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Delilah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6466465,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Delilah",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Samson",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Samson",
+            "mid": "\/m\/012zc3"
+        },
+        "salience": 0.24204254,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samson",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "fool",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11131097,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fool",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

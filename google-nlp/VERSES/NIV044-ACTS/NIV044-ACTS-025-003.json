@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4913401,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "favor",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18674706,
+        "mentions": [
+            {
+                "text": {
+                    "content": "favor",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Festus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14512521,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Festus",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.07838023,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.064474694,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 138
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ambush",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.03393272,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ambush",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

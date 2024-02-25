@@ -1,0 +1,83 @@
+[
+    {
+        "name": "faith",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.28772736,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faith",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "love",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.26830047,
+        "mentions": [
+            {
+                "text": {
+                    "content": "love",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.1760368,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ Jesus",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1449819,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.12295345,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 85
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.6078386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.25031143,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 79
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "hope",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09399582,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hope",
+                    "beginOffset": 128
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hold",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04785418,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hold",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

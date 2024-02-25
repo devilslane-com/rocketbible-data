@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.9263855,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Neither",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02934408,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Neither",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "authority",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.025996596,
+        "mentions": [
+            {
+                "text": {
+                    "content": "authority",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.018273786,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

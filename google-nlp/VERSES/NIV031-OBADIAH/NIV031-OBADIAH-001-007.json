@@ -1,0 +1,77 @@
+[
+    {
+        "name": "friends",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.35474795,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friends",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "allies",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.27276063,
+        "mentions": [
+            {
+                "text": {
+                    "content": "allies",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "trap",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19339642,
+        "mentions": [
+            {
+                "text": {
+                    "content": "trap",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "border",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10941859,
+        "mentions": [
+            {
+                "text": {
+                    "content": "border",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bread",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.069676414,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

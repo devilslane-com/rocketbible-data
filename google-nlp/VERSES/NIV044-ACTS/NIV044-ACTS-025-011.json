@@ -1,0 +1,110 @@
+[
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.35223266,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.35223266,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anything",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "charges",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11651033,
+        "mentions": [
+            {
+                "text": {
+                    "content": "charges",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews",
+            "mid": "\/m\/041rx"
+        },
+        "salience": 0.065203585,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 131
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "no one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.042893793,
+        "mentions": [
+            {
+                "text": {
+                    "content": "no one",
+                    "beginOffset": 150
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "right",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0365805,
+        "mentions": [
+            {
+                "text": {
+                    "content": "right",
+                    "beginOffset": 165
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Caesar",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03434646,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Caesar",
+                    "beginOffset": 208
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

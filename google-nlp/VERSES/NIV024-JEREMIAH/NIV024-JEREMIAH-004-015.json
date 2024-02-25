@@ -1,0 +1,77 @@
+[
+    {
+        "name": "voice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5039302,
+        "mentions": [
+            {
+                "text": {
+                    "content": "voice",
+                    "beginOffset": 2
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disaster",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.2009084,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disaster",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Dan",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13159414,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Dan",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ephraim",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.093530074,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ephraim",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "hills",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.070037186,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hills",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

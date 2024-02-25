@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.7517606,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "answer",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1632431,
+        "mentions": [
+            {
+                "text": {
+                    "content": "answer",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "high priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.048135437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "high priest",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Son of the Blessed One",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.023675578,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son of the Blessed One",
+                    "beginOffset": 107
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Messiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04ys7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Messiah"
+        },
+        "salience": 0.013185262,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Messiah",
+                    "beginOffset": 94
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

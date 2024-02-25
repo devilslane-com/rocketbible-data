@@ -1,0 +1,65 @@
+[
+    {
+        "name": "some",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.4259145,
+        "mentions": [
+            {
+                "text": {
+                    "content": "some",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "unfaithfulness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2929013,
+        "mentions": [
+            {
+                "text": {
+                    "content": "unfaithfulness",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "faithfulness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2224906,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faithfulness",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.058693588,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

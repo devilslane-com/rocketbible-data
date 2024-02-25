@@ -1,0 +1,65 @@
+[
+    {
+        "name": "resting place",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.4118668,
+        "mentions": [
+            {
+                "text": {
+                    "content": "resting place",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "inheritance",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.37985355,
+        "mentions": [
+            {
+                "text": {
+                    "content": "inheritance",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13052869,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.077750966,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

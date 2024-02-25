@@ -1,0 +1,65 @@
+[
+    {
+        "name": "blessing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5670359,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blessing",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17013623,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "commands",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16817012,
+        "mentions": [
+            {
+                "text": {
+                    "content": "commands",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.09465772,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.5008729,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sadducees",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/0196f4",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sadducees"
+        },
+        "salience": 0.3546545,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sadducees",
+                    "beginOffset": 36
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Pharisees",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharisees",
+            "mid": "\/m\/0j3fm"
+        },
+        "salience": 0.14447258,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharisees",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5827558,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.22011153,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prince",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.110939644,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prince",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.04755426,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 91
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "offering",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03863878,
+        "mentions": [
+            {
+                "text": {
+                    "content": "offering",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

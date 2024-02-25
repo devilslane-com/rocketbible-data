@@ -1,0 +1,95 @@
+[
+    {
+        "name": "leaders",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.50423294,
+        "mentions": [
+            {
+                "text": {
+                    "content": "leaders",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "realm",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2913344,
+        "mentions": [
+            {
+                "text": {
+                    "content": "realm",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "allies",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.085079625,
+        "mentions": [
+            {
+                "text": {
+                    "content": "allies",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt",
+            "mid": "\/m\/02k54"
+        },
+        "salience": 0.050610106,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04213303,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 172
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "uncircumcised",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.026609909,
+        "mentions": [
+            {
+                "text": {
+                    "content": "uncircumcised",
+                    "beginOffset": 132
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

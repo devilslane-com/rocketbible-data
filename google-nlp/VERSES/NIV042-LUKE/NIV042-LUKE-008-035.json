@@ -1,0 +1,87 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.746634,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16269198,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "demons",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.049196176,
+        "mentions": [
+            {
+                "text": {
+                    "content": "demons",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.021078957,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 140
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mind",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02039889,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mind",
+                    "beginOffset": 180
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

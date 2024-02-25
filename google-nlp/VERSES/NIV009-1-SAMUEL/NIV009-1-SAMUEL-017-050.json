@@ -1,0 +1,102 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5002982,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Philistine",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0618q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines"
+        },
+        "salience": 0.21059081,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistine",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Philistine",
+                    "beginOffset": 112
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "stone",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08973144,
+        "mentions": [
+            {
+                "text": {
+                    "content": "stone",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sling",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08868276,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sling",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08263195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.028064832,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

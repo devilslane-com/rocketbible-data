@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6821735,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Cain",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01bc6h",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cain_and_Abel"
+        },
+        "salience": 0.0707209,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cain",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Abel",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "brother's keeper",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.01936277,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother\u2019s keeper",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

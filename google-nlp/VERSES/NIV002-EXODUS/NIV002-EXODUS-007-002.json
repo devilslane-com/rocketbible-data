@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Aaron",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7387502,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Aaron",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14865443,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.051119145,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 119
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pharaoh",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05sx9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharaoh"
+        },
+        "salience": 0.04278005,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israelites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.018696127,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 94
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.96450996,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.024634479,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 100
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Nazarene",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/06zkbqf",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nazarene_(title)"
+        },
+        "salience": 0.010855529,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nazarene",
+                    "beginOffset": 90
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

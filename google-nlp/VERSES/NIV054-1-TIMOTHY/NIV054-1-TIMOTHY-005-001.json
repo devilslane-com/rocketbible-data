@@ -1,0 +1,54 @@
+[
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.91595054,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0493158,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03473368,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

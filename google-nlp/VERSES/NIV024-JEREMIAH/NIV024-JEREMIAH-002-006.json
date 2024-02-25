@@ -1,0 +1,169 @@
+[
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.3795159,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 154
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 192
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21722147,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wilderness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07439259,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wilderness",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "deserts",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06839135,
+        "mentions": [
+            {
+                "text": {
+                    "content": "deserts",
+                    "beginOffset": 131
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ravines",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06839135,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ravines",
+                    "beginOffset": 143
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05885882,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 206
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.04387393,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "no one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.043491744,
+        "mentions": [
+            {
+                "text": {
+                    "content": "no one",
+                    "beginOffset": 222
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "drought",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.022931425,
+        "mentions": [
+            {
+                "text": {
+                    "content": "drought",
+                    "beginOffset": 162
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "darkness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.022931425,
+        "mentions": [
+            {
+                "text": {
+                    "content": "darkness",
+                    "beginOffset": 180
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

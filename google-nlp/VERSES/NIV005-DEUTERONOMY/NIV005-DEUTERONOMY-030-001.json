@@ -1,0 +1,95 @@
+[
+    {
+        "name": "blessings",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5818256,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blessings",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "curses",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17045234,
+        "mentions": [
+            {
+                "text": {
+                    "content": "curses",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heart",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10882052,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heart",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nations",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.05825016,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nations",
+                    "beginOffset": 148
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.04931677,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 120
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03133459,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

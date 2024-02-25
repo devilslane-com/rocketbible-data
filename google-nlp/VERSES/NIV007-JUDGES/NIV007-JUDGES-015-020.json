@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Samson",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.70893764,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samson",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.19381426,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Philistines",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0618q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines"
+        },
+        "salience": 0.09724811,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistines",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

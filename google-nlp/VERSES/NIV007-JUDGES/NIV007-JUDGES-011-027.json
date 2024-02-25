@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Judge",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4882804,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Judge",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "war",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.34093553,
+        "mentions": [
+            {
+                "text": {
+                    "content": "war",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israelites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.069859415,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 142
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "dispute",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.0519251,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dispute",
+                    "beginOffset": 113
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ammonites",
+        "type": "CONSUMER_GOOD",
+        "metadata": {
+            "mid": "\/m\/0sk0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ammon"
+        },
+        "salience": 0.048999563,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ammonites",
+                    "beginOffset": 161
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7554858,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09764138,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mount of Olives",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0j488",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mount_of_Olives"
+        },
+        "salience": 0.09391582,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mount of Olives",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "head",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.048366047,
+        "mentions": [
+            {
+                "text": {
+                    "content": "head",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heads",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0045909686,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heads",
+                    "beginOffset": 144
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

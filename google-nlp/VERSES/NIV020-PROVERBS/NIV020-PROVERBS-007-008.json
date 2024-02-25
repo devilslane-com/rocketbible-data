@@ -1,0 +1,62 @@
+[
+    {
+        "name": "corner",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.31312752,
+        "mentions": [
+            {
+                "text": {
+                    "content": "corner",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "street",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.30953708,
+        "mentions": [
+            {
+                "text": {
+                    "content": "street",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "direction",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22076102,
+        "mentions": [
+            {
+                "text": {
+                    "content": "direction",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15657438,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

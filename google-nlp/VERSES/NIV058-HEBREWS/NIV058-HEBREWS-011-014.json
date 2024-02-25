@@ -1,0 +1,47 @@
+[
+    {
+        "name": "People",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6969062,
+        "mentions": [
+            {
+                "text": {
+                    "content": "People",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24736497,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.055728845,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

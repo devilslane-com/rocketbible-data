@@ -1,0 +1,68 @@
+[
+    {
+        "name": "grace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5487005,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grace",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "favor",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17125745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "favor",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Scripture",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Religious_text",
+            "mid": "\/m\/02mdj1"
+        },
+        "salience": 0.14509928,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Scripture",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.13494273,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

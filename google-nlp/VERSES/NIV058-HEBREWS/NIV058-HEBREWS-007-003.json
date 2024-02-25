@@ -1,0 +1,95 @@
+[
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34165764,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34165764,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "genealogy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14850357,
+        "mentions": [
+            {
+                "text": {
+                    "content": "genealogy",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09627613,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.052198578,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Son of God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06_5d",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Son_of_God"
+        },
+        "salience": 0.019706443,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son of God",
+                    "beginOffset": 102
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

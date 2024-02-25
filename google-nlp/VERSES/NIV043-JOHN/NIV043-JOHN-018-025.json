@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Simon Peter",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/071wp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saint_Peter"
+        },
+        "salience": 0.93415576,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Simon Peter",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03805317,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.027791098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

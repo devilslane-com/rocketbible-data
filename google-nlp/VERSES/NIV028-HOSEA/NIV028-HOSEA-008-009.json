@@ -1,0 +1,65 @@
+[
+    {
+        "name": "donkey",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5155993,
+        "mentions": [
+            {
+                "text": {
+                    "content": "donkey",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Assyria",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0wmn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Assyria"
+        },
+        "salience": 0.31035525,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Assyria",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "lovers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12665562,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lovers",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ephraim",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04738985,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ephraim",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.915823,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.084177025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

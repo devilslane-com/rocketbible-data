@@ -1,0 +1,47 @@
+[
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.67515665,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "neighbor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21488382,
+        "mentions": [
+            {
+                "text": {
+                    "content": "neighbor",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "curse",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10995955,
+        "mentions": [
+            {
+                "text": {
+                    "content": "curse",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Canaan",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d9f2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Canaan"
+        },
+        "salience": 0.771513,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Canaan",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "firstborn",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.112625524,
+        "mentions": [
+            {
+                "text": {
+                    "content": "firstborn",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sidon",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/070rd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sidon"
+        },
+        "salience": 0.0677928,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sidon",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hittites",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hittites",
+            "mid": "\/m\/03gsz"
+        },
+        "salience": 0.04806868,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hittites",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

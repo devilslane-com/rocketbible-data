@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Pilate",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0svr8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pontius_Pilate"
+        },
+        "salience": 0.4868974,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pilate",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.24310362,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "crowd",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1932499,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crowd",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Barabbas",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02gl4g",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Barabbas"
+        },
+        "salience": 0.07674906,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Barabbas",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

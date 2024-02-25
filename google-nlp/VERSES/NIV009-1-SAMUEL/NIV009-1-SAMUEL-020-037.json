@@ -1,0 +1,84 @@
+[
+    {
+        "name": "boy",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4119912,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boy",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.29735026,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "arrow",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.108399294,
+        "mentions": [
+            {
+                "text": {
+                    "content": "arrow",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jonathan",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09121276,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jonathan",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jonathan",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "arrow",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09104649,
+        "mentions": [
+            {
+                "text": {
+                    "content": "arrow",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

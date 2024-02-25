@@ -1,0 +1,105 @@
+[
+    {
+        "name": "prisoner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5348645,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prisoner",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mark",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1732793,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mark",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "cousin",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Aristarchus",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/0jyj8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Aristarchus_of_Samos"
+        },
+        "salience": 0.13566633,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aristarchus",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "greetings",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.0889654,
+        "mentions": [
+            {
+                "text": {
+                    "content": "greetings",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Barnabas",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/01grh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Barnabas"
+        },
+        "salience": 0.036850095,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Barnabas",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "instructions",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.030374391,
+        "mentions": [
+            {
+                "text": {
+                    "content": "instructions",
+                    "beginOffset": 113
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

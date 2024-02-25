@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6091982,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.17232911,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Horeb",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03hfz9x",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mount_Horeb"
+        },
+        "salience": 0.11975822,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Horeb",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mountain",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09871444,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mountain",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

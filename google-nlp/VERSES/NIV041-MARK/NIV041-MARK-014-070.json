@@ -1,0 +1,50 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8531011,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.090985656,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Galilean",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06rzs8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Galilean"
+        },
+        "salience": 0.055913277,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Galilean",
+                    "beginOffset": 122
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

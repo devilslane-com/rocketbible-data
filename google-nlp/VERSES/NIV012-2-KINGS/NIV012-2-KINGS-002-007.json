@@ -1,0 +1,128 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40576378,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1662427,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "company",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.13529493,
+        "mentions": [
+            {
+                "text": {
+                    "content": "company",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prophets",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13529493,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophets",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "distance",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.094532184,
+        "mentions": [
+            {
+                "text": {
+                    "content": "distance",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jordan",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.02801383,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jordan",
+                    "beginOffset": 133
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Elisha",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0crqz1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Elisha"
+        },
+        "salience": 0.017641483,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Elisha",
+                    "beginOffset": 107
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Elijah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02p7w",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Elijah"
+        },
+        "salience": 0.017216146,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Elijah",
+                    "beginOffset": 96
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

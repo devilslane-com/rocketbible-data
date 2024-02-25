@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Esau",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8390335,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Esau",
+                    "beginOffset": 91
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "gift",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16096649,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gift",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

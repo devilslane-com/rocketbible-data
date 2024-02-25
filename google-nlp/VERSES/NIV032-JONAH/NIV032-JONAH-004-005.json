@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Jonah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.74806684,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jonah",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09374594,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0729918,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "shelter",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.057613347,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shelter",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.01776306,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 154
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "shade",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.00981902,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shade",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.43992195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "family",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22482514,
+        "mentions": [
+            {
+                "text": {
+                    "content": "family",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "church",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.15850611,
+        "mentions": [
+            {
+                "text": {
+                    "content": "church",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.09539604,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 79
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "care",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.081350744,
+        "mentions": [
+            {
+                "text": {
+                    "content": "care",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

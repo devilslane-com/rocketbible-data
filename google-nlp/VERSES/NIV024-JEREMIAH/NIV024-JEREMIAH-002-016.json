@@ -1,0 +1,68 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4274909,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "skull",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21546209,
+        "mentions": [
+            {
+                "text": {
+                    "content": "skull",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Memphis",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0c_m3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Memphis,_Tennessee"
+        },
+        "salience": 0.18582633,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Memphis",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Tahpanhes",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/052nxl",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tahpanhes"
+        },
+        "salience": 0.17122068,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Tahpanhes",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "firstborn",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.53193027,
+        "mentions": [
+            {
+                "text": {
+                    "content": "firstborn",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.298316,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "love",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1697537,
+        "mentions": [
+            {
+                "text": {
+                    "content": "love",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.33651626,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Haman",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Haman",
+            "mid": "\/m\/04742r"
+        },
+        "salience": 0.29388818,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Haman",
+                    "beginOffset": 9
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Haman",
+                    "beginOffset": 100
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Esther",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Book_of_Esther",
+            "mid": "\/m\/01dpg"
+        },
+        "salience": 0.2414118,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Esther",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Esther",
+                    "beginOffset": 126
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "banquet",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.076559074,
+        "mentions": [
+            {
+                "text": {
+                    "content": "banquet",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.051624674,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

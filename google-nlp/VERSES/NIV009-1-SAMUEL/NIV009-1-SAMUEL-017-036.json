@@ -1,0 +1,113 @@
+[
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4701215,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lion",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1496926,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lion",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bear",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10314147,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bear",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.096104145,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Philistine",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines",
+            "mid": "\/m\/0618q"
+        },
+        "salience": 0.07696778,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistine",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "armies",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.073156945,
+        "mentions": [
+            {
+                "text": {
+                    "content": "armies",
+                    "beginOffset": 134
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.030815551,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 155
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

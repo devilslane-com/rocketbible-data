@@ -1,0 +1,54 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8106505,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1288091,
+        "mentions": [
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "commands",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.060540374,
+        "mentions": [
+            {
+                "text": {
+                    "content": "commands",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

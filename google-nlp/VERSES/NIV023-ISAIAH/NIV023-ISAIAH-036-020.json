@@ -1,0 +1,95 @@
+[
+    {
+        "name": "gods",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.31360835,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gods",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "countries",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.31360835,
+        "mentions": [
+            {
+                "text": {
+                    "content": "countries",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lands",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.2186382,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lands",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05719715,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.052524023,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 131
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.04442395,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 113
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

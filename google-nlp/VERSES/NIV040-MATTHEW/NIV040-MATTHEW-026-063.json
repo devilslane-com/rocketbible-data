@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.6323304,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "high priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.26265514,
+        "mentions": [
+            {
+                "text": {
+                    "content": "high priest",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Son of God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06_5d",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Son_of_God"
+        },
+        "salience": 0.04308714,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 97
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Son of God",
+                    "beginOffset": 138
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "oath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.040714078,
+        "mentions": [
+            {
+                "text": {
+                    "content": "oath",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Messiah",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Messiah",
+            "mid": "\/m\/04ys7"
+        },
+        "salience": 0.02121326,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Messiah",
+                    "beginOffset": 125
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

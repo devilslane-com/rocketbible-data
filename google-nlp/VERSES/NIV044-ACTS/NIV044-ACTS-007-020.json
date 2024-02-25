@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses",
+            "mid": "\/m\/04yfh"
+        },
+        "salience": 0.97756666,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "child",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "family",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02243333,
+        "mentions": [
+            {
+                "text": {
+                    "content": "family",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

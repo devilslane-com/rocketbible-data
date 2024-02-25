@@ -1,0 +1,68 @@
+[
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4432163,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.40307954,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "parables",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.09609579,
+        "mentions": [
+            {
+                "text": {
+                    "content": "parables",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pharisees",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/0j3fm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharisees"
+        },
+        "salience": 0.057608385,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharisees",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

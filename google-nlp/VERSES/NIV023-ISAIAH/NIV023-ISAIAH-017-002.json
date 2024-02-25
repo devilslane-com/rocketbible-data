@@ -1,0 +1,65 @@
+[
+    {
+        "name": "cities",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.3858564,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cities",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "flocks",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2766156,
+        "mentions": [
+            {
+                "text": {
+                    "content": "flocks",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Aroer",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/052p41",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Aroer_(Moab)"
+        },
+        "salience": 0.25224167,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aroer",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "no one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08528638,
+        "mentions": [
+            {
+                "text": {
+                    "content": "no one",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

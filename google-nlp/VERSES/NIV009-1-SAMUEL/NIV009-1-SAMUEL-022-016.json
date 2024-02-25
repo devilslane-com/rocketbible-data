@@ -1,0 +1,50 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7044384,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "family",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1648339,
+        "mentions": [
+            {
+                "text": {
+                    "content": "family",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ahimelek",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0hy38",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ahimelech"
+        },
+        "salience": 0.13072772,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ahimelek",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

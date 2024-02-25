@@ -1,0 +1,54 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7662203,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 142
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "journey",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.11756621,
+        "mentions": [
+            {
+                "text": {
+                    "content": "journey",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "queen",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11621354,
+        "mentions": [
+            {
+                "text": {
+                    "content": "queen",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Lot",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.775167,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lot",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "herds",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07436596,
+        "mentions": [
+            {
+                "text": {
+                    "content": "herds",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abram",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pwb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam"
+        },
+        "salience": 0.064051814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abram",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "tents",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.052854,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tents",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "flocks",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.033561237,
+        "mentions": [
+            {
+                "text": {
+                    "content": "flocks",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

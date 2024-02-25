@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4071091,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bread",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.34034383,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wine",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.14135957,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "drink",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09721556,
+        "mentions": [
+            {
+                "text": {
+                    "content": "drink",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.013971909,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 119
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

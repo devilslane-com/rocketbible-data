@@ -1,0 +1,35 @@
+[
+    {
+        "name": "temple",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.62226415,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.37773585,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.35172808,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wrath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2701675,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wrath",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Son",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.20016,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Son",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11921472,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.05872972,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 97
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

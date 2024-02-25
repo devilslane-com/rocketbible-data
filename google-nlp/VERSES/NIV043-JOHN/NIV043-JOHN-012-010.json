@@ -1,0 +1,50 @@
+[
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5352943,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "plans",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.387262,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plans",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lazarus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03bxbp2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Lazarus_of_Bethany"
+        },
+        "salience": 0.07744374,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lazarus",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.43726343,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.27783087,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "books",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.15661202,
+        "mentions": [
+            {
+                "text": {
+                    "content": "books",
+                    "beginOffset": 141
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09001369,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "room",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.019373972,
+        "mentions": [
+            {
+                "text": {
+                    "content": "room",
+                    "beginOffset": 128
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.018906005,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

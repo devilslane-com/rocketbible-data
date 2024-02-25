@@ -1,0 +1,60 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.74169564,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 85
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hebron",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.2393199,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hebron",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.018984465,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 102
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

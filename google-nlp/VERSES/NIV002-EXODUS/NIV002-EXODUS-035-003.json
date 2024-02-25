@@ -1,0 +1,65 @@
+[
+    {
+        "name": "fire",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.4008717,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fire",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "any",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.28140548,
+        "mentions": [
+            {
+                "text": {
+                    "content": "any",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dwellings",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.262953,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dwellings",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sabbath",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05pdjw_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Biblical_Sabbath"
+        },
+        "salience": 0.054769814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sabbath",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Joshua",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.29045475,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joshua",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "noise",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22087093,
+        "mentions": [
+            {
+                "text": {
+                    "content": "noise",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15253067,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "war",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.108346626,
+        "mentions": [
+            {
+                "text": {
+                    "content": "war",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses",
+            "mid": "\/m\/04yfh"
+        },
+        "salience": 0.09309625,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "camp",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0766217,
+        "mentions": [
+            {
+                "text": {
+                    "content": "camp",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sound",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05807907,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sound",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

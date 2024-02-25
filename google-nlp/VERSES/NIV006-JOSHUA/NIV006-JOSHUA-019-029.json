@@ -1,0 +1,131 @@
+[
+    {
+        "name": "boundary",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4455622,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boundary",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.12329087,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ramah",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10877267,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ramah",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "region",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.08773391,
+        "mentions": [
+            {
+                "text": {
+                    "content": "region",
+                    "beginOffset": 148
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Tyre",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tyre,_Lebanon",
+            "mid": "\/m\/07kx2"
+        },
+        "salience": 0.075431585,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Tyre",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hosah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.069396585,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hosah",
+                    "beginOffset": 97
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Mediterranean Sea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04swx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mediterranean_Sea"
+        },
+        "salience": 0.052685425,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mediterranean Sea",
+                    "beginOffset": 123
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Akzib",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Achziv",
+            "mid": "\/m\/0hxrr"
+        },
+        "salience": 0.037126753,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Akzib",
+                    "beginOffset": 158
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

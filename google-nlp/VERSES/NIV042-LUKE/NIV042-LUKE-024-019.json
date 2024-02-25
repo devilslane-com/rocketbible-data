@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Jesus of Nazareth",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.5062499,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus of Nazareth",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.32041523,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "deed",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06327478,
+        "mentions": [
+            {
+                "text": {
+                    "content": "deed",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.044476707,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 144
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.037617344,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 128
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.027966043,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

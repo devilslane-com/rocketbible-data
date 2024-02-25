@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.50341105,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 9
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.28864586,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "power",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10397154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "power",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10397154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

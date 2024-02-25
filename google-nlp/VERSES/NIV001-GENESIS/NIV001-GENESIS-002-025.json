@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Adam",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6039137,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Adam",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wife",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20126523,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "shame",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19482107,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shame",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

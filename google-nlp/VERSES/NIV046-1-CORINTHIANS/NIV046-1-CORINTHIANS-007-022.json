@@ -1,0 +1,117 @@
+[
+    {
+        "name": "slave",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7272398,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "slave",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.058686495,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05702725,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.056364954,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "faith",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.049812417,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faith",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "slave",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.035986654,
+        "mentions": [
+            {
+                "text": {
+                    "content": "slave",
+                    "beginOffset": 149
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.0148824435,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 138
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

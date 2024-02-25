@@ -1,0 +1,50 @@
+[
+    {
+        "name": "opportunity",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.41965085,
+        "mentions": [
+            {
+                "text": {
+                    "content": "opportunity",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "crowd",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.338091,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crowd",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.24225818,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

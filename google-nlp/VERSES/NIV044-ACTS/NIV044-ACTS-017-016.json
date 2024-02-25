@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5881722,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Athens",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Athens",
+            "mid": "\/m\/0n2z"
+        },
+        "salience": 0.16928302,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Athens",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "idols",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14134194,
+        "mentions": [
+            {
+                "text": {
+                    "content": "idols",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10120281,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5781976,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "decrees",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23917732,
+        "mentions": [
+            {
+                "text": {
+                    "content": "decrees",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "laws",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1531793,
+        "mentions": [
+            {
+                "text": {
+                    "content": "laws",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.029445784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 109
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

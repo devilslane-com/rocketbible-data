@@ -1,0 +1,140 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David",
+            "mid": "\/m\/02cvn"
+        },
+        "salience": 0.61428034,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21541266,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prophet",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.053071335,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zadok",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04618782,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zadok",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Nathan",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0f2jsf",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nathan_(prophet)"
+        },
+        "salience": 0.03189641,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nathan",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Benaiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/038g1t",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Benaiah"
+        },
+        "salience": 0.029322311,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Benaiah",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jehoiada",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0fc0hp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jehoiada"
+        },
+        "salience": 0.009829097,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jehoiada",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

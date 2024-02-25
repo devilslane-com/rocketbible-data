@@ -1,0 +1,83 @@
+[
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.48699284,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bones",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23265071,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bones",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "altars",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16299419,
+        "mentions": [
+            {
+                "text": {
+                    "content": "altars",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04frh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kingdom_of_Judah"
+        },
+        "salience": 0.0688468,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.04851547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 79
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

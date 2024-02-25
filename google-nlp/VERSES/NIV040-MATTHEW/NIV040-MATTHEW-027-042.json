@@ -1,0 +1,65 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7596481,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "others",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20481038,
+        "mentions": [
+            {
+                "text": {
+                    "content": "others",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cross",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.019852461,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cross",
+                    "beginOffset": 124
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.015689071,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 85
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

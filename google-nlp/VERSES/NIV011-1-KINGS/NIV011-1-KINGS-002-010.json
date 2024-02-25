@@ -1,0 +1,50 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.81304246,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ancestors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15610893,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ancestors",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "City of David",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0j3w2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/City_of_David"
+        },
+        "salience": 0.030848607,
+        "mentions": [
+            {
+                "text": {
+                    "content": "City of David",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

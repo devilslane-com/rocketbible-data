@@ -1,0 +1,128 @@
+[
+    {
+        "name": "something",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.38168883,
+        "mentions": [
+            {
+                "text": {
+                    "content": "something",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "places",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.20260058,
+        "mentions": [
+            {
+                "text": {
+                    "content": "places",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08670612,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "daughters",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07977724,
+        "mentions": [
+            {
+                "text": {
+                    "content": "daughters",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fire",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07977724,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fire",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Topheth",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tophet",
+            "mid": "\/m\/03pgg7"
+        },
+        "salience": 0.0753953,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Topheth",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Valley of Ben Hinnom",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gehenna",
+            "mid": "\/m\/0262q4"
+        },
+        "salience": 0.051351007,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Valley of Ben Hinnom",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mind",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.042703684,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mind",
+                    "beginOffset": 167
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

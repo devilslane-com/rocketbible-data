@@ -1,0 +1,141 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.526433,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Some",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24234945,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Some",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.059269108,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 144
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 139
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Cyprus",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cyprus",
+            "mid": "\/m\/01ppq"
+        },
+        "salience": 0.047619928,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cyprus",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Antioch",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.032885395,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Antioch",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Cyrene",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cyrene,_Libya",
+            "mid": "\/m\/0lrkg"
+        },
+        "salience": 0.03249281,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cyrene",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Greeks",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0jt85pd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Greeks"
+        },
+        "salience": 0.030231483,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Greeks",
+                    "beginOffset": 89
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "news",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.028718859,
+        "mentions": [
+            {
+                "text": {
+                    "content": "news",
+                    "beginOffset": 124
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

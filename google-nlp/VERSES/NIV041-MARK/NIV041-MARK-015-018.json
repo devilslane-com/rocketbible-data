@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Hail",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.42856973,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hail",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews",
+            "mid": "\/m\/041rx"
+        },
+        "salience": 0.32675192,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24467836,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

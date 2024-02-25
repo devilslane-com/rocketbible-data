@@ -1,0 +1,50 @@
+[
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5041901,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.27636245,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Joab",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0jknj",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joab"
+        },
+        "salience": 0.21944745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joab",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

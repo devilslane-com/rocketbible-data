@@ -1,0 +1,95 @@
+[
+    {
+        "name": "sea",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.4137241,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sea",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21674268,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1443904,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.11713335,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hades",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03g72",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hades"
+        },
+        "salience": 0.07113599,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hades",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03687346,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

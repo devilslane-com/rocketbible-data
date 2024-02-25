@@ -1,0 +1,83 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.39619812,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.19856077,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wilderness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15963523,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wilderness",
+                    "beginOffset": 134
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hebrews",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j4s1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hebrews"
+        },
+        "salience": 0.13535173,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hebrews",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "The Lord",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.11025414,
+        "mentions": [
+            {
+                "text": {
+                    "content": "The Lord",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

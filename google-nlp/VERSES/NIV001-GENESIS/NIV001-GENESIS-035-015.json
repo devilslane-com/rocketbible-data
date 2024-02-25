@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Jacob",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.45780227,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.41277087,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.085969254,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Bethel",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.04345761,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bethel",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

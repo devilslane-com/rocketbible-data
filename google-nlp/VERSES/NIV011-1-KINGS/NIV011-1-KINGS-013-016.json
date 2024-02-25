@@ -1,0 +1,80 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.69603324,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.17841356,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05828172,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.041216273,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bread",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.026055189,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

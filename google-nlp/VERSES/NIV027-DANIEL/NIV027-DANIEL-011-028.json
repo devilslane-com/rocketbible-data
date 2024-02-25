@@ -1,0 +1,114 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.58859026,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.24561657,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 183
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "North",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06728897,
+        "mentions": [
+            {
+                "text": {
+                    "content": "North",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "heart",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0345982,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heart",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wealth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.030367894,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wealth",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "covenant",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02827513,
+        "mentions": [
+            {
+                "text": {
+                    "content": "covenant",
+                    "beginOffset": 115
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "action",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.005262937,
+        "mentions": [
+            {
+                "text": {
+                    "content": "action",
+                    "beginOffset": 138
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

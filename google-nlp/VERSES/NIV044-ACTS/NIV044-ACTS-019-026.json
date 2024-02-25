@@ -1,0 +1,150 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.57347685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fellow",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09559294,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "numbers",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09446374,
+        "mentions": [
+            {
+                "text": {
+                    "content": "numbers",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "province",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.087953895,
+        "mentions": [
+            {
+                "text": {
+                    "content": "province",
+                    "beginOffset": 140
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ephesus",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02p8r",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ephesus"
+        },
+        "salience": 0.057300895,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ephesus",
+                    "beginOffset": 103
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "human hands",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.032437157,
+        "mentions": [
+            {
+                "text": {
+                    "content": "human hands",
+                    "beginOffset": 184
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gods",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02527946,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gods",
+                    "beginOffset": 203
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Asia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04ldyr",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Asia_(Roman_province)"
+        },
+        "salience": 0.017609295,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Asia",
+                    "beginOffset": 152
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "gods",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.015885776,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gods",
+                    "beginOffset": 171
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

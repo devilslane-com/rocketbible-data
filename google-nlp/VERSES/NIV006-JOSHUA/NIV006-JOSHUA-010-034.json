@@ -1,0 +1,89 @@
+[
+    {
+        "name": "Joshua",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/043m0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joshua"
+        },
+        "salience": 0.7745431,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joshua",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.08105632,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lachish",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tel_Lachish",
+            "mid": "\/m\/013pc5"
+        },
+        "salience": 0.056116547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lachish",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Eglon",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Eglon_(king)",
+            "mid": "\/m\/0464yl0"
+        },
+        "salience": 0.056116547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Eglon",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "positions",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03216748,
+        "mentions": [
+            {
+                "text": {
+                    "content": "positions",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.66251975,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15741606,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "glory",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10132709,
+        "mentions": [
+            {
+                "text": {
+                    "content": "glory",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.046142913,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 131
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sovereign",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.03259417,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sovereign",
+                    "beginOffset": 121
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

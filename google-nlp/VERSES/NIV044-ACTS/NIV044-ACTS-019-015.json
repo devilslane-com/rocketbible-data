@@ -1,0 +1,50 @@
+[
+    {
+        "name": "spirit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.58116406,
+        "mentions": [
+            {
+                "text": {
+                    "content": "spirit",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.26495028,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Paul I",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15388565,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul I",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "shepherds",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.798761,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shepherds",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12896559,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.07227337,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

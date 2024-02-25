@@ -1,0 +1,153 @@
+[
+    {
+        "name": "officials",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.617979,
+        "mentions": [
+            {
+                "text": {
+                    "content": "officials",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "reign",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.065385476,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reign",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "plans",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06270173,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plans",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.060183957,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Persia",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Achaemenid_Empire",
+            "mid": "\/m\/01lzsb"
+        },
+        "salience": 0.04639138,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Persia",
+                    "beginOffset": 110
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Persia",
+                    "beginOffset": 157
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "reign",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.045753885,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reign",
+                    "beginOffset": 133
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.045753885,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 149
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Cyrus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03d0c1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cyrus_the_Great"
+        },
+        "salience": 0.03178867,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cyrus",
+                    "beginOffset": 96
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Darius",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0cpcj",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Darius_I"
+        },
+        "salience": 0.024062049,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Darius",
+                    "beginOffset": 142
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

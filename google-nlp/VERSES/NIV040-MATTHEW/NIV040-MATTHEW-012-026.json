@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Satan",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06wzv",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Satan"
+        },
+        "salience": 0.957462,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Satan",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Satan",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "kingdom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.042537972,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdom",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

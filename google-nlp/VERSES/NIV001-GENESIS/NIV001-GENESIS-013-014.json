@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5242016,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abram",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam",
+            "mid": "\/m\/0pwb"
+        },
+        "salience": 0.21189551,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abram",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lot",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.085347466,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lot",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "east",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06870716,
+        "mentions": [
+            {
+                "text": {
+                    "content": "east",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "west",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.048538044,
+        "mentions": [
+            {
+                "text": {
+                    "content": "west",
+                    "beginOffset": 129
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "north",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.030655118,
+        "mentions": [
+            {
+                "text": {
+                    "content": "north",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "south",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.030655118,
+        "mentions": [
+            {
+                "text": {
+                    "content": "south",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

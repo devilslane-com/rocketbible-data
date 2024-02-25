@@ -1,0 +1,95 @@
+[
+    {
+        "name": "mountain",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.32222092,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mountain",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "orders",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22201729,
+        "mentions": [
+            {
+                "text": {
+                    "content": "orders",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16913587,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.13362996,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11124725,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 140
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Son of Man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.041748706,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son of Man",
+                    "beginOffset": 110
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.49471244,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "law",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16822791,
+        "mentions": [
+            {
+                "text": {
+                    "content": "law",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15695168,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.09501257,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "descent",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08509539,
+        "mentions": [
+            {
+                "text": {
+                    "content": "descent",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

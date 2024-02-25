@@ -1,0 +1,65 @@
+[
+    {
+        "name": "prayer",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.60316247,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prayer",
+                    "beginOffset": 2
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prophet",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20188813,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Habakkuk",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Habakkuk",
+            "mid": "\/m\/03mld"
+        },
+        "salience": 0.1231011,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Habakkuk",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "shigionoth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0718483,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shigionoth",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

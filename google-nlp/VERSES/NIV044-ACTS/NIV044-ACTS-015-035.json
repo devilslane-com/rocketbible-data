@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Paul_the_Apostle",
+            "mid": "\/m\/060nc"
+        },
+        "salience": 0.35192418,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Antioch",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Antioch,_California",
+            "mid": "\/m\/0qyjk"
+        },
+        "salience": 0.23612775,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Antioch",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "others",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12676798,
+        "mentions": [
+            {
+                "text": {
+                    "content": "others",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Barnabas",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Barnabas",
+            "mid": "\/m\/01grh"
+        },
+        "salience": 0.119938366,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Barnabas",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09673994,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.068501785,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

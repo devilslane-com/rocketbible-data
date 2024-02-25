@@ -1,0 +1,50 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.42249095,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "vault",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.28875452,
+        "mentions": [
+            {
+                "text": {
+                    "content": "vault",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sky",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.28875452,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sky",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

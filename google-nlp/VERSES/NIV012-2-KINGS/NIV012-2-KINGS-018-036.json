@@ -1,0 +1,62 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4694433,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.27308202,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nothing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12873735,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nothing",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "reply",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12873735,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reply",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

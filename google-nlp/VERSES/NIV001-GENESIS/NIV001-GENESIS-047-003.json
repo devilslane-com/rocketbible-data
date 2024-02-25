@@ -1,0 +1,94 @@
+[
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.39080918,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "shepherds",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.38563985,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servants",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "shepherds",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pharaoh",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05sx9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharaoh"
+        },
+        "salience": 0.110053934,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 110
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "occupation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10054918,
+        "mentions": [
+            {
+                "text": {
+                    "content": "occupation",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fathers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0129478555,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fathers",
+                    "beginOffset": 134
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

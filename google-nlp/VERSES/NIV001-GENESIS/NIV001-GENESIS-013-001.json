@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Abram",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7615264,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abram",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wife",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.060370296,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.055616252,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.052603506,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Negev",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/011xr8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Negev"
+        },
+        "salience": 0.035985872,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Negev",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lot",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03389766,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lot",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

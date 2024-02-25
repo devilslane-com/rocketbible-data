@@ -1,0 +1,95 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.39523342,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "residence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.38862893,
+        "mentions": [
+            {
+                "text": {
+                    "content": "residence",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fortress",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11762653,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fortress",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "City of David",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0j3w2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/City_of_David"
+        },
+        "salience": 0.05788151,
+        "mentions": [
+            {
+                "text": {
+                    "content": "City of David",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "area",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.020808907,
+        "mentions": [
+            {
+                "text": {
+                    "content": "area",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "terraces",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.019820709,
+        "mentions": [
+            {
+                "text": {
+                    "content": "terraces",
+                    "beginOffset": 119
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

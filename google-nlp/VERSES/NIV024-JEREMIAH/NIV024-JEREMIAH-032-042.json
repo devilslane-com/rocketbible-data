@@ -1,0 +1,62 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.55528504,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19421983,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "calamity",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.1769815,
+        "mentions": [
+            {
+                "text": {
+                    "content": "calamity",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prosperity",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07351362,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prosperity",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

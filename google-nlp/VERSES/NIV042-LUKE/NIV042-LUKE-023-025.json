@@ -1,0 +1,110 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6136434,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "insurrection",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08013069,
+        "mentions": [
+            {
+                "text": {
+                    "content": "insurrection",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "murder",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.08013069,
+        "mentions": [
+            {
+                "text": {
+                    "content": "murder",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prison",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0791903,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prison",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07376605,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "will",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.039597437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "will",
+                    "beginOffset": 136
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.033541404,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 121
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

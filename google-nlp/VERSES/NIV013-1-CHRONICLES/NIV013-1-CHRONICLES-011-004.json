@@ -1,0 +1,78 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.38132545,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israelites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.15583771,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jebus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01y7jz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jebusite"
+        },
+        "salience": 0.14277923,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jebus",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jebusites",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.10679201,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

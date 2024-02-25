@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Adam",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7063267,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Adam",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Seth",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d51w",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Seth"
+        },
+        "salience": 0.22174805,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Seth",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Enosh",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Enos_(biblical_figure)",
+            "mid": "\/m\/0cf982"
+        },
+        "salience": 0.07192525,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Enosh",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

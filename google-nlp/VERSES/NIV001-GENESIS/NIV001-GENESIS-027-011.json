@@ -1,0 +1,91 @@
+[
+    {
+        "name": "Jacob",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.49680665,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Esau",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.35921577,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Esau",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07390301,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Rebekah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.044864826,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rebekah",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "skin",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.025209771,
+        "mentions": [
+            {
+                "text": {
+                    "content": "skin",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

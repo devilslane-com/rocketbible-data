@@ -1,0 +1,113 @@
+[
+    {
+        "name": "church",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.679852,
+        "mentions": [
+            {
+                "text": {
+                    "content": "church",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.122205235,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Samaria",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.05111038,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samaria",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Phoenicia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0617q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Phoenicia"
+        },
+        "salience": 0.05050022,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Phoenicia",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gentiles",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/018wvh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gentile"
+        },
+        "salience": 0.04698568,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gentiles",
+                    "beginOffset": 105
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "news",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.028982533,
+        "mentions": [
+            {
+                "text": {
+                    "content": "news",
+                    "beginOffset": 139
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "believers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.020363946,
+        "mentions": [
+            {
+                "text": {
+                    "content": "believers",
+                    "beginOffset": 157
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

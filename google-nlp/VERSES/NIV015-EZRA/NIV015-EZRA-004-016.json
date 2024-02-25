@@ -1,0 +1,77 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40050134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.3590382,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "walls",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12016838,
+        "mentions": [
+            {
+                "text": {
+                    "content": "walls",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nothing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08452377,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nothing",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Trans-Euphrates",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.035768304,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Trans-Euphrates",
+                    "beginOffset": 107
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

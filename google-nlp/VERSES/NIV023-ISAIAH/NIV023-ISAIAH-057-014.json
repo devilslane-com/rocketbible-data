@@ -1,0 +1,62 @@
+[
+    {
+        "name": "road",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.50893384,
+        "mentions": [
+            {
+                "text": {
+                    "content": "road",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22845054,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1610684,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "obstacles",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10154723,
+        "mentions": [
+            {
+                "text": {
+                    "content": "obstacles",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

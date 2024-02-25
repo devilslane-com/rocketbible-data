@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Festus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5235615,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Festus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Caesarea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/09jt1l",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Caesarea"
+        },
+        "salience": 0.34564984,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Caesarea",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1307887,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Everyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.47608337,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Everyone",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.35147968,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17243694,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

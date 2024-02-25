@@ -1,0 +1,153 @@
+[
+    {
+        "name": "news",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.55309707,
+        "mentions": [
+            {
+                "text": {
+                    "content": "news",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "news",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zion",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zion_National_Park",
+            "mid": "\/m\/01626x"
+        },
+        "salience": 0.1768864,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zion",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mountain",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11552261,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mountain",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "voice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.038766094,
+        "mentions": [
+            {
+                "text": {
+                    "content": "voice",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "shout",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03560005,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shout",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.02689263,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 171
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.023016527,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.015941938,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 180
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.014276678,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 203
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

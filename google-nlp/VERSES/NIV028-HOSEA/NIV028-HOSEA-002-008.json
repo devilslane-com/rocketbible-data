@@ -1,0 +1,110 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3959872,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "silver",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23250839,
+        "mentions": [
+            {
+                "text": {
+                    "content": "silver",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wine",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.09531717,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "grain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09418576,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grain",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "oil",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08766574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "oil",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gold",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06650177,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gold",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Baal",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0fykc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Baal"
+        },
+        "salience": 0.027833953,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Baal",
+                    "beginOffset": 153
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

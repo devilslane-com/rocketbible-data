@@ -1,0 +1,80 @@
+[
+    {
+        "name": "attacker",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.60837895,
+        "mentions": [
+            {
+                "text": {
+                    "content": "attacker",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nineveh",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/05fym",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nineveh"
+        },
+        "salience": 0.15918472,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nineveh",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "road",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09803804,
+        "mentions": [
+            {
+                "text": {
+                    "content": "road",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fortress",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.090165704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fortress",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "strength",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04423256,
+        "mentions": [
+            {
+                "text": {
+                    "content": "strength",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

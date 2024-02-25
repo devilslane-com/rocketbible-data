@@ -1,0 +1,50 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.80748034,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "dream",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11371058,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dream",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "conscience",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07880911,
+        "mentions": [
+            {
+                "text": {
+                    "content": "conscience",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

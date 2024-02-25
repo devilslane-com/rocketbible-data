@@ -1,0 +1,146 @@
+[
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23171254,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15965502,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15099448,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "gospel",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.113241285,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gospel",
+                    "beginOffset": 134
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.09725284,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0894227,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "villages",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0799991,
+        "mentions": [
+            {
+                "text": {
+                    "content": "villages",
+                    "beginOffset": 159
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Samaritan",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/06_8_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Samaritans"
+        },
+        "salience": 0.04770009,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samaritan",
+                    "beginOffset": 149
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.030021945,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 109
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "sabbath",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3626574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sabbath",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.26541406,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.23404953,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ground",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.069777146,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ground",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "any",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06810188,
+        "mentions": [
+            {
+                "text": {
+                    "content": "any",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Neither",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.64445424,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Neither",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Herod",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0hsm_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Herod_the_Great"
+        },
+        "salience": 0.27166417,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Herod",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "nothing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04913428,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nothing",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.03474729,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

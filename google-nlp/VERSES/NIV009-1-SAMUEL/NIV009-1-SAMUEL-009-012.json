@@ -1,0 +1,62 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3191994,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sacrifice",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.31535193,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sacrifice",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22436963,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 143
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.14107902,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

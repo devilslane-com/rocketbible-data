@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.39623752,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.32661113,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Satan",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06wzv",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Satan"
+        },
+        "salience": 0.27715135,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Satan",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

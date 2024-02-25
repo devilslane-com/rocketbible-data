@@ -1,0 +1,50 @@
+[
+    {
+        "name": "prisoner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7167957,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prisoner",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus Barabbas",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02gl4g",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Barabbas"
+        },
+        "salience": 0.15939213,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Barabbas",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.123812154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

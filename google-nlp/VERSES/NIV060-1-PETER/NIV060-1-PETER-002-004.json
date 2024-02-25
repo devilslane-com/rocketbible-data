@@ -1,0 +1,50 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.6436828,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "humans",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21566923,
+        "mentions": [
+            {
+                "text": {
+                    "content": "humans",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Stone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14064798,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Stone",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

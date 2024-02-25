@@ -1,0 +1,65 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4219294,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Agrippa",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04zzd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Marcus_Vipsanius_Agrippa"
+        },
+        "salience": 0.3454265,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Agrippa",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Festus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15600291,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Festus",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Caesar",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.076641224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Caesar",
+                    "beginOffset": 87
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

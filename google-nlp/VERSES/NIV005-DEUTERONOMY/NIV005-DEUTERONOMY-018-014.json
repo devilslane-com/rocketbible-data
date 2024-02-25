@@ -1,0 +1,80 @@
+[
+    {
+        "name": "nations",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.5460125,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nations",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "divination",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1998192,
+        "mentions": [
+            {
+                "text": {
+                    "content": "divination",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sorcery",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19747418,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sorcery",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.038882222,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.017811863,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 114
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

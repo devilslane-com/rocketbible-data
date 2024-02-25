@@ -1,0 +1,53 @@
+[
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.43647066,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Euphrates River",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02s22",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Euphrates"
+        },
+        "salience": 0.37643626,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Euphrates River",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gilead",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gilead",
+            "mid": "\/m\/02s25l"
+        },
+        "salience": 0.18709306,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gilead",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

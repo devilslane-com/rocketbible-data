@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.86775994,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "little",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09999211,
+        "mentions": [
+            {
+                "text": {
+                    "content": "little",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "little",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.032247975,
+        "mentions": [
+            {
+                "text": {
+                    "content": "little",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

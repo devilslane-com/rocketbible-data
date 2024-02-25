@@ -1,0 +1,111 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34428445,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "King Herod",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0hsm_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Herod_the_Great"
+        },
+        "salience": 0.25255156,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King Herod",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Magi",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Bethlehem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01cy_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Bethlehem"
+        },
+        "salience": 0.1420952,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bethlehem",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "east",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11476332,
+        "mentions": [
+            {
+                "text": {
+                    "content": "east",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0kf0p",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judea"
+        },
+        "salience": 0.09758505,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judea",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.04872046,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 102
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

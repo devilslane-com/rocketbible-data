@@ -1,0 +1,65 @@
+[
+    {
+        "name": "sister",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.52363235,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sister",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "brother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.27461314,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.110539764,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "knowledge",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.091214724,
+        "mentions": [
+            {
+                "text": {
+                    "content": "knowledge",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

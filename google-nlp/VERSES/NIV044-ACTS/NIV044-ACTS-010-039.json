@@ -1,0 +1,98 @@
+[
+    {
+        "name": "witnesses",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6852386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "witnesses",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11846178,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.08146834,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews",
+            "mid": "\/m\/041rx"
+        },
+        "salience": 0.04954474,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.04554639,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "cross",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.019740146,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cross",
+                    "beginOffset": 122
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4954324,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Woman",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.20073685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mountain",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1621253,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mountain",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.072878405,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.06882704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 125
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "heart",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.38125068,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heart",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "stomach",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2632869,
+        "mentions": [
+            {
+                "text": {
+                    "content": "stomach",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "body",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24540713,
+        "mentions": [
+            {
+                "text": {
+                    "content": "body",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "foods",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0642428,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foods",
+                    "beginOffset": 126
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.045812488,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 107
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.74547386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25452617,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

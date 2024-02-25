@@ -1,0 +1,50 @@
+[
+    {
+        "name": "friends",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.47432464,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friends",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bridegroom",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2682675,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bridegroom",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.25740784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7620064,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11846584,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zeruiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/08jsfw",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zeruiah"
+        },
+        "salience": 0.06448657,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zeruiah",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04540608,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Curse David",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009635117,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Curse David",
+                    "beginOffset": 129
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40510145,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "household",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24077158,
+        "mentions": [
+            {
+                "text": {
+                    "content": "household",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "church",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10300759,
+        "mentions": [
+            {
+                "text": {
+                    "content": "church",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.08395852,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 126
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "pillar",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.061789792,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pillar",
+                    "beginOffset": 135
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "foundation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.061789792,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foundation",
+                    "beginOffset": 146
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "truth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04358126,
+        "mentions": [
+            {
+                "text": {
+                    "content": "truth",
+                    "beginOffset": 164
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

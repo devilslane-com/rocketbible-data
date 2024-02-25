@@ -1,0 +1,98 @@
+[
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.24075149,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24075149,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ephraim",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22792502,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ephraim",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17170331,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Assyria",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0wmn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Assyria"
+        },
+        "salience": 0.07289319,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Assyria",
+                    "beginOffset": 96
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.04597551,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

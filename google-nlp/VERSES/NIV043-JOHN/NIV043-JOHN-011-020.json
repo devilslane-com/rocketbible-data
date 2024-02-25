@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.6046793,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Martha",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.26279855,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Martha",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07166376,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mary",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0608584,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mary",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

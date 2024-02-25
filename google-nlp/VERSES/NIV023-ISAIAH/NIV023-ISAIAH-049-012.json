@@ -1,0 +1,110 @@
+[
+    {
+        "name": "some",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22089599,
+        "mentions": [
+            {
+                "text": {
+                    "content": "some",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "some",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21101747,
+        "mentions": [
+            {
+                "text": {
+                    "content": "some",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "north",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.17139119,
+        "mentions": [
+            {
+                "text": {
+                    "content": "north",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "west",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15797226,
+        "mentions": [
+            {
+                "text": {
+                    "content": "west",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "region",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.12055274,
+        "mentions": [
+            {
+                "text": {
+                    "content": "region",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "some",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06715549,
+        "mentions": [
+            {
+                "text": {
+                    "content": "some",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Aswan",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Aswan",
+            "mid": "\/m\/0_38"
+        },
+        "salience": 0.051014848,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aswan",
+                    "beginOffset": 98
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

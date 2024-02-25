@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Isaac",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.42914256,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Isaac",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.35482496,
+        "mentions": [
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Rebekah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21603248,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rebekah",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "name": "Herod",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0hsm_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Herod_the_Great"
+        },
+        "salience": 0.27273983,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Herod",
+                    "beginOffset": 7
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.22691193,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 131
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 139
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12553541,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.115564354,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pontius Pilate",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pontius_Pilate",
+            "mid": "\/m\/0svr8"
+        },
+        "salience": 0.109253086,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pontius Pilate",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.07544805,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gentiles",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/018wvh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gentile"
+        },
+        "salience": 0.07454735,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gentiles",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Pilate",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0svr8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pontius_Pilate"
+        },
+        "salience": 0.43360066,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pilate",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "chief priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21461344,
+        "mentions": [
+            {
+                "text": {
+                    "content": "chief priests",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rulers",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.1985806,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rulers",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1532053,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "kings",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3639078,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kings",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "forces",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.32013088,
+        "mentions": [
+            {
+                "text": {
+                    "content": "forces",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Valley of Siddim",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/05h230l",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Battle_of_Siddim"
+        },
+        "salience": 0.18512161,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Valley of Siddim",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Dead Sea Valley",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1308397,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Dead Sea Valley",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

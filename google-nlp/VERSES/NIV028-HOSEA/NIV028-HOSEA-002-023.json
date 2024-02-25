@@ -1,0 +1,102 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5009378,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 142
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 167
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15570503,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "loved one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12184016,
+        "mentions": [
+            {
+                "text": {
+                    "content": "loved one",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.120383345,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "love",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08224375,
+        "mentions": [
+            {
+                "text": {
+                    "content": "love",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.018889913,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 211
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

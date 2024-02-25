@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Abram",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8016554,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abram",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Negev",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/011xr8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Negev"
+        },
+        "salience": 0.19834457,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Negev",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.4656818,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 7
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2146711,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "congregation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18153995,
+        "mentions": [
+            {
+                "text": {
+                    "content": "congregation",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.078971624,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "assembly",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.059135526,
+        "mentions": [
+            {
+                "text": {
+                    "content": "assembly",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

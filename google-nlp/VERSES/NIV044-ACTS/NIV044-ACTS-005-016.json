@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Crowds",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7375948,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Crowds",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.12306231,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.060643103,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.051522855,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "spirits",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.027176961,
+        "mentions": [
+            {
+                "text": {
+                    "content": "spirits",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

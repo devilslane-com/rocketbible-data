@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Bethel",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.61286736,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bethel",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "altar",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24812028,
+        "mentions": [
+            {
+                "text": {
+                    "content": "altar",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.0916059,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "distress",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.047406483,
+        "mentions": [
+            {
+                "text": {
+                    "content": "distress",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "lack",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3282797,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lack",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "faith",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3282797,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faith",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "village",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1304736,
+        "mentions": [
+            {
+                "text": {
+                    "content": "village",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.12098953,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "village",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09197749,
+        "mentions": [
+            {
+                "text": {
+                    "content": "village",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

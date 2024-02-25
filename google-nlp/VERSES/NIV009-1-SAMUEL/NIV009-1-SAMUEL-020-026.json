@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.43790832,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25932297,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 79
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "nothing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1948051,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nothing",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Something",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.10796361,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Something",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

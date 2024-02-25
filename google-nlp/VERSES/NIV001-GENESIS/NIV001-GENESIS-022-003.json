@@ -1,0 +1,135 @@
+[
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8398973,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "donkey",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06912946,
+        "mentions": [
+            {
+                "text": {
+                    "content": "donkey",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Isaac",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03xqw",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Isaac_in_Islam"
+        },
+        "salience": 0.035310395,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Isaac",
+                    "beginOffset": 110
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wood",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.017293056,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wood",
+                    "beginOffset": 140
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "servants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.015961645,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servants",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.011020765,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 188
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.0065344004,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 194
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "burnt offering",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0048530167,
+        "mentions": [
+            {
+                "text": {
+                    "content": "burnt offering",
+                    "beginOffset": 153
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

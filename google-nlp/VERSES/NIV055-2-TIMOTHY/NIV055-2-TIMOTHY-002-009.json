@@ -1,0 +1,65 @@
+[
+    {
+        "name": "point",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.42034858,
+        "mentions": [
+            {
+                "text": {
+                    "content": "point",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "criminal",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.39243627,
+        "mentions": [
+            {
+                "text": {
+                    "content": "criminal",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14813638,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.039078753,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

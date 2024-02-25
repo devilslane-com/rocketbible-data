@@ -1,0 +1,152 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.72951216,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Absalom",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pxb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Absalom"
+        },
+        "salience": 0.17390192,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Absalom",
+                    "beginOffset": 104
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Absalom",
+                    "beginOffset": 128
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Absalom",
+                    "beginOffset": 175
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 187
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 195
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.044700112,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 124
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "room",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.015306331,
+        "mentions": [
+            {
+                "text": {
+                    "content": "room",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gateway",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.015306331,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gateway",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "O",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0130903255,
+        "mentions": [
+            {
+                "text": {
+                    "content": "O",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "O",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.008182834,
+        "mentions": [
+            {
+                "text": {
+                    "content": "O",
+                    "beginOffset": 173
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

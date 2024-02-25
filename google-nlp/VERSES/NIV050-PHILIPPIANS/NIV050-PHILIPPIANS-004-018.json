@@ -1,0 +1,98 @@
+[
+    {
+        "name": "payment",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.6923538,
+        "mentions": [
+            {
+                "text": {
+                    "content": "payment",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gifts",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09128949,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gifts",
+                    "beginOffset": 124
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "offering",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.078584336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "offering",
+                    "beginOffset": 160
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sacrifice",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.06241886,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sacrifice",
+                    "beginOffset": 184
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Epaphroditus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/095tlp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Epaphroditus"
+        },
+        "salience": 0.04934107,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Epaphroditus",
+                    "beginOffset": 107
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.026012482,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 207
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

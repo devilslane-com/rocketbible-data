@@ -1,0 +1,98 @@
+[
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.42203975,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zadok",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zadok",
+            "mid": "\/m\/05b8v2"
+        },
+        "salience": 0.21099272,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zadok",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abiathar",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/010ts",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abiathar"
+        },
+        "salience": 0.14413641,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abiathar",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.082809836,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.081811756,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anything",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "palace",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.058209516,
+        "mentions": [
+            {
+                "text": {
+                    "content": "palace",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

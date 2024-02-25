@@ -1,0 +1,110 @@
+[
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3605123,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prophets",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1764215,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophets",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12401489,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "words",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11437556,
+        "mentions": [
+            {
+                "text": {
+                    "content": "words",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.08743292,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jeremiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j_7g",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jeremiah"
+        },
+        "salience": 0.07523119,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jeremiah",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06201165,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.39839712,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pwb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam"
+        },
+        "salience": 0.2945678,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "master",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "journey",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24649118,
+        "mentions": [
+            {
+                "text": {
+                    "content": "journey",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "success",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.060543913,
+        "mentions": [
+            {
+                "text": {
+                    "content": "success",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

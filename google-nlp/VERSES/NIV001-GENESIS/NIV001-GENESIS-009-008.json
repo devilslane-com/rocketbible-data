@@ -1,0 +1,50 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.8869069,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Noah",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.073809884,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Noah",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.039283182,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

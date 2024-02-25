@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.5004252,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21530752,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Bethsaida",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04hv10",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Bethsaida"
+        },
+        "salience": 0.15877819,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bethsaida",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12548907,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

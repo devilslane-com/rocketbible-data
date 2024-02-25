@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Jether",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.99043995,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jether",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Jether",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "boy",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009560072,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

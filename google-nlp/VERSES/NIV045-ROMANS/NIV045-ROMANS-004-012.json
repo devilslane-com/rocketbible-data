@@ -1,0 +1,69 @@
+[
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7758484,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14570257,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 138
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 145
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "footsteps",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.058559936,
+        "mentions": [
+            {
+                "text": {
+                    "content": "footsteps",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "faith",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.019889094,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faith",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "name": "voice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.41795504,
+        "mentions": [
+            {
+                "text": {
+                    "content": "voice",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "words",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1677111,
+        "mentions": [
+            {
+                "text": {
+                    "content": "words",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lips",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14416574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lips",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "authority",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.10243662,
+        "mentions": [
+            {
+                "text": {
+                    "content": "authority",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heaven",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09885076,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heaven",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nebuchadnezzar",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0drvz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nebuchadnezzar_II"
+        },
+        "salience": 0.068880744,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nebuchadnezzar",
+                    "beginOffset": 103
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

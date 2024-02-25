@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Samuel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.9314638,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samuel",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "seer",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.031210452,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.021932976,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 154
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heart",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.015392815,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heart",
+                    "beginOffset": 196
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

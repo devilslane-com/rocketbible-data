@@ -1,0 +1,114 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4129435,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 106
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "kingdom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.3087994,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdom",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10465798,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.070767716,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "commands",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.044903442,
+        "mentions": [
+            {
+                "text": {
+                    "content": "commands",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heart",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03401171,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heart",
+                    "beginOffset": 163
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "eyes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02391623,
+        "mentions": [
+            {
+                "text": {
+                    "content": "eyes",
+                    "beginOffset": 202
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

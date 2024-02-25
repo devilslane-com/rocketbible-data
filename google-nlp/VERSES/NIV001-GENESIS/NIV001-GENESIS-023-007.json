@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.53428113,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.26444587,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hittites",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hittites",
+            "mid": "\/m\/03gsz"
+        },
+        "salience": 0.11498873,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hittites",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.08628427,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

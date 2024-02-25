@@ -1,0 +1,87 @@
+[
+    {
+        "name": "blood",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.7827485,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blood",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "sign",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "houses",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.13087568,
+        "mentions": [
+            {
+                "text": {
+                    "content": "houses",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "blood",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.060262382,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blood",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "plague",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.018441716,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plague",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.0076716915,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 161
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

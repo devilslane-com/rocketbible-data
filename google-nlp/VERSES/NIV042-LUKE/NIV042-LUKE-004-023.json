@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.8231003,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "proverb",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09391722,
+        "mentions": [
+            {
+                "text": {
+                    "content": "proverb",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Physician",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06419448,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Physician",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hometown",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.009666818,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hometown",
+                    "beginOffset": 138
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Capernaum",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01yrdx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Capernaum"
+        },
+        "salience": 0.009121135,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Capernaum",
+                    "beginOffset": 182
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

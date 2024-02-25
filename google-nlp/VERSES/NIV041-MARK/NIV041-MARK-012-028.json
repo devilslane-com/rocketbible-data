@@ -1,0 +1,80 @@
+[
+    {
+        "name": "teachers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5607081,
+        "mentions": [
+            {
+                "text": {
+                    "content": "teachers",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.23693834,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "law",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.103732705,
+        "mentions": [
+            {
+                "text": {
+                    "content": "law",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "commandments",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07360359,
+        "mentions": [
+            {
+                "text": {
+                    "content": "commandments",
+                    "beginOffset": 139
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "answer",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02501723,
+        "mentions": [
+            {
+                "text": {
+                    "content": "answer",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

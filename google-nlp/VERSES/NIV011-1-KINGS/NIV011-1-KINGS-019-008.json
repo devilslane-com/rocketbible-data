@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Horeb",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03hfz9x",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mount_Horeb"
+        },
+        "salience": 0.5416413,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Horeb",
+                    "beginOffset": 116
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "mountain",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.35470405,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.10365464,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 139
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

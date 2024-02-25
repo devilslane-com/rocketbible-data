@@ -1,0 +1,80 @@
+[
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.48467785,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wine",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.16038215,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "grain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15856156,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grain",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "olive oil",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.14803264,
+        "mentions": [
+            {
+                "text": {
+                    "content": "olive oil",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jezreel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jezreel_(city)",
+            "mid": "\/m\/0ch2_dr"
+        },
+        "salience": 0.048345808,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jezreel",
+                    "beginOffset": 98
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

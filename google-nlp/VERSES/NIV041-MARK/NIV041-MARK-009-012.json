@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.50363314,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Elijah",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Elijah",
+            "mid": "\/m\/02p7w"
+        },
+        "salience": 0.27411702,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Elijah",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19025008,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Son of Man",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Son_of_man",
+            "mid": "\/m\/0j11n"
+        },
+        "salience": 0.031999774,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son of Man",
+                    "beginOffset": 111
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

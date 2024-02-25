@@ -1,0 +1,50 @@
+[
+    {
+        "name": "blood",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.6113069,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blood",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "covenant",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24212928,
+        "mentions": [
+            {
+                "text": {
+                    "content": "covenant",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.14656384,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "name": "wedding",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.28884903,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wedding",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2823084,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Cana",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/027vh9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cana"
+        },
+        "salience": 0.15801604,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cana",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Galilee",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/039yt",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Galilee"
+        },
+        "salience": 0.14542918,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Galilee",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10167635,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.023721008,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

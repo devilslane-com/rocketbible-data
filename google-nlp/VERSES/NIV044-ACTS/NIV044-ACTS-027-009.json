@@ -1,0 +1,50 @@
+[
+    {
+        "name": "sailing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.9069469,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sailing",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04858275,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 119
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Day of Atonement",
+        "type": "EVENT",
+        "metadata": {
+            "mid": "\/m\/088km",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Yom_Kippur"
+        },
+        "salience": 0.044470336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Day of Atonement",
+                    "beginOffset": 98
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Jacob",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.62074655,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1674291,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "household",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10686565,
+        "mentions": [
+            {
+                "text": {
+                    "content": "household",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gods",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06833327,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gods",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "clothes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.036625404,
+        "mentions": [
+            {
+                "text": {
+                    "content": "clothes",
+                    "beginOffset": 149
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

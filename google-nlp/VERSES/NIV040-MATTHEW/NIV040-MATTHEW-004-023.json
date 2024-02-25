@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.29758185,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Galilee",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Galilee",
+            "mid": "\/m\/039yt"
+        },
+        "salience": 0.22973269,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Galilee",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "news",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10689284,
+        "mentions": [
+            {
+                "text": {
+                    "content": "news",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "synagogues",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.105649896,
+        "mentions": [
+            {
+                "text": {
+                    "content": "synagogues",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kingdom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09847524,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdom",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sickness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07504596,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sickness",
+                    "beginOffset": 133
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.053071782,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 152
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disease",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03354974,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disease",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

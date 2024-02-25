@@ -1,0 +1,80 @@
+[
+    {
+        "name": "governor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5457628,
+        "mentions": [
+            {
+                "text": {
+                    "content": "governor",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "any",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16484033,
+        "mentions": [
+            {
+                "text": {
+                    "content": "any",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15379117,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Urim and Thummim",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/021ddm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Urim_and_Thummim"
+        },
+        "salience": 0.07075506,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Urim and Thummim",
+                    "beginOffset": 129
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06485065,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

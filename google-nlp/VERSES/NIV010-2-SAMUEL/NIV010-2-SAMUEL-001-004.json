@@ -1,0 +1,102 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5512319,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070hm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul"
+        },
+        "salience": 0.1441248,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 132
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jonathan",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0865277,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Jonathan",
+                    "beginOffset": 149
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Many",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07523044,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Many",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "battle",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.071874425,
+        "mentions": [
+            {
+                "text": {
+                    "content": "battle",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.071010716,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

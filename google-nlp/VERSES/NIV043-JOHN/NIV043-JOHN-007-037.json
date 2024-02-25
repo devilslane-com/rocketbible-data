@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.49075145,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16958714,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "festival",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.13927373,
+        "mentions": [
+            {
+                "text": {
+                    "content": "festival",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "voice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12993829,
+        "mentions": [
+            {
+                "text": {
+                    "content": "voice",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "drink",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07044939,
+        "mentions": [
+            {
+                "text": {
+                    "content": "drink",
+                    "beginOffset": 128
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

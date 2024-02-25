@@ -1,0 +1,50 @@
+[
+    {
+        "name": "law",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.45195064,
+        "mentions": [
+            {
+                "text": {
+                    "content": "law",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "neighbor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.33966857,
+        "mentions": [
+            {
+                "text": {
+                    "content": "neighbor",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Scripture",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/02mdj1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Religious_text"
+        },
+        "salience": 0.20838079,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Scripture",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

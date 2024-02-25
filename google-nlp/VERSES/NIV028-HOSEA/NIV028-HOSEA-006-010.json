@@ -1,0 +1,72 @@
+[
+    {
+        "name": "thing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.4196878,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thing",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.30784822,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ephraim",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17896692,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ephraim",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "prostitution",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.093497045,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prostitution",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

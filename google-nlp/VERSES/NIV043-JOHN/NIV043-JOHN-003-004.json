@@ -1,0 +1,65 @@
+[
+    {
+        "name": "someone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7775463,
+        "mentions": [
+            {
+                "text": {
+                    "content": "someone",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "womb",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08182409,
+        "mentions": [
+            {
+                "text": {
+                    "content": "womb",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08182409,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 119
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nicodemus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01tyj2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nicodemus"
+        },
+        "salience": 0.05880554,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nicodemus",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.9092671,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.071793556,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ziba",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0nb0hhl",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ziba_(biblical_figure)"
+        },
+        "salience": 0.018939322,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ziba",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

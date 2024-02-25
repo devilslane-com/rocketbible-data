@@ -1,0 +1,90 @@
+[
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.35939088,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "weapons",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.27037242,
+        "mentions": [
+            {
+                "text": {
+                    "content": "swords",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "weapons",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Simeon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d60p3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Simeon_(son_of_Jacob)"
+        },
+        "salience": 0.2101052,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Simeon",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Levi",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Levi",
+            "mid": "\/m\/01kqk3"
+        },
+        "salience": 0.088585414,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levi",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "violence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0715461,
+        "mentions": [
+            {
+                "text": {
+                    "content": "violence",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

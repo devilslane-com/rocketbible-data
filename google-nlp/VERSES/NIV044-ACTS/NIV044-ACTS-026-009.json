@@ -1,0 +1,50 @@
+[
+    {
+        "name": "all",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.8038361,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus of Nazareth",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.112239875,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus of Nazareth",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.083924025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

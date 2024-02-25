@@ -1,0 +1,75 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7556805,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tribute",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13221915,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tribute",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moab",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0jdn4",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moab"
+        },
+        "salience": 0.05638204,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moab",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Eglon",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Eglon_(king)",
+            "mid": "\/m\/0464yl0"
+        },
+        "salience": 0.05571832,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Eglon",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

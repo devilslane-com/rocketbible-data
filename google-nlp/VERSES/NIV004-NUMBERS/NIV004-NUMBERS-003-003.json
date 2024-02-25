@@ -1,0 +1,72 @@
+[
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.51917523,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "names",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3543874,
+        "mentions": [
+            {
+                "text": {
+                    "content": "names",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Aaron",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0llm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Aaron"
+        },
+        "salience": 0.076658025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aaron",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.049779378,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

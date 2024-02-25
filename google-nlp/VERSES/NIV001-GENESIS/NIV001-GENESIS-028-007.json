@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Jacob",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6835271,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 9
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13083133,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12936607,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Paddan Aram",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04062vd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Paddan_Aram"
+        },
+        "salience": 0.05627548,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paddan Aram",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

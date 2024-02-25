@@ -1,0 +1,135 @@
+[
+    {
+        "name": "Sovereign",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.78071874,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Sovereign",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05951391,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pharaoh",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharaoh",
+            "mid": "\/m\/05sx9"
+        },
+        "salience": 0.035598706,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.035598706,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "arms",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.026951125,
+        "mentions": [
+            {
+                "text": {
+                    "content": "arms",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "arm",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.026951125,
+        "mentions": [
+            {
+                "text": {
+                    "content": "arm",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.020371057,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 165
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0142966425,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 185
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

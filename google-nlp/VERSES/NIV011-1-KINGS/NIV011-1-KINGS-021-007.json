@@ -1,0 +1,101 @@
+[
+    {
+        "name": "wife",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5789264,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17621066,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.10716201,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "vineyard",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0767878,
+        "mentions": [
+            {
+                "text": {
+                    "content": "vineyard",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Naboth",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Naboth",
+            "mid": "\/m\/0j45z"
+        },
+        "salience": 0.035802063,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Naboth",
+                    "beginOffset": 124
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jezreelite",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0ch2_dr",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jezreel_(city)"
+        },
+        "salience": 0.02511111,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jezreelite",
+                    "beginOffset": 135
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

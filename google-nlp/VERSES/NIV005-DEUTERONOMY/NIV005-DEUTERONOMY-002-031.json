@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5931595,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sihon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j16s",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sihon"
+        },
+        "salience": 0.2862788,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sihon",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09554885,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.025012827,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

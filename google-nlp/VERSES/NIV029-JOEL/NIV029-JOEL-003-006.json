@@ -1,0 +1,83 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7630289,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04frh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kingdom_of_Judah"
+        },
+        "salience": 0.08043242,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Greeks",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.055684615,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Greeks",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.055023536,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "homeland",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.04583052,
+        "mentions": [
+            {
+                "text": {
+                    "content": "homeland",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

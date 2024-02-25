@@ -1,0 +1,57 @@
+[
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.46771568,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.44013873,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 101
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "services",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.092145614,
+        "mentions": [
+            {
+                "text": {
+                    "content": "services",
+                    "beginOffset": 113
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.7299389,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07537566,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prophet",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07025692,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jeremiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j_7g",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jeremiah"
+        },
+        "salience": 0.04600512,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jeremiah",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Pharaoh",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05sx9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharaoh"
+        },
+        "salience": 0.032095674,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 97
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gaza",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gaza_Strip",
+            "mid": "\/m\/0357_"
+        },
+        "salience": 0.032095674,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gaza",
+                    "beginOffset": 114
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Philistines",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0618q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines"
+        },
+        "salience": 0.014232005,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistines",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

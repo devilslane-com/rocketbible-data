@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Josiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02xr84",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Josiah"
+        },
+        "salience": 0.5600954,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Josiah",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19785956,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Passover",
+        "type": "EVENT",
+        "metadata": {
+            "mid": "\/m\/05rds",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Passover"
+        },
+        "salience": 0.15723252,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Passover",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.08481246,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 87
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

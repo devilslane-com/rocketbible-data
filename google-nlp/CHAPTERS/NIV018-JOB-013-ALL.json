@@ -1,0 +1,955 @@
+[
+    {
+        "name": "physicians",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.409224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "physicians",
+                    "beginOffset": 244
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.19167364,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 187
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 420
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 530
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 1388
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "eyes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.040929973,
+        "mentions": [
+            {
+                "text": {
+                    "content": "eyes",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ears",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04020802,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ears",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "case",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02446528,
+        "mentions": [
+            {
+                "text": {
+                    "content": "case",
+                    "beginOffset": 177
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "defenses",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.023631012,
+        "mentions": [
+            {
+                "text": {
+                    "content": "defenses",
+                    "beginOffset": 818
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "defenses",
+                    "beginOffset": 831
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "proverbs",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.020766545,
+        "mentions": [
+            {
+                "text": {
+                    "content": "maxims",
+                    "beginOffset": 783
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "proverbs",
+                    "beginOffset": 794
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lies",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.01954694,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lies",
+                    "beginOffset": 220
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Almighty",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.011608098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Almighty",
+                    "beginOffset": 152
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.011605605,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 1121
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009244129,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 256
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wisdom",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.00908335,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wisdom",
+                    "beginOffset": 331
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "argument",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0073560462,
+        "mentions": [
+            {
+                "text": {
+                    "content": "argument",
+                    "beginOffset": 351
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pleas",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0073560462,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pleas",
+                    "beginOffset": 375
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lips",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0073560462,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lips",
+                    "beginOffset": 387
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "behalf",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0073439763,
+        "mentions": [
+            {
+                "text": {
+                    "content": "behalf",
+                    "beginOffset": 428
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "case",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0061597596,
+        "mentions": [
+            {
+                "text": {
+                    "content": "case",
+                    "beginOffset": 521
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.00568161,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 956
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hands",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0056496933,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hands",
+                    "beginOffset": 967
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dread",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0052884794,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dread",
+                    "beginOffset": 752
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ways",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.00527398,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ways",
+                    "beginOffset": 1041
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "face",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0051802206,
+        "mentions": [
+            {
+                "text": {
+                    "content": "face",
+                    "beginOffset": 1053
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ears",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0051741493,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ears",
+                    "beginOffset": 1214
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "clay",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0049692295,
+        "mentions": [
+            {
+                "text": {
+                    "content": "clay",
+                    "beginOffset": 843
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ashes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0049692295,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ashes",
+                    "beginOffset": 806
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "jeopardy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0049624336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "jeopardy",
+                    "beginOffset": 935
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mortal",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0049246894,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mortal",
+                    "beginOffset": 623
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "splendor",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0049160253,
+        "mentions": [
+            {
+                "text": {
+                    "content": "splendor",
+                    "beginOffset": 716
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "case",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.004714273,
+        "mentions": [
+            {
+                "text": {
+                    "content": "case",
+                    "beginOffset": 1248
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "deliverance",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0045472807,
+        "mentions": [
+            {
+                "text": {
+                    "content": "deliverance",
+                    "beginOffset": 1093
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ring",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.0045446786,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ring",
+                    "beginOffset": 1201
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "words",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0045446786,
+        "mentions": [
+            {
+                "text": {
+                    "content": "words",
+                    "beginOffset": 1195
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "partiality",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.004344024,
+        "mentions": [
+            {
+                "text": {
+                    "content": "partiality",
+                    "beginOffset": 490
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sins",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.003887147,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sins",
+                    "beginOffset": 1595
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "face",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0038838477,
+        "mentions": [
+            {
+                "text": {
+                    "content": "face",
+                    "beginOffset": 1670
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wrongs",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0034141296,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wrongs",
+                    "beginOffset": 1584
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sin",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.003412655,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sin",
+                    "beginOffset": 1644
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "enemy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0034112313,
+        "mentions": [
+            {
+                "text": {
+                    "content": "enemy",
+                    "beginOffset": 1696
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "leaf",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0034098548,
+        "mentions": [
+            {
+                "text": {
+                    "content": "leaf",
+                    "beginOffset": 1732
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "chaff",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0034085226,
+        "mentions": [
+            {
+                "text": {
+                    "content": "chaff",
+                    "beginOffset": 1763
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.003388082,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 1796
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "partiality",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0029177007,
+        "mentions": [
+            {
+                "text": {
+                    "content": "partiality",
+                    "beginOffset": 690
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "feet",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0027137217,
+        "mentions": [
+            {
+                "text": {
+                    "content": "feet",
+                    "beginOffset": 1958
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "feet",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0027137217,
+        "mentions": [
+            {
+                "text": {
+                    "content": "feet",
+                    "beginOffset": 1867
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sins",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0024002618,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sins",
+                    "beginOffset": 1835
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "youth",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.002384296,
+        "mentions": [
+            {
+                "text": {
+                    "content": "youth",
+                    "beginOffset": 1846
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "soles",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0023834198,
+        "mentions": [
+            {
+                "text": {
+                    "content": "soles",
+                    "beginOffset": 1946
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "shackles",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0023834198,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shackles",
+                    "beginOffset": 1875
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "marks",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0023834198,
+        "mentions": [
+            {
+                "text": {
+                    "content": "marks",
+                    "beginOffset": 1933
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "paths",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0023834198,
+        "mentions": [
+            {
+                "text": {
+                    "content": "paths",
+                    "beginOffset": 1916
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "moths",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0023825692,
+        "mentions": [
+            {
+                "text": {
+                    "content": "moths",
+                    "beginOffset": 2033
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "garment",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.0023825692,
+        "mentions": [
+            {
+                "text": {
+                    "content": "garment",
+                    "beginOffset": 2016
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "something",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0023825692,
+        "mentions": [
+            {
+                "text": {
+                    "content": "something",
+                    "beginOffset": 1991
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0023825692,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 1970
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0023200256,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 1380
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "watch",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.0021598558,
+        "mentions": [
+            {
+                "text": {
+                    "content": "watch",
+                    "beginOffset": 1900
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "offense",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0017771248,
+        "mentions": [
+            {
+                "text": {
+                    "content": "offense",
+                    "beginOffset": 1629
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0017053375,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 1442
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0015944133,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 1287
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "terrors",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0014977305,
+        "mentions": [
+            {
+                "text": {
+                    "content": "terrors",
+                    "beginOffset": 1494
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "charges",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0012932591,
+        "mentions": [
+            {
+                "text": {
+                    "content": "charges",
+                    "beginOffset": 1300
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

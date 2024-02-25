@@ -1,0 +1,35 @@
+[
+    {
+        "name": "crowds",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8305008,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crowds",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.1694992,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

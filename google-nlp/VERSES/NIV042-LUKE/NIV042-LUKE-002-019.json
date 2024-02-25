@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Mary",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.62179357,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mary",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29909715,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heart",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07910931,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heart",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

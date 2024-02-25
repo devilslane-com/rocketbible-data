@@ -1,0 +1,65 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6851139,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.14220852,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gibeah",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gibeah",
+            "mid": "\/m\/02x014"
+        },
+        "salience": 0.123913035,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gibeah",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "concubine",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.048764516,
+        "mentions": [
+            {
+                "text": {
+                    "content": "concubine",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

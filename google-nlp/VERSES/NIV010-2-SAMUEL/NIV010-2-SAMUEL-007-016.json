@@ -1,0 +1,47 @@
+[
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.58259875,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kingdom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.25323007,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdom",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "throne",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1641712,
+        "mentions": [
+            {
+                "text": {
+                    "content": "throne",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

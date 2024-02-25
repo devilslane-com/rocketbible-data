@@ -1,0 +1,68 @@
+[
+    {
+        "name": "survivors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4637105,
+        "mentions": [
+            {
+                "text": {
+                    "content": "survivors",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Joshua",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joshua",
+            "mid": "\/m\/043m0"
+        },
+        "salience": 0.3234103,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joshua",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israelites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.13516143,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "cities",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07771778,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cities",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

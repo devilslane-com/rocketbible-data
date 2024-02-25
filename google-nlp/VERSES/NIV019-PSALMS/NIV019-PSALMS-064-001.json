@@ -1,0 +1,80 @@
+[
+    {
+        "name": "complaint",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.30218232,
+        "mentions": [
+            {
+                "text": {
+                    "content": "complaint",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.2631325,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "threat",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21182922,
+        "mentions": [
+            {
+                "text": {
+                    "content": "threat",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "enemy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14964636,
+        "mentions": [
+            {
+                "text": {
+                    "content": "enemy",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0732096,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

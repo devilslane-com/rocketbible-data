@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Thomas",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6616962,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Thomas",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10127202,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Didymus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0862056,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Didymus",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Twelve",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.08031757,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Twelve",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.07050859,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 87
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

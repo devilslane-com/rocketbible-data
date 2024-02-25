@@ -1,0 +1,60 @@
+[
+    {
+        "name": "chiefs",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.77070624,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "chiefs",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Edom",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01sn3h",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Edom"
+        },
+        "salience": 0.12414608,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Edom",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Esau",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/016zh8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Esau"
+        },
+        "salience": 0.1051477,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Esau",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.78057,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.17439847,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "thing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.01912703,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thing",
+                    "beginOffset": 144
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "guilt",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.01382254,
+        "mentions": [
+            {
+                "text": {
+                    "content": "guilt",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.012081991,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

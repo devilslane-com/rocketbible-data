@@ -1,0 +1,84 @@
+[
+    {
+        "name": "slaves",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7938351,
+        "mentions": [
+            {
+                "text": {
+                    "content": "slaves",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "slaves",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ancestors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10841239,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ancestors",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.048622116,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03400444,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 122
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fruit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.01512593,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fruit",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Christ Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.708752,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ Jesus",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 90
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "blood",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29124805,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blood",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

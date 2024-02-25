@@ -1,0 +1,39 @@
+[
+    {
+        "name": "someone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.92255235,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friend",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "someone",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bread",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.07744763,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

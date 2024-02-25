@@ -1,0 +1,32 @@
+[
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6495726,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "prison",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3504274,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prison",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

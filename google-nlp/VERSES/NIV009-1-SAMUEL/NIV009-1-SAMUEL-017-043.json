@@ -1,0 +1,90 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.6579261,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 95
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "dog",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25330383,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dog",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sticks",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05997599,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sticks",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gods",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.015601069,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gods",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Philistine",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0618q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines"
+        },
+        "salience": 0.013193059,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistine",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

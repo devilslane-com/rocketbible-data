@@ -1,0 +1,133 @@
+[
+    {
+        "name": "minister",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.44584677,
+        "mentions": [
+            {
+                "text": {
+                    "content": "minister",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.3449566,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ Jesus",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gentiles",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/018wvh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gentile"
+        },
+        "salience": 0.10050643,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gentiles",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Gentiles",
+                    "beginOffset": 125
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.03435514,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 108
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 173
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "duty",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.032463003,
+        "mentions": [
+            {
+                "text": {
+                    "content": "duty",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gospel",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.032463003,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gospel",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Holy Spirit",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Holy_Spirit",
+            "mid": "\/m\/03qsc"
+        },
+        "salience": 0.009409037,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Holy Spirit",
+                    "beginOffset": 196
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

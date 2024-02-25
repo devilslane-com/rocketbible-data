@@ -1,0 +1,47 @@
+[
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.69134265,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19684936,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fire",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.111808,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fire",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

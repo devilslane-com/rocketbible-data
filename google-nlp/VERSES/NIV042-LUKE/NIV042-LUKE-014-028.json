@@ -1,0 +1,62 @@
+[
+    {
+        "name": "one",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.5447944,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tower",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.2611334,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tower",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "money",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11982868,
+        "mentions": [
+            {
+                "text": {
+                    "content": "money",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cost",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07424352,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cost",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

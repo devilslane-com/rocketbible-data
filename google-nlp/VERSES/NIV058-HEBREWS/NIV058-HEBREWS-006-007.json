@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.58333695,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Land",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "crop",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22449675,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crop",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.110383876,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rain",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "blessing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05916842,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blessing",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.022614036,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 137
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

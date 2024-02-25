@@ -1,0 +1,65 @@
+[
+    {
+        "name": "slaves",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6585319,
+        "mentions": [
+            {
+                "text": {
+                    "content": "slaves",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nature",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12472268,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nature",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gods",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.110780075,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gods",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.10596537,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

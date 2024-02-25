@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.81786686,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lamb of God",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/01f35p",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Lamb_of_God"
+        },
+        "salience": 0.18213314,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lamb of God",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

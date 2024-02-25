@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Simon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5889205,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Simon",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Philip",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.26930636,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philip",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "everywhere",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07067929,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everywhere",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "miracles",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04926947,
+        "mentions": [
+            {
+                "text": {
+                    "content": "miracles",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "signs",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.021824405,
+        "mentions": [
+            {
+                "text": {
+                    "content": "signs",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

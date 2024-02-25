@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Esau",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/016zh8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Esau"
+        },
+        "salience": 0.53725624,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Esau",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Isaac",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.26940033,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Isaac",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Canaanite",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.109896325,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Canaanite",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "women",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0834471,
+        "mentions": [
+            {
+                "text": {
+                    "content": "women",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "sin",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.425575,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sin",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2991565,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.1670217,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "plague",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.1082468,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plague",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

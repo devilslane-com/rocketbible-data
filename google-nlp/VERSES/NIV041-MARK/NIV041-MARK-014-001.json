@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30579513,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 153
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Passover",
+        "type": "EVENT",
+        "metadata": {
+            "mid": "\/m\/05rds",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Passover"
+        },
+        "salience": 0.1739624,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Passover",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Festival of Unleavened Bread",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15812248,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "teachers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15812248,
+        "mentions": [
+            {
+                "text": {
+                    "content": "teachers",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "law",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.054335468,
+        "mentions": [
+            {
+                "text": {
+                    "content": "law",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

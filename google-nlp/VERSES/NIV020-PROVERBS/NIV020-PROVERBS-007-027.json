@@ -1,0 +1,77 @@
+[
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.4805263,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "highway",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.23038124,
+        "mentions": [
+            {
+                "text": {
+                    "content": "highway",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "grave",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13082816,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grave",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "chambers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09251282,
+        "mentions": [
+            {
+                "text": {
+                    "content": "chambers",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.06575149,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

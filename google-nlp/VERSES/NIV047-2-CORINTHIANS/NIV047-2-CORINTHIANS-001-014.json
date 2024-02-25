@@ -1,0 +1,42 @@
+[
+    {
+        "name": "part",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5698311,
+        "mentions": [
+            {
+                "text": {
+                    "content": "part",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.43016896,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 146
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 141
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

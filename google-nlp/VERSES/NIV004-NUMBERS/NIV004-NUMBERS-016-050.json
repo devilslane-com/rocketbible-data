@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Aaron",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40362197,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aaron",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "tent",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.13322423,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tent",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "entrance",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.13171193,
+        "mentions": [
+            {
+                "text": {
+                    "content": "entrance",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "meeting",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.122965895,
+        "mentions": [
+            {
+                "text": {
+                    "content": "meeting",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.11644478,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "plague",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.092031196,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plague",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

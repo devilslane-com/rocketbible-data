@@ -1,0 +1,54 @@
+[
+    {
+        "name": "companion",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6223885,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "companion",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "jackals",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2208324,
+        "mentions": [
+            {
+                "text": {
+                    "content": "jackals",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "owls",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15677911,
+        "mentions": [
+            {
+                "text": {
+                    "content": "owls",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

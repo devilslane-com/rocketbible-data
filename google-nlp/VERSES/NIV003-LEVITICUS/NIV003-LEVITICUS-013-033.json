@@ -1,0 +1,62 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.53339946,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.23617205,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "area",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.16672696,
+        "mentions": [
+            {
+                "text": {
+                    "content": "area",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06370154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

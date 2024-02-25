@@ -1,0 +1,83 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5384217,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.16638635,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Assyria",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0wmn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Assyria"
+        },
+        "salience": 0.14709997,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Assyria",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Samaria",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/070j2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Samaria"
+        },
+        "salience": 0.094383836,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samaria",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "siege",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.053708166,
+        "mentions": [
+            {
+                "text": {
+                    "content": "siege",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

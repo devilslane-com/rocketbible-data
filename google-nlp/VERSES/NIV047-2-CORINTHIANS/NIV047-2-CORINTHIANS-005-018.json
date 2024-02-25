@@ -1,0 +1,68 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.85560846,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ministry",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.057815578,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ministry",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.04568931,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "reconciliation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.040886622,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reconciliation",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,139 @@
+[
+    {
+        "name": "bread",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.3425453,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bread",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.30054685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "yeast",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10028877,
+        "mentions": [
+            {
+                "text": {
+                    "content": "yeast",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "affliction",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06943657,
+        "mentions": [
+            {
+                "text": {
+                    "content": "affliction",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "haste",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06386266,
+        "mentions": [
+            {
+                "text": {
+                    "content": "haste",
+                    "beginOffset": 134
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04844515,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 171
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.04076152,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 125
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 225
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "departure",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.03411317,
+        "mentions": [
+            {
+                "text": {
+                    "content": "departure",
+                    "beginOffset": 210
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

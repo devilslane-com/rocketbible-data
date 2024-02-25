@@ -1,0 +1,62 @@
+[
+    {
+        "name": "stranger",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6389015,
+        "mentions": [
+            {
+                "text": {
+                    "content": "stranger",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "street",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.19320582,
+        "mentions": [
+            {
+                "text": {
+                    "content": "street",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "traveler",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09775929,
+        "mentions": [
+            {
+                "text": {
+                    "content": "traveler",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "door",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07013341,
+        "mentions": [
+            {
+                "text": {
+                    "content": "door",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

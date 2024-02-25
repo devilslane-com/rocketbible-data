@@ -1,0 +1,65 @@
+[
+    {
+        "name": "all",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6102148,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Babylonia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0cn3b",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Babylonia"
+        },
+        "salience": 0.28915152,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylonia",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05782635,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fill",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.042807285,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fill",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "no one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7183882,
+        "mentions": [
+            {
+                "text": {
+                    "content": "no one",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "law",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10547278,
+        "mentions": [
+            {
+                "text": {
+                    "content": "law",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "faith",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07543957,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faith",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.06497653,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "righteous",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.035722904,
+        "mentions": [
+            {
+                "text": {
+                    "content": "righteous",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "desert",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.30956632,
+        "mentions": [
+            {
+                "text": {
+                    "content": "desert",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sukkoth",
+        "type": "EVENT",
+        "metadata": {
+            "mid": "\/m\/072qz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sukkot"
+        },
+        "salience": 0.28299946,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sukkoth",
+                    "beginOffset": 10
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Etham",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.266987,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Etham",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "edge",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14044721,
+        "mentions": [
+            {
+                "text": {
+                    "content": "edge",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

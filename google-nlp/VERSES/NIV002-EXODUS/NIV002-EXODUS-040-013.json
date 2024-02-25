@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Aaron",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0llm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Aaron"
+        },
+        "salience": 0.8336941,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aaron",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "garments",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.110441044,
+        "mentions": [
+            {
+                "text": {
+                    "content": "garments",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.055864833,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

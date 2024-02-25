@@ -1,0 +1,84 @@
+[
+    {
+        "name": "Adah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6371946,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Adah",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "birth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24232593,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birth",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jabal",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06242441,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jabal",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "livestock",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03556953,
+        "mentions": [
+            {
+                "text": {
+                    "content": "livestock",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tents",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.022485554,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tents",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

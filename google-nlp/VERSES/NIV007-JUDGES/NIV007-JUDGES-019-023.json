@@ -1,0 +1,84 @@
+[
+    {
+        "name": "owner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5979985,
+        "mentions": [
+            {
+                "text": {
+                    "content": "owner",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.19054668,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "guest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12569818,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "guest",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "friends",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06864371,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friends",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "thing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0171129,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thing",
+                    "beginOffset": 148
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

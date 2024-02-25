@@ -1,0 +1,120 @@
+[
+    {
+        "name": "Simon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30710965,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Simon",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.23773943,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Andrew",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22354962,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Andrew",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sea of Galilee",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0j1t3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sea_of_Galilee"
+        },
+        "salience": 0.09523276,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sea of Galilee",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "fishermen",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06811856,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fishermen",
+                    "beginOffset": 122
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "net",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.034124993,
+        "mentions": [
+            {
+                "text": {
+                    "content": "net",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lake",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.034124993,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lake",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

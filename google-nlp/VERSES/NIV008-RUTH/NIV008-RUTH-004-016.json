@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Naomi",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5658236,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Naomi",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "child",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.33478296,
+        "mentions": [
+            {
+                "text": {
+                    "content": "child",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "arms",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09939343,
+        "mentions": [
+            {
+                "text": {
+                    "content": "arms",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

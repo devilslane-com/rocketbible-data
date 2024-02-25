@@ -1,0 +1,98 @@
+[
+    {
+        "name": "purchase",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.23015724,
+        "mentions": [
+            {
+                "text": {
+                    "content": "purchase",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21213728,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "deed",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17583418,
+        "mentions": [
+            {
+                "text": {
+                    "content": "deed",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Baruch",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d6nn9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Baruch_ben_Neriah"
+        },
+        "salience": 0.13918711,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Baruch",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Neriah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01smg9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Neriah"
+        },
+        "salience": 0.12805127,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Neriah",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11463292,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

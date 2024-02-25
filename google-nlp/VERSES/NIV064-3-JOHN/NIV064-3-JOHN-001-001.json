@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Gaius",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.49390557,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friend",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Gaius",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "elder",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.41639754,
+        "mentions": [
+            {
+                "text": {
+                    "content": "elder",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "truth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.089696884,
+        "mentions": [
+            {
+                "text": {
+                    "content": "truth",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

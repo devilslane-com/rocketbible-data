@@ -1,0 +1,35 @@
+[
+    {
+        "name": "neighbor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.826863,
+        "mentions": [
+            {
+                "text": {
+                    "content": "neighbor",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.17313704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "name": "Darius",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.62441117,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Darius",
+                    "beginOffset": 10
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "language",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11402256,
+        "mentions": [
+            {
+                "text": {
+                    "content": "language",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nations",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11271513,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nations",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "peoples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11271513,
+        "mentions": [
+            {
+                "text": {
+                    "content": "peoples",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.03613599,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Zorah",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.47865292,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zorah",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Aijalon",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19755259,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aijalon",
+                    "beginOffset": 7
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hebron",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/g\/1hc36rs6q"
+        },
+        "salience": 0.13567087,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hebron",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "cities",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.12082171,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cities",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Benjamin",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01x2mb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tribe_of_Benjamin"
+        },
+        "salience": 0.046692673,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Benjamin",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04frh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kingdom_of_Judah"
+        },
+        "salience": 0.020609211,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

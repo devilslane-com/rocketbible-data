@@ -1,0 +1,68 @@
+[
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.44194582,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Philip",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.39880097,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philip",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Samaria",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/070j2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Samaria"
+        },
+        "salience": 0.093540855,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samaria",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Messiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04ys7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Messiah"
+        },
+        "salience": 0.06571234,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Messiah",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

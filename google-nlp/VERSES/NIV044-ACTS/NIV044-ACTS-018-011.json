@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.42707613,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "half",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18848157,
+        "mentions": [
+            {
+                "text": {
+                    "content": "half",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Corinth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.17848602,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Corinth",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14440031,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.061555978,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

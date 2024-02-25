@@ -1,0 +1,65 @@
+[
+    {
+        "name": "sea",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.40842587,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sea",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lee",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3810493,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lee",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "winds",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1325291,
+        "mentions": [
+            {
+                "text": {
+                    "content": "winds",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Cyprus",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01ppq",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cyprus"
+        },
+        "salience": 0.077995725,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cyprus",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

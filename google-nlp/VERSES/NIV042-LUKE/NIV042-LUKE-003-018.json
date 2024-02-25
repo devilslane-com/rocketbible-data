@@ -1,0 +1,62 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.59813076,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "words",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20782807,
+        "mentions": [
+            {
+                "text": {
+                    "content": "words",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "news",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10474859,
+        "mentions": [
+            {
+                "text": {
+                    "content": "news",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0892926,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

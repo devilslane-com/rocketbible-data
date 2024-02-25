@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.75409883,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Greetings",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.1351932,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Greetings",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judas",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judas_Iscariot",
+            "mid": "\/m\/0g3y0"
+        },
+        "salience": 0.08254892,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judas",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Rabbi!",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.028159047,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rabbi!",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

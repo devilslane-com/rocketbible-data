@@ -1,0 +1,50 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46260828,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.3432192,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "salvation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19417255,
+        "mentions": [
+            {
+                "text": {
+                    "content": "salvation",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

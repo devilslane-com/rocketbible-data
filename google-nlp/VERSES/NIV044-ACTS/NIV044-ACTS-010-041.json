@@ -1,0 +1,65 @@
+[
+    {
+        "name": "witnesses",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4757681,
+        "mentions": [
+            {
+                "text": {
+                    "content": "witnesses",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2892063,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.1351767,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0998489,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 138
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.58395016,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sight",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.322748,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sight",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "faith",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09330186,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faith",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

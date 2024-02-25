@@ -1,0 +1,102 @@
+[
+    {
+        "name": "some",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.337135,
+        "mentions": [
+            {
+                "text": {
+                    "content": "some",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God of Israel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21599695,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "God of Israel",
+                    "beginOffset": 115
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "minister",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1443851,
+        "mentions": [
+            {
+                "text": {
+                    "content": "minister",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.114283614,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ark",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.09998667,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ark",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Levites",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0j8nd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Levite"
+        },
+        "salience": 0.088212684,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levites",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

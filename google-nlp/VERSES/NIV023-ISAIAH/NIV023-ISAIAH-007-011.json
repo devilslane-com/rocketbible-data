@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.329004,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sign",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22962564,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sign",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.203009,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "heights",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16424009,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heights",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "depths",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.0741213,
+        "mentions": [
+            {
+                "text": {
+                    "content": "depths",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

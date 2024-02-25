@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Jacob",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.87588215,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.062421106,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Paddan Aram",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04062vd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Paddan_Aram"
+        },
+        "salience": 0.061696757,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paddan Aram",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

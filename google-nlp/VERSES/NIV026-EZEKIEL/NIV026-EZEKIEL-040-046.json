@@ -1,0 +1,135 @@
+[
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.62398547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "room",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.14822069,
+        "mentions": [
+            {
+                "text": {
+                    "content": "room",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "north",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.12613742,
+        "mentions": [
+            {
+                "text": {
+                    "content": "north",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "altar",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.035204872,
+        "mentions": [
+            {
+                "text": {
+                    "content": "altar",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02384674,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Levites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/010f4kdg",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tribe_of_Levi"
+        },
+        "salience": 0.020204023,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levites",
+                    "beginOffset": 112
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "minister",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.012068177,
+        "mentions": [
+            {
+                "text": {
+                    "content": "minister",
+                    "beginOffset": 153
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zadok",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05b8v2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zadok"
+        },
+        "salience": 0.010332598,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zadok",
+                    "beginOffset": 88
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

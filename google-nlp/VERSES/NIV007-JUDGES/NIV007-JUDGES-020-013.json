@@ -1,0 +1,119 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.43176767,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.13556795,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "evil",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12480003,
+        "mentions": [
+            {
+                "text": {
+                    "content": "evil",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gibeah",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02x014",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gibeah"
+        },
+        "salience": 0.11798438,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gibeah",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.08501598,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 104
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Benjamites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01x2mb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tribe_of_Benjamin"
+        },
+        "salience": 0.08295672,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Benjamites",
+                    "beginOffset": 123
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israelites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.021907292,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 167
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

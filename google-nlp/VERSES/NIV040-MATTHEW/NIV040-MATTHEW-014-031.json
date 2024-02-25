@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7295513,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2051643,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "faith",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.065284364,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faith",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

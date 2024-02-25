@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.55070364,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13981856,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.096903704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "arrow",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08396892,
+        "mentions": [
+            {
+                "text": {
+                    "content": "arrow",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Assyria",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0wmn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Assyria"
+        },
+        "salience": 0.057329103,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Assyria",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "siege ramp",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.038451068,
+        "mentions": [
+            {
+                "text": {
+                    "content": "siege ramp",
+                    "beginOffset": 180
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "shield",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03282503,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shield",
+                    "beginOffset": 162
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

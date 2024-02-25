@@ -1,0 +1,153 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.47647524,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cities",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.108474314,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cities",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sea",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.08714743,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sea",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt",
+            "mid": "\/m\/02k54"
+        },
+        "salience": 0.08031768,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Assyria",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0wmn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Assyria"
+        },
+        "salience": 0.065180816,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Assyria",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mountain",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.061584882,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mountain",
+                    "beginOffset": 136
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mountain",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.061584882,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mountain",
+                    "beginOffset": 148
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sea",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.038906157,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sea",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Euphrates",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02s22",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Euphrates"
+        },
+        "salience": 0.020328598,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Euphrates",
+                    "beginOffset": 97
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

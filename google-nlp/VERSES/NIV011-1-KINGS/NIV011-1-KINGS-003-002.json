@@ -1,0 +1,77 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.49734887,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "places",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1600854,
+        "mentions": [
+            {
+                "text": {
+                    "content": "places",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14791286,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11365202,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Name",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08100085,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 124
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

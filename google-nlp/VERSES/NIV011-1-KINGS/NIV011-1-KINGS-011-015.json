@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Joab",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0jknj",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joab"
+        },
+        "salience": 0.4649575,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joab",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.16552325,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Edom",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01sn3h",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Edom"
+        },
+        "salience": 0.1539703,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Edom",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Edom",
+                    "beginOffset": 140
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "army",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.07701668,
+        "mentions": [
+            {
+                "text": {
+                    "content": "army",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "commander",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07612114,
+        "mentions": [
+            {
+                "text": {
+                    "content": "commander",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.038238414,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 133
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.024172712,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

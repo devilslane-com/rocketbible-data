@@ -1,0 +1,95 @@
+[
+    {
+        "name": "some",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23163313,
+        "mentions": [
+            {
+                "text": {
+                    "content": "some",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "produce",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21362892,
+        "mentions": [
+            {
+                "text": {
+                    "content": "produce",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Passover",
+        "type": "EVENT",
+        "metadata": {
+            "mid": "\/m\/05rds",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Passover"
+        },
+        "salience": 0.20219858,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Passover",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "bread",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.16330588,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "grain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11582442,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grain",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07340909,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

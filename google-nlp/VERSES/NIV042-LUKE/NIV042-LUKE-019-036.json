@@ -1,0 +1,47 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5762251,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cloaks",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23489675,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cloaks",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "road",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18887813,
+        "mentions": [
+            {
+                "text": {
+                    "content": "road",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

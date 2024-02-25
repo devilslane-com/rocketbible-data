@@ -1,0 +1,68 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.32529098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.27159995,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Solomon",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Solomon",
+            "mid": "\/m\/070h3"
+        },
+        "salience": 0.2306485,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 62
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "charge",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17246056,
+        "mentions": [
+            {
+                "text": {
+                    "content": "charge",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

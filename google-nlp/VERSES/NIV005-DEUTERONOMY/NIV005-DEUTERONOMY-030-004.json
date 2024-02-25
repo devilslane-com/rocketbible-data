@@ -1,0 +1,65 @@
+[
+    {
+        "name": "heavens",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3227333,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heavens",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.31898057,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2973187,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.060967423,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 100
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

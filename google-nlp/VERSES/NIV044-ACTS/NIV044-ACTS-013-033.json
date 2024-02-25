@@ -1,0 +1,83 @@
+[
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6939832,
+        "mentions": [
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2137812,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.04911119,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Psalm",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "wikipedia_url": "https:\/\/de.wikipedia.org\/wiki\/Psalm",
+            "mid": "\/g\/1215pcgs"
+        },
+        "salience": 0.022123024,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Psalm",
+                    "beginOffset": 93
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.021001412,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 147
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

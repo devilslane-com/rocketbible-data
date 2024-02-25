@@ -1,0 +1,80 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.41306293,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses",
+            "mid": "\/m\/04yfh"
+        },
+        "salience": 0.1922654,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 122
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ruler",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.18061826,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ruler",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "judge",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18061826,
+        "mentions": [
+            {
+                "text": {
+                    "content": "judge",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egyptian",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.033435166,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egyptian",
+                    "beginOffset": 104
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

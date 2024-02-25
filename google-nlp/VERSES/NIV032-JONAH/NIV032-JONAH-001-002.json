@@ -1,0 +1,50 @@
+[
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.5820015,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nineveh",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nineveh",
+            "mid": "\/m\/05fym"
+        },
+        "salience": 0.24731372,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nineveh",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wickedness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17068475,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wickedness",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

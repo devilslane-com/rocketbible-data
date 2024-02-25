@@ -1,0 +1,62 @@
+[
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.38600656,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "baptism",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29373023,
+        "mentions": [
+            {
+                "text": {
+                    "content": "baptism",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heaven",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1872943,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heaven",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "human origin",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13296889,
+        "mentions": [
+            {
+                "text": {
+                    "content": "human origin",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

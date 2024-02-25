@@ -1,0 +1,65 @@
+[
+    {
+        "name": "festival",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.36430535,
+        "mentions": [
+            {
+                "text": {
+                    "content": "festival",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "leaders",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25426394,
+        "mentions": [
+            {
+                "text": {
+                    "content": "leaders",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jewish",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/041rx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews"
+        },
+        "salience": 0.22479138,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jewish",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15663935,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

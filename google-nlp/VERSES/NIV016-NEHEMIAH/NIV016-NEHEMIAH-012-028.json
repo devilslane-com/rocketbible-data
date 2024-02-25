@@ -1,0 +1,80 @@
+[
+    {
+        "name": "musicians",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6732364,
+        "mentions": [
+            {
+                "text": {
+                    "content": "musicians",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "region",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.14916725,
+        "mentions": [
+            {
+                "text": {
+                    "content": "region",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.08415585,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "villages",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.048046127,
+        "mentions": [
+            {
+                "text": {
+                    "content": "villages",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Netophathites",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.045394327,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Netophathites",
+                    "beginOffset": 101
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

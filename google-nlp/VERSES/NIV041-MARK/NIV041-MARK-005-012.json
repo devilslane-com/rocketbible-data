@@ -1,0 +1,50 @@
+[
+    {
+        "name": "demons",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.8234029,
+        "mentions": [
+            {
+                "text": {
+                    "content": "demons",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pigs",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09423283,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pigs",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.0823643,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

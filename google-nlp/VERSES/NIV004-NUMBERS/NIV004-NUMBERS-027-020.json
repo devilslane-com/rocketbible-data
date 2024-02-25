@@ -1,0 +1,65 @@
+[
+    {
+        "name": "some",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.37303343,
+        "mentions": [
+            {
+                "text": {
+                    "content": "some",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "authority",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.33254114,
+        "mentions": [
+            {
+                "text": {
+                    "content": "authority",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israelite",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.18781418,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelite",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "community",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10661127,
+        "mentions": [
+            {
+                "text": {
+                    "content": "community",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

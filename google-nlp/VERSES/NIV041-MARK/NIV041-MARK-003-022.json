@@ -1,0 +1,113 @@
+[
+    {
+        "name": "teachers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6600416,
+        "mentions": [
+            {
+                "text": {
+                    "content": "teachers",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "law",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11650832,
+        "mentions": [
+            {
+                "text": {
+                    "content": "law",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prince",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09402657,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prince",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.048317786,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Beelzebul",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Beelzebub",
+            "mid": "\/m\/017dn7"
+        },
+        "salience": 0.04496299,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Beelzebul",
+                    "beginOffset": 85
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "demons",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.022185035,
+        "mentions": [
+            {
+                "text": {
+                    "content": "demons",
+                    "beginOffset": 138
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "demons",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.013957697,
+        "mentions": [
+            {
+                "text": {
+                    "content": "demons",
+                    "beginOffset": 113
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

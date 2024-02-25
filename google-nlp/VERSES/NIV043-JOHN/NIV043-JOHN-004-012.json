@@ -1,0 +1,62 @@
+[
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.86241305,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jacob",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.058028895,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.046653,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "livestock",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.032905053,
+        "mentions": [
+            {
+                "text": {
+                    "content": "livestock",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

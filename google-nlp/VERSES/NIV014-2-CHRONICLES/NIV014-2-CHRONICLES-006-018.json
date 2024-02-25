@@ -1,0 +1,87 @@
+[
+    {
+        "name": "heavens",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.398533,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heavens",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "heavens",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.2623394,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.17548163,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "humans",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.121521026,
+        "mentions": [
+            {
+                "text": {
+                    "content": "humans",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.042124927,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 129
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

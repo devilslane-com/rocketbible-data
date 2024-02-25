@@ -1,0 +1,65 @@
+[
+    {
+        "name": "apostles",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7550802,
+        "mentions": [
+            {
+                "text": {
+                    "content": "apostles",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sanhedrin",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/0160sc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sanhedrin"
+        },
+        "salience": 0.10761464,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sanhedrin",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.083898045,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Name",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disgrace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05340708,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disgrace",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

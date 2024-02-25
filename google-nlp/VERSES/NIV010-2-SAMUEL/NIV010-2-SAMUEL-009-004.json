@@ -1,0 +1,116 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7205464,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09678275,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ziba",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.056962218,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ziba",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ammiel",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ammiel",
+            "mid": "\/m\/0hyg6"
+        },
+        "salience": 0.04356661,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ammiel",
+                    "beginOffset": 88
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.032389324,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lo Debar",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Lo-debar",
+            "mid": "\/m\/0277ph2"
+        },
+        "salience": 0.03056556,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lo Debar",
+                    "beginOffset": 98
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Makir",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03c2sh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Machir"
+        },
+        "salience": 0.019187078,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Makir",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

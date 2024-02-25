@@ -1,0 +1,150 @@
+[
+    {
+        "name": "Solomon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.41984403,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "message",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24508978,
+        "mentions": [
+            {
+                "text": {
+                    "content": "message",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.09819244,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 96
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.056971494,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "palace",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.045505516,
+        "mentions": [
+            {
+                "text": {
+                    "content": "palace",
+                    "beginOffset": 137
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cedar logs",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.039445143,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cedar logs",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hiram",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0m73s",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hiram_I"
+        },
+        "salience": 0.03427755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hiram",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Tyre",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.03427755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Tyre",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "cedar",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.026396494,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cedar",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

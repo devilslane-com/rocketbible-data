@@ -1,0 +1,98 @@
+[
+    {
+        "name": "regions",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.24490839,
+        "mentions": [
+            {
+                "text": {
+                    "content": "regions",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Tyre",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.21520597,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Tyre",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sidon",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/070rd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sidon"
+        },
+        "salience": 0.21520597,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sidon",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Philistia",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines",
+            "mid": "\/m\/0618q"
+        },
+        "salience": 0.14609961,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistia",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "something",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12033589,
+        "mentions": [
+            {
+                "text": {
+                    "content": "something",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heads",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05824417,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heads",
+                    "beginOffset": 203
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

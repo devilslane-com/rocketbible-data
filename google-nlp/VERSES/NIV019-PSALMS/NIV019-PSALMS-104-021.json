@@ -1,0 +1,65 @@
+[
+    {
+        "name": "lions roar",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.4479187,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lions roar",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prey",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3162107,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prey",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.13495901,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.100911595,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

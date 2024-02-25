@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.88761944,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "High",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.078938626,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.033441924,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Aaron",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6464369,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Aaron",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3535631,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

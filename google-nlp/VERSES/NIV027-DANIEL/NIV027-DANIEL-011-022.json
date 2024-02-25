@@ -1,0 +1,47 @@
+[
+    {
+        "name": "army",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.786326,
+        "mentions": [
+            {
+                "text": {
+                    "content": "army",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "covenant",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14698729,
+        "mentions": [
+            {
+                "text": {
+                    "content": "covenant",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prince",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0666867,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prince",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

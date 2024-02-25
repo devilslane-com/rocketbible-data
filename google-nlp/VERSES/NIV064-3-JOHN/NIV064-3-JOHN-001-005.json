@@ -1,0 +1,54 @@
+[
+    {
+        "name": "strangers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6343103,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sisters",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "strangers",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "friend",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2861455,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friend",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07954417,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

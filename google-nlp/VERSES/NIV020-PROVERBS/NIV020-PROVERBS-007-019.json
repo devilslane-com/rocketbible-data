@@ -1,0 +1,47 @@
+[
+    {
+        "name": "husband",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7979085,
+        "mentions": [
+            {
+                "text": {
+                    "content": "husband",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1176327,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "journey",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0844588,
+        "mentions": [
+            {
+                "text": {
+                    "content": "journey",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "weather",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.8119509,
+        "mentions": [
+            {
+                "text": {
+                    "content": "weather",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sky",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18804908,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sky",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

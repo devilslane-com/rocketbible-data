@@ -1,0 +1,135 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.44842422,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1311704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ten Commandments",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/07lv36",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ten_Commandments"
+        },
+        "salience": 0.102790415,
+        "mentions": [
+            {
+                "text": {
+                    "content": "words",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Ten Commandments",
+                    "beginOffset": 158
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "bread",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09127952,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "drinking water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09127952,
+        "mentions": [
+            {
+                "text": {
+                    "content": "drinking water",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nights",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.090208285,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nights",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "covenant",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.031108737,
+        "mentions": [
+            {
+                "text": {
+                    "content": "covenant",
+                    "beginOffset": 143
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tablets",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.0137388855,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tablets",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "heaven",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.42042238,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heaven",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Satan",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06wzv",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Satan"
+        },
+        "salience": 0.3888361,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Satan",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "lightning",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19074152,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lightning",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

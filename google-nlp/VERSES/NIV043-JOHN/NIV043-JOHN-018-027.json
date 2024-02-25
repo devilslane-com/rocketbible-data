@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saint_Peter",
+            "mid": "\/m\/071wp"
+        },
+        "salience": 0.85516477,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "rooster",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14483526,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rooster",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

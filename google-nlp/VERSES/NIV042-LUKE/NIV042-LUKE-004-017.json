@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Isaiah",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Isaiah",
+            "mid": "\/m\/03x0k"
+        },
+        "salience": 0.7463049,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Isaiah",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "scroll",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18904875,
+        "mentions": [
+            {
+                "text": {
+                    "content": "scroll",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06464631,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

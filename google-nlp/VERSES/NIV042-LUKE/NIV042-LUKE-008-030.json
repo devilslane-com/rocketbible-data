@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.8217244,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10008846,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "demons",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.053197417,
+        "mentions": [
+            {
+                "text": {
+                    "content": "demons",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Legion",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.024989689,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Legion",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

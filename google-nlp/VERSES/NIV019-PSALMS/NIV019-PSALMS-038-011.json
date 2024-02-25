@@ -1,0 +1,62 @@
+[
+    {
+        "name": "friends",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5557399,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friends",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "companions",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2380072,
+        "mentions": [
+            {
+                "text": {
+                    "content": "companions",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wounds",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15369162,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wounds",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "neighbors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05256128,
+        "mentions": [
+            {
+                "text": {
+                    "content": "neighbors",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

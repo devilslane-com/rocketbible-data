@@ -1,0 +1,146 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2561474,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24815917,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prince",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18569931,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prince",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "face",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10638915,
+        "mentions": [
+            {
+                "text": {
+                    "content": "face",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07403462,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gog",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.043964364,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gog",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Magog",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0281sd1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Magog_(Bible)"
+        },
+        "salience": 0.040904682,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Magog",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Tubal",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/026n5w",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tubal"
+        },
+        "salience": 0.030989686,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Tubal",
+                    "beginOffset": 95
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Meshek",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03ddb1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Meshech"
+        },
+        "salience": 0.01371161,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Meshek",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

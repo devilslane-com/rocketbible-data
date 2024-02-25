@@ -1,0 +1,72 @@
+[
+    {
+        "name": "commander",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.55978614,
+        "mentions": [
+            {
+                "text": {
+                    "content": "commander",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/060nc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Paul_the_Apostle"
+        },
+        "salience": 0.30758438,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 129
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "citizen",
+                    "beginOffset": 143
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "chains",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07186052,
+        "mentions": [
+            {
+                "text": {
+                    "content": "chains",
+                    "beginOffset": 155
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Roman",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06076892,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Roman",
+                    "beginOffset": 137
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

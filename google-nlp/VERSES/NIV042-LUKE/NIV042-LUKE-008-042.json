@@ -1,0 +1,72 @@
+[
+    {
+        "name": "daughter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7482359,
+        "mentions": [
+            {
+                "text": {
+                    "content": "daughter",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "girl",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.20773627,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "crowds",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03051217,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crowds",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.013515671,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

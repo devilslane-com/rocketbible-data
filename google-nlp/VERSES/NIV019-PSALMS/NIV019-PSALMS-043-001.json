@@ -1,0 +1,50 @@
+[
+    {
+        "name": "cause",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3554053,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cause",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nation",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.33126983,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nation",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.31332487,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

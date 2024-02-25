@@ -1,0 +1,54 @@
+[
+    {
+        "name": "no one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8828964,
+        "mentions": [
+            {
+                "text": {
+                    "content": "no one",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "no one",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07142184,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sins",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.045681756,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sins",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

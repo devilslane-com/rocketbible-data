@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Jew",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30268645,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jew",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gentile",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/018wvh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gentile"
+        },
+        "salience": 0.22024623,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gentile",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "slave",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19545783,
+        "mentions": [
+            {
+                "text": {
+                    "content": "slave",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Scythian",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0fbq9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Scythians"
+        },
+        "salience": 0.12824342,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Scythian",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10561982,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 128
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.047746245,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 103
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

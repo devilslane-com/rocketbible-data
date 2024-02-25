@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Simon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6949229,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Simon",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20915793,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "debt",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08453363,
+        "mentions": [
+            {
+                "text": {
+                    "content": "debt",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.011385484,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 106
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

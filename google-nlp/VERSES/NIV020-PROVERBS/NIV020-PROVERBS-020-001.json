@@ -1,0 +1,54 @@
+[
+    {
+        "name": "mocker",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.81738627,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Wine",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "mocker",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "beer",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.09130688,
+        "mentions": [
+            {
+                "text": {
+                    "content": "beer",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "brawler",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.09130688,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brawler",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses",
+            "mid": "\/m\/04yfh"
+        },
+        "salience": 0.6776659,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 113
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12202707,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tent",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.0954654,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tent",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "entrances",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.050105892,
+        "mentions": [
+            {
+                "text": {
+                    "content": "entrances",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tent",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.033506002,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tent",
+                    "beginOffset": 140
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tents",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.021229727,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tents",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

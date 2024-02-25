@@ -1,0 +1,72 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.80590117,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08729032,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tree",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.062434535,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tree",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "garden",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.044374,
+        "mentions": [
+            {
+                "text": {
+                    "content": "garden",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

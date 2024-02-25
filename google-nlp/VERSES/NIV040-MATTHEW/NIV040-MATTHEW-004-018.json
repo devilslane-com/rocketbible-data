@@ -1,0 +1,142 @@
+[
+    {
+        "name": "fishermen",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.36983952,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "fishermen",
+                    "beginOffset": 165
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18837237,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Andrew",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1551991,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Andrew",
+                    "beginOffset": 104
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.15158823,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sea of Galilee",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0j1t3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sea_of_Galilee"
+        },
+        "salience": 0.059990868,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sea of Galilee",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Simon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.041325547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Simon",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "lake",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.023377819,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lake",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "net",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.010306537,
+        "mentions": [
+            {
+                "text": {
+                    "content": "net",
+                    "beginOffset": 132
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

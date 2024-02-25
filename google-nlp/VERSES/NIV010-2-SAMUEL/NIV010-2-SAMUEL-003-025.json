@@ -1,0 +1,80 @@
+[
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5559112,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abner",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abner",
+            "mid": "\/m\/0qkw"
+        },
+        "salience": 0.19100372,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abner",
+                    "beginOffset": 9
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.094792895,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "movements",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.081359565,
+        "mentions": [
+            {
+                "text": {
+                    "content": "movements",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.076932654,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ner",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

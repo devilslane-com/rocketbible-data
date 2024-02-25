@@ -1,0 +1,95 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.29827034,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20896704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "commands",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20655221,
+        "mentions": [
+            {
+                "text": {
+                    "content": "commands",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Levites",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Levite",
+            "mid": "\/m\/0j8nd"
+        },
+        "salience": 0.1162618,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levites",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "treasuries",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10407886,
+        "mentions": [
+            {
+                "text": {
+                    "content": "treasuries",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "matter",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06586973,
+        "mentions": [
+            {
+                "text": {
+                    "content": "matter",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

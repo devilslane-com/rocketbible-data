@@ -1,0 +1,50 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.6561915,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19095685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "song",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.15285163,
+        "mentions": [
+            {
+                "text": {
+                    "content": "song",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

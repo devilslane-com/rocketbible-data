@@ -1,0 +1,32 @@
+[
+    {
+        "name": "bread",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.5,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "yeast",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5,
+        "mentions": [
+            {
+                "text": {
+                    "content": "yeast",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

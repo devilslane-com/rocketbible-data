@@ -1,0 +1,50 @@
+[
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.51304775,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sisters",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.47019535,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sisters",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Rome",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/06c62",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Rome"
+        },
+        "salience": 0.016756888,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rome",
+                    "beginOffset": 101
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

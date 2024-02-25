@@ -1,0 +1,80 @@
+[
+    {
+        "name": "ground",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.56395906,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ground",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24445437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.15136133,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 98
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.029590644,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 154
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ways",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.010634591,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ways",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

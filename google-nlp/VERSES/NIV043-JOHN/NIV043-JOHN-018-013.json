@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Annas",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0hynn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Annas"
+        },
+        "salience": 0.80685925,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Annas",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "father-in-law",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Caiaphas",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/022h7t",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Caiaphas"
+        },
+        "salience": 0.19314075,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Caiaphas",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "high priest",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

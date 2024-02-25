@@ -1,0 +1,141 @@
+[
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070hm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul"
+        },
+        "salience": 0.3194724,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 119
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 128
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.27108973,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 181
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.17928487,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 167
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "side",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.13676955,
+        "mentions": [
+            {
+                "text": {
+                    "content": "side",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mountain",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.04945583,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mountain",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "side",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.038823918,
+        "mentions": [
+            {
+                "text": {
+                    "content": "side",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "forces",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.0051036845,
+        "mentions": [
+            {
+                "text": {
+                    "content": "forces",
+                    "beginOffset": 141
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

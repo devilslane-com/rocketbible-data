@@ -1,0 +1,65 @@
+[
+    {
+        "name": "friends",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5374764,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friends",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.20835598,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "forgiveness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13629901,
+        "mentions": [
+            {
+                "text": {
+                    "content": "forgiveness",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sins",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.117868595,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sins",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "name": "messenger",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2725768,
+        "mentions": [
+            {
+                "text": {
+                    "content": "messenger",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22828214,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Joab",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0jknj",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joab"
+        },
+        "salience": 0.16246097,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joab",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Joab",
+                    "beginOffset": 195
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "attack",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.12089402,
+        "mentions": [
+            {
+                "text": {
+                    "content": "attack",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10425656,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "another",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09592519,
+        "mentions": [
+            {
+                "text": {
+                    "content": "another",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.01560432,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 149
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

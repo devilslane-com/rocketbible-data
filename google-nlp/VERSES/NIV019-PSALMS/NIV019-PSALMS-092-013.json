@@ -1,0 +1,65 @@
+[
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.4681569,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.32674628,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "courts",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10547105,
+        "mentions": [
+            {
+                "text": {
+                    "content": "courts",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.099625744,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

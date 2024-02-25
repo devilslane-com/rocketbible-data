@@ -1,0 +1,95 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.42619208,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18870409,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1492398,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09420183,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Athaliah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/023bsx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Athaliah"
+        },
+        "salience": 0.074710295,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Athaliah",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "palace",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06695192,
+        "mentions": [
+            {
+                "text": {
+                    "content": "palace",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

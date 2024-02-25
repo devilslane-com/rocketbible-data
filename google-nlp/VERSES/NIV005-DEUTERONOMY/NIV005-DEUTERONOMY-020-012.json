@@ -1,0 +1,62 @@
+[
+    {
+        "name": "battle",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3803209,
+        "mentions": [
+            {
+                "text": {
+                    "content": "battle",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "peace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.32690546,
+        "mentions": [
+            {
+                "text": {
+                    "content": "peace",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.20620076,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "siege",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.08657288,
+        "mentions": [
+            {
+                "text": {
+                    "content": "siege",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

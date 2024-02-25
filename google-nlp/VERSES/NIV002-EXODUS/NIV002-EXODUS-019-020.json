@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4655079,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "top",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17197828,
+        "mentions": [
+            {
+                "text": {
+                    "content": "top",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.14738566,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 93
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "top",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.111987025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "top",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mount Sinai",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mount_Sinai",
+            "mid": "\/m\/0gqqc"
+        },
+        "salience": 0.06445259,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mount Sinai",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mountain",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.038688574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mountain",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6653277,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.1340347,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "enemy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08804718,
+        "mentions": [
+            {
+                "text": {
+                    "content": "enemy",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "supplication",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.049210418,
+        "mentions": [
+            {
+                "text": {
+                    "content": "supplication",
+                    "beginOffset": 176
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03001433,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 204
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.018909698,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 151
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "praise",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.014455979,
+        "mentions": [
+            {
+                "text": {
+                    "content": "praise",
+                    "beginOffset": 136
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

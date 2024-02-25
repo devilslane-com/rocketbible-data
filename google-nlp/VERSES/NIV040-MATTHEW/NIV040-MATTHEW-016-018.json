@@ -1,0 +1,80 @@
+[
+    {
+        "name": "church",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.58213264,
+        "mentions": [
+            {
+                "text": {
+                    "content": "church",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/071wp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saint_Peter"
+        },
+        "salience": 0.16142938,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "rock",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14819242,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rock",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hades",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.062030934,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hades",
+                    "beginOffset": 93
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "gates",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.046214648,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gates",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

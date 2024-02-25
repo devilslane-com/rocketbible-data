@@ -1,0 +1,120 @@
+[
+    {
+        "name": "boys",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40036207,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boys",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hunter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.32380098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hunter",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.079275206,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Esau",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/016zh8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Esau"
+        },
+        "salience": 0.075004265,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Esau",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06049697,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 115
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tents",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.042838056,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tents",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jacob",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jacob_in_Islam",
+            "mid": "\/m\/0jt0lm_"
+        },
+        "salience": 0.018222444,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

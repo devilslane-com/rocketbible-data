@@ -1,0 +1,95 @@
+[
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.28753394,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "covenant",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17150153,
+        "mentions": [
+            {
+                "text": {
+                    "content": "covenant",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "part",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15779646,
+        "mentions": [
+            {
+                "text": {
+                    "content": "part",
+                    "beginOffset": 133
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.14912915,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "salvation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.119831935,
+        "mentions": [
+            {
+                "text": {
+                    "content": "salvation",
+                    "beginOffset": 180
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "desire",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.114206985,
+        "mentions": [
+            {
+                "text": {
+                    "content": "desire",
+                    "beginOffset": 212
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

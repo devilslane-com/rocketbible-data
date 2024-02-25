@@ -1,0 +1,65 @@
+[
+    {
+        "name": "anger",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.7665159,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anger",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fury",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18893063,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fury",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.027368585,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 110
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jacob",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.017184889,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

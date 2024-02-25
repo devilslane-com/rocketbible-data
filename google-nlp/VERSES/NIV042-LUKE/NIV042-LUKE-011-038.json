@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Pharisee",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j3fm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharisees"
+        },
+        "salience": 0.79483277,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharisee",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.08721547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "meal",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.07207249,
+        "mentions": [
+            {
+                "text": {
+                    "content": "meal",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wash",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.045879275,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wash",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

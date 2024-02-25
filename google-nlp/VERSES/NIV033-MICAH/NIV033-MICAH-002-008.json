@@ -1,0 +1,92 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6074908,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "enemy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1753348,
+        "mentions": [
+            {
+                "text": {
+                    "content": "enemy",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "robe",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08712574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "robe",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.060630817,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "battle",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.042619217,
+        "mentions": [
+            {
+                "text": {
+                    "content": "battle",
+                    "beginOffset": 137
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "care",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02679864,
+        "mentions": [
+            {
+                "text": {
+                    "content": "care",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

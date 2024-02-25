@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Aeneas",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Aeneas",
+            "mid": "\/m\/0qpk"
+        },
+        "salience": 0.6257441,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aeneas",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Aeneas",
+                    "beginOffset": 104
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/071wp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saint_Peter"
+        },
+        "salience": 0.1937447,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.14415444,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 36
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mat",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03635673,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mat",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

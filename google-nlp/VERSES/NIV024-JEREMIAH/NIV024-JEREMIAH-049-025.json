@@ -1,0 +1,47 @@
+[
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.47463524,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.30867788,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "renown",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21668689,
+        "mentions": [
+            {
+                "text": {
+                    "content": "renown",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

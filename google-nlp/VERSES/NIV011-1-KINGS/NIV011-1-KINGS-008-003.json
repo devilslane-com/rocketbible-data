@@ -1,0 +1,65 @@
+[
+    {
+        "name": "elders",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.36562496,
+        "mentions": [
+            {
+                "text": {
+                    "content": "elders",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2703721,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ark",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20450611,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ark",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.15949683,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

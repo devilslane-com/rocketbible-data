@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Jotham",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.858584,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jotham",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abimelek",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abimelech_(Judges)",
+            "mid": "\/m\/036ffv"
+        },
+        "salience": 0.09440347,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Abimelek",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Beer",
+        "type": "CONSUMER_GOOD",
+        "metadata": {
+            "mid": "\/m\/01599",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Beer"
+        },
+        "salience": 0.047012545,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Beer",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

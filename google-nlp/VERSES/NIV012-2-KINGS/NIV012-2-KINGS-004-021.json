@@ -1,0 +1,65 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.29403177,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bed",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29069406,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bed",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "door",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25037593,
+        "mentions": [
+            {
+                "text": {
+                    "content": "door",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.16489826,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.59149474,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16618851,
+        "mentions": [
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "reason",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12794638,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reason",
+                    "beginOffset": 122
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.10080852,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 88
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.01356188,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 133
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

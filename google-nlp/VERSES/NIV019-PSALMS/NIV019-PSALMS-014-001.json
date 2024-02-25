@@ -1,0 +1,80 @@
+[
+    {
+        "name": "fool",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6870973,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fool",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heart",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12472235,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heart",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "no one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0883404,
+        "mentions": [
+            {
+                "text": {
+                    "content": "no one",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.06168878,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "deeds",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.038151152,
+        "mentions": [
+            {
+                "text": {
+                    "content": "deeds",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "others",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5316128,
+        "mentions": [
+            {
+                "text": {
+                    "content": "others",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.35196617,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "conscience",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.084862135,
+        "mentions": [
+            {
+                "text": {
+                    "content": "conscience",
+                    "beginOffset": 142
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.03155887,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 101
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

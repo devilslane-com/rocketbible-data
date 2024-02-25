@@ -1,0 +1,89 @@
+[
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6280307,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Shem",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0788r",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Shem"
+        },
+        "salience": 0.1237751,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shem",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Noah",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/05fzm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Noah"
+        },
+        "salience": 0.12233879,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Noah",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Japheth",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/046d3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Japheth"
+        },
+        "salience": 0.08695187,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Japheth",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ham",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ham_(son_of_Noah)",
+            "mid": "\/m\/0272rc"
+        },
+        "salience": 0.038903512,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ham",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

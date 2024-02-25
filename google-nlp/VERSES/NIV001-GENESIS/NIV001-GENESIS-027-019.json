@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Esau",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/016zh8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Esau"
+        },
+        "salience": 0.5560103,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Esau",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jacob",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.33280787,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "firstborn",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09819611,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "blessing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.004912,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blessing",
+                    "beginOffset": 151
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "some",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.004036852,
+        "mentions": [
+            {
+                "text": {
+                    "content": "some",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "game",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.004036852,
+        "mentions": [
+            {
+                "text": {
+                    "content": "game",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

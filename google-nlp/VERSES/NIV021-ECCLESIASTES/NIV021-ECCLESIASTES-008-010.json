@@ -1,0 +1,47 @@
+[
+    {
+        "name": "praise",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.37271613,
+        "mentions": [
+            {
+                "text": {
+                    "content": "praise",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.33921814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.2880657,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

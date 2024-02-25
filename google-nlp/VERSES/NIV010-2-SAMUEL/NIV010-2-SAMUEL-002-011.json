@@ -1,0 +1,83 @@
+[
+    {
+        "name": "length",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.51807123,
+        "mentions": [
+            {
+                "text": {
+                    "content": "length",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16878824,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David",
+            "mid": "\/m\/02cvn"
+        },
+        "salience": 0.13360947,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hebron",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/09c10_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hebron,_Kentucky"
+        },
+        "salience": 0.093437545,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hebron",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08609351,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6579678,
+        "mentions": [
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.20963392,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wilderness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13239825,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wilderness",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

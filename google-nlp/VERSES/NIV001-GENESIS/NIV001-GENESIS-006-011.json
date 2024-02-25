@@ -1,0 +1,65 @@
+[
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.40750057,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sight",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2430142,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sight",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "violence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18748593,
+        "mentions": [
+            {
+                "text": {
+                    "content": "violence",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.16199932,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

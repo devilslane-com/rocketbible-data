@@ -1,0 +1,83 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.42165357,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "border",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.23185852,
+        "mentions": [
+            {
+                "text": {
+                    "content": "border",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jordan",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1842504,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jordan",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jericho",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0438t",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jericho"
+        },
+        "salience": 0.09938611,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jericho",
+                    "beginOffset": 117
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gilgal",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02tq9t",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gilgal"
+        },
+        "salience": 0.06285141,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gilgal",
+                    "beginOffset": 85
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

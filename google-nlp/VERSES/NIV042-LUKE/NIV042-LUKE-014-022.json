@@ -1,0 +1,39 @@
+[
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8953469,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sir",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "room",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1046531,
+        "mentions": [
+            {
+                "text": {
+                    "content": "room",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

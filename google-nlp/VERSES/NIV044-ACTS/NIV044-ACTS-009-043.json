@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.52888143,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Joppa",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/09c3pw",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joppa,_Maryland"
+        },
+        "salience": 0.22973518,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joppa",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Simon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15597114,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Simon",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "tanner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08541225,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tanner",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

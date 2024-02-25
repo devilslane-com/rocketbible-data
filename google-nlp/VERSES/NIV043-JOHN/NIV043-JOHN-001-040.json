@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Andrew",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.69663537,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Andrew",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Simon Peter",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saint_Peter",
+            "mid": "\/m\/071wp"
+        },
+        "salience": 0.12966485,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Simon Peter",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "two",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12531254,
+        "mentions": [
+            {
+                "text": {
+                    "content": "two",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.030891206,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.017496023,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 102
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

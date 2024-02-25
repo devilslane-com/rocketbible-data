@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Some",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.58006006,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Some",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "resurrection",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17320144,
+        "mentions": [
+            {
+                "text": {
+                    "content": "resurrection",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sadducees",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/0196f4",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sadducees"
+        },
+        "salience": 0.1379134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sadducees",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "question",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.079000264,
+        "mentions": [
+            {
+                "text": {
+                    "content": "question",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.029824838,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

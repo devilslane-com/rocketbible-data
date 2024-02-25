@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.88378274,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "cup",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06612349,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cup",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "baptism",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.050093755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "baptism",
+                    "beginOffset": 113
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "name": "Rebekah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46970826,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rebekah",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Esau",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/016zh8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Esau"
+        },
+        "salience": 0.23183323,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Esau",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Esau",
+                    "beginOffset": 124
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jacob",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0jt0lm_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jacob_in_Islam"
+        },
+        "salience": 0.18158656,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 85
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "brother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11687193,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

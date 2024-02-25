@@ -1,0 +1,98 @@
+[
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.35742146,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2301594,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1578144,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Philistine",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0618q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines"
+        },
+        "salience": 0.08797518,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistine",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Timnah",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/07954h",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Timnah"
+        },
+        "salience": 0.08797518,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Timnah",
+                    "beginOffset": 89
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wife",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07865438,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 122
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.42069894,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "crowd",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.29866886,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crowd",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Barabbas",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02gl4g",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Barabbas"
+        },
+        "salience": 0.12695353,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Barabbas",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "release",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.09619994,
+        "mentions": [
+            {
+                "text": {
+                    "content": "release",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pilate",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pontius_Pilate",
+            "mid": "\/m\/0svr8"
+        },
+        "salience": 0.05747875,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pilate",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

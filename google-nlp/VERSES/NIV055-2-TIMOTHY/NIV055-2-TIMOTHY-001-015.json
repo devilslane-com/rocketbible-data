@@ -1,0 +1,80 @@
+[
+    {
+        "name": "everyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.394918,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everyone",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "province",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.27442312,
+        "mentions": [
+            {
+                "text": {
+                    "content": "province",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Asia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04ldyr",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Asia_(Roman_province)"
+        },
+        "salience": 0.16840437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Asia",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hermogenes",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08308807,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hermogenes",
+                    "beginOffset": 87
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Phygelus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07916641,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Phygelus",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

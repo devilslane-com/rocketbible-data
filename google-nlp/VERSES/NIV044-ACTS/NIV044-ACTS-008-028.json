@@ -1,0 +1,80 @@
+[
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.31040445,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.31040445,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "chariot",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21819776,
+        "mentions": [
+            {
+                "text": {
+                    "content": "chariot",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prophet",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10910628,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Book of Isaiah",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "mid": "\/m\/01dgk",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Book_of_Isaiah"
+        },
+        "salience": 0.05188704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Book of Isaiah",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

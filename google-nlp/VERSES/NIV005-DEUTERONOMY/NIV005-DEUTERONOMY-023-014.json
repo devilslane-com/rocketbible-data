@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3417373,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.31100255,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "camp",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15685108,
+        "mentions": [
+            {
+                "text": {
+                    "content": "camp",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "enemies",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09596159,
+        "mentions": [
+            {
+                "text": {
+                    "content": "enemies",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "camp",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.059951536,
+        "mentions": [
+            {
+                "text": {
+                    "content": "camp",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03449592,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anything",
+                    "beginOffset": 156
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

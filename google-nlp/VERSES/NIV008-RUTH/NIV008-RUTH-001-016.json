@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Ruth",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.89505404,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ruth",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08990376,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 137
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 155
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.0075211027,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 171
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 178
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

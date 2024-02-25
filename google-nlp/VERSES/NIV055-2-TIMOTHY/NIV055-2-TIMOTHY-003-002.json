@@ -1,0 +1,69 @@
+[
+    {
+        "name": "People",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.76014453,
+        "mentions": [
+            {
+                "text": {
+                    "content": "People",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "lovers",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lovers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09526427,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lovers",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "money",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08439846,
+        "mentions": [
+            {
+                "text": {
+                    "content": "money",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "parents",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.060192756,
+        "mentions": [
+            {
+                "text": {
+                    "content": "parents",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

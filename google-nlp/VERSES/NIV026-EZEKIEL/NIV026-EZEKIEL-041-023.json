@@ -1,0 +1,50 @@
+[
+    {
+        "name": "hall",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.5337261,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hall",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "doors",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25901526,
+        "mentions": [
+            {
+                "text": {
+                    "content": "doors",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Most Holy Place",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Holy_of_Holies",
+            "mid": "\/m\/025t__f"
+        },
+        "salience": 0.20725864,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Most Holy Place",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.6589287,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.26968116,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "boat",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.071390174,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boat",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

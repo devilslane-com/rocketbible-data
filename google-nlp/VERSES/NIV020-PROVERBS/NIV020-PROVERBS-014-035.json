@@ -1,0 +1,62 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5163935,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 2
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2750587,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "servant",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12731867,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fury",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08122918,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fury",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

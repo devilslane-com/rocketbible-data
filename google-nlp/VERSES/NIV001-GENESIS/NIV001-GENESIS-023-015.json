@@ -1,0 +1,62 @@
+[
+    {
+        "name": "lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3723091,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lord",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.30577296,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "silver",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25956255,
+        "mentions": [
+            {
+                "text": {
+                    "content": "silver",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06235539,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

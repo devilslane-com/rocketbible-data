@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Benjamin",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6885335,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Benjamin",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09605093,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "brother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09553059,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.060991775,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.05889325,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 163
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 190
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

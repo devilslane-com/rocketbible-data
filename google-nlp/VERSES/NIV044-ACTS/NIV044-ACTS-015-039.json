@@ -1,0 +1,83 @@
+[
+    {
+        "name": "disagreement",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.59992486,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disagreement",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "company",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.25815365,
+        "mentions": [
+            {
+                "text": {
+                    "content": "company",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Barnabas",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01grh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Barnabas"
+        },
+        "salience": 0.07901618,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Barnabas",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Cyprus",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cyprus",
+            "mid": "\/m\/01ppq"
+        },
+        "salience": 0.037160546,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cyprus",
+                    "beginOffset": 95
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Mark",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.025744755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mark",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

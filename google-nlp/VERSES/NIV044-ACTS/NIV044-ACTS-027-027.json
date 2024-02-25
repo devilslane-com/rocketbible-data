@@ -1,0 +1,50 @@
+[
+    {
+        "name": "sailors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.65708095,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sailors",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Adriatic Sea",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Adriatic_Sea",
+            "mid": "\/m\/0p_x"
+        },
+        "salience": 0.18575682,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Adriatic Sea",
+                    "beginOffset": 62
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15716223,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 137
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

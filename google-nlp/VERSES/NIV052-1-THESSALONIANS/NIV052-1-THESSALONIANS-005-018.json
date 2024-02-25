@@ -1,0 +1,83 @@
+[
+    {
+        "name": "thanks",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.42949763,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thanks",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "circumstances",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23259598,
+        "mentions": [
+            {
+                "text": {
+                    "content": "circumstances",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "will",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18978415,
+        "mentions": [
+            {
+                "text": {
+                    "content": "will",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.09918561,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Christ Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.04893662,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ Jesus",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

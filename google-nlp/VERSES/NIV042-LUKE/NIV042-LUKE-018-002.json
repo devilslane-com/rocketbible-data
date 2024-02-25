@@ -1,0 +1,65 @@
+[
+    {
+        "name": "judge",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5611972,
+        "mentions": [
+            {
+                "text": {
+                    "content": "judge",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.22873484,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16666187,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.04340607,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.42419654,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "other",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22084215,
+        "mentions": [
+            {
+                "text": {
+                    "content": "other",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.22084215,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.13411915,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 79
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

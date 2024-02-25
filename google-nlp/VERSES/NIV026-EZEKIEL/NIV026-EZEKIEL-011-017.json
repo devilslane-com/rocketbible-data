@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Sovereign",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.51847947,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Sovereign",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "countries",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.26584557,
+        "mentions": [
+            {
+                "text": {
+                    "content": "countries",
+                    "beginOffset": 122
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nations",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11806079,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nations",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06313873,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 192
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.03447541,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 200
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

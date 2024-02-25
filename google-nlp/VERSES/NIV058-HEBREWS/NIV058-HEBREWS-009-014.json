@@ -1,0 +1,135 @@
+[
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30097967,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "more",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.26600015,
+        "mentions": [
+            {
+                "text": {
+                    "content": "more",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.12428725,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 109
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 200
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "blood",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10840249,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blood",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "consciences",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06911193,
+        "mentions": [
+            {
+                "text": {
+                    "content": "consciences",
+                    "beginOffset": 126
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "acts",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06294942,
+        "mentions": [
+            {
+                "text": {
+                    "content": "acts",
+                    "beginOffset": 143
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Spirit",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/05jpb7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Spirit"
+        },
+        "salience": 0.044987738,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Spirit",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.023281364,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 161
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

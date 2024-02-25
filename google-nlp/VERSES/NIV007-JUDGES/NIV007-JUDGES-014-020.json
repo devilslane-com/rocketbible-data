@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Samson",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/012zc3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Samson"
+        },
+        "salience": 0.7126397,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samson",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "companions",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1304089,
+        "mentions": [
+            {
+                "text": {
+                    "content": "companions",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wife",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06797898,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.059161685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "feast",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.029810771,
+        "mentions": [
+            {
+                "text": {
+                    "content": "feast",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

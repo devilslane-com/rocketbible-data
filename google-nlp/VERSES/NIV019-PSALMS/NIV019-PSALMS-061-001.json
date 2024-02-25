@@ -1,0 +1,50 @@
+[
+    {
+        "name": "cry",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.51580787,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cry",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prayer",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25997522,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prayer",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.22421691,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Mary",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6017833,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mary",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lazarus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3171744,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Lazarus",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "feet",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.026256947,
+        "mentions": [
+            {
+                "text": {
+                    "content": "feet",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "perfume",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.025327723,
+        "mentions": [
+            {
+                "text": {
+                    "content": "perfume",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hair",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.018068612,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hair",
+                    "beginOffset": 124
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.01138906,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

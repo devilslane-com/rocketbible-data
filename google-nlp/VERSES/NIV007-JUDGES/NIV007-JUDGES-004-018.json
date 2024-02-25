@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Jael",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02xptd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jael"
+        },
+        "salience": 0.4824817,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jael",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sisera",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sisera",
+            "mid": "\/m\/0j157"
+        },
+        "salience": 0.44039798,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sisera",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.048678778,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lord",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tent",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.016704649,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tent",
+                    "beginOffset": 119
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "blanket",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.01173691,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blanket",
+                    "beginOffset": 152
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

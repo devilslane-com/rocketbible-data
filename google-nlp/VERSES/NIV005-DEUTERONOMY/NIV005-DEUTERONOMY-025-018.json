@@ -1,0 +1,65 @@
+[
+    {
+        "name": "all",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.77488273,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "journey",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.112768605,
+        "mentions": [
+            {
+                "text": {
+                    "content": "journey",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fear",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07905058,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fear",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.033298098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 125
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

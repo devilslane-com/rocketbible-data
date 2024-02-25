@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Amnon",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Amnon",
+            "mid": "\/m\/0138d"
+        },
+        "salience": 0.4449057,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Amnon",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Tamar",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01q9f7y",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tamar_Braxton"
+        },
+        "salience": 0.4024098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Tamar",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "dough",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07994611,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dough",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.04945176,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bread",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.011643332,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sight",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.011643332,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sight",
+                    "beginOffset": 124
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

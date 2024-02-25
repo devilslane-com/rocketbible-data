@@ -1,0 +1,80 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.53946215,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.22703454,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wife",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14622234,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "divorce",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04942665,
+        "mentions": [
+            {
+                "text": {
+                    "content": "divorce",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "certificate",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.037854336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "certificate",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.38672286,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.16312876,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "milk",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16312876,
+        "mentions": [
+            {
+                "text": {
+                    "content": "milk",
+                    "beginOffset": 126
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.1444433,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 154
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 164
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ancestors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08743408,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ancestors",
+                    "beginOffset": 176
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "honey",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.055142216,
+        "mentions": [
+            {
+                "text": {
+                    "content": "honey",
+                    "beginOffset": 135
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

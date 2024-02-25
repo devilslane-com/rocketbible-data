@@ -1,0 +1,77 @@
+[
+    {
+        "name": "foreigner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8445519,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foreigner",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "stranger",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.096408285,
+        "mentions": [
+            {
+                "text": {
+                    "content": "stranger",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "property",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.032876715,
+        "mentions": [
+            {
+                "text": {
+                    "content": "property",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.016065212,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "burial site",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.010097876,
+        "mentions": [
+            {
+                "text": {
+                    "content": "burial site",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

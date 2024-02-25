@@ -1,0 +1,53 @@
+[
+    {
+        "name": "bow",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.55395925,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bow",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.33777615,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Valley of Jezreel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/036747",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jezreel_Valley"
+        },
+        "salience": 0.10826457,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Valley of Jezreel",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

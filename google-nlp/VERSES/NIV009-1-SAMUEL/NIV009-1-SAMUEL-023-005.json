@@ -1,0 +1,130 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David",
+            "mid": "\/m\/02cvn"
+        },
+        "salience": 0.45882225,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30265623,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Keilah",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0270gsp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Keilah"
+        },
+        "salience": 0.11399979,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Keilah",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Keilah",
+                    "beginOffset": 162
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "livestock",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.056283377,
+        "mentions": [
+            {
+                "text": {
+                    "content": "livestock",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Philistines",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0618q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines"
+        },
+        "salience": 0.04065573,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistines",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Philistines",
+                    "beginOffset": 126
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.019136764,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 152
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "losses",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0084458515,
+        "mentions": [
+            {
+                "text": {
+                    "content": "losses",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "departure",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.8064499,
+        "mentions": [
+            {
+                "text": {
+                    "content": "departure",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fulfillment",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13586946,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fulfillment",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.057680648,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

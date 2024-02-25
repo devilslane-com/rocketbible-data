@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Philip",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5655345,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philip",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Philip",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Andrew",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/012bzvzz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/AndrewAndrew"
+        },
+        "salience": 0.23854536,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Andrew",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Andrew",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "turn",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.099573,
+        "mentions": [
+            {
+                "text": {
+                    "content": "turn",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09634717,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

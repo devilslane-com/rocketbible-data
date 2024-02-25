@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Someone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46187627,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Someone",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.2604824,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "falsehood",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.103238925,
+        "mentions": [
+            {
+                "text": {
+                    "content": "falsehood",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "truthfulness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.072134264,
+        "mentions": [
+            {
+                "text": {
+                    "content": "truthfulness",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "glory",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06645383,
+        "mentions": [
+            {
+                "text": {
+                    "content": "glory",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sinner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.035814315,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sinner",
+                    "beginOffset": 128
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

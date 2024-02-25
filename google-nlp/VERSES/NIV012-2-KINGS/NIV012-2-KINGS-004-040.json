@@ -1,0 +1,77 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7121457,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "stew",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19082743,
+        "mentions": [
+            {
+                "text": {
+                    "content": "stew",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pot",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.038614642,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pot",
+                    "beginOffset": 119
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Man of God",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03648666,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Man of God",
+                    "beginOffset": 85
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.021925574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

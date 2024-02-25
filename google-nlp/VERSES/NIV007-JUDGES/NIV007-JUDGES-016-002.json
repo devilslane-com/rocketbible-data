@@ -1,0 +1,113 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7220779,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gaza",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0357_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gaza_Strip"
+        },
+        "salience": 0.12684183,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gaza",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Samson",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/012zc3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Samson"
+        },
+        "salience": 0.060216904,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samson",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wait",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.028292157,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wait",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.027951729,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city gate",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.025992109,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city gate",
+                    "beginOffset": 122
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "move",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.008627358,
+        "mentions": [
+            {
+                "text": {
+                    "content": "move",
+                    "beginOffset": 146
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "heart",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.7003836,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heart",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "praises",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2046537,
+        "mentions": [
+            {
+                "text": {
+                    "content": "praises",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07634765,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.018615039,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

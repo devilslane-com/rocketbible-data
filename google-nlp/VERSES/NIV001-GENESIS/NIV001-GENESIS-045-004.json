@@ -1,0 +1,61 @@
+[
+    {
+        "name": "Joseph",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.89262426,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joseph",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Joseph",
+                    "beginOffset": 111
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09877574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.008600018,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 141
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

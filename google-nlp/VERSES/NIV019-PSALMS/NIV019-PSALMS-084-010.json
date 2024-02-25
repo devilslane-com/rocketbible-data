@@ -1,0 +1,110 @@
+[
+    {
+        "name": "doorkeeper",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5413645,
+        "mentions": [
+            {
+                "text": {
+                    "content": "doorkeeper",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "courts",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.13340081,
+        "mentions": [
+            {
+                "text": {
+                    "content": "courts",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "elsewhere",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09191608,
+        "mentions": [
+            {
+                "text": {
+                    "content": "elsewhere",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.085644655,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dwell",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06519491,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dwell",
+                    "beginOffset": 119
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tents",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.06519491,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tents",
+                    "beginOffset": 132
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.017284138,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 110
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

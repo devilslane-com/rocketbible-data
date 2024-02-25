@@ -1,0 +1,225 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.36567736,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sovereign",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1668662,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Sovereign",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.16432111,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.046902418,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 279
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.045147028,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.033372298,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 150
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anxiety",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.033372298,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anxiety",
+                    "beginOffset": 158
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.033372298,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 182
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02524296,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 235
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.0216173,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 122
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.021355484,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 93
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "violence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.017727768,
+        "mentions": [
+            {
+                "text": {
+                    "content": "violence",
+                    "beginOffset": 267
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.013887377,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 210
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "despair",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.011138117,
+        "mentions": [
+            {
+                "text": {
+                    "content": "despair",
+                    "beginOffset": 191
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

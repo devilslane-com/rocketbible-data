@@ -1,0 +1,47 @@
+[
+    {
+        "name": "friend",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.70702595,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friend",
+                    "beginOffset": 2
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "brother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19301122,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "adversity",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.099962816,
+        "mentions": [
+            {
+                "text": {
+                    "content": "adversity",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

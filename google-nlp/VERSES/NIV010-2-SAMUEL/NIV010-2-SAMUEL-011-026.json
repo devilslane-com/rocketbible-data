@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Uriah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01ttyl",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Uriah_the_Hittite"
+        },
+        "salience": 0.5553896,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Uriah",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wife",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34011534,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "husband",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10449508,
+        "mentions": [
+            {
+                "text": {
+                    "content": "husband",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

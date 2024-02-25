@@ -1,0 +1,47 @@
+[
+    {
+        "name": "many",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.73900276,
+        "mentions": [
+            {
+                "text": {
+                    "content": "many",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18069926,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "foot",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08029799,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foot",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

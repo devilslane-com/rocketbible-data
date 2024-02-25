@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Messiah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.37314233,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Messiah",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "birth",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.28093225,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birth",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mary",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04n7gc6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mary,_mother_of_Jesus"
+        },
+        "salience": 0.22287482,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Mary",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06236339,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Joseph",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03959136,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joseph",
+                    "beginOffset": 100
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Holy Spirit",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/03qsc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Holy_Spirit"
+        },
+        "salience": 0.021095857,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Holy Spirit",
+                    "beginOffset": 180
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

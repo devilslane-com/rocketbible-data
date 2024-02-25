@@ -1,0 +1,54 @@
+[
+    {
+        "name": "warrior",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.69641894,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "warrior",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2165386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08704247,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

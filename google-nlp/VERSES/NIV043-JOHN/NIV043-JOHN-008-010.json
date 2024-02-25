@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.59454024,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30816853,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Woman",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "no one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.097291246,
+        "mentions": [
+            {
+                "text": {
+                    "content": "no one",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.55695516,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Brothers",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sisters",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24130312,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sisters",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10334309,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.07557647,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 107
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "situation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.022822188,
+        "mentions": [
+            {
+                "text": {
+                    "content": "situation",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

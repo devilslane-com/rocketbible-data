@@ -1,0 +1,53 @@
+[
+    {
+        "name": "synagogues",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.44930986,
+        "mentions": [
+            {
+                "text": {
+                    "content": "synagogues",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.30383945,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Son of God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06_5d",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Son_of_God"
+        },
+        "salience": 0.24685068,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son of God",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

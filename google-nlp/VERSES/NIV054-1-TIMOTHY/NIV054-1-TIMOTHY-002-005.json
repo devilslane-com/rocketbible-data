@@ -1,0 +1,82 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.3076169,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Christ Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.2658504,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Christ Jesus",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mediator",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2218898,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mediator",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mankind",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20464292,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mankind",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

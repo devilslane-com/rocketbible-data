@@ -1,0 +1,110 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7049574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gifts",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10530103,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gifts",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "silver",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06717236,
+        "mentions": [
+            {
+                "text": {
+                    "content": "silver",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "amount",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06639129,
+        "mentions": [
+            {
+                "text": {
+                    "content": "amount",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Benjamin",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.040521555,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Benjamin",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Joseph",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.009617475,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joseph",
+                    "beginOffset": 133
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.0060388665,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 99
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.687164,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15641798,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "waste",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15641798,
+        "mentions": [
+            {
+                "text": {
+                    "content": "waste",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

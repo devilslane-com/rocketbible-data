@@ -1,0 +1,87 @@
+[
+    {
+        "name": "defender",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.76065993,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 2
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "defender",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fatherless",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11461423,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fatherless",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "widows",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07165129,
+        "mentions": [
+            {
+                "text": {
+                    "content": "widows",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dwelling",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.035828073,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dwelling",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.017246468,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

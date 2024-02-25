@@ -1,0 +1,90 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.640895,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.15183488,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "message",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10795523,
+        "mentions": [
+            {
+                "text": {
+                    "content": "message",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nabal",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01tw8h",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nabal"
+        },
+        "salience": 0.065285705,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nabal",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.034029204,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

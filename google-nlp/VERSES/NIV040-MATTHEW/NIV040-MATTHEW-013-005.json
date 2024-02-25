@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Some",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.41813892,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Some",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "soil",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.34143198,
+        "mentions": [
+            {
+                "text": {
+                    "content": "soil",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "soil",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "places",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.24042909,
+        "mentions": [
+            {
+                "text": {
+                    "content": "places",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

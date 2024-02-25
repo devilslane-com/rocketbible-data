@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Delilah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6175046,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Delilah",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "strength",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13824841,
+        "mentions": [
+            {
+                "text": {
+                    "content": "strength",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Samson",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Samson",
+            "mid": "\/m\/012zc3"
+        },
+        "salience": 0.13085134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samson",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "secret",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.113395624,
+        "mentions": [
+            {
+                "text": {
+                    "content": "secret",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

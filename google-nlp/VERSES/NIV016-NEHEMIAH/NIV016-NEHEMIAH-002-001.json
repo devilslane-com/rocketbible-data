@@ -1,0 +1,98 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.28471342,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wine",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.22089547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nisan",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0ck9z",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nisan"
+        },
+        "salience": 0.21973507,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nisan",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wine",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.19037761,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "King Artaxerxes",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Artaxerxes_I_of_Persia",
+            "mid": "\/m\/0hyvg"
+        },
+        "salience": 0.06005968,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King Artaxerxes",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "presence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.024218746,
+        "mentions": [
+            {
+                "text": {
+                    "content": "presence",
+                    "beginOffset": 162
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

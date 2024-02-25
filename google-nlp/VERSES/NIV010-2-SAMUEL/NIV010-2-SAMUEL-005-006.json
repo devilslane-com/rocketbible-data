@@ -1,0 +1,130 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.51570064,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.23237468,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jebusites",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/01y7jz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jebusite"
+        },
+        "salience": 0.090017386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jebusites",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jebusites",
+                    "beginOffset": 88
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.056126077,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David",
+            "mid": "\/m\/02cvn"
+        },
+        "salience": 0.047839068,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 106
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 208
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "blind",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02885553,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blind",
+                    "beginOffset": 151
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lame",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009600586,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lame",
+                    "beginOffset": 165
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

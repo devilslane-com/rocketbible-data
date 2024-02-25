@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Eve",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.47929022,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Eve",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Adam",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46494505,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Adam",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "living",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03332839,
+        "mentions": [
+            {
+                "text": {
+                    "content": "living",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.022436343,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

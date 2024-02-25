@@ -1,0 +1,102 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46083024,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.27107754,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Absalom",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pxb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Absalom"
+        },
+        "salience": 0.113649964,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Absalom",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "face",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09850223,
+        "mentions": [
+            {
+                "text": {
+                    "content": "face",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "face",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0336704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "face",
+                    "beginOffset": 132
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.022269618,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 144
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

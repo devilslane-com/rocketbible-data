@@ -1,0 +1,110 @@
+[
+    {
+        "name": "sailors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.72250915,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sailors",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "each other",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.104745775,
+        "mentions": [
+            {
+                "text": {
+                    "content": "each other",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lots",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.082625546,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lots",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lot",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.028513674,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lot",
+                    "beginOffset": 139
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lots",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.028356154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lots",
+                    "beginOffset": 126
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "calamity",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.022839824,
+        "mentions": [
+            {
+                "text": {
+                    "content": "calamity",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jonah",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jonah",
+            "mid": "\/m\/044ch"
+        },
+        "salience": 0.010409854,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jonah",
+                    "beginOffset": 151
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

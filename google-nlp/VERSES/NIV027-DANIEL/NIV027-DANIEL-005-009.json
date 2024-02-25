@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Belshazzar",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/017f42",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Belshazzar"
+        },
+        "salience": 0.8360594,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Belshazzar",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "face",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1327055,
+        "mentions": [
+            {
+                "text": {
+                    "content": "face",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nobles",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03123509,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nobles",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

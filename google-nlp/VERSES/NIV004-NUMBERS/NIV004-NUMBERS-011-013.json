@@ -1,0 +1,39 @@
+[
+    {
+        "name": "meat",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.8843529,
+        "mentions": [
+            {
+                "text": {
+                    "content": "meat",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "meat",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11564705,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "assembly",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.46738115,
+        "mentions": [
+            {
+                "text": {
+                    "content": "assembly",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3318102,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.20080866,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

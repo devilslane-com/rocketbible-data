@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.49025637,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25886378,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "O Israel",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10190698,
+        "mentions": [
+            {
+                "text": {
+                    "content": "O Israel",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.08424609,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.06472678,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 90
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

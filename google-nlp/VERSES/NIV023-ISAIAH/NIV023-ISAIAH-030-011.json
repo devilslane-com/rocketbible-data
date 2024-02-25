@@ -1,0 +1,65 @@
+[
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.7000751,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "path",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1768191,
+        "mentions": [
+            {
+                "text": {
+                    "content": "path",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Holy One",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.0615529,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Holy One",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.0615529,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

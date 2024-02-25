@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Greet Priscilla",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5126449,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Greet Priscilla",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "co-workers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22982685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "co-workers",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Aquila",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15053561,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aquila",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Christ Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.106992655,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ Jesus",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

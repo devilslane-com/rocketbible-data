@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.46767095,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.28615662,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Anyone",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "daytime",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.10742336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "daytime",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.08143773,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "light",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.057311352,
+        "mentions": [
+            {
+                "text": {
+                    "content": "light",
+                    "beginOffset": 140
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

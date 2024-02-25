@@ -1,0 +1,97 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5941274,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mary",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12366475,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mary",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Bethany",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.119930565,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bethany",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "village",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lazarus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Lazarus_of_Bethany",
+            "mid": "\/m\/03bxbp2"
+        },
+        "salience": 0.10832359,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lazarus",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Martha",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0p7xb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Martha"
+        },
+        "salience": 0.053953655,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sister",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Martha",
+                    "beginOffset": 90
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

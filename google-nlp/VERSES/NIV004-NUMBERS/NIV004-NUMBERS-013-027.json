@@ -1,0 +1,95 @@
+[
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.40526655,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "account",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29949874,
+        "mentions": [
+            {
+                "text": {
+                    "content": "account",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses",
+            "mid": "\/m\/04yfh"
+        },
+        "salience": 0.18580364,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 10
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "honey",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.059059445,
+        "mentions": [
+            {
+                "text": {
+                    "content": "honey",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "milk",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.026213292,
+        "mentions": [
+            {
+                "text": {
+                    "content": "milk",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fruit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02415834,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fruit",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

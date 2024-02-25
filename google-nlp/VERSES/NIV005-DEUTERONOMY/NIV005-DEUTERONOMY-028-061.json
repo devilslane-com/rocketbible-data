@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5307071,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disaster",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.15449959,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disaster",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sickness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15272805,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sickness",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kind",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13289928,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kind",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Book of the Law",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "mid": "\/m\/07kgm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/The_Book_of_the_Law"
+        },
+        "salience": 0.029165966,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Book of the Law",
+                    "beginOffset": 89
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

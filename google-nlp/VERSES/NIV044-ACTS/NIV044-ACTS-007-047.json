@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Solomon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070h3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Solomon"
+        },
+        "salience": 0.8683419,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.13165809,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

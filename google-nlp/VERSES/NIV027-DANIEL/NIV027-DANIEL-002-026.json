@@ -1,0 +1,65 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.37083593,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Belteshazzar",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Belshazzar",
+            "mid": "\/m\/017f42"
+        },
+        "salience": 0.3674519,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Belteshazzar",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Daniel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20180717,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Daniel",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "dream",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.059904978,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dream",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Jonah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/044ch",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jonah"
+        },
+        "salience": 0.89192367,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jonah",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sea",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10807633,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sea",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

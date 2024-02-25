@@ -1,0 +1,50 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.8583582,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "robe",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08074162,
+        "mentions": [
+            {
+                "text": {
+                    "content": "robe",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "corner",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.060900167,
+        "mentions": [
+            {
+                "text": {
+                    "content": "corner",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.8277667,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "regions",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09627375,
+        "mentions": [
+            {
+                "text": {
+                    "content": "regions",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Philistines",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0618q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines"
+        },
+        "salience": 0.044517606,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistines",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Geshurites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/09v8ct1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Geshurites"
+        },
+        "salience": 0.031441934,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Geshurites",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

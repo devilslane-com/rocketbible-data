@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Sarah",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sarah",
+            "mid": "\/m\/01b5wx"
+        },
+        "salience": 0.4095045,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sarah",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Sarah",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pwb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam"
+        },
+        "salience": 0.26855657,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "age",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18797056,
+        "mentions": [
+            {
+                "text": {
+                    "content": "age",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "childbearing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13396837,
+        "mentions": [
+            {
+                "text": {
+                    "content": "childbearing",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

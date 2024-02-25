@@ -1,0 +1,72 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6592711,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.17472309,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lives",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08590289,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lives",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.080102876,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

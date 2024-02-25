@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.5347912,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "gospel",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10185455,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gospel",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "salvation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10185455,
+        "mentions": [
+            {
+                "text": {
+                    "content": "salvation",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "message",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10065138,
+        "mentions": [
+            {
+                "text": {
+                    "content": "message",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "truth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10065138,
+        "mentions": [
+            {
+                "text": {
+                    "content": "truth",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Holy Spirit",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/03qsc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Holy_Spirit"
+        },
+        "salience": 0.06019694,
+        "mentions": [
+            {
+                "text": {
+                    "content": "seal",
+                    "beginOffset": 153
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Holy Spirit",
+                    "beginOffset": 172
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

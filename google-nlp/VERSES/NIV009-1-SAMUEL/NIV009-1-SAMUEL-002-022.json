@@ -1,0 +1,125 @@
+[
+    {
+        "name": "Eli",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.48199758,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Eli",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.26627025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "women",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06911463,
+        "mentions": [
+            {
+                "text": {
+                    "content": "women",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.055116486,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "entrance",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.039005727,
+        "mentions": [
+            {
+                "text": {
+                    "content": "entrance",
+                    "beginOffset": 136
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.03347267,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "tent",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.027511317,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tent",
+                    "beginOffset": 152
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "meeting",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.027511317,
+        "mentions": [
+            {
+                "text": {
+                    "content": "meeting",
+                    "beginOffset": 160
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

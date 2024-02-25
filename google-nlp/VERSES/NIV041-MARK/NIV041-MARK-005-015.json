@@ -1,0 +1,80 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.43315104,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.25693044,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "legion",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11825874,
+        "mentions": [
+            {
+                "text": {
+                    "content": "legion",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "demons",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.108865656,
+        "mentions": [
+            {
+                "text": {
+                    "content": "demons",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mind",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08279414,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mind",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

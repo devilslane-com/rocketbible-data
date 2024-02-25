@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.62656784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "reason",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22311345,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reason",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.068170086,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04806124,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "living",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.034087352,
+        "mentions": [
+            {
+                "text": {
+                    "content": "living",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

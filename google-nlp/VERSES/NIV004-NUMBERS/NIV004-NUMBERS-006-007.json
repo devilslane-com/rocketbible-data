@@ -1,0 +1,140 @@
+[
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3446118,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13976526,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "brother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13976526,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sister",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.095620126,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sister",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "account",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0890008,
+        "mentions": [
+            {
+                "text": {
+                    "content": "account",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dedication",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.067514524,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dedication",
+                    "beginOffset": 161
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "head",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.047541074,
+        "mentions": [
+            {
+                "text": {
+                    "content": "head",
+                    "beginOffset": 191
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.040235158,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 175
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "symbol",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.035946015,
+        "mentions": [
+            {
+                "text": {
+                    "content": "symbol",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

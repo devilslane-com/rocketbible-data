@@ -1,0 +1,98 @@
+[
+    {
+        "name": "square",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.52657676,
+        "mentions": [
+            {
+                "text": {
+                    "content": "square",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bodies",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.33580586,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bodies",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0543153,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03807492,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sodom",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0jhj2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sodom_and_Gomorrah"
+        },
+        "salience": 0.035132926,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sodom",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt",
+            "mid": "\/m\/02k54"
+        },
+        "salience": 0.010094226,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 102
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

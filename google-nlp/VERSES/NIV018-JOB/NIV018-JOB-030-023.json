@@ -1,0 +1,47 @@
+[
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.5489358,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "living",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.27588364,
+        "mentions": [
+            {
+                "text": {
+                    "content": "living",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17518061,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

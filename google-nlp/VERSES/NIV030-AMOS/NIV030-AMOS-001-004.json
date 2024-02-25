@@ -1,0 +1,83 @@
+[
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.52652866,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fire",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2546093,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fire",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hazael",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04f90y",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hazael"
+        },
+        "salience": 0.108572714,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hazael",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "fortresses",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.056721248,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fortresses",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ben-Hadad",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06_ydn7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ben-Hadad_I"
+        },
+        "salience": 0.053568073,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ben-Hadad",
+                    "beginOffset": 76
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

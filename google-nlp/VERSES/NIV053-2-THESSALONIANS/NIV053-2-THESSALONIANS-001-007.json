@@ -1,0 +1,87 @@
+[
+    {
+        "name": "relief",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5218411,
+        "mentions": [
+            {
+                "text": {
+                    "content": "relief",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.33859882,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 91
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fire",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06508515,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fire",
+                    "beginOffset": 132
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "angels",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.045730665,
+        "mentions": [
+            {
+                "text": {
+                    "content": "angels",
+                    "beginOffset": 155
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heaven",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.028744256,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heaven",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

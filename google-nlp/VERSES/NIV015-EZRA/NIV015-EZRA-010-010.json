@@ -1,0 +1,80 @@
+[
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.49726334,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ezra",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.31837344,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ezra",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "guilt",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07431173,
+        "mentions": [
+            {
+                "text": {
+                    "content": "guilt",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.063020855,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 119
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "women",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.047030628,
+        "mentions": [
+            {
+                "text": {
+                    "content": "women",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

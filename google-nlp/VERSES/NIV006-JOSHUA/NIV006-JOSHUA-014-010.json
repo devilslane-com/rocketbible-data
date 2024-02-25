@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5514442,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.17487472,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 113
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.17487472,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 126
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wilderness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09880638,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wilderness",
+                    "beginOffset": 152
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

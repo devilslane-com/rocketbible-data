@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Philip",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46422097,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philip",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "passage",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.21944655,
+        "mentions": [
+            {
+                "text": {
+                    "content": "passage",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Scripture",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/02mdj1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Religious_text"
+        },
+        "salience": 0.1351901,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Scripture",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "news",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11423261,
+        "mentions": [
+            {
+                "text": {
+                    "content": "news",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.06690979,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 87
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

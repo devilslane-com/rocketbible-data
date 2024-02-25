@@ -1,0 +1,142 @@
+[
+    {
+        "name": "David I",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5848864,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "David I",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19516234,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.060203437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.045538966,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 140
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.044152368,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.0314864,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 87
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "enemies",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.028117692,
+        "mentions": [
+            {
+                "text": {
+                    "content": "enemies",
+                    "beginOffset": 158
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Philistines",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0618q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines"
+        },
+        "salience": 0.010452423,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistines",
+                    "beginOffset": 115
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

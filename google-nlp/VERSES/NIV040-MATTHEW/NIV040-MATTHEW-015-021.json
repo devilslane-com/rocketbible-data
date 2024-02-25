@@ -1,0 +1,86 @@
+[
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.538003,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "region",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1983825,
+        "mentions": [
+            {
+                "text": {
+                    "content": "region",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.12993969,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sidon",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/070rd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sidon"
+        },
+        "salience": 0.09235418,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sidon",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Tyre",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/07kx2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tyre,_Lebanon"
+        },
+        "salience": 0.041320585,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Tyre",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

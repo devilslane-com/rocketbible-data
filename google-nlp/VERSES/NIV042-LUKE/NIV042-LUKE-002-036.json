@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Anna",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8715219,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Anna",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "daughter",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tribe",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.046394482,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tribe",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Asher",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01twg1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Asher"
+        },
+        "salience": 0.02781006,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Asher",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Penuel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0j3mf",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Penuel"
+        },
+        "salience": 0.02747676,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Penuel",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "husband",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.015742848,
+        "mentions": [
+            {
+                "text": {
+                    "content": "husband",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "marriage",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.01105398,
+        "mentions": [
+            {
+                "text": {
+                    "content": "marriage",
+                    "beginOffset": 150
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

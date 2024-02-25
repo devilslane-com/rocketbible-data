@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7289855,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07361954,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "duty",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06782214,
+        "mentions": [
+            {
+                "text": {
+                    "content": "duty",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sanhedrin",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0160sc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sanhedrin"
+        },
+        "salience": 0.0641482,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sanhedrin",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "conscience",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.051685862,
+        "mentions": [
+            {
+                "text": {
+                    "content": "conscience",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.01373879,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

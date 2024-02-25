@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40036884,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "money",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.32390988,
+        "mentions": [
+            {
+                "text": {
+                    "content": "money",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.27572125,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

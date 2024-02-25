@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.7297185,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09685805,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Passover Festival",
+        "type": "EVENT",
+        "metadata": {
+            "mid": "\/m\/05rds",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Passover"
+        },
+        "salience": 0.07770171,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Passover Festival",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04014567,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.034349892,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 163
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "end",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.021226192,
+        "mentions": [
+            {
+                "text": {
+                    "content": "end",
+                    "beginOffset": 191
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

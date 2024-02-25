@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Noah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05fzm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Noah"
+        },
+        "salience": 0.86474335,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Noah",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wine",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.10447719,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.030779481,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

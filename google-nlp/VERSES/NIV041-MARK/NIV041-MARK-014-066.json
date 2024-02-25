@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3768943,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18920021,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "courtyard",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.16358885,
+        "mentions": [
+            {
+                "text": {
+                    "content": "courtyard",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "servant girls",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15286192,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant girls",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "high priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11745473,
+        "mentions": [
+            {
+                "text": {
+                    "content": "high priest",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

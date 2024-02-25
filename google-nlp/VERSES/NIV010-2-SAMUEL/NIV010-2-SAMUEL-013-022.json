@@ -1,0 +1,85 @@
+[
+    {
+        "name": "Amnon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0138d",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Amnon"
+        },
+        "salience": 0.4762253,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Amnon",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Amnon",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Absalom",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pxb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Absalom"
+        },
+        "salience": 0.3331998,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Absalom",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10851196,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Tamar",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05zm824",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tamar_(daughter_of_David)"
+        },
+        "salience": 0.08206295,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sister",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Tamar",
+                    "beginOffset": 111
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

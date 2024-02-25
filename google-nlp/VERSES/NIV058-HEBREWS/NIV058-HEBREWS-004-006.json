@@ -1,0 +1,62 @@
+[
+    {
+        "name": "some",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.83967745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "some",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rest",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06585638,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rest",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "news",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.061384093,
+        "mentions": [
+            {
+                "text": {
+                    "content": "news",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disobedience",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.033082053,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disobedience",
+                    "beginOffset": 159
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

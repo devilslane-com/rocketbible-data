@@ -1,0 +1,108 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30791357,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 153
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 176
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2518873,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14816435,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nahash",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0h0k9t",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nahash_of_Ammon"
+        },
+        "salience": 0.12272224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nahash",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ammonites",
+        "type": "CONSUMER_GOOD",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ammon",
+            "mid": "\/m\/0sk0"
+        },
+        "salience": 0.12272224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ammonites",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.046590336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 163
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

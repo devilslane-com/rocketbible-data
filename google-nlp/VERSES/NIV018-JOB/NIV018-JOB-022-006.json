@@ -1,0 +1,77 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.37853092,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "relatives",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.29835936,
+        "mentions": [
+            {
+                "text": {
+                    "content": "relatives",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "security",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23356673,
+        "mentions": [
+            {
+                "text": {
+                    "content": "security",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "reason",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06820949,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reason",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "clothing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.021333525,
+        "mentions": [
+            {
+                "text": {
+                    "content": "clothing",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

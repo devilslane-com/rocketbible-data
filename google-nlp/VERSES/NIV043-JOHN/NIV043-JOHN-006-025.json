@@ -1,0 +1,50 @@
+[
+    {
+        "name": "lake",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.45576444,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lake",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "side",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.45046484,
+        "mentions": [
+            {
+                "text": {
+                    "content": "side",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Rabbi",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0djbw",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Rabbi"
+        },
+        "salience": 0.0937707,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rabbi",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

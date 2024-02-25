@@ -1,0 +1,57 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.49417704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 101
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "family",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.41432405,
+        "mentions": [
+            {
+                "text": {
+                    "content": "family",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "need",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09149892,
+        "mentions": [
+            {
+                "text": {
+                    "content": "need",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

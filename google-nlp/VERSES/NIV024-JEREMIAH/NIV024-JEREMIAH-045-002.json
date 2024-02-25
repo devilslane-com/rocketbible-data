@@ -1,0 +1,42 @@
+[
+    {
+        "name": "God of Israel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.87060076,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "God of Israel",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Baruch",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02g0gf",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Baruch_College"
+        },
+        "salience": 0.12939923,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Baruch",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

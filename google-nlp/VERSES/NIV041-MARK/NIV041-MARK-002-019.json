@@ -1,0 +1,50 @@
+[
+    {
+        "name": "guests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.60638344,
+        "mentions": [
+            {
+                "text": {
+                    "content": "guests",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bridegroom",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25172383,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bridegroom",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.14189275,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

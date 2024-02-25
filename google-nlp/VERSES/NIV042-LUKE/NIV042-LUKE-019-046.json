@@ -1,0 +1,69 @@
+[
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.6979685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prayer",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13147159,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prayer",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "den",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09998632,
+        "mentions": [
+            {
+                "text": {
+                    "content": "den",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "robbers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07057363,
+        "mentions": [
+            {
+                "text": {
+                    "content": "robbers",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

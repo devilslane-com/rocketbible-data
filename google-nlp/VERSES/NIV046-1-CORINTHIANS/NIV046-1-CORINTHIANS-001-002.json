@@ -1,0 +1,134 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3777081,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25710574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "church",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.14083269,
+        "mentions": [
+            {
+                "text": {
+                    "content": "church",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everywhere",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.036008514,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everywhere",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Corinth",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01_0y",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Corinth"
+        },
+        "salience": 0.034015696,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Corinth",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Christ Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.026258517,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ Jesus",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 171
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 166
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 192
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.012085211,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 154
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

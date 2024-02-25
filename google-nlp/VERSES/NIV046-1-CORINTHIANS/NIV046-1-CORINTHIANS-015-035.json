@@ -1,0 +1,62 @@
+[
+    {
+        "name": "someone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7901096,
+        "mentions": [
+            {
+                "text": {
+                    "content": "someone",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13020596,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kind",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03984223,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kind",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "body",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03984223,
+        "mentions": [
+            {
+                "text": {
+                    "content": "body",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

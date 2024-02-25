@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Everyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6471025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Everyone",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bread",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.18669288,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cup",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10165546,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cup",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "drink",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.06454919,
+        "mentions": [
+            {
+                "text": {
+                    "content": "drink",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

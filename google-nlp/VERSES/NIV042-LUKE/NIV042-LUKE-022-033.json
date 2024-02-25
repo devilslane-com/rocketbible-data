@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.57988024,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.28947854,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prison",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1306412,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prison",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

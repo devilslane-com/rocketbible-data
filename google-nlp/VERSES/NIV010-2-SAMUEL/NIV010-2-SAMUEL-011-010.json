@@ -1,0 +1,87 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.65183693,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.19003575,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Uriah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10812641,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Uriah",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Uriah",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.03213135,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 137
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "military campaign",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.017869547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "military campaign",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "bulls",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7213428,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bulls",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bulls",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23795858,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bulls",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Bashan",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Bashan",
+            "mid": "\/m\/01tw_n"
+        },
+        "salience": 0.040698588,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bashan",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

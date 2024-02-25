@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.377104,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fellowship",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.36415476,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fellowship",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.19220015,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 150
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "fellowship",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.066541076,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fellowship",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

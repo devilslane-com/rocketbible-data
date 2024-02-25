@@ -1,0 +1,65 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.45493552,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "residence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2765634,
+        "mentions": [
+            {
+                "text": {
+                    "content": "residence",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fortress",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.17813464,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fortress",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "City of David",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0j3w2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/City_of_David"
+        },
+        "salience": 0.090366416,
+        "mentions": [
+            {
+                "text": {
+                    "content": "City of David",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

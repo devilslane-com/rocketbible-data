@@ -1,0 +1,80 @@
+[
+    {
+        "name": "some",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5601812,
+        "mentions": [
+            {
+                "text": {
+                    "content": "some",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Asher",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1530448,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Asher",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Zebulun",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.106644824,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zebulun",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Manasseh",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.105397075,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Manasseh",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.074732095,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

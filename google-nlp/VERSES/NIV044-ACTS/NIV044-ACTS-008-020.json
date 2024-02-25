@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40331924,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "money",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.32706267,
+        "mentions": [
+            {
+                "text": {
+                    "content": "money",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "money",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.114204705,
+        "mentions": [
+            {
+                "text": {
+                    "content": "money",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.08531473,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 97
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "gift",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07009866,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gift",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

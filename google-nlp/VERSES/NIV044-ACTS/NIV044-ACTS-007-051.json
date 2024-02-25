@@ -1,0 +1,80 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5300993,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ears",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1793242,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ears",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hearts",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17505525,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hearts",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Holy Spirit",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Holy_Spirit",
+            "mid": "\/m\/03qsc"
+        },
+        "salience": 0.059971713,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Holy Spirit",
+                    "beginOffset": 130
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ancestors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.055549577,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ancestors",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

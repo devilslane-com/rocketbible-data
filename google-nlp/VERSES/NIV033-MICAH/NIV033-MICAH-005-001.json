@@ -1,0 +1,125 @@
+[
+    {
+        "name": "troops",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.48073342,
+        "mentions": [
+            {
+                "text": {
+                    "content": "troops",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "troops",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17309876,
+        "mentions": [
+            {
+                "text": {
+                    "content": "troops",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15328756,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "siege",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.10541867,
+        "mentions": [
+            {
+                "text": {
+                    "content": "siege",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cheek",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.036354106,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cheek",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rod",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.02554342,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rod",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ruler",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.016055454,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ruler",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.009508599,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 90
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "name": "Eli",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.62809074,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Eli",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Samuel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34799203,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samuel",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Samuel",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Here I am",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.023917224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Here I am",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

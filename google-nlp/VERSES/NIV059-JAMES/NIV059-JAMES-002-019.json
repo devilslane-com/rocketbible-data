@@ -1,0 +1,50 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.69081753,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "shudder",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22356448,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shudder",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "demons",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08561798,
+        "mentions": [
+            {
+                "text": {
+                    "content": "demons",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

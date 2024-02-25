@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Areopagus",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01d10q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Areopagus"
+        },
+        "salience": 0.6649038,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Areopagus",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "meeting",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.18145715,
+        "mentions": [
+            {
+                "text": {
+                    "content": "meeting",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "teaching",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15363902,
+        "mentions": [
+            {
+                "text": {
+                    "content": "teaching",
+                    "beginOffset": 119
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

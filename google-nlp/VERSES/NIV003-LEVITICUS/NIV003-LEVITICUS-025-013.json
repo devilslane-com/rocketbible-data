@@ -1,0 +1,50 @@
+[
+    {
+        "name": "everyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.47093955,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everyone",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "property",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.28533852,
+        "mentions": [
+            {
+                "text": {
+                    "content": "property",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jubilee",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/01h85y",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jubilee_(biblical)"
+        },
+        "salience": 0.24372195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jubilee",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

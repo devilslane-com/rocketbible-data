@@ -1,0 +1,65 @@
+[
+    {
+        "name": "high priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5042132,
+        "mentions": [
+            {
+                "text": {
+                    "content": "high priest",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nation",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.2511302,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nation",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jewish",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15007983,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jewish",
+                    "beginOffset": 104
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.09457675,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

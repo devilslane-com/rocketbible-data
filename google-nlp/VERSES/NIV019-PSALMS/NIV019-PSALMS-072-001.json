@@ -1,0 +1,72 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.45937183,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.3396346,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 36
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "justice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13347657,
+        "mentions": [
+            {
+                "text": {
+                    "content": "justice",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "righteousness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06751699,
+        "mentions": [
+            {
+                "text": {
+                    "content": "righteousness",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.51117736,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gath",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gath_(city)",
+            "mid": "\/m\/09chd4"
+        },
+        "salience": 0.32882246,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gath",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hazael",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04f90y",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hazael"
+        },
+        "salience": 0.08319848,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hazael",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Aram",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.057137243,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aram",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.019664431,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 104
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

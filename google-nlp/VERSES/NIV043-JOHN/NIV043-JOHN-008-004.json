@@ -1,0 +1,80 @@
+[
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24931628,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Teacher",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24653295,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Teacher",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.21105006,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "act",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.17113279,
+        "mentions": [
+            {
+                "text": {
+                    "content": "act",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "adultery",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.121967934,
+        "mentions": [
+            {
+                "text": {
+                    "content": "adultery",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

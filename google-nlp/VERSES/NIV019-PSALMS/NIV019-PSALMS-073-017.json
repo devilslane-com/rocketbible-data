@@ -1,0 +1,50 @@
+[
+    {
+        "name": "sanctuary",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.4289449,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sanctuary",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "destiny",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.30680352,
+        "mentions": [
+            {
+                "text": {
+                    "content": "destiny",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.2642516,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

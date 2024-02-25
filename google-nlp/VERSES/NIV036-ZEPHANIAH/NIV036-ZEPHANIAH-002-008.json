@@ -1,0 +1,113 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34198743,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "insults",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1959283,
+        "mentions": [
+            {
+                "text": {
+                    "content": "insults",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "taunts",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13634358,
+        "mentions": [
+            {
+                "text": {
+                    "content": "taunts",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "threats",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09545553,
+        "mentions": [
+            {
+                "text": {
+                    "content": "threats",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ammonites",
+        "type": "CONSUMER_GOOD",
+        "metadata": {
+            "mid": "\/m\/0sk0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ammon"
+        },
+        "salience": 0.08194387,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ammonites",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Moab",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0jdn4",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moab"
+        },
+        "salience": 0.08096562,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moab",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06737564,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

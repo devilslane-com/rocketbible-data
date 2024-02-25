@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3766842,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20901805,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "entrance",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18072402,
+        "mentions": [
+            {
+                "text": {
+                    "content": "entrance",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Rhoda",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14109433,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rhoda",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "door",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09247943,
+        "mentions": [
+            {
+                "text": {
+                    "content": "door",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

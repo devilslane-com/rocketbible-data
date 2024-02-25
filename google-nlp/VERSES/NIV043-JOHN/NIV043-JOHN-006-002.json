@@ -1,0 +1,62 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.45458418,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "crowd",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34237245,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crowd",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "signs",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13166034,
+        "mentions": [
+            {
+                "text": {
+                    "content": "signs",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sick",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07138304,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sick",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

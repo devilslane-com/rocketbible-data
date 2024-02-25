@@ -1,0 +1,65 @@
+[
+    {
+        "name": "friends",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6156068,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friends",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hearts",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19146618,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hearts",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "confidence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1349561,
+        "mentions": [
+            {
+                "text": {
+                    "content": "confidence",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.0579709,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Magi",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5840865,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Magi",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Herod",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Herod_the_Great",
+            "mid": "\/m\/0hsm_"
+        },
+        "salience": 0.30732542,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Herod",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "star",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10858814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "star",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

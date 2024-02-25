@@ -1,0 +1,72 @@
+[
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5741578,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 144
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.17296596,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abimelek",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15179299,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abimelek",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "dream",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10108329,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dream",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

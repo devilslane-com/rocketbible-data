@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.71478575,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sick",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18485495,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sick",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "doctor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.100359306,
+        "mentions": [
+            {
+                "text": {
+                    "content": "doctor",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

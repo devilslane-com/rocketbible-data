@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Zebedee",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0ds6xt2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zebedee"
+        },
+        "salience": 0.48565143,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Zebedee",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "delay",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.34903172,
+        "mentions": [
+            {
+                "text": {
+                    "content": "delay",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "boat",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09386466,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boat",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07145219,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

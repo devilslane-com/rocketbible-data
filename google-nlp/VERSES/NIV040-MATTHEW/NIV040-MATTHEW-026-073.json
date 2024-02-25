@@ -1,0 +1,47 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.72948384,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "accent",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17745905,
+        "mentions": [
+            {
+                "text": {
+                    "content": "accent",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09305711,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

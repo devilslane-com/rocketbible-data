@@ -1,0 +1,113 @@
+[
+    {
+        "name": "sea",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.7882369,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sea",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rivers",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1016656,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rivers",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "blossoms",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03474513,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blossoms",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Bashan",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01tw_n",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Bashan"
+        },
+        "salience": 0.02733898,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bashan",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "fade",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.024423394,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fade",
+                    "beginOffset": 122
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lebanon",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04hqz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Lebanon"
+        },
+        "salience": 0.014492515,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lebanon",
+                    "beginOffset": 114
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Carmel",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.009097462,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Carmel",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

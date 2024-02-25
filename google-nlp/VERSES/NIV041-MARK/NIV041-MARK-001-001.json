@@ -1,0 +1,86 @@
+[
+    {
+        "name": "beginning",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.56853837,
+        "mentions": [
+            {
+                "text": {
+                    "content": "beginning",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "news",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18095016,
+        "mentions": [
+            {
+                "text": {
+                    "content": "news",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.112050086,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Messiah",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "mid": "\/m\/04ys7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Messiah"
+        },
+        "salience": 0.10324313,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Messiah",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Son of God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06_5d",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Son_of_God"
+        },
+        "salience": 0.035218246,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son of God",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

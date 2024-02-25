@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.7627302,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "grace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16206671,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grace",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sake",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.042731017,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sake",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "poverty",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0324721,
+        "mentions": [
+            {
+                "text": {
+                    "content": "poverty",
+                    "beginOffset": 132
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

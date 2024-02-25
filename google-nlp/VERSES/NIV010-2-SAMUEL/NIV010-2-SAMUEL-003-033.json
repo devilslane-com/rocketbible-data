@@ -1,0 +1,69 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5123508,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lament",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23229478,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lament",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17191027,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abner",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Abner",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "die",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08344414,
+        "mentions": [
+            {
+                "text": {
+                    "content": "die",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

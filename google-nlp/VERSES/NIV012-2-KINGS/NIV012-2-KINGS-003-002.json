@@ -1,0 +1,102 @@
+[
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5921128,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 128
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "eyes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13866438,
+        "mentions": [
+            {
+                "text": {
+                    "content": "eyes",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13866438,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.096494466,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Baal",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/0fykc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Baal"
+        },
+        "salience": 0.019540163,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Baal",
+                    "beginOffset": 114
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "stone",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.01452381,
+        "mentions": [
+            {
+                "text": {
+                    "content": "stone",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

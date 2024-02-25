@@ -1,0 +1,65 @@
+[
+    {
+        "name": "shepherds",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.845148,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shepherds",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.075022265,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "flock",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.048861492,
+        "mentions": [
+            {
+                "text": {
+                    "content": "flock",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rescue",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.030968234,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rescue",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

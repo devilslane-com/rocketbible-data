@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Mary",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.55099493,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mary",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Elizabeth",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24708505,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Elizabeth",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.20192003,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,141 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25214493,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Baal-Zebub",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/017dn7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Beelzebub"
+        },
+        "salience": 0.18997452,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Baal-Zebub",
+                    "beginOffset": 149
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "god",
+                    "beginOffset": 165
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "messengers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1774485,
+        "mentions": [
+            {
+                "text": {
+                    "content": "messengers",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13503884,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.07564159,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "bed",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.062686525,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bed",
+                    "beginOffset": 232
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.0554854,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ekron",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/021k1f",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ekron"
+        },
+        "salience": 0.051579688,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ekron",
+                    "beginOffset": 172
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

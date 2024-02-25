@@ -1,0 +1,101 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.59739226,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "O Absalom",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pxb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Absalom"
+        },
+        "salience": 0.23953657,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Absalom",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "O Absalom",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "O",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05886789,
+        "mentions": [
+            {
+                "text": {
+                    "content": "O",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05693551,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "face",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.047267776,
+        "mentions": [
+            {
+                "text": {
+                    "content": "face",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

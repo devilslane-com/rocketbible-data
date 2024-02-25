@@ -1,0 +1,47 @@
+[
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.52044433,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.36462125,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "assembly",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.114934415,
+        "mentions": [
+            {
+                "text": {
+                    "content": "assembly",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

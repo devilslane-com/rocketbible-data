@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.47234166,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses",
+            "mid": "\/m\/04yfh"
+        },
+        "salience": 0.31766534,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Mount Hor",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/05n03v",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mount_Hor"
+        },
+        "salience": 0.085183166,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mount Hor",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "community",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.076337226,
+        "mentions": [
+            {
+                "text": {
+                    "content": "community",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sight",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.048472617,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sight",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

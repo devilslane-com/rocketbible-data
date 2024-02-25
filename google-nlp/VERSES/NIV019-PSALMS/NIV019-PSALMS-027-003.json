@@ -1,0 +1,47 @@
+[
+    {
+        "name": "army",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.62205434,
+        "mentions": [
+            {
+                "text": {
+                    "content": "army",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "war",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.1900625,
+        "mentions": [
+            {
+                "text": {
+                    "content": "war",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heart",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18788315,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heart",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

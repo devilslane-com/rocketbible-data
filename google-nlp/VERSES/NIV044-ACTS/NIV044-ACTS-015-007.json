@@ -1,0 +1,143 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.53859395,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "discussion",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.21274118,
+        "mentions": [
+            {
+                "text": {
+                    "content": "discussion",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "choice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.055653386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "choice",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lips",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.042263642,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lips",
+                    "beginOffset": 162
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "message",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.042263642,
+        "mentions": [
+            {
+                "text": {
+                    "content": "message",
+                    "beginOffset": 171
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.03625751,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 97
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03281624,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Brothers",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gospel",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02979051,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gospel",
+                    "beginOffset": 186
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gentiles",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gentile",
+            "mid": "\/m\/018wvh"
+        },
+        "salience": 0.00961996,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gentiles",
+                    "beginOffset": 134
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

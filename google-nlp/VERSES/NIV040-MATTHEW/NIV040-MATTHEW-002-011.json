@@ -1,0 +1,129 @@
+[
+    {
+        "name": "child",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6866048,
+        "mentions": [
+            {
+                "text": {
+                    "content": "child",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15630123,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mary",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09368321,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Mary",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "gifts",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.014749027,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gifts",
+                    "beginOffset": 160
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gold",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.014749027,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gold",
+                    "beginOffset": 169
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "treasures",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.013214803,
+        "mentions": [
+            {
+                "text": {
+                    "content": "treasures",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "frankincense",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.010348946,
+        "mentions": [
+            {
+                "text": {
+                    "content": "frankincense",
+                    "beginOffset": 175
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "myrrh",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.010348946,
+        "mentions": [
+            {
+                "text": {
+                    "content": "myrrh",
+                    "beginOffset": 192
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

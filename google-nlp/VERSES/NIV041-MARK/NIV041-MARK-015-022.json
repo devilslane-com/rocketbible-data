@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.4417042,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.26552048,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "skull",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.117026605,
+        "mentions": [
+            {
+                "text": {
+                    "content": "skull",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Golgotha",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/022dhl",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Calvary"
+        },
+        "salience": 0.11601668,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Golgotha",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.059732012,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

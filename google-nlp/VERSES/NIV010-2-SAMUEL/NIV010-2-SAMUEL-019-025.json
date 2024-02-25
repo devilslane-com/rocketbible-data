@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Mephibosheth",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/07lmll",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mephibosheth"
+        },
+        "salience": 0.7151787,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Mephibosheth",
+                    "beginOffset": 98
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2292558,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.05556546,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

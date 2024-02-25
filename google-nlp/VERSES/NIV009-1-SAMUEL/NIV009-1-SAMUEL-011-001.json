@@ -1,0 +1,75 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4286246,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ammonite",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0sk0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ammon"
+        },
+        "salience": 0.2954115,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ammonite",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jabesh Gilead",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/g\/1225dspb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jabesh-Gilead"
+        },
+        "salience": 0.092461504,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jabesh Gilead",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jabesh",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "treaty",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.012759852,
+        "mentions": [
+            {
+                "text": {
+                    "content": "treaty",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5756931,
+        "mentions": [
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13656771,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.10579169,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 87
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "generation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0964264,
+        "mentions": [
+            {
+                "text": {
+                    "content": "generation",
+                    "beginOffset": 166
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sin",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04276056,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sin",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "parents",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04276056,
+        "mentions": [
+            {
+                "text": {
+                    "content": "parents",
+                    "beginOffset": 134
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

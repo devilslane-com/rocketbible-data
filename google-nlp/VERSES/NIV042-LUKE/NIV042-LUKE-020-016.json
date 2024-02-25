@@ -1,0 +1,80 @@
+[
+    {
+        "name": "tenants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6275985,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tenants",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "others",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15765157,
+        "mentions": [
+            {
+                "text": {
+                    "content": "others",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "vineyard",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.12044172,
+        "mentions": [
+            {
+                "text": {
+                    "content": "vineyard",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06198437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.03232383,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 114
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

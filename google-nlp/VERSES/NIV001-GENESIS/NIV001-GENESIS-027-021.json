@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Isaac",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5652887,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Isaac",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Esau",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Esau",
+            "mid": "\/m\/016zh8"
+        },
+        "salience": 0.23751204,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Esau",
+                    "beginOffset": 105
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1471818,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jacob",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0jt0lm_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jacob_in_Islam"
+        },
+        "salience": 0.050017428,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Scripture",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02mdj1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Religious_text"
+        },
+        "salience": 0.48482123,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Scripture",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34646845,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Anyone",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "shame",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1687103,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shame",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

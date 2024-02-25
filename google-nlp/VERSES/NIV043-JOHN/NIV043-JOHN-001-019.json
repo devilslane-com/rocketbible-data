@@ -1,0 +1,116 @@
+[
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.44115373,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "testimony",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.3993883,
+        "mentions": [
+            {
+                "text": {
+                    "content": "testimony",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07470529,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.026290469,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jewish",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/041rx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews"
+        },
+        "salience": 0.025976613,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jewish",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "leaders",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02438399,
+        "mentions": [
+            {
+                "text": {
+                    "content": "leaders",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Levites",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0j8nd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Levite"
+        },
+        "salience": 0.008101589,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levites",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

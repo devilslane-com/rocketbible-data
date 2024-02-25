@@ -1,0 +1,127 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.5328343,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 132
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Levites",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Levite",
+            "mid": "\/m\/0j8nd"
+        },
+        "salience": 0.18716283,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levites",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "covenant",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14450373,
+        "mentions": [
+            {
+                "text": {
+                    "content": "covenant",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.052252505,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "covenant",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04053452,
+        "mentions": [
+            {
+                "text": {
+                    "content": "covenant",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "descendant",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.024938464,
+        "mentions": [
+            {
+                "text": {
+                    "content": "descendant",
+                    "beginOffset": 160
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "throne",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.01777366,
+        "mentions": [
+            {
+                "text": {
+                    "content": "throne",
+                    "beginOffset": 187
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

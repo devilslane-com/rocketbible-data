@@ -1,0 +1,47 @@
+[
+    {
+        "name": "groans",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.44920692,
+        "mentions": [
+            {
+                "text": {
+                    "content": "groans",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prisoners",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.32137457,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prisoners",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.2294185,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

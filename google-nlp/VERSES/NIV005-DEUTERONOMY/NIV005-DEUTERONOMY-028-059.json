@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.50256103,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "plagues",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2184412,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plagues",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "descendants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1535525,
+        "mentions": [
+            {
+                "text": {
+                    "content": "descendants",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "illnesses",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07678146,
+        "mentions": [
+            {
+                "text": {
+                    "content": "illnesses",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disasters",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.048663806,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disasters",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

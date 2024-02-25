@@ -1,0 +1,80 @@
+[
+    {
+        "name": "some",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.49697894,
+        "mentions": [
+            {
+                "text": {
+                    "content": "some",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.20687927,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "power",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11088357,
+        "mentions": [
+            {
+                "text": {
+                    "content": "power",
+                    "beginOffset": 144
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.09389974,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 126
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "kingdom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09135849,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdom",
+                    "beginOffset": 115
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

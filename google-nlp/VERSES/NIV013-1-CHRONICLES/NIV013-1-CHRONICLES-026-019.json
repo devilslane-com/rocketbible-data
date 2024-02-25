@@ -1,0 +1,75 @@
+[
+    {
+        "name": "divisions",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.5678165,
+        "mentions": [
+            {
+                "text": {
+                    "content": "divisions",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gatekeepers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34591874,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gatekeepers",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "descendants",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Merari",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03bx12l",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Merari"
+        },
+        "salience": 0.059702896,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Merari",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Korah",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Korah",
+            "mid": "\/m\/02w21v"
+        },
+        "salience": 0.026561886,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Korah",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

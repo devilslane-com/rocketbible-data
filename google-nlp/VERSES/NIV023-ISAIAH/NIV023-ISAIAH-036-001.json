@@ -1,0 +1,119 @@
+[
+    {
+        "name": "cities",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.4195556,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cities",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14337713,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "reign",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12544057,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reign",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "King Hezekiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03myb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hezekiah"
+        },
+        "salience": 0.11066925,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King Hezekiah",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sennacherib",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sennacherib",
+            "mid": "\/m\/070jj"
+        },
+        "salience": 0.076746814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sennacherib",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Assyria",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0wmn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Assyria"
+        },
+        "salience": 0.07060659,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Assyria",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04frh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kingdom_of_Judah"
+        },
+        "salience": 0.05360405,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 116
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

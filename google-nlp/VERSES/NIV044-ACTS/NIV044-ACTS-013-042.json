@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.27467796,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Barnabas",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01grh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Barnabas"
+        },
+        "salience": 0.27467796,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Barnabas",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "synagogue",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.24074563,
+        "mentions": [
+            {
+                "text": {
+                    "content": "synagogue",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12986986,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04115831,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sabbath",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0747p",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Shabbat"
+        },
+        "salience": 0.03887029,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sabbath",
+                    "beginOffset": 121
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

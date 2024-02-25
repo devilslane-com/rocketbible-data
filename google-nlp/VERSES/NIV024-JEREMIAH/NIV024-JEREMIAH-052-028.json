@@ -1,0 +1,83 @@
+[
+    {
+        "name": "number",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.7123038,
+        "mentions": [
+            {
+                "text": {
+                    "content": "number",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "exile",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08975606,
+        "mentions": [
+            {
+                "text": {
+                    "content": "exile",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08873719,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nebuchadnezzar",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0drvz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nebuchadnezzar_II"
+        },
+        "salience": 0.08214673,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nebuchadnezzar",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/041rx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews"
+        },
+        "salience": 0.027056186,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 95
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

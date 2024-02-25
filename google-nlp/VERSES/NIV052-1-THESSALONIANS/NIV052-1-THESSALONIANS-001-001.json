@@ -1,0 +1,153 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.23702963,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Silas",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.23702963,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Silas",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "church",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10781853,
+        "mentions": [
+            {
+                "text": {
+                    "content": "church",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Timothy",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09494843,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Timothy",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "peace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07638124,
+        "mentions": [
+            {
+                "text": {
+                    "content": "peace",
+                    "beginOffset": 115
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.07527804,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 91
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Thessalonians",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02q2v",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/First_Epistle_to_the_Thessalonians"
+        },
+        "salience": 0.065569535,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Thessalonians",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God the Father",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/024kvq",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God_the_Father"
+        },
+        "salience": 0.060277954,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God the Father",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Grace",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04566702,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Grace",
+                    "beginOffset": 105
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

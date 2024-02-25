@@ -1,0 +1,79 @@
+[
+    {
+        "name": "slave",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6978568,
+        "mentions": [
+            {
+                "text": {
+                    "content": "slave",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "child",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.22464195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "child",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05390714,
+        "mentions": [
+            {
+                "text": {
+                    "content": "child",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heir",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.023594132,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heir",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

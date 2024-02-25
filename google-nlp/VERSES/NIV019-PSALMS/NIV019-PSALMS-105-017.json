@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Joseph",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0197d5",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joseph_(Genesis)"
+        },
+        "salience": 0.85455906,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Joseph",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "slave",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14544092,
+        "mentions": [
+            {
+                "text": {
+                    "content": "slave",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

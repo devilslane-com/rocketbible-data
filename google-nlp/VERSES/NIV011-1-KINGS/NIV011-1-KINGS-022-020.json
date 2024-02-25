@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.61753964,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.14876826,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ramoth Gilead",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/0j273",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ramoth-Gilead"
+        },
+        "salience": 0.13743326,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ramoth Gilead",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ahab",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pjp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ahab"
+        },
+        "salience": 0.09625883,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ahab",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

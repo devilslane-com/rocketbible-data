@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4665473,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Almighty",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.31188732,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Almighty",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "survivors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10201586,
+        "mentions": [
+            {
+                "text": {
+                    "content": "survivors",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sodom",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0jhj2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sodom_and_Gomorrah"
+        },
+        "salience": 0.07788273,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sodom",
+                    "beginOffset": 79
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gomorrah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/011jp7wv",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gomorrah_(TV_series)"
+        },
+        "salience": 0.04166679,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gomorrah",
+                    "beginOffset": 110
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

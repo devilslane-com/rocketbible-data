@@ -1,0 +1,47 @@
+[
+    {
+        "name": "no one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.60052407,
+        "mentions": [
+            {
+                "text": {
+                    "content": "no one",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sake",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19973797,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sake",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "elect",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.19973797,
+        "mentions": [
+            {
+                "text": {
+                    "content": "elect",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

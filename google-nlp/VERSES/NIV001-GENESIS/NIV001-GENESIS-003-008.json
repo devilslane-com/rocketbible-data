@@ -1,0 +1,131 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.37229392,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.29646516,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 141
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 136
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wife",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16309106,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sound",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0668286,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sound",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "garden",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.05254153,
+        "mentions": [
+            {
+                "text": {
+                    "content": "garden",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "garden",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.025941823,
+        "mentions": [
+            {
+                "text": {
+                    "content": "garden",
+                    "beginOffset": 168
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "trees",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.022837918,
+        "mentions": [
+            {
+                "text": {
+                    "content": "trees",
+                    "beginOffset": 155
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.73644733,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jacob",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16017148,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07258321,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Canaan",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Canaan",
+            "mid": "\/m\/0d9f2"
+        },
+        "salience": 0.030797942,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Canaan",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

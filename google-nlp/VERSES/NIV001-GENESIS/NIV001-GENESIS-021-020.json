@@ -1,0 +1,65 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.8377064,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "boy",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12652023,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boy",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "archer",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02194065,
+        "mentions": [
+            {
+                "text": {
+                    "content": "archer",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "desert",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.013832709,
+        "mentions": [
+            {
+                "text": {
+                    "content": "desert",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

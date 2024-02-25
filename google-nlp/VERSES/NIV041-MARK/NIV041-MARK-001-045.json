@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.565915,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 79
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "news",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15342133,
+        "mentions": [
+            {
+                "text": {
+                    "content": "news",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "result",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.079140335,
+        "mentions": [
+            {
+                "text": {
+                    "content": "result",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07363173,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06417415,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 166
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everywhere",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.03903801,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everywhere",
+                    "beginOffset": 196
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "places",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.024679456,
+        "mentions": [
+            {
+                "text": {
+                    "content": "places",
+                    "beginOffset": 150
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

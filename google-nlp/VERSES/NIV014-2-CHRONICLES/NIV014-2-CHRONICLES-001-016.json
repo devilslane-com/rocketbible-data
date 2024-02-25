@@ -1,0 +1,102 @@
+[
+    {
+        "name": "horses",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.4522802,
+        "mentions": [
+            {
+                "text": {
+                    "content": "horses",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Solomon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22905983,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Kue",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1021045,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Kue",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Kue",
+                    "beginOffset": 99
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "merchants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09894119,
+        "mentions": [
+            {
+                "text": {
+                    "content": "merchants",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.0641493,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "price",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05346499,
+        "mentions": [
+            {
+                "text": {
+                    "content": "price",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

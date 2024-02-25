@@ -1,0 +1,62 @@
+[
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.42890942,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "conflict",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.3010875,
+        "mentions": [
+            {
+                "text": {
+                    "content": "conflict",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "quarrel",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15407139,
+        "mentions": [
+            {
+                "text": {
+                    "content": "quarrel",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "patient",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1159317,
+        "mentions": [
+            {
+                "text": {
+                    "content": "patient",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

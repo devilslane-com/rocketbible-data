@@ -1,0 +1,108 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7198489,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "offering",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14381081,
+        "mentions": [
+            {
+                "text": {
+                    "content": "offering",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tribe",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.055016488,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tribe",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nahshon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05fz2x",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nahshon"
+        },
+        "salience": 0.043477304,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nahshon",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01db4k",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judah_(son_of_Jacob)"
+        },
+        "salience": 0.023222392,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 95
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Amminadab",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03m5_5h",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Amminadab"
+        },
+        "salience": 0.014624115,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Amminadab",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

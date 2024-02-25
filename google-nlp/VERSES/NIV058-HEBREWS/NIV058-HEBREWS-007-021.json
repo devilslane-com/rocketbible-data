@@ -1,0 +1,87 @@
+[
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8143706,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "oath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.091728464,
+        "mentions": [
+            {
+                "text": {
+                    "content": "oath",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "The Lord",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.038499653,
+        "mentions": [
+            {
+                "text": {
+                    "content": "The Lord",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.035399925,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mind",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.020001398,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mind",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

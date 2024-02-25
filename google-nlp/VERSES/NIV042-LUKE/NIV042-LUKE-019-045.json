@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.5322685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "temple courts",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.46773148,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple courts",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

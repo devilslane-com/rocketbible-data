@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.49828133,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.21234526,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "slaughter",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1771172,
+        "mentions": [
+            {
+                "text": {
+                    "content": "slaughter",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "flock",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11225623,
+        "mentions": [
+            {
+                "text": {
+                    "content": "flock",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "name": "Jephthah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0146dm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jephthah"
+        },
+        "salience": 0.5498323,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jephthah",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jephthah",
+                    "beginOffset": 36
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.31964725,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.05325092,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gileadite",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02s25l",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gilead"
+        },
+        "salience": 0.05186607,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gileadite",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Gilead",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "name": "women",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5588351,
+        "mentions": [
+            {
+                "text": {
+                    "content": "women",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "distance",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23645511,
+        "mentions": [
+            {
+                "text": {
+                    "content": "distance",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mary Magdalene",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05723",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mary_Magdalene"
+        },
+        "salience": 0.077328585,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mary Magdalene",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mary",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02pjgf2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mary,_mother_of_James"
+        },
+        "salience": 0.05516784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mary",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Joseph",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.033705752,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joseph",
+                    "beginOffset": 118
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Salome",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01hr_9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Salome"
+        },
+        "salience": 0.02365469,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Salome",
+                    "beginOffset": 130
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "James",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.014852914,
+        "mentions": [
+            {
+                "text": {
+                    "content": "James",
+                    "beginOffset": 93
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

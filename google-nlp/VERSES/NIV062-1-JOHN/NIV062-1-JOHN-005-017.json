@@ -1,0 +1,54 @@
+[
+    {
+        "name": "wrongdoing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.7039868,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wrongdoing",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "sin",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sin",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23976617,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sin",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.05624702,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

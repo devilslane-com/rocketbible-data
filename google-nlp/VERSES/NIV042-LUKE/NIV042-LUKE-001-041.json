@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Elizabeth",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.658425,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Elizabeth",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Elizabeth",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "greeting",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10817102,
+        "mentions": [
+            {
+                "text": {
+                    "content": "greeting",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "baby",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07490843,
+        "mentions": [
+            {
+                "text": {
+                    "content": "baby",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "womb",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06985074,
+        "mentions": [
+            {
+                "text": {
+                    "content": "womb",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mary",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.066087544,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mary",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Holy Spirit",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Holy_Spirit",
+            "mid": "\/m\/03qsc"
+        },
+        "salience": 0.022557283,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Holy Spirit",
+                    "beginOffset": 103
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3523688,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.2480273,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Babylon",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.21384333,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylon",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ruin",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18576056,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ruin",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

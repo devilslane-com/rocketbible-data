@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.48135698,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "reign",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2801457,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reign",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Asa",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.23849733,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Asa",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

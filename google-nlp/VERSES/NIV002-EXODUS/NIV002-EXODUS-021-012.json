@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7138908,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Anyone",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.116963364,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "blow",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.109293796,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blow",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.05985206,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

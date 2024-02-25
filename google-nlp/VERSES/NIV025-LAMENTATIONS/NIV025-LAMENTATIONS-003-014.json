@@ -1,0 +1,47 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5719476,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "laughingstock",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.35006562,
+        "mentions": [
+            {
+                "text": {
+                    "content": "laughingstock",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "song",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.07798678,
+        "mentions": [
+            {
+                "text": {
+                    "content": "song",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

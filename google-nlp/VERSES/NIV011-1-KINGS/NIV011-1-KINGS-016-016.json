@@ -1,0 +1,145 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.23935936,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Omri",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22781725,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Omri",
+                    "beginOffset": 112
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "commander",
+                    "beginOffset": 122
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.15590602,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 155
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israelites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.14698704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 9
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "camp",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11121221,
+        "mentions": [
+            {
+                "text": {
+                    "content": "camp",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zimri",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03whswt",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zimri_(king)"
+        },
+        "salience": 0.059347507,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zimri",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "camp",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.038182773,
+        "mentions": [
+            {
+                "text": {
+                    "content": "camp",
+                    "beginOffset": 189
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "army",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.021187836,
+        "mentions": [
+            {
+                "text": {
+                    "content": "army",
+                    "beginOffset": 139
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.42196777,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "vision",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.28225875,
+        "mentions": [
+            {
+                "text": {
+                    "content": "vision",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gospel",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1390925,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gospel",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Macedonia",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Republic_of_Macedonia",
+            "mid": "\/m\/0bjv6"
+        },
+        "salience": 0.119588524,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Macedonia",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.037092432,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 93
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "whatever",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.4138167,
+        "mentions": [
+            {
+                "text": {
+                    "content": "whatever",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "loss",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23220482,
+        "mentions": [
+            {
+                "text": {
+                    "content": "loss",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gains",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16735516,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gains",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.10683101,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sake",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.079792306,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sake",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

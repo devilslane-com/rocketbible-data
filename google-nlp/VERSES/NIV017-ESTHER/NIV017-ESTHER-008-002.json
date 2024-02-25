@@ -1,0 +1,108 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4871587,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "signet ring",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.44816402,
+        "mentions": [
+            {
+                "text": {
+                    "content": "signet ring",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Haman",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04742r",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Haman"
+        },
+        "salience": 0.043396104,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Haman",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Haman",
+                    "beginOffset": 130
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "estate",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.009919773,
+        "mentions": [
+            {
+                "text": {
+                    "content": "estate",
+                    "beginOffset": 140
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mordecai",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mordecai",
+            "mid": "\/m\/0j4fc"
+        },
+        "salience": 0.007670733,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mordecai",
+                    "beginOffset": 90
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Esther",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01dpg",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Book_of_Esther"
+        },
+        "salience": 0.0036906842,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Esther",
+                    "beginOffset": 104
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

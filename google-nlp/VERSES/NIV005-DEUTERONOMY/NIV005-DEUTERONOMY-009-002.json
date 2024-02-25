@@ -1,0 +1,42 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6460472,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Anakites",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Anak",
+            "mid": "\/m\/07krpj"
+        },
+        "salience": 0.35395283,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Anakites",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Anakites",
+                    "beginOffset": 119
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

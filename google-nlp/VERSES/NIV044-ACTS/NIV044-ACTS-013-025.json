@@ -1,0 +1,62 @@
+[
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.65297705,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "work",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.28632683,
+        "mentions": [
+            {
+                "text": {
+                    "content": "work",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.035896886,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sandals",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.024799207,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sandals",
+                    "beginOffset": 147
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

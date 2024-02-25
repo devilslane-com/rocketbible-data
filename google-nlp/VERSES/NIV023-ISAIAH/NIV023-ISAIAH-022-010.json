@@ -1,0 +1,65 @@
+[
+    {
+        "name": "buildings",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.38615775,
+        "mentions": [
+            {
+                "text": {
+                    "content": "buildings",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "houses",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.25330138,
+        "mentions": [
+            {
+                "text": {
+                    "content": "houses",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wall",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19462954,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wall",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.16591132,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

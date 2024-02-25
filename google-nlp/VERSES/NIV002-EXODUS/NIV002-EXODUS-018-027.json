@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses",
+            "mid": "\/m\/04yfh"
+        },
+        "salience": 0.4012273,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jethro",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01twh4",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jethro_(biblical_figure)"
+        },
+        "salience": 0.2929376,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jethro",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father-in-law",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19650117,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father-in-law",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07097894,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.03835499,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "name": "master",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5768848,
+        "mentions": [
+            {
+                "text": {
+                    "content": "master",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sarah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.26178077,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Sarah",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11133718,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "age",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03157882,
+        "mentions": [
+            {
+                "text": {
+                    "content": "age",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.018418422,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

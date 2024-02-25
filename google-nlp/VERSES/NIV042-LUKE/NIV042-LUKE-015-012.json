@@ -1,0 +1,84 @@
+[
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5941829,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.32181746,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "estate",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.03808234,
+        "mentions": [
+            {
+                "text": {
+                    "content": "estate",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "share",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03184784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "share",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "property",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.01406946,
+        "mentions": [
+            {
+                "text": {
+                    "content": "property",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

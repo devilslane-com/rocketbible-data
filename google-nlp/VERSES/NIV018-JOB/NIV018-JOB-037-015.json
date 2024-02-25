@@ -1,0 +1,50 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.67715085,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "clouds",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20575926,
+        "mentions": [
+            {
+                "text": {
+                    "content": "clouds",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lightning flash",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1170899,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lightning flash",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

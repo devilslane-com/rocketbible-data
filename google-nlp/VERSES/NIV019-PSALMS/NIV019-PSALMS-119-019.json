@@ -1,0 +1,47 @@
+[
+    {
+        "name": "stranger",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8492995,
+        "mentions": [
+            {
+                "text": {
+                    "content": "stranger",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11392609,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "commands",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03677442,
+        "mentions": [
+            {
+                "text": {
+                    "content": "commands",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

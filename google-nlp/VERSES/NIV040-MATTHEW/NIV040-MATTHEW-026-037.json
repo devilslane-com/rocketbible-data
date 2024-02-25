@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.83480155,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10268157,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zebedee",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0ds6xt2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zebedee"
+        },
+        "salience": 0.06251689,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zebedee",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

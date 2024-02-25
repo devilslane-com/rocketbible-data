@@ -1,0 +1,65 @@
+[
+    {
+        "name": "two",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4276889,
+        "mentions": [
+            {
+                "text": {
+                    "content": "two",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "village",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.28054383,
+        "mentions": [
+            {
+                "text": {
+                    "content": "village",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Emmaus",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.19936672,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Emmaus",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.09240055,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

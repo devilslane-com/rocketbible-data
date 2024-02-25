@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Mikloth",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8821595,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mikloth",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Shimeam",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.073637225,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shimeam",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.025343087,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "relatives",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.018860202,
+        "mentions": [
+            {
+                "text": {
+                    "content": "relatives",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

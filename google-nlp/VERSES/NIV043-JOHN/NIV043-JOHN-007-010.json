@@ -1,0 +1,47 @@
+[
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.49407446,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "festival",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.33594322,
+        "mentions": [
+            {
+                "text": {
+                    "content": "festival",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "secret",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16998231,
+        "mentions": [
+            {
+                "text": {
+                    "content": "secret",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

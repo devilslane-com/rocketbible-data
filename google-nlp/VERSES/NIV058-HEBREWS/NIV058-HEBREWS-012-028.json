@@ -1,0 +1,65 @@
+[
+    {
+        "name": "kingdom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.75348616,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdom",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "reverence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10666549,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reverence",
+                    "beginOffset": 122
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "awe",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07565232,
+        "mentions": [
+            {
+                "text": {
+                    "content": "awe",
+                    "beginOffset": 136
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.06419604,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 102
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8256347,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10605406,
+        "mentions": [
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "guilt",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06831124,
+        "mentions": [
+            {
+                "text": {
+                    "content": "guilt",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Mordecai",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j4fc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mordecai"
+        },
+        "salience": 0.42010388,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mordecai",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Mordecai",
+                    "beginOffset": 115
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Esther",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02pn7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Esther"
+        },
+        "salience": 0.241614,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Esther",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Queen",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "plot",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14402494,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plot",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "turn",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09246545,
+        "mentions": [
+            {
+                "text": {
+                    "content": "turn",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "credit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07038708,
+        "mentions": [
+            {
+                "text": {
+                    "content": "credit",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.031404648,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

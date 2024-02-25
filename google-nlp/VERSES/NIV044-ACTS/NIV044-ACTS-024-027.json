@@ -1,0 +1,108 @@
+[
+    {
+        "name": "Felix",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8223088,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Felix",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Felix",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Porcius Festus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/09ct5v",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Porcius_Festus"
+        },
+        "salience": 0.05261914,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Porcius Festus",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "prison",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.043855224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prison",
+                    "beginOffset": 137
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "favor",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03752278,
+        "mentions": [
+            {
+                "text": {
+                    "content": "favor",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/060nc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Paul_the_Apostle"
+        },
+        "salience": 0.02717802,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 129
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/041rx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews"
+        },
+        "salience": 0.016516073,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 115
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

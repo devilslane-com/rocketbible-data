@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Jew",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.51357836,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jew",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17428342,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16015548,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pilate",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pontius_Pilate",
+            "mid": "\/m\/0svr8"
+        },
+        "salience": 0.15198274,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pilate",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.858336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.069003135,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gath",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/09chd4",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gath_(city)"
+        },
+        "salience": 0.028238041,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gath",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "practice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.017597642,
+        "mentions": [
+            {
+                "text": {
+                    "content": "practice",
+                    "beginOffset": 163
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "territory",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.011340558,
+        "mentions": [
+            {
+                "text": {
+                    "content": "territory",
+                    "beginOffset": 206
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.008765633,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 129
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Philistine",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0618q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines"
+        },
+        "salience": 0.006719049,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistine",
+                    "beginOffset": 195
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

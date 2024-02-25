@@ -1,0 +1,83 @@
+[
+    {
+        "name": "kings",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.49877882,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kings",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "forces",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.19759467,
+        "mentions": [
+            {
+                "text": {
+                    "content": "forces",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "camp",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.16164736,
+        "mentions": [
+            {
+                "text": {
+                    "content": "camp",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Waters of Merom",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0gwyt7j",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Battle_of_the_Waters_of_Merom"
+        },
+        "salience": 0.0922297,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Waters of Merom",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.049749427,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 93
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

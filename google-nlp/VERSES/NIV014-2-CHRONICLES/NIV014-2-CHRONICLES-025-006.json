@@ -1,0 +1,65 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.38850623,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "talents",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2438779,
+        "mentions": [
+            {
+                "text": {
+                    "content": "talents",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.1938018,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "silver",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17381404,
+        "mentions": [
+            {
+                "text": {
+                    "content": "silver",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

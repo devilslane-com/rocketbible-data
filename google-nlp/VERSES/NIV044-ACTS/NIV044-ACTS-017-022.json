@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.42278028,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "meeting",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.20987615,
+        "mentions": [
+            {
+                "text": {
+                    "content": "meeting",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "People",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14703842,
+        "mentions": [
+            {
+                "text": {
+                    "content": "People",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Areopagus",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01d10q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Areopagus"
+        },
+        "salience": 0.08786946,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Areopagus",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Athens",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0n2z",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Athens"
+        },
+        "salience": 0.08180692,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Athens",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.050628778,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

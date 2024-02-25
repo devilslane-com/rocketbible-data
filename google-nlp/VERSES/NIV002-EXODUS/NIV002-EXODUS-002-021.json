@@ -1,0 +1,82 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.503694,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.26000544,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Zipporah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01r0ql",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zipporah"
+        },
+        "salience": 0.17906678,
+        "mentions": [
+            {
+                "text": {
+                    "content": "daughter",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Zipporah",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "marriage",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.057233773,
+        "mentions": [
+            {
+                "text": {
+                    "content": "marriage",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

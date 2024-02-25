@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6248432,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "chief speaker",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Barnabas",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2160675,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Barnabas",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Zeus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/088pn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zeus"
+        },
+        "salience": 0.10275354,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zeus",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hermes",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/06dr8q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Herm\u00e8s"
+        },
+        "salience": 0.056335803,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hermes",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

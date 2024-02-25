@@ -1,0 +1,80 @@
+[
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.35331446,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "leaders",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24836121,
+        "mentions": [
+            {
+                "text": {
+                    "content": "leaders",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "charges",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17509949,
+        "mentions": [
+            {
+                "text": {
+                    "content": "charges",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jewish",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/03_gx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judaism"
+        },
+        "salience": 0.14888984,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jewish",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07433497,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 101
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

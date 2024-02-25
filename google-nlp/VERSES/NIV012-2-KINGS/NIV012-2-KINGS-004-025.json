@@ -1,0 +1,133 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40240744,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18095759,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.16902153,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 103
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gehazi",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0c52hc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gehazi"
+        },
+        "salience": 0.1136641,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 119
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Gehazi",
+                    "beginOffset": 127
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Mount Carmel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/021q5y",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mount_Carmel"
+        },
+        "salience": 0.06559174,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mount Carmel",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "distance",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.049674574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "distance",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Shunammite",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Shulamite",
+            "mid": "\/m\/0gmddr_"
+        },
+        "salience": 0.01868303,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shunammite",
+                    "beginOffset": 158
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

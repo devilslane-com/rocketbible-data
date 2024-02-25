@@ -1,0 +1,80 @@
+[
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.4101578,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ahab",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pjp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ahab"
+        },
+        "salience": 0.23196168,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ahab",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "another",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14416929,
+        "mentions": [
+            {
+                "text": {
+                    "content": "another",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Obadiah",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12233727,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Obadiah",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "direction",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.091373965,
+        "mentions": [
+            {
+                "text": {
+                    "content": "direction",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

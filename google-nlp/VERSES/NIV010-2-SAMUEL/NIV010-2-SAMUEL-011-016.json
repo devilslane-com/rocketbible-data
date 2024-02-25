@@ -1,0 +1,98 @@
+[
+    {
+        "name": "place",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.27865034,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Uriah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01ttyl",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Uriah_the_Hittite"
+        },
+        "salience": 0.23056073,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Uriah",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Joab",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0jknj",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joab"
+        },
+        "salience": 0.22514327,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joab",
+                    "beginOffset": 9
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.13889521,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "siege",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.095919274,
+        "mentions": [
+            {
+                "text": {
+                    "content": "siege",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "defenders",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03083116,
+        "mentions": [
+            {
+                "text": {
+                    "content": "defenders",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

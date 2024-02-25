@@ -1,0 +1,65 @@
+[
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.6075827,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "terror",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18142127,
+        "mentions": [
+            {
+                "text": {
+                    "content": "terror",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "no one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.114032455,
+        "mentions": [
+            {
+                "text": {
+                    "content": "no one",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.096963584,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

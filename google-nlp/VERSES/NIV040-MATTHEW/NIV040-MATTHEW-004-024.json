@@ -1,0 +1,95 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.39201373,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "News",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.32315266,
+        "mentions": [
+            {
+                "text": {
+                    "content": "News",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "diseases",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09187949,
+        "mentions": [
+            {
+                "text": {
+                    "content": "diseases",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.084537186,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pain",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Syria",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/06vbd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Syria"
+        },
+        "salience": 0.079893805,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Syria",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "seizures",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.028523134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "seizures",
+                    "beginOffset": 167
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

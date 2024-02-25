@@ -1,0 +1,65 @@
+[
+    {
+        "name": "distress",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3580857,
+        "mentions": [
+            {
+                "text": {
+                    "content": "distress",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "beginning",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25137037,
+        "mentions": [
+            {
+                "text": {
+                    "content": "beginning",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.2348874,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.15565653,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

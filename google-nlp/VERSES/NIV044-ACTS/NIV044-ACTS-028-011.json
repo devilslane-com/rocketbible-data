@@ -1,0 +1,117 @@
+[
+    {
+        "name": "ship",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.6271927,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ship",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "ship",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sea",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.12470783,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sea",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "island",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.086782314,
+        "mentions": [
+            {
+                "text": {
+                    "content": "island",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "twin gods",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06075718,
+        "mentions": [
+            {
+                "text": {
+                    "content": "twin gods",
+                    "beginOffset": 135
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Alexandrian",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.04794788,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Alexandrian",
+                    "beginOffset": 91
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "figurehead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.027063558,
+        "mentions": [
+            {
+                "text": {
+                    "content": "figurehead",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Castor and Pollux",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0ghrx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Castor_and_Pollux"
+        },
+        "salience": 0.025548546,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Castor and Pollux",
+                    "beginOffset": 145
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

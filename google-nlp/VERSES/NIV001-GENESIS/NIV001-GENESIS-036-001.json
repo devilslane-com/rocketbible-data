@@ -1,0 +1,68 @@
+[
+    {
+        "name": "account",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.6559453,
+        "mentions": [
+            {
+                "text": {
+                    "content": "account",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "family line",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2624236,
+        "mentions": [
+            {
+                "text": {
+                    "content": "family line",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Esau",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/016zh8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Esau"
+        },
+        "salience": 0.04635408,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Esau",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Edom",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01sn3h",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Edom"
+        },
+        "salience": 0.035276987,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Edom",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

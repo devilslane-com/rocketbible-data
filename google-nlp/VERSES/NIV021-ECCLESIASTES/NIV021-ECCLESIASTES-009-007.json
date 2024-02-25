@@ -1,0 +1,80 @@
+[
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.28795254,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gladness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.28795254,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gladness",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wine",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.20119587,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heart",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18535209,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heart",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.037546933,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

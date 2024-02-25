@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Bethlehem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01cy_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Bethlehem"
+        },
+        "salience": 0.615839,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bethlehem",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Judea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0kf0p",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judea"
+        },
+        "salience": 0.25737485,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judea",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "prophet",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12678619,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

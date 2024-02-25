@@ -1,0 +1,62 @@
+[
+    {
+        "name": "horse",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.4156064,
+        "mentions": [
+            {
+                "text": {
+                    "content": "horse",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rider",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2878074,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rider",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "driver",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20480406,
+        "mentions": [
+            {
+                "text": {
+                    "content": "driver",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "chariot",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.091782115,
+        "mentions": [
+            {
+                "text": {
+                    "content": "chariot",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6308525,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "words",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.30004105,
+        "mentions": [
+            {
+                "text": {
+                    "content": "words",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "knowledge",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06910643,
+        "mentions": [
+            {
+                "text": {
+                    "content": "knowledge",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

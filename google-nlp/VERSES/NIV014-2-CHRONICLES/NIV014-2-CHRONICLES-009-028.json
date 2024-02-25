@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Solomon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.42544723,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "horses",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29433885,
+        "mentions": [
+            {
+                "text": {
+                    "content": "horses",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "countries",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15032443,
+        "mentions": [
+            {
+                "text": {
+                    "content": "countries",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.1298895,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

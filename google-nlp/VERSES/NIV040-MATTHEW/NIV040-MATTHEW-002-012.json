@@ -1,0 +1,65 @@
+[
+    {
+        "name": "dream",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3583127,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dream",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.25628373,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Herod",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0hsm_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Herod_the_Great"
+        },
+        "salience": 0.20325543,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Herod",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "route",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18214814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "route",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "storm",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.5318669,
+        "mentions": [
+            {
+                "text": {
+                    "content": "storm",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "waves",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21453977,
+        "mentions": [
+            {
+                "text": {
+                    "content": "waves",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lake",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15224357,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lake",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.05175739,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 89
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "boat",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.049592406,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boat",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

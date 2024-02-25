@@ -1,0 +1,35 @@
+[
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/043mx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/John_the_Baptist"
+        },
+        "salience": 0.72070307,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "prison",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.27929693,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prison",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

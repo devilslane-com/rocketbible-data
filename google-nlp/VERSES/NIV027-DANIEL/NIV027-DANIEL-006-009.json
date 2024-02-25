@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Darius",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.77311265,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Darius",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "decree",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12807626,
+        "mentions": [
+            {
+                "text": {
+                    "content": "decree",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "writing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09881108,
+        "mentions": [
+            {
+                "text": {
+                    "content": "writing",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

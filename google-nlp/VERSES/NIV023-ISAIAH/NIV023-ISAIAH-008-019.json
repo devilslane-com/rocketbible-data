@@ -1,0 +1,110 @@
+[
+    {
+        "name": "someone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.33820134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "someone",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2500607,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mediums",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16240127,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mediums",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "spiritists",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16240127,
+        "mentions": [
+            {
+                "text": {
+                    "content": "spiritists",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03869437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 140
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "living",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.027199432,
+        "mentions": [
+            {
+                "text": {
+                    "content": "living",
+                    "beginOffset": 162
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.021041598,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 119
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.90904844,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 213
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heavens",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.034823146,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heavens",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.02401132,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.018023659,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "other",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.014093433,
+        "mentions": [
+            {
+                "text": {
+                    "content": "other",
+                    "beginOffset": 235
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

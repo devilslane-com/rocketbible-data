@@ -1,0 +1,65 @@
+[
+    {
+        "name": "foes",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6175137,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foes",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15076153,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.1269295,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "regard",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10479526,
+        "mentions": [
+            {
+                "text": {
+                    "content": "regard",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

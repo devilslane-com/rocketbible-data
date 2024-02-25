@@ -1,0 +1,95 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4554769,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Stephen",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19841693,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Stephen",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "teachers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11337335,
+        "mentions": [
+            {
+                "text": {
+                    "content": "teachers",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "elders",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11205505,
+        "mentions": [
+            {
+                "text": {
+                    "content": "elders",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "law",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10444542,
+        "mentions": [
+            {
+                "text": {
+                    "content": "law",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sanhedrin",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/0160sc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sanhedrin"
+        },
+        "salience": 0.016232349,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sanhedrin",
+                    "beginOffset": 121
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

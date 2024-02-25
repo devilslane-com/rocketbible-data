@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Julius",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5834781,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Julius",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "friends",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18174048,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friends",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kindness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07917179,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kindness",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sidon",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/070rd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sidon"
+        },
+        "salience": 0.06890298,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sidon",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/060nc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Paul_the_Apostle"
+        },
+        "salience": 0.04758305,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "needs",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.039123587,
+        "mentions": [
+            {
+                "text": {
+                    "content": "needs",
+                    "beginOffset": 129
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

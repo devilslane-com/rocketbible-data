@@ -1,0 +1,87 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6126502,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "report",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.20290953,
+        "mentions": [
+            {
+                "text": {
+                    "content": "report",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16095112,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Amalekite",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0hyby",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Amalek"
+        },
+        "salience": 0.013475159,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Amalekite",
+                    "beginOffset": 117
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "foreigner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.010013962,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foreigner",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

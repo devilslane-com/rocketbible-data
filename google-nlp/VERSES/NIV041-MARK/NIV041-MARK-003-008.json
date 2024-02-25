@@ -1,0 +1,137 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.65587044,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0kf0p",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judea"
+        },
+        "salience": 0.068366125,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judea",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.06284885,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 76
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Idumea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01sn3h",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Edom"
+        },
+        "salience": 0.06284885,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Idumea",
+                    "beginOffset": 87
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jordan",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.04761475,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jordan",
+                    "beginOffset": 122
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "regions",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.03547422,
+        "mentions": [
+            {
+                "text": {
+                    "content": "regions",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Tyre",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/07kx2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tyre,_Lebanon"
+        },
+        "salience": 0.033488378,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Tyre",
+                    "beginOffset": 140
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sidon",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/070rd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sidon"
+        },
+        "salience": 0.033488378,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sidon",
+                    "beginOffset": 149
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

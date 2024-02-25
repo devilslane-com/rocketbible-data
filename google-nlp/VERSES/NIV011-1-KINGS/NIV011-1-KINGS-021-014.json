@@ -1,0 +1,68 @@
+[
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5580623,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.16278219,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Naboth",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Naboth",
+            "mid": "\/m\/0j45z"
+        },
+        "salience": 0.1403923,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Naboth",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jezebel",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/04zb1k",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jezebel"
+        },
+        "salience": 0.13876316,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jezebel",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

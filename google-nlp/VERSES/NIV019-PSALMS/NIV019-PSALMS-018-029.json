@@ -1,0 +1,65 @@
+[
+    {
+        "name": "help",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.6641135,
+        "mentions": [
+            {
+                "text": {
+                    "content": "help",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "troop",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19926389,
+        "mentions": [
+            {
+                "text": {
+                    "content": "troop",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wall",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09924607,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wall",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.03737651,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

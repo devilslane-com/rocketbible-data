@@ -1,0 +1,84 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7939085,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "troops",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07412185,
+        "mentions": [
+            {
+                "text": {
+                    "content": "troops",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "command",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05462095,
+        "mentions": [
+            {
+                "text": {
+                    "content": "command",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05029938,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "campaigns",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.02704932,
+        "mentions": [
+            {
+                "text": {
+                    "content": "campaigns",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "name": "slaves",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.63456833,
+        "mentions": [
+            {
+                "text": {
+                    "content": "slaves",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22793774,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.06582916,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt",
+            "mid": "\/m\/02k54"
+        },
+        "salience": 0.020003218,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egyptians",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/025tvhm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egyptians"
+        },
+        "salience": 0.01860378,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egyptians",
+                    "beginOffset": 98
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "heads",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.014633401,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heads",
+                    "beginOffset": 168
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bars",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009212186,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bars",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "yoke",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009212186,
+        "mentions": [
+            {
+                "text": {
+                    "content": "yoke",
+                    "beginOffset": 134
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

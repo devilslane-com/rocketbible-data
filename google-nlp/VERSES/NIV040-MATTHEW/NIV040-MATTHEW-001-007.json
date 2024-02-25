@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Rehoboam",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06h5t",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Rehoboam"
+        },
+        "salience": 0.63287026,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rehoboam",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Rehoboam",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21081398,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Solomon",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Solomon",
+            "mid": "\/m\/070h3"
+        },
+        "salience": 0.11186311,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abijah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0hxjw",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abijah_of_Judah"
+        },
+        "salience": 0.02902836,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abijah",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Abijah",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Asa",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.0154243,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Asa",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

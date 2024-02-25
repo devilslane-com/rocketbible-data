@@ -1,0 +1,50 @@
+[
+    {
+        "name": "desert",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.5486781,
+        "mentions": [
+            {
+                "text": {
+                    "content": "desert",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Red Sea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/06jfd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Red_Sea"
+        },
+        "salience": 0.2578435,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Red Sea",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "route",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.19347844,
+        "mentions": [
+            {
+                "text": {
+                    "content": "route",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

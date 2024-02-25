@@ -1,0 +1,87 @@
+[
+    {
+        "name": "everyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.41058657,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everyone",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "authority",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.31157365,
+        "mentions": [
+            {
+                "text": {
+                    "content": "authority",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "authorities",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.17763951,
+        "mentions": [
+            {
+                "text": {
+                    "content": "authorities",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.08121907,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 98
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 171
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "authorities",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.018981194,
+        "mentions": [
+            {
+                "text": {
+                    "content": "authorities",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

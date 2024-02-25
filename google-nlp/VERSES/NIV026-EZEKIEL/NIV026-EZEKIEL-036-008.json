@@ -1,0 +1,102 @@
+[
+    {
+        "name": "mountains",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.48039275,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mountains",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.27096143,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "branches",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0983019,
+        "mentions": [
+            {
+                "text": {
+                    "content": "branches",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fruit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06774936,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fruit",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.049043808,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.033550754,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

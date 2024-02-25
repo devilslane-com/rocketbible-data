@@ -1,0 +1,80 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.45736516,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "letters",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.17446701,
+        "mentions": [
+            {
+                "text": {
+                    "content": "letters",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "none",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16060807,
+        "mentions": [
+            {
+                "text": {
+                    "content": "none",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.112323105,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anything",
+                    "beginOffset": 146
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0kf0p",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judea"
+        },
+        "salience": 0.09523667,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judea",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

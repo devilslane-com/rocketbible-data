@@ -1,0 +1,94 @@
+[
+    {
+        "name": "co-workers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.56233877,
+        "mentions": [
+            {
+                "text": {
+                    "content": "co-workers",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "field",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22681342,
+        "mentions": [
+            {
+                "text": {
+                    "content": "field",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.11248143,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "service",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0654756,
+        "mentions": [
+            {
+                "text": {
+                    "content": "service",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "building",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.03289077,
+        "mentions": [
+            {
+                "text": {
+                    "content": "building",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

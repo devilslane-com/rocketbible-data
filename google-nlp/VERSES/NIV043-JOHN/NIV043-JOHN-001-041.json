@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Andrew",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34975883,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Andrew",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Simon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2522517,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Simon",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "thing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20682105,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thing",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Messiah",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "mid": "\/m\/04ys7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Messiah"
+        },
+        "salience": 0.17065784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Messiah",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.020510562,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 117
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

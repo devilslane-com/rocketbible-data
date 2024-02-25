@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Satan",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Satan",
+            "mid": "\/m\/06wzv"
+        },
+        "salience": 0.8774543,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Satan",
+                    "beginOffset": 7
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "end",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.1225457,
+        "mentions": [
+            {
+                "text": {
+                    "content": "end",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

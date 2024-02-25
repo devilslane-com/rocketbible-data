@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.7090938,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jericho",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2909062,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jericho",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

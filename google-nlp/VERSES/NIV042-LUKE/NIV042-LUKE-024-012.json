@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.83683205,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "strips",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07265362,
+        "mentions": [
+            {
+                "text": {
+                    "content": "strips",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tomb",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06208275,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tomb",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "linen",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02843158,
+        "mentions": [
+            {
+                "text": {
+                    "content": "linen",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

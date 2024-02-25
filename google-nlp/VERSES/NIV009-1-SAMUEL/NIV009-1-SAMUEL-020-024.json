@@ -1,0 +1,80 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3773501,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "field",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.25790265,
+        "mentions": [
+            {
+                "text": {
+                    "content": "field",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "feast",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.19366556,
+        "mentions": [
+            {
+                "text": {
+                    "content": "feast",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "New Moon",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/New_moon",
+            "mid": "\/m\/05h14"
+        },
+        "salience": 0.112107895,
+        "mentions": [
+            {
+                "text": {
+                    "content": "New Moon",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05897381,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

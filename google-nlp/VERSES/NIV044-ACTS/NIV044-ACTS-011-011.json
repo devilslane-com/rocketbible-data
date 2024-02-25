@@ -1,0 +1,50 @@
+[
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.4777389,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4025717,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Caesarea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/09jt1l",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Caesarea"
+        },
+        "salience": 0.1196894,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Caesarea",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

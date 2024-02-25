@@ -1,0 +1,124 @@
+[
+    {
+        "name": "Simon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.73846006,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Simon",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Cyrene",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0lrkg",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cyrene,_Libya"
+        },
+        "salience": 0.11205265,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cyrene",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04726643,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Alexander",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.030454753,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Alexander",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Rufus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.030454753,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rufus",
+                    "beginOffset": 62
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "cross",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.025333958,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cross",
+                    "beginOffset": 149
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.015977414,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

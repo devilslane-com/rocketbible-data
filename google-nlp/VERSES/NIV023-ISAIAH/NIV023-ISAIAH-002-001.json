@@ -1,0 +1,89 @@
+[
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.32082966,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Isaiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03x0k",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Isaiah"
+        },
+        "salience": 0.28330907,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Isaiah",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Amoz",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Amoz",
+            "mid": "\/m\/0hyj4"
+        },
+        "salience": 0.19688252,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Amoz",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.13771097,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04frh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kingdom_of_Judah"
+        },
+        "salience": 0.06126777,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

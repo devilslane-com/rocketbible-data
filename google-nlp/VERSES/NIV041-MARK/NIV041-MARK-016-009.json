@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.4542856,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Mary Magdalene",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05723",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mary_Magdalene"
+        },
+        "salience": 0.4365464,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mary Magdalene",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "demons",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10916804,
+        "mentions": [
+            {
+                "text": {
+                    "content": "demons",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

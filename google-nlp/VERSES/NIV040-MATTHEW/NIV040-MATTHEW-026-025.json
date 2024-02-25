@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Judas",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0g3y0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judas_Iscariot"
+        },
+        "salience": 0.88466865,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judas",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Rabbi",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.105805665,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rabbi",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.009525693,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 89
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

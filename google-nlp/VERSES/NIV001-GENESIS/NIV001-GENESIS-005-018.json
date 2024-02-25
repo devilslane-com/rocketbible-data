@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jared",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7340036,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jared",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Enoch",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/017fh1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Idris_(prophet)"
+        },
+        "salience": 0.15196566,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Enoch",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11403072,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

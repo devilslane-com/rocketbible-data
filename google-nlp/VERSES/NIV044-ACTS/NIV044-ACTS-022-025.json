@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Paul_the_Apostle",
+            "mid": "\/m\/060nc"
+        },
+        "salience": 0.7557845,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "citizen",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1616037,
+        "mentions": [
+            {
+                "text": {
+                    "content": "citizen",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "centurion",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0695734,
+        "mentions": [
+            {
+                "text": {
+                    "content": "centurion",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Roman",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.013038384,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Roman",
+                    "beginOffset": 115
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

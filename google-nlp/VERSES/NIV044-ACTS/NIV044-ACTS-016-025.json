@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.41089863,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "hymns",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21595849,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hymns",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Silas",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18875875,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Silas",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.13153104,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "prisoners",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.052853107,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prisoners",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

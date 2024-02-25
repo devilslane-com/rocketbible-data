@@ -1,0 +1,80 @@
+[
+    {
+        "name": "elders",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.77078444,
+        "mentions": [
+            {
+                "text": {
+                    "content": "elders",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dispute",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.07508205,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dispute",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Aaron",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06275422,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aaron",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hur",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/07s6tn3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hur_(Bible)"
+        },
+        "salience": 0.05904433,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hur",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03233499,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

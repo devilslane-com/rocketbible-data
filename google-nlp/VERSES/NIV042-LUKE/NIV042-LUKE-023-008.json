@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Herod",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Herod_the_Great",
+            "mid": "\/m\/0hsm_"
+        },
+        "salience": 0.6157742,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Herod",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.35777205,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sign",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.013226861,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sign",
+                    "beginOffset": 166
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sort",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.013226861,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sort",
+                    "beginOffset": 179
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

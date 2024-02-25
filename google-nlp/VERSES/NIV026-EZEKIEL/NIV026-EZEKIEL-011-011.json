@@ -1,0 +1,95 @@
+[
+    {
+        "name": "meat",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.46416458,
+        "mentions": [
+            {
+                "text": {
+                    "content": "meat",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.30795005,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pot",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.13039458,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pot",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "borders",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.05224755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "borders",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "judgment",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.023273045,
+        "mentions": [
+            {
+                "text": {
+                    "content": "judgment",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.021970225,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 118
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

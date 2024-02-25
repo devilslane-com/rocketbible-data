@@ -1,0 +1,39 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.922936,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "lord",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "beauty",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07706397,
+        "mentions": [
+            {
+                "text": {
+                    "content": "beauty",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

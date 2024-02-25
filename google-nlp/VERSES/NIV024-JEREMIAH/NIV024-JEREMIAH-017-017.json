@@ -1,0 +1,39 @@
+[
+    {
+        "name": "terror",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.9525401,
+        "mentions": [
+            {
+                "text": {
+                    "content": "terror",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "refuge",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disaster",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.04745988,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disaster",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

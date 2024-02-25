@@ -1,0 +1,76 @@
+[
+    {
+        "name": "survivors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7369375,
+        "mentions": [
+            {
+                "text": {
+                    "content": "survivors",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "warriors",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "archers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15777425,
+        "mentions": [
+            {
+                "text": {
+                    "content": "archers",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Kedar",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06704405,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Kedar",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God of Israel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.038244177,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "God of Israel",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

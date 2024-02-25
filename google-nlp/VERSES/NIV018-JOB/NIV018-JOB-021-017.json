@@ -1,0 +1,80 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.3654301,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 105
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "lamp",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.34651166,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lamp",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "calamity",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.14437798,
+        "mentions": [
+            {
+                "text": {
+                    "content": "calamity",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fate",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.084304,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fate",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anger",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.059376266,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anger",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "enemy",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.58711463,
+        "mentions": [
+            {
+                "text": {
+                    "content": "enemy",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.25244004,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12056807,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "foe",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03987728,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foe",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

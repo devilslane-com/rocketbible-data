@@ -1,0 +1,47 @@
+[
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.62441295,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "neighbor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1929599,
+        "mentions": [
+            {
+                "text": {
+                    "content": "neighbor",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "path",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18262714,
+        "mentions": [
+            {
+                "text": {
+                    "content": "path",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

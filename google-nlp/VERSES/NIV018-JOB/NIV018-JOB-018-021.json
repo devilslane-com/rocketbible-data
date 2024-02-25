@@ -1,0 +1,80 @@
+[
+    {
+        "name": "dwelling",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.36901778,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dwelling",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2428456,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20717782,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.091519855,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.08943896,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 87
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

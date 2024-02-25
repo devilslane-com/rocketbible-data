@@ -1,0 +1,62 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6652609,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.16243525,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "men steal",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.114672065,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men steal",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "battle",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.05763178,
+        "mentions": [
+            {
+                "text": {
+                    "content": "battle",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

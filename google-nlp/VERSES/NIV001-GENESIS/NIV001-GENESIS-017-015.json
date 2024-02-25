@@ -1,0 +1,105 @@
+[
+    {
+        "name": "wife",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.56997347,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.17469847,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pwb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam"
+        },
+        "salience": 0.074859604,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.073745295,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sarai",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06799818,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sarai",
+                    "beginOffset": 36
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Sarai",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sarah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03872499,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sarah",
+                    "beginOffset": 107
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

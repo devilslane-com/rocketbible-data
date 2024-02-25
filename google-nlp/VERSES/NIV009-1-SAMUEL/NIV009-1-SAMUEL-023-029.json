@@ -1,0 +1,50 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.76896316,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "En Gedi",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04bcnx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ein_Gedi"
+        },
+        "salience": 0.13199304,
+        "mentions": [
+            {
+                "text": {
+                    "content": "En Gedi",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "strongholds",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09904383,
+        "mentions": [
+            {
+                "text": {
+                    "content": "strongholds",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

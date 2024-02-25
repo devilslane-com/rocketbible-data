@@ -1,0 +1,80 @@
+[
+    {
+        "name": "angel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.79510605,
+        "mentions": [
+            {
+                "text": {
+                    "content": "angel",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gabriel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.097393945,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gabriel",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "presence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.054840446,
+        "mentions": [
+            {
+                "text": {
+                    "content": "presence",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.032669075,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "news",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.019990474,
+        "mentions": [
+            {
+                "text": {
+                    "content": "news",
+                    "beginOffset": 135
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

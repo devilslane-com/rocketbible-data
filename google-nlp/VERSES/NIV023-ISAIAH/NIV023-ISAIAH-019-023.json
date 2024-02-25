@@ -1,0 +1,106 @@
+[
+    {
+        "name": "highway",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.3616181,
+        "mentions": [
+            {
+                "text": {
+                    "content": "highway",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.25320858,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Assyria",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Assyria",
+            "mid": "\/m\/0wmn"
+        },
+        "salience": 0.17596658,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Assyria",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Assyria",
+                    "beginOffset": 111
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Assyrians",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Assyrians",
+                    "beginOffset": 138
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egyptians",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/025tvhm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egyptians"
+        },
+        "salience": 0.087142766,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egyptians",
+                    "beginOffset": 98
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Egyptians",
+                    "beginOffset": 124
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

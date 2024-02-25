@@ -1,0 +1,109 @@
+[
+    {
+        "name": "survivors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8073618,
+        "mentions": [
+            {
+                "text": {
+                    "content": "survivors",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disaster",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.120338716,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disaster",
+                    "beginOffset": 193
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "disaster",
+                    "beginOffset": 238
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "daughters",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.040812217,
+        "mentions": [
+            {
+                "text": {
+                    "content": "daughters",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "conduct",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.013331155,
+        "mentions": [
+            {
+                "text": {
+                    "content": "conduct",
+                    "beginOffset": 131
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "actions",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.012543006,
+        "mentions": [
+            {
+                "text": {
+                    "content": "actions",
+                    "beginOffset": 149
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.0056131193,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 220
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "mocker",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.45330927,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mocker",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "insults",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3182158,
+        "mentions": [
+            {
+                "text": {
+                    "content": "insults",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "abuse",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22847494,
+        "mentions": [
+            {
+                "text": {
+                    "content": "abuse",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

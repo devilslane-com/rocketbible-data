@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Persia",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Persian_Empire",
+            "mid": "\/m\/010gnvyp"
+        },
+        "salience": 0.3840926,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Persia",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Cush",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/025wsg",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cush_(Bible)"
+        },
+        "salience": 0.32269615,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cush",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Put",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13486297,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Put",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "helmets",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.10910801,
+        "mentions": [
+            {
+                "text": {
+                    "content": "helmets",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "shields",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.049240272,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shields",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.31831214,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2824041,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.26780033,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Joash",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jehoash_of_Judah",
+            "mid": "\/m\/02cs8v"
+        },
+        "salience": 0.06674096,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joash",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "pole",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.030920185,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pole",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Asherah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01lb1j",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Asherah"
+        },
+        "salience": 0.015492347,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Asherah",
+                    "beginOffset": 137
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "altar",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.011513021,
+        "mentions": [
+            {
+                "text": {
+                    "content": "altar",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Baal",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0fykc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Baal"
+        },
+        "salience": 0.0068169227,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Baal",
+                    "beginOffset": 105
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

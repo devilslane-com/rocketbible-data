@@ -1,0 +1,80 @@
+[
+    {
+        "name": "vineyards",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.44799373,
+        "mentions": [
+            {
+                "text": {
+                    "content": "vineyards",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "farmers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.33089972,
+        "mentions": [
+            {
+                "text": {
+                    "content": "farmers",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hills",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.105099626,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hills",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Samaria",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/070j2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Samaria"
+        },
+        "salience": 0.064301856,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samaria",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "fruit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.051705077,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fruit",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

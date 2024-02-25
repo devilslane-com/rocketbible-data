@@ -1,0 +1,62 @@
+[
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.5608048,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.28091505,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "birth",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.08195613,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birth",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "neither",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.076324,
+        "mentions": [
+            {
+                "text": {
+                    "content": "neither",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

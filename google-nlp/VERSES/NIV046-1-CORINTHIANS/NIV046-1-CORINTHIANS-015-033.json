@@ -1,0 +1,47 @@
+[
+    {
+        "name": "company",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.4083912,
+        "mentions": [
+            {
+                "text": {
+                    "content": "company",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "character",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.31696957,
+        "mentions": [
+            {
+                "text": {
+                    "content": "character",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Bad",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.27463922,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bad",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "name": "devil",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.661758,
+        "mentions": [
+            {
+                "text": {
+                    "content": "devil",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.105821885,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "point",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.104579985,
+        "mentions": [
+            {
+                "text": {
+                    "content": "point",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.09209647,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Son of God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06_5d",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Son_of_God"
+        },
+        "salience": 0.03574365,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son of God",
+                    "beginOffset": 103
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

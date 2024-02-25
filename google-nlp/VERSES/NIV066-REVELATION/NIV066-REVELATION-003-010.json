@@ -1,0 +1,77 @@
+[
+    {
+        "name": "trial",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.46263108,
+        "mentions": [
+            {
+                "text": {
+                    "content": "trial",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "command",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23135723,
+        "mentions": [
+            {
+                "text": {
+                    "content": "command",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.113067634,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 131
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "inhabitants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.113067634,
+        "mentions": [
+            {
+                "text": {
+                    "content": "inhabitants",
+                    "beginOffset": 149
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07987642,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 168
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

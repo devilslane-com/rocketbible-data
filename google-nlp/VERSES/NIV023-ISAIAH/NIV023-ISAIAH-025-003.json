@@ -1,0 +1,47 @@
+[
+    {
+        "name": "peoples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5158357,
+        "mentions": [
+            {
+                "text": {
+                    "content": "peoples",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cities",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.36620975,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cities",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nations",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11795457,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nations",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

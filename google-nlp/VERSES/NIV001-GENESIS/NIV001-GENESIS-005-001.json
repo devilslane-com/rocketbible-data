@@ -1,0 +1,102 @@
+[
+    {
+        "name": "account",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5677906,
+        "mentions": [
+            {
+                "text": {
+                    "content": "account",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Adam",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.28476033,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Adam",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "family line",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05605577,
+        "mentions": [
+            {
+                "text": {
+                    "content": "family line",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.04640797,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 111
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mankind",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.025601242,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mankind",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "likeness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0193841,
+        "mentions": [
+            {
+                "text": {
+                    "content": "likeness",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pwb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam"
+        },
+        "salience": 0.727173,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "promise",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.27282703,
+        "mentions": [
+            {
+                "text": {
+                    "content": "promise",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

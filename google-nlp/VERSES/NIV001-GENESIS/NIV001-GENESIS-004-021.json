@@ -1,0 +1,102 @@
+[
+    {
+        "name": "brother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.70790493,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.097640835,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09203899,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jubal",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0brym3x",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jubal_(Bible)"
+        },
+        "salience": 0.054117788,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jubal",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "pipes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.028336447,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pipes",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "instruments",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.019961001,
+        "mentions": [
+            {
+                "text": {
+                    "content": "instruments",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

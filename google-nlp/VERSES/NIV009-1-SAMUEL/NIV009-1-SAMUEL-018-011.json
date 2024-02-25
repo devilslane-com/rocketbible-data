@@ -1,0 +1,39 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7701213,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wall",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22987871,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wall",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

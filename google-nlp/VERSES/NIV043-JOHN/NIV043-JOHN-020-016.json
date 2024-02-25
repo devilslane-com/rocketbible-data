@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.47581136,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Mary",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46323124,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mary",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Teacher",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.029745359,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Teacher",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Aramaic",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0ycv",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Aramaic_language"
+        },
+        "salience": 0.023413658,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aramaic",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Rabboni!",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.007798404,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rabboni!",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

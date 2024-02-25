@@ -1,0 +1,83 @@
+[
+    {
+        "name": "People",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6741221,
+        "mentions": [
+            {
+                "text": {
+                    "content": "People",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zion",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02p2_8n",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mount_Zion"
+        },
+        "salience": 0.19241905,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zion",
+                    "beginOffset": 10
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.076720364,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "more",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.043503977,
+        "mentions": [
+            {
+                "text": {
+                    "content": "more",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "help",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.013234498,
+        "mentions": [
+            {
+                "text": {
+                    "content": "help",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

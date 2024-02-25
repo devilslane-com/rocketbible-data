@@ -1,0 +1,53 @@
+[
+    {
+        "name": "believers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7280006,
+        "mentions": [
+            {
+                "text": {
+                    "content": "believers",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Caesarea",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Caesarea",
+            "mid": "\/m\/09jt1l"
+        },
+        "salience": 0.17707296,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Caesarea",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Tarsus",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03kcs9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tarsus,_Mersin"
+        },
+        "salience": 0.09492644,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Tarsus",
+                    "beginOffset": 87
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6134925,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hazeroth",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/08rk0k",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hazeroth"
+        },
+        "salience": 0.27050784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hazeroth",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Desert of Paran",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/08jr0_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Desert_of_Paran"
+        },
+        "salience": 0.115999684,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Desert of Paran",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

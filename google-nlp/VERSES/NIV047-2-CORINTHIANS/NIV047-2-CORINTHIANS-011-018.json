@@ -1,0 +1,47 @@
+[
+    {
+        "name": "many",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6003289,
+        "mentions": [
+            {
+                "text": {
+                    "content": "many",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.2009397,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19873138,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

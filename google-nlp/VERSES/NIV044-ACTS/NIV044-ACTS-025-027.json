@@ -1,0 +1,50 @@
+[
+    {
+        "name": "prisoner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7008105,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prisoner",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "charges",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16685715,
+        "mentions": [
+            {
+                "text": {
+                    "content": "charges",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Rome",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/06c62",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Rome"
+        },
+        "salience": 0.13233232,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rome",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

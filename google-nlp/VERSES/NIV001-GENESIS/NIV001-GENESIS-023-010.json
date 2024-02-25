@@ -1,0 +1,120 @@
+[
+    {
+        "name": "Ephron",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.47281745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ephron",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hittite",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03gsz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hittites"
+        },
+        "salience": 0.1609105,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hittite",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Hittites",
+                    "beginOffset": 100
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.094308116,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hearing",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.065525234,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hearing",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gate",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.045825828,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gate",
+                    "beginOffset": 129
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam",
+            "mid": "\/m\/0pwb"
+        },
+        "salience": 0.039325323,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.032321636,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 141
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

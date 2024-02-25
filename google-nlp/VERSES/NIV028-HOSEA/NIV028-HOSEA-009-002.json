@@ -1,0 +1,62 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4354015,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "floors",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3336768,
+        "mentions": [
+            {
+                "text": {
+                    "content": "floors",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "winepresses",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.16941337,
+        "mentions": [
+            {
+                "text": {
+                    "content": "winepresses",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wine",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.06150834,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

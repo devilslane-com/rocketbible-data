@@ -1,0 +1,95 @@
+[
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4259303,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "service",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3238569,
+        "mentions": [
+            {
+                "text": {
+                    "content": "service",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "places",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09717161,
+        "mentions": [
+            {
+                "text": {
+                    "content": "places",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06834835,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Levites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j8nd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Levite"
+        },
+        "salience": 0.054062814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levites",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "divisions",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.030630035,
+        "mentions": [
+            {
+                "text": {
+                    "content": "divisions",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

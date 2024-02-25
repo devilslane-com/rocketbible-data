@@ -1,0 +1,83 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5343455,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sign",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22884461,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sign",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.118596114,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07985335,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Prophet",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/066dv",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Prophet"
+        },
+        "salience": 0.0383604,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Prophet",
+                    "beginOffset": 88
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.78484076,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "parable",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.21515921,
+        "mentions": [
+            {
+                "text": {
+                    "content": "parable",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

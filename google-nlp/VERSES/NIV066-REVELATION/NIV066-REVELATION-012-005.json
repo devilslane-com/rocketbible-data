@@ -1,0 +1,117 @@
+[
+    {
+        "name": "child",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5661454,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "child",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "birth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22890067,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birth",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nations",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.065578565,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nations",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "scepter",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06035267,
+        "mentions": [
+            {
+                "text": {
+                    "content": "scepter",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.05216536,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 130
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "throne",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.015660988,
+        "mentions": [
+            {
+                "text": {
+                    "content": "throne",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "child",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0111963,
+        "mentions": [
+            {
+                "text": {
+                    "content": "child",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

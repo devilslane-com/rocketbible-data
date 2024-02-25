@@ -1,0 +1,83 @@
+[
+    {
+        "name": "carriage",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.7456102,
+        "mentions": [
+            {
+                "text": {
+                    "content": "carriage",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "warriors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.084138714,
+        "mentions": [
+            {
+                "text": {
+                    "content": "warriors",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Solomon",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Solomon",
+            "mid": "\/m\/070h3"
+        },
+        "salience": 0.07952203,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "noblest",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06391256,
+        "mentions": [
+            {
+                "text": {
+                    "content": "noblest",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.026816525,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Zechariah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/089bt",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zechariah_(Hebrew_prophet)"
+        },
+        "salience": 0.7566386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zechariah",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "angel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.23160249,
+        "mentions": [
+            {
+                "text": {
+                    "content": "angel",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wife",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.011758932,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

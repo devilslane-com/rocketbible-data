@@ -1,0 +1,65 @@
+[
+    {
+        "name": "names",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.8414943,
+        "mentions": [
+            {
+                "text": {
+                    "content": "names",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ben-Hur",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07124726,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ben-Hur",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ephraim",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tribe_of_Ephraim",
+            "mid": "\/m\/0h_gc"
+        },
+        "salience": 0.049927004,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ephraim",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.037331432,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

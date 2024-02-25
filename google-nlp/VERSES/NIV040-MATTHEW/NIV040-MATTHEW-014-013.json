@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.6831282,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10683767,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "boat",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10558385,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boat",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "foot",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.036411066,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foot",
+                    "beginOffset": 131
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hearing",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.03185468,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hearing",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.025583442,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "crowds",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.010601111,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crowds",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

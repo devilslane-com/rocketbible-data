@@ -1,0 +1,95 @@
+[
+    {
+        "name": "officers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.67750126,
+        "mentions": [
+            {
+                "text": {
+                    "content": "officers",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11662722,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.063420944,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hands",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.059062574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hands",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Babylon",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "mid": "\/m\/01cyh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Babylon"
+        },
+        "salience": 0.043195646,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylon",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Babylonians",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.040192377,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylonians",
+                    "beginOffset": 116
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

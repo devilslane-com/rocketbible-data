@@ -1,0 +1,935 @@
+[
+    {
+        "name": "nations",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.39237368,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nations",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "servants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0578653,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servants",
+                    "beginOffset": 164
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "servants",
+                    "beginOffset": 1081
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "neighbors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04683155,
+        "mentions": [
+            {
+                "text": {
+                    "content": "neighbors",
+                    "beginOffset": 397
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "neighbors",
+                    "beginOffset": 1224
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "objects",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03908415,
+        "mentions": [
+            {
+                "text": {
+                    "content": "objects",
+                    "beginOffset": 370
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "inheritance",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0377676,
+        "mentions": [
+            {
+                "text": {
+                    "content": "inheritance",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0377676,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rubble",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0377676,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rubble",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.03332025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 104
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 314
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "nations",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.025556756,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nations",
+                    "beginOffset": 563
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02445468,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 641
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 875
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.019804971,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 2
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 837
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 983
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.018232554,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 176
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "birds",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.018232554,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birds",
+                    "beginOffset": 189
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bodies",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0132596865,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bodies",
+                    "beginOffset": 149
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kingdoms",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.011845829,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdoms",
+                    "beginOffset": 607
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.008276638,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 341
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.00787476,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 229
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.007835637,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 357
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wild",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.006918144,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wild",
+                    "beginOffset": 259
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "animals",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.006918144,
+        "mentions": [
+            {
+                "text": {
+                    "content": "animals",
+                    "beginOffset": 244
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sky",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.006918144,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sky",
+                    "beginOffset": 202
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "flesh",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.006918144,
+        "mentions": [
+            {
+                "text": {
+                    "content": "flesh",
+                    "beginOffset": 211
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.006883762,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 297
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sins",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0068368483,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sins",
+                    "beginOffset": 732
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "blood",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0058343685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blood",
+                    "beginOffset": 286
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mercy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0055790087,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mercy",
+                    "beginOffset": 767
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "generations",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0053127157,
+        "mentions": [
+            {
+                "text": {
+                    "content": "generations",
+                    "beginOffset": 745
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "contempt",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0052692094,
+        "mentions": [
+            {
+                "text": {
+                    "content": "contempt",
+                    "beginOffset": 381
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.005254773,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 459
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nations",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0047976086,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nations",
+                    "beginOffset": 1029
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "homeland",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.004646086,
+        "mentions": [
+            {
+                "text": {
+                    "content": "homeland",
+                    "beginOffset": 695
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "derision",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0046285866,
+        "mentions": [
+            {
+                "text": {
+                    "content": "derision",
+                    "beginOffset": 421
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "scorn",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0046285866,
+        "mentions": [
+            {
+                "text": {
+                    "content": "scorn",
+                    "beginOffset": 411
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "jealousy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.004596842,
+        "mentions": [
+            {
+                "text": {
+                    "content": "jealousy",
+                    "beginOffset": 511
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fire",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.004596842,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fire",
+                    "beginOffset": 530
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "need",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0042566704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "need",
+                    "beginOffset": 822
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "glory",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.004251158,
+        "mentions": [
+            {
+                "text": {
+                    "content": "glory",
+                    "beginOffset": 861
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Savior",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.004251158,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Savior",
+                    "beginOffset": 845
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "groans",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.004185662,
+        "mentions": [
+            {
+                "text": {
+                    "content": "groans",
+                    "beginOffset": 1099
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "blood",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0036389942,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blood",
+                    "beginOffset": 1067
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wrath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0034584368,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wrath",
+                    "beginOffset": 550
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prisoners",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.003193197,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prisoners",
+                    "beginOffset": 1113
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "arm",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.003193197,
+        "mentions": [
+            {
+                "text": {
+                    "content": "arm",
+                    "beginOffset": 1157
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "laps",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.003190287,
+        "mentions": [
+            {
+                "text": {
+                    "content": "laps",
+                    "beginOffset": 1212
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "generation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0027848003,
+        "mentions": [
+            {
+                "text": {
+                    "content": "generation",
+                    "beginOffset": 1368
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "generation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0027848003,
+        "mentions": [
+            {
+                "text": {
+                    "content": "generation",
+                    "beginOffset": 1382
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jacob",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0027463431,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 670
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "contempt",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0025420655,
+        "mentions": [
+            {
+                "text": {
+                    "content": "contempt",
+                    "beginOffset": 1250
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0025420655,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 1284
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.002539908,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 1303
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "times",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.0022327395,
+        "mentions": [
+            {
+                "text": {
+                    "content": "times",
+                    "beginOffset": 1240
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "praise",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0022308442,
+        "mentions": [
+            {
+                "text": {
+                    "content": "praise",
+                    "beginOffset": 1415
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pasture",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0022308442,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pasture",
+                    "beginOffset": 1329
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sheep",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0022308442,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sheep",
+                    "beginOffset": 1315
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0017532178,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 922
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sins",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0015989897,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sins",
+                    "beginOffset": 908
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sake",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0014043623,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sake",
+                    "beginOffset": 931
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "eyes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0014012133,
+        "mentions": [
+            {
+                "text": {
+                    "content": "eyes",
+                    "beginOffset": 1002
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nations",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0006685888,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nations",
+                    "beginOffset": 952
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

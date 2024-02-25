@@ -1,0 +1,95 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.28812337,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Athaliah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/023bsx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Athaliah"
+        },
+        "salience": 0.24224222,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Athaliah",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "noise",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18472663,
+        "mentions": [
+            {
+                "text": {
+                    "content": "noise",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12941876,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09103027,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06445876,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 113
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

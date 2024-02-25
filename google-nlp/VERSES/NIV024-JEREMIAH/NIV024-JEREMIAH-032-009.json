@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Hanamel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.54932725,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cousin",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Hanamel",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "field",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.19487117,
+        "mentions": [
+            {
+                "text": {
+                    "content": "field",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "shekels",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10006971,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shekels",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Anathoth",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0hykz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Anathoth"
+        },
+        "salience": 0.08496355,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Anathoth",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "silver",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.070768334,
+        "mentions": [
+            {
+                "text": {
+                    "content": "silver",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "name": "lion",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.47219133,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lion",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "lion",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sluggard",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34853458,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sluggard",
+                    "beginOffset": 2
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "road",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10150707,
+        "mentions": [
+            {
+                "text": {
+                    "content": "road",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "streets",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07776704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "streets",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

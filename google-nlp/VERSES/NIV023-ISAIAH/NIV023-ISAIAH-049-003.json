@@ -1,0 +1,50 @@
+[
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.736931,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "splendor",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14152542,
+        "mentions": [
+            {
+                "text": {
+                    "content": "splendor",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.12154356,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

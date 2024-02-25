@@ -1,0 +1,119 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.61984754,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hezekiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03myb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hezekiah"
+        },
+        "salience": 0.17301221,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hezekiah",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04frh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kingdom_of_Judah"
+        },
+        "salience": 0.052086443,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 93
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sennacherib",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070jj",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sennacherib"
+        },
+        "salience": 0.051466197,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sennacherib",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Assyria",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Assyria",
+            "mid": "\/m\/0wmn"
+        },
+        "salience": 0.051466197,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Assyria",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "siege",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.03905222,
+        "mentions": [
+            {
+                "text": {
+                    "content": "siege",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cities",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.013069219,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cities",
+                    "beginOffset": 131
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

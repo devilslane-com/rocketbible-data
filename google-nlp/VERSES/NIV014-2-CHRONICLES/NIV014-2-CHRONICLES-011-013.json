@@ -1,0 +1,68 @@
+[
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.69188315,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "districts",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.14925309,
+        "mentions": [
+            {
+                "text": {
+                    "content": "districts",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Levites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/010f4kdg",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tribe_of_Levi"
+        },
+        "salience": 0.13045481,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levites",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.028408982,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.72262186,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "camp",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.115467764,
+        "mentions": [
+            {
+                "text": {
+                    "content": "camp",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Eldad and Medad",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08990339,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Eldad and Medad",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.07200699,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

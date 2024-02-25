@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Joseph",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.43672746,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joseph",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Mary Magdalene",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05723",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mary_Magdalene"
+        },
+        "salience": 0.28969115,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mary Magdalene",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13694282,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mary",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13663858,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mary",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

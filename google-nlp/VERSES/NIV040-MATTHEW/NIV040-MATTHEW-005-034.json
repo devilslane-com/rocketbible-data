@@ -1,0 +1,57 @@
+[
+    {
+        "name": "throne",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.8696726,
+        "mentions": [
+            {
+                "text": {
+                    "content": "oath",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "throne",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heaven",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08926091,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heaven",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.04106647,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

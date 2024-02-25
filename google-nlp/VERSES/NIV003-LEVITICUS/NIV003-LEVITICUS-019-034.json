@@ -1,0 +1,83 @@
+[
+    {
+        "name": "foreigners",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6434647,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foreigners",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "foreigner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.28988612,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foreigner",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.049580026,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 136
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.010468021,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 146
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.0066011446,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 120
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

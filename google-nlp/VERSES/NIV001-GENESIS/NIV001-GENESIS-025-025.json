@@ -1,0 +1,65 @@
+[
+    {
+        "name": "first",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.76632833,
+        "mentions": [
+            {
+                "text": {
+                    "content": "first",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "body",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14145853,
+        "mentions": [
+            {
+                "text": {
+                    "content": "body",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Esau",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/016zh8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Esau"
+        },
+        "salience": 0.052244682,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Esau",
+                    "beginOffset": 94
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "garment",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.039968465,
+        "mentions": [
+            {
+                "text": {
+                    "content": "garment",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

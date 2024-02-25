@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Rebekah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.68598324,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rebekah",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12442204,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Esau",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/016zh8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Esau"
+        },
+        "salience": 0.10433074,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Esau",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jacob",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0jt0lm_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jacob_in_Islam"
+        },
+        "salience": 0.07553378,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.009730195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Messiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04ys7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Messiah"
+        },
+        "salience": 0.64410764,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Instructor",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Messiah",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "instructors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.35589236,
+        "mentions": [
+            {
+                "text": {
+                    "content": "instructors",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

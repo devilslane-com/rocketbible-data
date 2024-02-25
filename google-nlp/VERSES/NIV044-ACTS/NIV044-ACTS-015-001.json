@@ -1,0 +1,98 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5368917,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "believers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1414868,
+        "mentions": [
+            {
+                "text": {
+                    "content": "believers",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judea",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judea",
+            "mid": "\/m\/0kf0p"
+        },
+        "salience": 0.124825925,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judea",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Antioch",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.124825925,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Antioch",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "custom",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0451203,
+        "mentions": [
+            {
+                "text": {
+                    "content": "custom",
+                    "beginOffset": 128
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.026849365,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 145
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

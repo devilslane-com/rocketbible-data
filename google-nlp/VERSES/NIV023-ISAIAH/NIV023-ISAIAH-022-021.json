@@ -1,0 +1,110 @@
+[
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.83134305,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 115
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "robe",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.061893966,
+        "mentions": [
+            {
+                "text": {
+                    "content": "robe",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sash",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.04227153,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sash",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "authority",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03981031,
+        "mentions": [
+            {
+                "text": {
+                    "content": "authority",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.010125847,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 164
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.008558118,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 143
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0059971684,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 174
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

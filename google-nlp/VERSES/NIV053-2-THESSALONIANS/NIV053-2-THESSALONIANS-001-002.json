@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Grace",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34605953,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Grace",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.32675514,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "peace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23438813,
+        "mentions": [
+            {
+                "text": {
+                    "content": "peace",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God the Father",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/024kvq",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God_the_Father"
+        },
+        "salience": 0.09279718,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God the Father",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

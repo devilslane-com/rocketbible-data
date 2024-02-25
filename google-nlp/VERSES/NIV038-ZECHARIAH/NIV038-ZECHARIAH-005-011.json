@@ -1,0 +1,87 @@
+[
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.651744,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.12577847,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "basket",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12505457,
+        "mentions": [
+            {
+                "text": {
+                    "content": "basket",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Babylonia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0cn3b",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Babylonia"
+        },
+        "salience": 0.07635724,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylonia",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.021065738,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 129
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

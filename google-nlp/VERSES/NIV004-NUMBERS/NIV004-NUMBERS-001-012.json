@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Dan",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8270048,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Dan",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ahiezer",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.13100518,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ahiezer",
+                    "beginOffset": 10
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ammishaddai",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ammishaddai",
+            "mid": "\/m\/0hygy"
+        },
+        "salience": 0.04199,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ammishaddai",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

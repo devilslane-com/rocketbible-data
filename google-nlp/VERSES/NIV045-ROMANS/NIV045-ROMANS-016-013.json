@@ -1,0 +1,54 @@
+[
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6227559,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21946378,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Greet Rufus",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15778032,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Greet Rufus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

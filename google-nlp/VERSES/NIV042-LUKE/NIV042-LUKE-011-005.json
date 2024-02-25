@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.5788949,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "friend",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30381885,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friend",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "loaves",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.043156162,
+        "mentions": [
+            {
+                "text": {
+                    "content": "loaves",
+                    "beginOffset": 119
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bread",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.043156162,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 129
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Friend",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03097391,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Friend",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

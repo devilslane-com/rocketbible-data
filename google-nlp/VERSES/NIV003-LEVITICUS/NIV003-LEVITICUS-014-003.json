@@ -1,0 +1,47 @@
+[
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.74847525,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "camp",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.20146675,
+        "mentions": [
+            {
+                "text": {
+                    "content": "camp",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "skin disease",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.050058022,
+        "mentions": [
+            {
+                "text": {
+                    "content": "skin disease",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Bethel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/025tn25",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Bethel"
+        },
+        "salience": 0.5225054,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bethel",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Bethel",
+                    "beginOffset": 112
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gilgal",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02tq9t",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gilgal"
+        },
+        "salience": 0.24335916,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gilgal",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Gilgal",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Beersheba",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01tdm6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Beersheba"
+        },
+        "salience": 0.14147635,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Beersheba",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "nothing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.056850255,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nothing",
+                    "beginOffset": 138
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "exile",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03580882,
+        "mentions": [
+            {
+                "text": {
+                    "content": "exile",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

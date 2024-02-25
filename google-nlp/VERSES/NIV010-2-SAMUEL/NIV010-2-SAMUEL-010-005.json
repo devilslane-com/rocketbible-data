@@ -1,0 +1,95 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3535304,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "messengers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30039448,
+        "mentions": [
+            {
+                "text": {
+                    "content": "messengers",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David",
+            "mid": "\/m\/02cvn"
+        },
+        "salience": 0.24998787,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.048546907,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "beards",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.037193004,
+        "mentions": [
+            {
+                "text": {
+                    "content": "beards",
+                    "beginOffset": 146
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jericho",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.010347336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jericho",
+                    "beginOffset": 128
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

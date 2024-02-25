@@ -1,0 +1,105 @@
+[
+    {
+        "name": "kingdoms",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4270966,
+        "mentions": [
+            {
+                "text": {
+                    "content": "idols",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "kingdoms",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29374316,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kingdoms",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1388386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdoms",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "images",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.07899598,
+        "mentions": [
+            {
+                "text": {
+                    "content": "images",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.035995796,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 85
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Samaria",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/070j2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Samaria"
+        },
+        "salience": 0.025329862,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samaria",
+                    "beginOffset": 99
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.32742804,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "daughter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24034306,
+        "mentions": [
+            {
+                "text": {
+                    "content": "daughter",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Herod",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Herod_the_Great",
+            "mid": "\/m\/0hsm_"
+        },
+        "salience": 0.18925947,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Herod",
+                    "beginOffset": 62
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Herodias",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01ly28",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Herodias"
+        },
+        "salience": 0.14769235,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Herodias",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "dinner guests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05964575,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dinner guests",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "girl",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.026723865,
+        "mentions": [
+            {
+                "text": {
+                    "content": "girl",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.008907443,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anything",
+                    "beginOffset": 132
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

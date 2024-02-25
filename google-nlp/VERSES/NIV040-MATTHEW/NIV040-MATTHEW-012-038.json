@@ -1,0 +1,95 @@
+[
+    {
+        "name": "some",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4354265,
+        "mentions": [
+            {
+                "text": {
+                    "content": "some",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "teachers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1731608,
+        "mentions": [
+            {
+                "text": {
+                    "content": "teachers",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Teacher",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11185958,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Teacher",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "law",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10607847,
+        "mentions": [
+            {
+                "text": {
+                    "content": "law",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pharisees",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharisees",
+            "mid": "\/m\/0j3fm"
+        },
+        "salience": 0.09351864,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharisees",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sign",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07995602,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sign",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

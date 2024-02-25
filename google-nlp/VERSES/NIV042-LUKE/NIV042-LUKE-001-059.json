@@ -1,0 +1,42 @@
+[
+    {
+        "name": "child",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8838782,
+        "mentions": [
+            {
+                "text": {
+                    "content": "child",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zechariah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/089bt",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zechariah_(Hebrew_prophet)"
+        },
+        "salience": 0.11612182,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Zechariah",
+                    "beginOffset": 102
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

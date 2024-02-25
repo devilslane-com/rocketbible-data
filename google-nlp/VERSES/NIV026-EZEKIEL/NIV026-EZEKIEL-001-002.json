@@ -1,0 +1,57 @@
+[
+    {
+        "name": "fifth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.67225367,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fifth",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jehoiachin",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0240jl",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jeconiah"
+        },
+        "salience": 0.25805023,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jehoiachin",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "exile",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06969612,
+        "mentions": [
+            {
+                "text": {
+                    "content": "exile",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

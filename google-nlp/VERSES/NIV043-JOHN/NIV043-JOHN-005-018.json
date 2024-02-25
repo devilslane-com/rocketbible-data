@@ -1,0 +1,87 @@
+[
+    {
+        "name": "reason",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.48808962,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reason",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "more",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20125881,
+        "mentions": [
+            {
+                "text": {
+                    "content": "more",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11424513,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.11248397,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 115
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 161
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sabbath",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08392245,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sabbath",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

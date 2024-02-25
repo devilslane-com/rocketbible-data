@@ -1,0 +1,65 @@
+[
+    {
+        "name": "someone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.38905114,
+        "mentions": [
+            {
+                "text": {
+                    "content": "someone",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.27465278,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pain",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "suffering",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25350437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "suffering",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.0827917,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 107
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

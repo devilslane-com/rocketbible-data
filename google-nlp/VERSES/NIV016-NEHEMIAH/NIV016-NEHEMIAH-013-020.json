@@ -1,0 +1,80 @@
+[
+    {
+        "name": "merchants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3045143,
+        "mentions": [
+            {
+                "text": {
+                    "content": "merchants",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kinds",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21618533,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kinds",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sellers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21376413,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sellers",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "goods",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1997471,
+        "mentions": [
+            {
+                "text": {
+                    "content": "goods",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.065789156,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "name": "throne",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.47047594,
+        "mentions": [
+            {
+                "text": {
+                    "content": "throne",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "scepter",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.41073337,
+        "mentions": [
+            {
+                "text": {
+                    "content": "scepter",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "scepter",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.06146654,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "kingdom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.035106096,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingdom",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "justice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.022218049,
+        "mentions": [
+            {
+                "text": {
+                    "content": "justice",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

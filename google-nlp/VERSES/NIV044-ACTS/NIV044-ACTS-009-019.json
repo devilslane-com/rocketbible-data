@@ -1,0 +1,80 @@
+[
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.47961763,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "strength",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29504472,
+        "mentions": [
+            {
+                "text": {
+                    "content": "strength",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.102116466,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08046292,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Damascus",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02gjp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Damascus"
+        },
+        "salience": 0.04275828,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Damascus",
+                    "beginOffset": 100
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.39490324,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Tou",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2895952,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Tou",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hamath",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02kmjv",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hama"
+        },
+        "salience": 0.12102923,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hamath",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David",
+            "mid": "\/m\/02cvn"
+        },
+        "salience": 0.08433571,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hadadezer",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/08s0l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hadadezer_bar_Rehob"
+        },
+        "salience": 0.059098825,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hadadezer",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "army",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.051037796,
+        "mentions": [
+            {
+                "text": {
+                    "content": "army",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

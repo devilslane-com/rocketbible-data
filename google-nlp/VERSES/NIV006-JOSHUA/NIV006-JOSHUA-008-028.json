@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Joshua",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40160745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joshua",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "heap",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1920277,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heap",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ruins",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17724147,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ruins",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ai",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/0mkz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Artificial_intelligence"
+        },
+        "salience": 0.16784202,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ai",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06128136,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

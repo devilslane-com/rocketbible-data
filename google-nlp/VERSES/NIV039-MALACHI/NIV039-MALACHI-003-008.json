@@ -1,0 +1,65 @@
+[
+    {
+        "name": "mortal",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6998708,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mortal",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.18029034,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "tithes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.070358336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tithes",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "offerings",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04948048,
+        "mentions": [
+            {
+                "text": {
+                    "content": "offerings",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

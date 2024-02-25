@@ -1,0 +1,968 @@
+[
+    {
+        "name": "satisfaction",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1191403,
+        "mentions": [
+            {
+                "text": {
+                    "content": "satisfaction",
+                    "beginOffset": 1033
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "gift",
+                    "beginOffset": 1078
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08521809,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "activity",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.072556406,
+        "mentions": [
+            {
+                "text": {
+                    "content": "activity",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "season",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.063841045,
+        "mentions": [
+            {
+                "text": {
+                    "content": "season",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heavens",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.063841045,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heavens",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nothing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06341837,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nothing",
+                    "beginOffset": 2164
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "lot",
+                    "beginOffset": 2240
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.049578216,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 705
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 855
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 1086
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 1114
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 1198
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 1308
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 1501
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 1682
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.026715765,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 749
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nothing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.024612613,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nothing",
+                    "beginOffset": 1175
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "stones",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.024332011,
+        "mentions": [
+            {
+                "text": {
+                    "content": "stones",
+                    "beginOffset": 325
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.024018565,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 931
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "humans",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02384799,
+        "mentions": [
+            {
+                "text": {
+                    "content": "humans",
+                    "beginOffset": 1674
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "workers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.022897102,
+        "mentions": [
+            {
+                "text": {
+                    "content": "workers",
+                    "beginOffset": 652
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "each",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.020058397,
+        "mentions": [
+            {
+                "text": {
+                    "content": "each",
+                    "beginOffset": 992
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "war",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.016433299,
+        "mentions": [
+            {
+                "text": {
+                    "content": "war",
+                    "beginOffset": 618
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "peace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.016433299,
+        "mentions": [
+            {
+                "text": {
+                    "content": "peace",
+                    "beginOffset": 637
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "human beings",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.01376209,
+        "mentions": [
+            {
+                "text": {
+                    "content": "human beings",
+                    "beginOffset": 1769
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.010020605,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 1993
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009659403,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 1103
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nothing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009659403,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nothing",
+                    "beginOffset": 1144
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "toil",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.008984126,
+        "mentions": [
+            {
+                "text": {
+                    "content": "toil",
+                    "beginOffset": 676
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.008959306,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 1390
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "toil",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.00895625,
+        "mentions": [
+            {
+                "text": {
+                    "content": "toil",
+                    "beginOffset": 1059
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.008680321,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Everything",
+                    "beginOffset": 1940
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "spirit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.008427991,
+        "mentions": [
+            {
+                "text": {
+                    "content": "spirit",
+                    "beginOffset": 2091
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.008192285,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 1218
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "judgment",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.008172095,
+        "mentions": [
+            {
+                "text": {
+                    "content": "judgment",
+                    "beginOffset": 1399
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "eternity",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.00790001,
+        "mentions": [
+            {
+                "text": {
+                    "content": "eternity",
+                    "beginOffset": 799
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "human heart",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.00790001,
+        "mentions": [
+            {
+                "text": {
+                    "content": "human heart",
+                    "beginOffset": 815
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "no one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.00790001,
+        "mentions": [
+            {
+                "text": {
+                    "content": "no one",
+                    "beginOffset": 832
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "human race",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.00785263,
+        "mentions": [
+            {
+                "text": {
+                    "content": "human race",
+                    "beginOffset": 725
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "All",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.007460017,
+        "mentions": [
+            {
+                "text": {
+                    "content": "All",
+                    "beginOffset": 1967
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fate",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.007384466,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fate",
+                    "beginOffset": 1761
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "All",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0073801833,
+        "mentions": [
+            {
+                "text": {
+                    "content": "All",
+                    "beginOffset": 1875
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "animals",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0072366185,
+        "mentions": [
+            {
+                "text": {
+                    "content": "animals",
+                    "beginOffset": 1741
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "animals",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0072300257,
+        "mentions": [
+            {
+                "text": {
+                    "content": "animals",
+                    "beginOffset": 1802
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "animals",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0072238934,
+        "mentions": [
+            {
+                "text": {
+                    "content": "animals",
+                    "beginOffset": 1931
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "account",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.007186842,
+        "mentions": [
+            {
+                "text": {
+                    "content": "account",
+                    "beginOffset": 1334
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sun",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0071784225,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sun",
+                    "beginOffset": 1378
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "something",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0071784225,
+        "mentions": [
+            {
+                "text": {
+                    "content": "something",
+                    "beginOffset": 1353
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0067160134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 1986
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fate",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0061402996,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fate",
+                    "beginOffset": 1820
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "humans",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.005912792,
+        "mentions": [
+            {
+                "text": {
+                    "content": "humans",
+                    "beginOffset": 1901
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "other",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0053933947,
+        "mentions": [
+            {
+                "text": {
+                    "content": "other",
+                    "beginOffset": 1868
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "breath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0053229206,
+        "mentions": [
+            {
+                "text": {
+                    "content": "breath",
+                    "beginOffset": 1893
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "advantage",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0053229206,
+        "mentions": [
+            {
+                "text": {
+                    "content": "advantage",
+                    "beginOffset": 1916
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "animal",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0050449613,
+        "mentions": [
+            {
+                "text": {
+                    "content": "animal",
+                    "beginOffset": 2105
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "human spirit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.004284271,
+        "mentions": [
+            {
+                "text": {
+                    "content": "human spirit",
+                    "beginOffset": 2054
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "work",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0041773254,
+        "mentions": [
+            {
+                "text": {
+                    "content": "work",
+                    "beginOffset": 2212
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dust",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0037655993,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dust",
+                    "beginOffset": 2007
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "return",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0037655993,
+        "mentions": [
+            {
+                "text": {
+                    "content": "return",
+                    "beginOffset": 2029
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0037629511,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 2131
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0037604477,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 2185
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wickedness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0030537597,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wickedness",
+                    "beginOffset": 1458
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wickedness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0030537597,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wickedness",
+                    "beginOffset": 1410
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0029604717,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 1439
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "activity",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.002697154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "activity",
+                    "beginOffset": 1600
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "judgment",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.002697154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "judgment",
+                    "beginOffset": 1521
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "justice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0023713992,
+        "mentions": [
+            {
+                "text": {
+                    "content": "justice",
+                    "beginOffset": 1448
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "deed",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0023688602,
+        "mentions": [
+            {
+                "text": {
+                    "content": "deed",
+                    "beginOffset": 1632
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

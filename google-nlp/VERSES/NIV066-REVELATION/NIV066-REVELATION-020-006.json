@@ -1,0 +1,113 @@
+[
+    {
+        "name": "holy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.38329417,
+        "mentions": [
+            {
+                "text": {
+                    "content": "holy",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18266982,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 122
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "resurrection",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15804745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "resurrection",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.15043145,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 133
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.06208549,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "power",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.053714775,
+        "mentions": [
+            {
+                "text": {
+                    "content": "power",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.009756845,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 144
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

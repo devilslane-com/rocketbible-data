@@ -1,0 +1,57 @@
+[
+    {
+        "name": "faith",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.8629626,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faith",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "gift",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "grace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.113530114,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grace",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.02350726,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 107
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

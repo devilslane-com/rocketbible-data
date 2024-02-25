@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Balak",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/013p7s",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Balak"
+        },
+        "salience": 0.7634728,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Balak",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18823099,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "outskirts",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.024148108,
+        "mentions": [
+            {
+                "text": {
+                    "content": "outskirts",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "camp",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.024148108,
+        "mentions": [
+            {
+                "text": {
+                    "content": "camp",
+                    "beginOffset": 139
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

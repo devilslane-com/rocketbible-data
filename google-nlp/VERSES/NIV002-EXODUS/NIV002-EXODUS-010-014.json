@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.39793336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "numbers",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1851553,
+        "mentions": [
+            {
+                "text": {
+                    "content": "numbers",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "area",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18300234,
+        "mentions": [
+            {
+                "text": {
+                    "content": "area",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18300234,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "locusts",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.028090356,
+        "mentions": [
+            {
+                "text": {
+                    "content": "locusts",
+                    "beginOffset": 132
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "plague",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.022816312,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plague",
+                    "beginOffset": 122
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

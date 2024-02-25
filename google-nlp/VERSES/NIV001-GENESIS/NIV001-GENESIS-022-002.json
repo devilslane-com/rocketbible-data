@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Isaac",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.78535634,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Isaac",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.105166696,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "region",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.046948917,
+        "mentions": [
+            {
+                "text": {
+                    "content": "region",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moriah",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0j4c5",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moriah"
+        },
+        "salience": 0.028037544,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moriah",
+                    "beginOffset": 96
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "offering",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.017245263,
+        "mentions": [
+            {
+                "text": {
+                    "content": "offering",
+                    "beginOffset": 135
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mountain",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.017245263,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mountain",
+                    "beginOffset": 149
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

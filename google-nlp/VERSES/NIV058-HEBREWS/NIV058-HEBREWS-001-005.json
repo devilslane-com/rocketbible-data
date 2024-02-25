@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.39158052,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.29888836,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Son",
+                    "beginOffset": 153
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.16328697,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "angels",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11156011,
+        "mentions": [
+            {
+                "text": {
+                    "content": "angels",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.034684047,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

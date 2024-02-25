@@ -1,0 +1,71 @@
+[
+    {
+        "name": "fortress",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.54484046,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fortress",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David",
+            "mid": "\/m\/02cvn"
+        },
+        "salience": 0.3141355,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Zion",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01hlx8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zion"
+        },
+        "salience": 0.10071279,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zion",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "City of David",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0j3w2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/City_of_David"
+        },
+        "salience": 0.040311303,
+        "mentions": [
+            {
+                "text": {
+                    "content": "City of David",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

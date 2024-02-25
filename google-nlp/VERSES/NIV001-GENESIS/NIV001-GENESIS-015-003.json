@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Abram",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.56112486,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abram",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.36631685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "heir",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.051584255,
+        "mentions": [
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "household",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.020974059,
+        "mentions": [
+            {
+                "text": {
+                    "content": "household",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,171 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.33334765,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God of Israel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19873048,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "God of Israel",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Joshua",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19306682,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joshua",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ancestors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.090845145,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ancestors",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gods",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.046309277,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gods",
+                    "beginOffset": 212
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Euphrates River",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02s22",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Euphrates"
+        },
+        "salience": 0.039199412,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Euphrates River",
+                    "beginOffset": 176
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Terah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j0hf",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Terah"
+        },
+        "salience": 0.034711637,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Terah",
+                    "beginOffset": 120
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02917588,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pwb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam"
+        },
+        "salience": 0.017306844,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 140
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Nahor",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/010mzzht",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nahor,_son_of_Serug"
+        },
+        "salience": 0.017306844,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nahor",
+                    "beginOffset": 152
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

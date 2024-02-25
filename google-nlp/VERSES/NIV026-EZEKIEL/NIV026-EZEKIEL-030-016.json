@@ -1,0 +1,131 @@
+[
+    {
+        "name": "fire",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5276056,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fire",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "agony",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1559813,
+        "mentions": [
+            {
+                "text": {
+                    "content": "agony",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.13591392,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Pelusium",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03wwqt",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pelusium"
+        },
+        "salience": 0.056109764,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pelusium",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Thebes",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0hfv0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Thebes,_Greece"
+        },
+        "salience": 0.045836642,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Thebes",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "distress",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03761736,
+        "mentions": [
+            {
+                "text": {
+                    "content": "distress",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "storm",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.023664298,
+        "mentions": [
+            {
+                "text": {
+                    "content": "storm",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Memphis",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.017271107,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Memphis",
+                    "beginOffset": 88
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

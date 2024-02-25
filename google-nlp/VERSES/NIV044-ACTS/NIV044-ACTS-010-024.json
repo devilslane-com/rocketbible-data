@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Cornelius",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46179444,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cornelius",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Caesarea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/09jt1l",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Caesarea"
+        },
+        "salience": 0.271279,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Caesarea",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "relatives",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15661842,
+        "mentions": [
+            {
+                "text": {
+                    "content": "relatives",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "friends",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11030813,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friends",
+                    "beginOffset": 119
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

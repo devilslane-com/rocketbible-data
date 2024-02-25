@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.63389534,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "cry",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21262917,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cry",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "last",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15347551,
+        "mentions": [
+            {
+                "text": {
+                    "content": "last",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

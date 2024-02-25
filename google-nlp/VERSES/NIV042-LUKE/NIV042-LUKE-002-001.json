@@ -1,0 +1,83 @@
+[
+    {
+        "name": "decree",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3578079,
+        "mentions": [
+            {
+                "text": {
+                    "content": "decree",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "census",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25128785,
+        "mentions": [
+            {
+                "text": {
+                    "content": "census",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Caesar Augustus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0ngg",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Augustus"
+        },
+        "salience": 0.15566793,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Caesar Augustus",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.12714794,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Roman",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02l341",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ancient_Rome"
+        },
+        "salience": 0.10808836,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Roman",
+                    "beginOffset": 90
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

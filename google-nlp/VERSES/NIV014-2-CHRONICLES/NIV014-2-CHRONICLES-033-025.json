@@ -1,0 +1,117 @@
+[
+    {
+        "name": "all",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4463812,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25625303,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Amon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12618735,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Amon",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0846466,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son king",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04666062,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son king",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.029010406,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 115
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Josiah",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Josiah",
+            "mid": "\/m\/02xr84"
+        },
+        "salience": 0.0108607905,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Josiah",
+                    "beginOffset": 88
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

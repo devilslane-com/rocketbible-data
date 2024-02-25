@@ -1,0 +1,80 @@
+[
+    {
+        "name": "seers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7762173,
+        "mentions": [
+            {
+                "text": {
+                    "content": "seers",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "diviners",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12095981,
+        "mentions": [
+            {
+                "text": {
+                    "content": "diviners",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "answer",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.050487366,
+        "mentions": [
+            {
+                "text": {
+                    "content": "answer",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "faces",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0347201,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faces",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.017615415,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 118
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

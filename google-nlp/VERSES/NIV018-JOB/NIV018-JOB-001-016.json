@@ -1,0 +1,102 @@
+[
+    {
+        "name": "messenger",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7640896,
+        "mentions": [
+            {
+                "text": {
+                    "content": "messenger",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 163
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fire",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.067164466,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fire",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heavens",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.059706397,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heavens",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sheep",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.054964025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sheep",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.035455763,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "servants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.01861978,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servants",
+                    "beginOffset": 135
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

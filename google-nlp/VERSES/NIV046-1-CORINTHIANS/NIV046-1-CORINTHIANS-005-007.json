@@ -1,0 +1,65 @@
+[
+    {
+        "name": "batch",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.7653744,
+        "mentions": [
+            {
+                "text": {
+                    "content": "batch",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "yeast",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17947231,
+        "mentions": [
+            {
+                "text": {
+                    "content": "yeast",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Passover lamb",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.043664426,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Passover lamb",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.011488832,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 93
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

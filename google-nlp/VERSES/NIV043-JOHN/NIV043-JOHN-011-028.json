@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Mary",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8944939,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sister",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Mary",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "The Teacher",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Teacher",
+            "mid": "\/m\/01d30f"
+        },
+        "salience": 0.10550612,
+        "mentions": [
+            {
+                "text": {
+                    "content": "The Teacher",
+                    "beginOffset": 76
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

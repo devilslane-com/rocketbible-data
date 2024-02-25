@@ -1,0 +1,87 @@
+[
+    {
+        "name": "relatives",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5705636,
+        "mentions": [
+            {
+                "text": {
+                    "content": "relatives",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "clans",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16404027,
+        "mentions": [
+            {
+                "text": {
+                    "content": "clans",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zechariah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/089bt",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zechariah_(Hebrew_prophet)"
+        },
+        "salience": 0.1379112,
+        "mentions": [
+            {
+                "text": {
+                    "content": "chief",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Zechariah",
+                    "beginOffset": 91
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "records",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.105927944,
+        "mentions": [
+            {
+                "text": {
+                    "content": "records",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jeiel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.021557001,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jeiel",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

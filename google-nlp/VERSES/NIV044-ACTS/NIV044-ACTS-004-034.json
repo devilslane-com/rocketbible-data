@@ -1,0 +1,77 @@
+[
+    {
+        "name": "persons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7861612,
+        "mentions": [
+            {
+                "text": {
+                    "content": "persons",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.074902505,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "money",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07400429,
+        "mentions": [
+            {
+                "text": {
+                    "content": "money",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sales",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03986511,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sales",
+                    "beginOffset": 136
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "houses",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.025066879,
+        "mentions": [
+            {
+                "text": {
+                    "content": "houses",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

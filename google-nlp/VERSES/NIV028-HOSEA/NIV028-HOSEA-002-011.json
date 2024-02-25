@@ -1,0 +1,69 @@
+[
+    {
+        "name": "festivals",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.6397343,
+        "mentions": [
+            {
+                "text": {
+                    "content": "festivals",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "festivals",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "celebrations",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.20359814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "celebrations",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moons",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13042745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moons",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sabbath",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.026240068,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sabbath",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "anybody",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3688162,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anybody",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gospel",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.33963573,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gospel",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "curse",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18264471,
+        "mentions": [
+            {
+                "text": {
+                    "content": "curse",
+                    "beginOffset": 141
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.10890335,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 133
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

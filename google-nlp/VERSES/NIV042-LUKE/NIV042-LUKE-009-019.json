@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Some",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20743336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Some",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18273708,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "others",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17353377,
+        "mentions": [
+            {
+                "text": {
+                    "content": "others",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "others",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17152987,
+        "mentions": [
+            {
+                "text": {
+                    "content": "others",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Elijah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02p7w",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Elijah"
+        },
+        "salience": 0.09148376,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Elijah",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07619918,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 135
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "John the Baptist",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/043mx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/John_the_Baptist"
+        },
+        "salience": 0.048913077,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John the Baptist",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "prophets",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.048169907,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophets",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

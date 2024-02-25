@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Judas Iscariot",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0g3y0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judas_Iscariot"
+        },
+        "salience": 0.81359303,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Judas Iscariot",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18640696,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

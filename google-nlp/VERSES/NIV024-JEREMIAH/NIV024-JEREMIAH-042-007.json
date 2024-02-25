@@ -1,0 +1,50 @@
+[
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.45086345,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.37190646,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jeremiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j_7g",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jeremiah"
+        },
+        "salience": 0.17723008,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jeremiah",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

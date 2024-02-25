@@ -1,0 +1,157 @@
+[
+    {
+        "name": "sailors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5041101,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "sailors",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hiram",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16060697,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hiram",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ships",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.159864,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ships",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.079333,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sea",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.032407302,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sea",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "talents",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.027920943,
+        "mentions": [
+            {
+                "text": {
+                    "content": "talents",
+                    "beginOffset": 162
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "King Solomon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070h3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Solomon"
+        },
+        "salience": 0.020562615,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 89
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King Solomon",
+                    "beginOffset": 203
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "gold",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.008509172,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gold",
+                    "beginOffset": 173
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ophir",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0j3sz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ophir"
+        },
+        "salience": 0.006685911,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ophir",
+                    "beginOffset": 116
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

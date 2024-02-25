@@ -1,0 +1,47 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5527065,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "officials",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.36975548,
+        "mentions": [
+            {
+                "text": {
+                    "content": "officials",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wisdom",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07753802,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wisdom",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

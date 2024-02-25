@@ -1,0 +1,105 @@
+[
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.32062593,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nations",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.22462927,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nations",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prisoners",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22203344,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prisoners",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gentiles",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gentile",
+            "mid": "\/m\/018wvh"
+        },
+        "salience": 0.089063905,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gentiles",
+                    "beginOffset": 116
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Gentiles",
+                    "beginOffset": 148
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "times",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07734513,
+        "mentions": [
+            {
+                "text": {
+                    "content": "times",
+                    "beginOffset": 135
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.06630232,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 79
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

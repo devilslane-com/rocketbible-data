@@ -1,0 +1,65 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7052862,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "friends",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14563201,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friends",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Barnabas",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01grh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Barnabas"
+        },
+        "salience": 0.087454036,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Barnabas",
+                    "beginOffset": 79
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.061627757,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

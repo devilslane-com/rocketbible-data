@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Passover",
+        "type": "EVENT",
+        "metadata": {
+            "mid": "\/m\/05rds",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Passover"
+        },
+        "salience": 0.79952335,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Passover",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "festival",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bread",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.11728935,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 138
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "yeast",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.083187275,
+        "mentions": [
+            {
+                "text": {
+                    "content": "yeast",
+                    "beginOffset": 157
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

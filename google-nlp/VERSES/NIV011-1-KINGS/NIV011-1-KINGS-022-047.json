@@ -1,0 +1,50 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46388403,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "governor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.27690133,
+        "mentions": [
+            {
+                "text": {
+                    "content": "governor",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Edom",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0211jtj",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Edom,_Texas"
+        },
+        "salience": 0.25921464,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Edom",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

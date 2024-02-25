@@ -1,0 +1,141 @@
+[
+    {
+        "name": "festival",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.4265643,
+        "mentions": [
+            {
+                "text": {
+                    "content": "festival",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "road",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.25269222,
+        "mentions": [
+            {
+                "text": {
+                    "content": "road",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07613591,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Bethel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Bethel",
+            "mid": "\/m\/025tn25"
+        },
+        "salience": 0.07321237,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bethel",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Bethel",
+                    "beginOffset": 122
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "east",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07090375,
+        "mentions": [
+            {
+                "text": {
+                    "content": "east",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Shiloh",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02w_4r",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Shiloh_(biblical_city)"
+        },
+        "salience": 0.045684773,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shiloh",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Shechem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01p205",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Shechem"
+        },
+        "salience": 0.03218227,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shechem",
+                    "beginOffset": 132
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lebonah",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0277n2w",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Lebonah"
+        },
+        "salience": 0.022624405,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lebonah",
+                    "beginOffset": 154
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

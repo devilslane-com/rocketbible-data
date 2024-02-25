@@ -1,0 +1,102 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.85231775,
+        "mentions": [
+            {
+                "text": {
+                    "content": "idols",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 199
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "images",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.047394004,
+        "mentions": [
+            {
+                "text": {
+                    "content": "images",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "any",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.032304987,
+        "mentions": [
+            {
+                "text": {
+                    "content": "any",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "offenses",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.032304987,
+        "mentions": [
+            {
+                "text": {
+                    "content": "offenses",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "backsliding",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.030052058,
+        "mentions": [
+            {
+                "text": {
+                    "content": "backsliding",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.0056261937,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 227
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.35833985,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Joppa",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/09c3pw",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joppa,_Maryland"
+        },
+        "salience": 0.19262175,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joppa",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lydda",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Lod",
+            "mid": "\/m\/01vtg9"
+        },
+        "salience": 0.18521465,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lydda",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lydda",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15206105,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11176268,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

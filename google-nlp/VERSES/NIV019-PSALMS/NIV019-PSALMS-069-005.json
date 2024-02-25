@@ -1,0 +1,50 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.5601017,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "folly",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2617839,
+        "mentions": [
+            {
+                "text": {
+                    "content": "folly",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "guilt",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1781144,
+        "mentions": [
+            {
+                "text": {
+                    "content": "guilt",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "name": "citizens",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.37168545,
+        "mentions": [
+            {
+                "text": {
+                    "content": "citizens",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tower",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.19820607,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tower",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "stronghold",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18492043,
+        "mentions": [
+            {
+                "text": {
+                    "content": "stronghold",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Shechem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Shechem",
+            "mid": "\/m\/01p205"
+        },
+        "salience": 0.12163249,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shechem",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06354402,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "El-Berith",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0b6rfn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Baal_Berith"
+        },
+        "salience": 0.06001156,
+        "mentions": [
+            {
+                "text": {
+                    "content": "El-Berith",
+                    "beginOffset": 96
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

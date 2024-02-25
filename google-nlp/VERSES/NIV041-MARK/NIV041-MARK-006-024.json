@@ -1,0 +1,50 @@
+[
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8053191,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "John the Baptist",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/043mx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/John_the_Baptist"
+        },
+        "salience": 0.1156805,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John the Baptist",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "head",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07900046,
+        "mentions": [
+            {
+                "text": {
+                    "content": "head",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

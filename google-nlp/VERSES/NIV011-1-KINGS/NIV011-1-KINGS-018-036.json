@@ -1,0 +1,148 @@
+[
+    {
+        "name": "Elijah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02p7w",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Elijah"
+        },
+        "salience": 0.5791278,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Elijah",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 188
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sacrifice",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.17086205,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sacrifice",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God of Abraham",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12990732,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "God of Abraham",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 155
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.04512486,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 112
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 162
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Isaac",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02838195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Isaac",
+                    "beginOffset": 102
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.023298021,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 220
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "command",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.023298021,
+        "mentions": [
+            {
+                "text": {
+                    "content": "command",
+                    "beginOffset": 235
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

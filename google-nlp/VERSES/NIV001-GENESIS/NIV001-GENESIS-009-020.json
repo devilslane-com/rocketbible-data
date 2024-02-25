@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Noah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05fzm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Noah"
+        },
+        "salience": 0.3936817,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Noah",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.27236238,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "soil",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19485529,
+        "mentions": [
+            {
+                "text": {
+                    "content": "soil",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "vineyard",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.13910064,
+        "mentions": [
+            {
+                "text": {
+                    "content": "vineyard",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

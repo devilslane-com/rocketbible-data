@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Solomon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070h3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Solomon"
+        },
+        "salience": 0.5671066,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "queen",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.38888916,
+        "mentions": [
+            {
+                "text": {
+                    "content": "queen",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sheba",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.026456924,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sheba",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "retinue",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.010309989,
+        "mentions": [
+            {
+                "text": {
+                    "content": "retinue",
+                    "beginOffset": 150
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0072373347,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 169
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

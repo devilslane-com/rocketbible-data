@@ -1,0 +1,101 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.47302252,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hamath",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02kmjv",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hama"
+        },
+        "salience": 0.13055052,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hamath",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1298349,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sentence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09825952,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sentence",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Babylon",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Babylon",
+            "mid": "\/m\/01cyh"
+        },
+        "salience": 0.08416626,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylon",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Riblah",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Riblah",
+            "mid": "\/m\/0j20p"
+        },
+        "salience": 0.08416626,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Riblah",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.71084315,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.14719003,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "position",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06372726,
+        "mentions": [
+            {
+                "text": {
+                    "content": "position",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ambush",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.06297937,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ambush",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fire",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.015260186,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fire",
+                    "beginOffset": 159
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.47724998,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Son of the Most High",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.41402617,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son of the Most High",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07288917,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 114
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "throne",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.035834685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "throne",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

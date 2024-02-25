@@ -1,0 +1,95 @@
+[
+    {
+        "name": "streets",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.3359854,
+        "mentions": [
+            {
+                "text": {
+                    "content": "streets",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "squares",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23423879,
+        "mentions": [
+            {
+                "text": {
+                    "content": "squares",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.20396906,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08948174,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 122
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "truth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08005321,
+        "mentions": [
+            {
+                "text": {
+                    "content": "truth",
+                    "beginOffset": 162
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0562718,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 189
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

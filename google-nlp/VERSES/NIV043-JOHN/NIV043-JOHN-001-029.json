@@ -1,0 +1,83 @@
+[
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.43623555,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.18004583,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sin",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16542956,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sin",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lamb of God",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/01f35p",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Lamb_of_God"
+        },
+        "salience": 0.11515429,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lamb of God",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.103134766,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

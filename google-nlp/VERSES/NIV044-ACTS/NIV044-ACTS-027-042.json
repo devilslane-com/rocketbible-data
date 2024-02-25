@@ -1,0 +1,47 @@
+[
+    {
+        "name": "soldiers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4362344,
+        "mentions": [
+            {
+                "text": {
+                    "content": "soldiers",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prisoners",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40778816,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prisoners",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "any",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15597741,
+        "mentions": [
+            {
+                "text": {
+                    "content": "any",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

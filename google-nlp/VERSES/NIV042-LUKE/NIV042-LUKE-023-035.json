@@ -1,0 +1,95 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.68978393,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rulers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17930967,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rulers",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "others",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.055993527,
+        "mentions": [
+            {
+                "text": {
+                    "content": "others",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Messiah",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.03211491,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Messiah",
+                    "beginOffset": 132
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.025156748,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 124
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Chosen One",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.017641207,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Chosen One",
+                    "beginOffset": 145
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Belshazzar",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Belshazzar",
+            "mid": "\/m\/017f42"
+        },
+        "salience": 0.6571145,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Belshazzar",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "banquet",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.12957813,
+        "mentions": [
+            {
+                "text": {
+                    "content": "banquet",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nobles",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.120892584,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nobles",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wine",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.092414774,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

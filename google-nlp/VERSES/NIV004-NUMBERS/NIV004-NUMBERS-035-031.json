@@ -1,0 +1,62 @@
+[
+    {
+        "name": "murderer",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.45365518,
+        "mentions": [
+            {
+                "text": {
+                    "content": "murderer",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ransom",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.291951,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ransom",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20376481,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.050629016,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

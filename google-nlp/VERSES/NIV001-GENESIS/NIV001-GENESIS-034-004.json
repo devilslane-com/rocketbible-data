@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Hamor",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/de.wikipedia.org\/wiki\/Hamor",
+            "mid": "\/g\/1235w5sz"
+        },
+        "salience": 0.40093547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Hamor",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Shechem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01p205",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Shechem"
+        },
+        "salience": 0.38585058,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shechem",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wife",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13576259,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "girl",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07745136,
+        "mentions": [
+            {
+                "text": {
+                    "content": "girl",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

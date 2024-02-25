@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7544275,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.20120895,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 131
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.024029626,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Timnath Serah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02xllk",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Timnath-heres"
+        },
+        "salience": 0.015577348,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Timnath Serah",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ephraim",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02dh_t",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ephraim"
+        },
+        "salience": 0.004756563,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ephraim",
+                    "beginOffset": 102
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

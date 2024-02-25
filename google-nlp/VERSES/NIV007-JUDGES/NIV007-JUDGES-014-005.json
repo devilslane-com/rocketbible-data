@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Samson",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7143174,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samson",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Timnah",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Timnah",
+            "mid": "\/m\/07954h"
+        },
+        "salience": 0.094315104,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Timnah",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Timnah",
+                    "beginOffset": 100
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06673098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06673098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "vineyards",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.031220732,
+        "mentions": [
+            {
+                "text": {
+                    "content": "vineyards",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lion",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02668482,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lion",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

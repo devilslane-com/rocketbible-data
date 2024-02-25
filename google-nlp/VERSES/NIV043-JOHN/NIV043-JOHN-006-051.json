@@ -1,0 +1,83 @@
+[
+    {
+        "name": "bread",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.8942497,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "flesh",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heaven",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07560101,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heaven",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.017712511,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 143
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "world",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0124367755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "world",
+                    "beginOffset": 155
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

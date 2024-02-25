@@ -1,0 +1,32 @@
+[
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.5842483,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "resurrection",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.4157517,
+        "mentions": [
+            {
+                "text": {
+                    "content": "resurrection",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

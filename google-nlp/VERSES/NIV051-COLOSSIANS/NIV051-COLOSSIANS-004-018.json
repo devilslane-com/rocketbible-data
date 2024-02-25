@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Paul_the_Apostle",
+            "mid": "\/m\/060nc"
+        },
+        "salience": 0.45458663,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "greeting",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.25773814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "greeting",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21151564,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Grace",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.052814797,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Grace",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "chains",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02334479,
+        "mentions": [
+            {
+                "text": {
+                    "content": "chains",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

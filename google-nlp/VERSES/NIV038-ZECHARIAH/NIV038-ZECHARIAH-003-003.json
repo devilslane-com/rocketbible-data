@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Joshua",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joshua",
+            "mid": "\/m\/043m0"
+        },
+        "salience": 0.69297874,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joshua",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "clothes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17913957,
+        "mentions": [
+            {
+                "text": {
+                    "content": "clothes",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "angel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1278817,
+        "mentions": [
+            {
+                "text": {
+                    "content": "angel",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

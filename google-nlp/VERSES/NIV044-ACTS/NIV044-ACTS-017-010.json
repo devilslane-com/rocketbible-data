@@ -1,0 +1,101 @@
+[
+    {
+        "name": "believers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3902682,
+        "mentions": [
+            {
+                "text": {
+                    "content": "believers",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2557035,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Silas",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0159q0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Silas"
+        },
+        "salience": 0.13846344,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Silas",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Berea",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Berea,_Kentucky",
+            "mid": "\/m\/0tgy9"
+        },
+        "salience": 0.12734681,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Berea",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "synagogue",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.05535481,
+        "mentions": [
+            {
+                "text": {
+                    "content": "synagogue",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jewish",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/03_gx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judaism"
+        },
+        "salience": 0.032863215,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jewish",
+                    "beginOffset": 110
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

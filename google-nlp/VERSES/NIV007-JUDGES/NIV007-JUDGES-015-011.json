@@ -1,0 +1,128 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.50244534,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14208035,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "cave",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09268999,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cave",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rock",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09268999,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rock",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rulers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05741339,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rulers",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Etam",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.03771203,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Etam",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Samson",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/012zc3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Samson"
+        },
+        "salience": 0.03771203,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samson",
+                    "beginOffset": 89
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Philistines",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0618q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines"
+        },
+        "salience": 0.037256848,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistines",
+                    "beginOffset": 129
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

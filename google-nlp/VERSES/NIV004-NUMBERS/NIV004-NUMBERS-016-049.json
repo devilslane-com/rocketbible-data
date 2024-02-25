@@ -1,0 +1,65 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6803097,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "addition",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13959728,
+        "mentions": [
+            {
+                "text": {
+                    "content": "addition",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "plague",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13801263,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plague",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Korah",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/02w21v",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Korah"
+        },
+        "salience": 0.042080387,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Korah",
+                    "beginOffset": 85
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

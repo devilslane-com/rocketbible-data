@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Greet Andronicus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6195839,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Greet Andronicus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/041rx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews"
+        },
+        "salience": 0.19832453,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Junia",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0cggl1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Junia_(New_Testament_person)"
+        },
+        "salience": 0.11216522,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Junia",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "prison",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.050805327,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prison",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.010381153,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 134
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "apostles",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.008739858,
+        "mentions": [
+            {
+                "text": {
+                    "content": "apostles",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4932572,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "horses",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.28623733,
+        "mentions": [
+            {
+                "text": {
+                    "content": "horses",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Felix",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22050546,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Felix",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Governor",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

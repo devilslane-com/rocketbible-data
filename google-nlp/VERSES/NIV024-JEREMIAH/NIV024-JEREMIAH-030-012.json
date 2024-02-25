@@ -1,0 +1,54 @@
+[
+    {
+        "name": "injury",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.73799795,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wound",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "injury",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19365728,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "healing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06834476,
+        "mentions": [
+            {
+                "text": {
+                    "content": "healing",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

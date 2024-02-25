@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.62597275,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.30816802,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sinning",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0329296,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sinning",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "something",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0329296,
+        "mentions": [
+            {
+                "text": {
+                    "content": "something",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

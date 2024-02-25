@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.487731,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wings",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25613448,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wings",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "eagles",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25613448,
+        "mentions": [
+            {
+                "text": {
+                    "content": "eagles",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

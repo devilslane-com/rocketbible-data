@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.63997203,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.26413321,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "jail",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09589474,
+        "mentions": [
+            {
+                "text": {
+                    "content": "jail",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

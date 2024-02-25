@@ -1,0 +1,83 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6199584,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sodom",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sodom_and_Gomorrah",
+            "mid": "\/m\/0jhj2"
+        },
+        "salience": 0.11733528,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sodom",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.095886774,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "goods",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.086238585,
+        "mentions": [
+            {
+                "text": {
+                    "content": "goods",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abram",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pwb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam"
+        },
+        "salience": 0.08058097,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abram",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

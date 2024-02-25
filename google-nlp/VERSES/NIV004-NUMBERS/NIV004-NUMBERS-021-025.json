@@ -1,0 +1,83 @@
+[
+    {
+        "name": "cities",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.40574425,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cities",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Heshbon",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0329v4",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Heshbon"
+        },
+        "salience": 0.2322694,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Heshbon",
+                    "beginOffset": 76
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.22188641,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Amorites",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/01twxk",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Amorites"
+        },
+        "salience": 0.076386206,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Amorites",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "settlements",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06371374,
+        "mentions": [
+            {
+                "text": {
+                    "content": "settlements",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "name": "shore",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.31483838,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shore",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.2751848,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sea of Galilee",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0j1t3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sea_of_Galilee"
+        },
+        "salience": 0.21699552,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sea of Galilee",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Sea of Tiberias",
+                    "beginOffset": 89
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

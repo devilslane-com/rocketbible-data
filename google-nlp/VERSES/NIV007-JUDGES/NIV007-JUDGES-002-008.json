@@ -1,0 +1,79 @@
+[
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5797248,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Joshua",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/043m0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joshua"
+        },
+        "salience": 0.20514604,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joshua",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Nun",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09809013,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "age",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03130328,
+        "mentions": [
+            {
+                "text": {
+                    "content": "age",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

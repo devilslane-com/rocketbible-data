@@ -1,0 +1,50 @@
+[
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5651091,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.24845633,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18643457,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

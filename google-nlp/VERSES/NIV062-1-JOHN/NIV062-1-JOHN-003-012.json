@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Cain",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cain_and_Abel",
+            "mid": "\/m\/01bc6h"
+        },
+        "salience": 0.68967193,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cain",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "brother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25874105,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.048327252,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "actions",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.00325973,
+        "mentions": [
+            {
+                "text": {
+                    "content": "actions",
+                    "beginOffset": 119
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

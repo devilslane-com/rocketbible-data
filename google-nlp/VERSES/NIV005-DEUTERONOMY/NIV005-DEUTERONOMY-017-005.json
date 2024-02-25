@@ -1,0 +1,92 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.65274394,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12567353,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "deed",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08804638,
+        "mentions": [
+            {
+                "text": {
+                    "content": "deed",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.061929867,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.04385269,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city gate",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02775362,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city gate",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

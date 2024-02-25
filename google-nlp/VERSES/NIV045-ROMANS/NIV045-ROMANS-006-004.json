@@ -1,0 +1,125 @@
+[
+    {
+        "name": "baptism",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23182409,
+        "mentions": [
+            {
+                "text": {
+                    "content": "baptism",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.23182409,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "order",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15942967,
+        "mentions": [
+            {
+                "text": {
+                    "content": "order",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14850932,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07971945,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 171
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "glory",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.050309468,
+        "mentions": [
+            {
+                "text": {
+                    "content": "glory",
+                    "beginOffset": 128
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.050309468,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 141
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.04807445,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

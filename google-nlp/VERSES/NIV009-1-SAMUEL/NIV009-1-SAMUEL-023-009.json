@@ -1,0 +1,86 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.6462396,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070hm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul"
+        },
+        "salience": 0.12976179,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ephod",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09096642,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ephod",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abiathar",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/010ts",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abiathar"
+        },
+        "salience": 0.082993455,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abiathar",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.050038762,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

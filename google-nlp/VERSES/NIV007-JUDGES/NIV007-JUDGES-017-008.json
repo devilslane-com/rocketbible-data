@@ -1,0 +1,122 @@
+[
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.41655403,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "search",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.2299976,
+        "mentions": [
+            {
+                "text": {
+                    "content": "search",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15847339,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07874713,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.054800138,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.024221497,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ephraim",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.022857644,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ephraim",
+                    "beginOffset": 115
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Micah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.014348547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Micah",
+                    "beginOffset": 76
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

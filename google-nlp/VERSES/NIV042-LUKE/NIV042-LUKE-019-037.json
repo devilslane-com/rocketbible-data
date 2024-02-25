@@ -1,0 +1,128 @@
+[
+    {
+        "name": "crowd",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3758658,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crowd",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.21292761,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "road",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.16948558,
+        "mentions": [
+            {
+                "text": {
+                    "content": "road",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "voices",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08615899,
+        "mentions": [
+            {
+                "text": {
+                    "content": "voices",
+                    "beginOffset": 140
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05835971,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "miracles",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.044383526,
+        "mentions": [
+            {
+                "text": {
+                    "content": "miracles",
+                    "beginOffset": 159
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mount of Olives",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mount_of_Olives",
+            "mid": "\/m\/0j488"
+        },
+        "salience": 0.037646223,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mount of Olives",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.01517256,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 128
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

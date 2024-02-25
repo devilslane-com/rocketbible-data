@@ -1,0 +1,72 @@
+[
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7113545,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "slave",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.19029081,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "birth",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.078000285,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birth",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "plunder",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.020354392,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plunder",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

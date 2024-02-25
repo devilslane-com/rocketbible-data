@@ -1,0 +1,110 @@
+[
+    {
+        "name": "commander",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22035685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "commander",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "troops",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20300418,
+        "mentions": [
+            {
+                "text": {
+                    "content": "troops",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "news",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17417131,
+        "mentions": [
+            {
+                "text": {
+                    "content": "news",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Roman",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.12225736,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Roman",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "uproar",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10940612,
+        "mentions": [
+            {
+                "text": {
+                    "content": "uproar",
+                    "beginOffset": 126
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.092739,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 106
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.078065164,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

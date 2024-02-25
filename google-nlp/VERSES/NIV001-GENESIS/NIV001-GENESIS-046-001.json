@@ -1,0 +1,108 @@
+[
+    {
+        "name": "all",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.45757446,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.2561833,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Isaac",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13161573,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Isaac",
+                    "beginOffset": 119
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Beersheba",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Beersheba",
+            "mid": "\/m\/01tdm6"
+        },
+        "salience": 0.06700647,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Beersheba",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.050740372,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 101
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sacrifices",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03687967,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sacrifices",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

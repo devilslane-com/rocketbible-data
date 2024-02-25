@@ -1,0 +1,83 @@
+[
+    {
+        "name": "fire",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.57679594,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fire",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "walls",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17905848,
+        "mentions": [
+            {
+                "text": {
+                    "content": "walls",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Damascus",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Damascus",
+            "mid": "\/m\/02gjp"
+        },
+        "salience": 0.10988224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Damascus",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ben-Hadad",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06_ydn7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ben-Hadad_I"
+        },
+        "salience": 0.07685797,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ben-Hadad",
+                    "beginOffset": 79
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "fortresses",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.057405382,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fortresses",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

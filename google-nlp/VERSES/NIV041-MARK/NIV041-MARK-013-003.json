@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.59504485,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13687545,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mount of Olives",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0j488",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mount_of_Olives"
+        },
+        "salience": 0.11948214,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mount of Olives",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0646807,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Andrew",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.058077917,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Andrew",
+                    "beginOffset": 88
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "James, John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.025838932,
+        "mentions": [
+            {
+                "text": {
+                    "content": "James, John",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

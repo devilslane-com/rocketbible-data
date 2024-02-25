@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pwb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam"
+        },
+        "salience": 0.83528745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "thought",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16471252,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thought",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

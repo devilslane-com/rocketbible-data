@@ -1,0 +1,87 @@
+[
+    {
+        "name": "high priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.59548247,
+        "mentions": [
+            {
+                "text": {
+                    "content": "high priest",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "associates",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2716333,
+        "mentions": [
+            {
+                "text": {
+                    "content": "associates",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "members",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "party",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.076200426,
+        "mentions": [
+            {
+                "text": {
+                    "content": "party",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "jealousy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04117653,
+        "mentions": [
+            {
+                "text": {
+                    "content": "jealousy",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sadducees",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/0196f4",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sadducees"
+        },
+        "salience": 0.015507265,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sadducees",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

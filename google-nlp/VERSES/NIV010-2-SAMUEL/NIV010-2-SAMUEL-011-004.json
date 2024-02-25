@@ -1,0 +1,62 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5005077,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "messengers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.45627382,
+        "mentions": [
+            {
+                "text": {
+                    "content": "messengers",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "uncleanness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.025427371,
+        "mentions": [
+            {
+                "text": {
+                    "content": "uncleanness",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.017791111,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 160
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

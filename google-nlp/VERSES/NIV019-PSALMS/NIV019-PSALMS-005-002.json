@@ -1,0 +1,65 @@
+[
+    {
+        "name": "cry",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5396127,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cry",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "help",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2283217,
+        "mentions": [
+            {
+                "text": {
+                    "content": "help",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "King",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1435553,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.08851029,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

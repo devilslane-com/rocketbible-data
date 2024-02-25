@@ -1,0 +1,47 @@
+[
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.61205137,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "child",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.29428563,
+        "mentions": [
+            {
+                "text": {
+                    "content": "child",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09366304,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

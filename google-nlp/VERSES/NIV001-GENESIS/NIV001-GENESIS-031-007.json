@@ -1,0 +1,65 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.3931036,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.38221455,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "times",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.1129979,
+        "mentions": [
+            {
+                "text": {
+                    "content": "times",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wages",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.111683965,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wages",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

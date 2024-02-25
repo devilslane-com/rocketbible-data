@@ -1,0 +1,50 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8619638,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "clothes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.073762976,
+        "mentions": [
+            {
+                "text": {
+                    "content": "clothes",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sardis",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0wr89",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sardis,_Mississippi"
+        },
+        "salience": 0.064273186,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sardis",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

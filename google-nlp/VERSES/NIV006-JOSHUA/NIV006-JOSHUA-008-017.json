@@ -1,0 +1,105 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5300464,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.21606882,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 111
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ai",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0mkz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Artificial_intelligence"
+        },
+        "salience": 0.11517707,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ai",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Bethel",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07879223,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bethel",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "pursuit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04532658,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pursuit",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.014588887,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

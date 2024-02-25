@@ -1,0 +1,68 @@
+[
+    {
+        "name": "disciples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.72184134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.20144102,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Barnabas",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Barnabas",
+            "mid": "\/m\/01grh"
+        },
+        "salience": 0.045064226,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Barnabas",
+                    "beginOffset": 108
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Derbe",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Derbe",
+            "mid": "\/m\/0cttrq"
+        },
+        "salience": 0.031653438,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Derbe",
+                    "beginOffset": 126
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

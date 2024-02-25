@@ -1,0 +1,65 @@
+[
+    {
+        "name": "signs",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.38275284,
+        "mentions": [
+            {
+                "text": {
+                    "content": "signs",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wonders",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25153223,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wonders",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21135792,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.15435699,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

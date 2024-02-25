@@ -1,0 +1,110 @@
+[
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.33065155,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.28631124,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "concern",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24817736,
+        "mentions": [
+            {
+                "text": {
+                    "content": "concern",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "left",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04983817,
+        "mentions": [
+            {
+                "text": {
+                    "content": "left",
+                    "beginOffset": 171
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nineveh",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/05fym",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nineveh"
+        },
+        "salience": 0.04224319,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nineveh",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "animals",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.026256135,
+        "mentions": [
+            {
+                "text": {
+                    "content": "animals",
+                    "beginOffset": 192
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.016522357,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 155
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "wind",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.48374638,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wind",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hurricane force",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23772226,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hurricane force",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Northeaster",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nor'easter",
+            "mid": "\/m\/023_dt"
+        },
+        "salience": 0.15711176,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Northeaster",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "island",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.12141959,
+        "mentions": [
+            {
+                "text": {
+                    "content": "island",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

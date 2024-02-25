@@ -1,0 +1,65 @@
+[
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.4096402,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25861993,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "time",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.18462007,
+        "mentions": [
+            {
+                "text": {
+                    "content": "time",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jonah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/044ch",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jonah"
+        },
+        "salience": 0.14711982,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jonah",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

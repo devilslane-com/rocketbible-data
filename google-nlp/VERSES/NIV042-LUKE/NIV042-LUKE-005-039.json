@@ -1,0 +1,47 @@
+[
+    {
+        "name": "no one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.67622983,
+        "mentions": [
+            {
+                "text": {
+                    "content": "no one",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wine",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.22385743,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "old",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09991274,
+        "mentions": [
+            {
+                "text": {
+                    "content": "old",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

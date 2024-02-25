@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7782729,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "King",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.076000534,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Holy One",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0653435,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Holy One",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.06011561,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Creator",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.020267406,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Creator",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

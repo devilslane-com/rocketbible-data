@@ -1,0 +1,80 @@
+[
+    {
+        "name": "truth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.49122322,
+        "mentions": [
+            {
+                "text": {
+                    "content": "truth",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lie",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14836738,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lie",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13842238,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.13101602,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Creator",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.090971015,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Creator",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

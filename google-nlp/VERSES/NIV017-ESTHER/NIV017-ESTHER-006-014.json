@@ -1,0 +1,83 @@
+[
+    {
+        "name": "eunuchs",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.50046086,
+        "mentions": [
+            {
+                "text": {
+                    "content": "eunuchs",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34725854,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "banquet",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.058505595,
+        "mentions": [
+            {
+                "text": {
+                    "content": "banquet",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Esther",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01dpg",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Book_of_Esther"
+        },
+        "salience": 0.04744412,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Esther",
+                    "beginOffset": 107
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Haman",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04742r",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Haman"
+        },
+        "salience": 0.0463309,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Haman",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

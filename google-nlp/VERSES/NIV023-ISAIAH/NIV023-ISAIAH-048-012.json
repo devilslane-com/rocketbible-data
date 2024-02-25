@@ -1,0 +1,62 @@
+[
+    {
+        "name": "first",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.60645133,
+        "mentions": [
+            {
+                "text": {
+                    "content": "first",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jacob",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25271705,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "last",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09472312,
+        "mentions": [
+            {
+                "text": {
+                    "content": "last",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.046108507,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

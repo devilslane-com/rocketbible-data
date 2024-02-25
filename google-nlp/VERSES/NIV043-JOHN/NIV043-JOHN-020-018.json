@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Mary Magdalene",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05723",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mary_Magdalene"
+        },
+        "salience": 0.6963475,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mary Magdalene",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15054825,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.079440355,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "news",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05473615,
+        "mentions": [
+            {
+                "text": {
+                    "content": "news",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.018927773,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

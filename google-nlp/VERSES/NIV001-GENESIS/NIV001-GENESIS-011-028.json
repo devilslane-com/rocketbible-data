@@ -1,0 +1,111 @@
+[
+    {
+        "name": "Haran",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Haran",
+            "mid": "\/m\/03m9k_"
+        },
+        "salience": 0.4779373,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Haran",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Terah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j0hf",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Terah"
+        },
+        "salience": 0.39688826,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Terah",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.03729098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ur",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/07w5c",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ur"
+        },
+        "salience": 0.03204207,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ur",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Chaldeans",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01y09",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Chaldea"
+        },
+        "salience": 0.029469552,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Chaldeans",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "birth",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.026371824,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birth",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

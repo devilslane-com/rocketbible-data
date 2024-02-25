@@ -1,0 +1,65 @@
+[
+    {
+        "name": "male",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.44955224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "male",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2356628,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.22346193,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09132303,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

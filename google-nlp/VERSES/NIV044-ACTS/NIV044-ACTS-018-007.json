@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3386357,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Titius Justus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/g\/11g18_g04r",
+            "wikipedia_url": "https:\/\/de.wikipedia.org\/wiki\/Titius_Justus"
+        },
+        "salience": 0.3067394,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Titius Justus",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "worshiper",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "synagogue",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.16443045,
+        "mentions": [
+            {
+                "text": {
+                    "content": "synagogue",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.14337106,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.04682339,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 94
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

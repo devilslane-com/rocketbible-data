@@ -1,0 +1,79 @@
+[
+    {
+        "name": "No one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.69441843,
+        "mentions": [
+            {
+                "text": {
+                    "content": "No one",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.18675268,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 144
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "seed",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.094579875,
+        "mentions": [
+            {
+                "text": {
+                    "content": "seed",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sinning",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.024249023,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sinning",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Hamor",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/de.wikipedia.org\/wiki\/Hamor",
+            "mid": "\/g\/1235w5sz"
+        },
+        "salience": 0.6242875,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Hamor",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Shechem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01p205",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Shechem"
+        },
+        "salience": 0.30917206,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shechem",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jacob",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06654044,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

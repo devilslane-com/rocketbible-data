@@ -1,0 +1,72 @@
+[
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7553195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.13574809,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.078320175,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "courage",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.030612271,
+        "mentions": [
+            {
+                "text": {
+                    "content": "courage",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

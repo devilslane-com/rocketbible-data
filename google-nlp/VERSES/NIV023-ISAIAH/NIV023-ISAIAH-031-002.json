@@ -1,0 +1,62 @@
+[
+    {
+        "name": "disaster",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.42066604,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disaster",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "words",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.38325137,
+        "mentions": [
+            {
+                "text": {
+                    "content": "words",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nation",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.115144245,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nation",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "evildoers",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08093834,
+        "mentions": [
+            {
+                "text": {
+                    "content": "evildoers",
+                    "beginOffset": 143
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

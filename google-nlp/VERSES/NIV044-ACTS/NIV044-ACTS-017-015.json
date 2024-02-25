@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.79913265,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "instructions",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08593182,
+        "mentions": [
+            {
+                "text": {
+                    "content": "instructions",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Athens",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Athens",
+            "mid": "\/m\/0n2z"
+        },
+        "salience": 0.051222734,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Athens",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Silas",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04767629,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Silas",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Timothy",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.016036496,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Timothy",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

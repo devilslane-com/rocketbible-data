@@ -1,0 +1,47 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6808206,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24849553,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "destination",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.070683844,
+        "mentions": [
+            {
+                "text": {
+                    "content": "destination",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

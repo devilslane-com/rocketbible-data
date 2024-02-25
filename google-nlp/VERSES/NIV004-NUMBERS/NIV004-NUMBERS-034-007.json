@@ -1,0 +1,68 @@
+[
+    {
+        "name": "boundary",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.43508685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boundary",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "line",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24174164,
+        "mentions": [
+            {
+                "text": {
+                    "content": "line",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mediterranean Sea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04swx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mediterranean_Sea"
+        },
+        "salience": 0.18926695,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mediterranean Sea",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Mount Hor",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/05n03v",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mount_Hor"
+        },
+        "salience": 0.13390458,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mount Hor",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

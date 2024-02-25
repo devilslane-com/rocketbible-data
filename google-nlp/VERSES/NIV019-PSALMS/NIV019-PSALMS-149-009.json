@@ -1,0 +1,56 @@
+[
+    {
+        "name": "sentence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.9552154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sentence",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "glory",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.027125414,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Praise the Lord",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/g\/11f64ddh6x"
+        },
+        "salience": 0.017659184,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Praise the Lord",
+                    "beginOffset": 96
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

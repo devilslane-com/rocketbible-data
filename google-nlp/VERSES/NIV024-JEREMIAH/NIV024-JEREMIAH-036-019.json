@@ -1,0 +1,65 @@
+[
+    {
+        "name": "officials",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6638077,
+        "mentions": [
+            {
+                "text": {
+                    "content": "officials",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Baruch",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02g0gf",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Baruch_College"
+        },
+        "salience": 0.18777697,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Baruch",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jeremiah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13049354,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jeremiah",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.017921828,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

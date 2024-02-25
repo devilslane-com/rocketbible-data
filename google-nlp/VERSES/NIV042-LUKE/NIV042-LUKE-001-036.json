@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Elizabeth",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.69920915,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Elizabeth",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "relative",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2059423,
+        "mentions": [
+            {
+                "text": {
+                    "content": "relative",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "age",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.047979087,
+        "mentions": [
+            {
+                "text": {
+                    "content": "age",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "child",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04686944,
+        "mentions": [
+            {
+                "text": {
+                    "content": "child",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

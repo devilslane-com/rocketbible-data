@@ -1,0 +1,50 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.48126578,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Debir",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0207v4",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Debir"
+        },
+        "salience": 0.27459157,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Debir",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Kiriath Sepher",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24414265,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Kiriath Sepher",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

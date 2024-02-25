@@ -1,0 +1,47 @@
+[
+    {
+        "name": "rest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.51780534,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rest",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2621568,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "thing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22003788,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thing",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

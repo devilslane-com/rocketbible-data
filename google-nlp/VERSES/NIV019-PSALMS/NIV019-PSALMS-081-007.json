@@ -1,0 +1,65 @@
+[
+    {
+        "name": "distress",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.64592934,
+        "mentions": [
+            {
+                "text": {
+                    "content": "distress",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "thundercloud",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17030776,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thundercloud",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "waters",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.12942006,
+        "mentions": [
+            {
+                "text": {
+                    "content": "waters",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Meribah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/08_1m5",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Meribah"
+        },
+        "salience": 0.054342847,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Meribah",
+                    "beginOffset": 115
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

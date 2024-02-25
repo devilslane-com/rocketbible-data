@@ -1,0 +1,50 @@
+[
+    {
+        "name": "two",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.72718567,
+        "mentions": [
+            {
+                "text": {
+                    "content": "two",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "governor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17689478,
+        "mentions": [
+            {
+                "text": {
+                    "content": "governor",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Barabbas",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02gl4g",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Barabbas"
+        },
+        "salience": 0.09591957,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Barabbas",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

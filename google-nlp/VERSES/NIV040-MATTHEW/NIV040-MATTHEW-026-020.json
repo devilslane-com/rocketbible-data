@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.44322738,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Twelve",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.31766307,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Twelve",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "table",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23910955,
+        "mentions": [
+            {
+                "text": {
+                    "content": "table",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

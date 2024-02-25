@@ -1,0 +1,39 @@
+[
+    {
+        "name": "oath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.6144967,
+        "mentions": [
+            {
+                "text": {
+                    "content": "oath",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3855033,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

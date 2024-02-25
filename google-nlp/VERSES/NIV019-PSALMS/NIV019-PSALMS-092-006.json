@@ -1,0 +1,32 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7234066,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fools",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2765934,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fools",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

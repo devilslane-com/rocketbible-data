@@ -1,0 +1,84 @@
+[
+    {
+        "name": "invalid",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.78588104,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sir",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "invalid",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pool",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05883072,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pool",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05883072,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "no one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.057463296,
+        "mentions": [
+            {
+                "text": {
+                    "content": "no one",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "someone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03899423,
+        "mentions": [
+            {
+                "text": {
+                    "content": "someone",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

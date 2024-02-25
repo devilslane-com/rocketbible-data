@@ -1,0 +1,62 @@
+[
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40787777,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "conflict",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.28859967,
+        "mentions": [
+            {
+                "text": {
+                    "content": "conflict",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "friends",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20831092,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friends",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gossip",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.095211625,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gossip",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

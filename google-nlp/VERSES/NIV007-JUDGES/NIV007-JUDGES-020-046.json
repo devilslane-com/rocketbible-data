@@ -1,0 +1,65 @@
+[
+    {
+        "name": "fighters",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.39294487,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fighters",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "swordsmen",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.33241677,
+        "mentions": [
+            {
+                "text": {
+                    "content": "swordsmen",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Benjamite",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01x2mb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tribe_of_Benjamin"
+        },
+        "salience": 0.17996739,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Benjamite",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.094670966,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

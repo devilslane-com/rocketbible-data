@@ -1,0 +1,50 @@
+[
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.5176963,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nineveh",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/05fym",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nineveh"
+        },
+        "salience": 0.31519547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nineveh",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "message",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1671082,
+        "mentions": [
+            {
+                "text": {
+                    "content": "message",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

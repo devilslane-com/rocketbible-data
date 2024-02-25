@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.2892891,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Eleazar",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Eleazar",
+            "mid": "\/m\/02p2_c9"
+        },
+        "salience": 0.2892891,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Eleazar",
+                    "beginOffset": 10
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19593719,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gold",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.127672,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gold",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "articles",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.09781262,
+        "mentions": [
+            {
+                "text": {
+                    "content": "articles",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

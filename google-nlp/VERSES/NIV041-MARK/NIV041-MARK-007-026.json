@@ -1,0 +1,113 @@
+[
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7908026,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Greek",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07047648,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Greek",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Phoenicia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0617q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Phoenicia"
+        },
+        "salience": 0.044939477,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Phoenicia",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Syrian",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.04440596,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Syrian",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.020107629,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "daughter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.01796587,
+        "mentions": [
+            {
+                "text": {
+                    "content": "daughter",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "demon",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.011301955,
+        "mentions": [
+            {
+                "text": {
+                    "content": "demon",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

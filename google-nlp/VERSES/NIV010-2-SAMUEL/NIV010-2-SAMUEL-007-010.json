@@ -1,0 +1,95 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.70912904,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12758254,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06654887,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.04560922,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.040133577,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "beginning",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.010996784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "beginning",
+                    "beginOffset": 202
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

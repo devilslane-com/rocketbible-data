@@ -1,0 +1,128 @@
+[
+    {
+        "name": "first",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5249961,
+        "mentions": [
+            {
+                "text": {
+                    "content": "first",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11402056,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "property",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.112688035,
+        "mentions": [
+            {
+                "text": {
+                    "content": "property",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0799282,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "servants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.056465123,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servants",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Levites",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tribe_of_Levi",
+            "mid": "\/m\/010f4kdg"
+        },
+        "salience": 0.04784465,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levites",
+                    "beginOffset": 98
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.035661615,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israelites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.028395724,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

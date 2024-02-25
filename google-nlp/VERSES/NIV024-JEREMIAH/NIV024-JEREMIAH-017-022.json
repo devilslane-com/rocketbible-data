@@ -1,0 +1,87 @@
+[
+    {
+        "name": "load",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2529538,
+        "mentions": [
+            {
+                "text": {
+                    "content": "load",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "work",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2529538,
+        "mentions": [
+            {
+                "text": {
+                    "content": "work",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "houses",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.20049152,
+        "mentions": [
+            {
+                "text": {
+                    "content": "houses",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sabbath",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05pdjw_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Biblical_Sabbath"
+        },
+        "salience": 0.1928867,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sabbath",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Sabbath",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ancestors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10071418,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ancestors",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

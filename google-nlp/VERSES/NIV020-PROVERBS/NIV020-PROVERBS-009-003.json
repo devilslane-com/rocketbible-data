@@ -1,0 +1,47 @@
+[
+    {
+        "name": "servants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6841555,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servants",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.19317941,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "point",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.122665085,
+        "mentions": [
+            {
+                "text": {
+                    "content": "point",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

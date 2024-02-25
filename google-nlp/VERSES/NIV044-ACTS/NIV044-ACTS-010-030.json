@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Cornelius",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8403672,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cornelius",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09388845,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.032872193,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "clothes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.032872193,
+        "mentions": [
+            {
+                "text": {
+                    "content": "clothes",
+                    "beginOffset": 131
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "one",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.51664203,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "many",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.483358,
+        "mentions": [
+            {
+                "text": {
+                    "content": "many",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

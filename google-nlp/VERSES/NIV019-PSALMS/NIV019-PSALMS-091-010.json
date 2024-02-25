@@ -1,0 +1,47 @@
+[
+    {
+        "name": "harm",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.60991895,
+        "mentions": [
+            {
+                "text": {
+                    "content": "harm",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disaster",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.25070497,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disaster",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tent",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.13937604,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tent",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

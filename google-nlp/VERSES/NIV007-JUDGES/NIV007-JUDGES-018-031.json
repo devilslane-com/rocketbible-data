@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Micah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.77269655,
+        "mentions": [
+            {
+                "text": {
+                    "content": "idol",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Micah",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.089158796,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0751735,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Shiloh",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0sh0p",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Shiloh,_Illinois"
+        },
+        "salience": 0.06297115,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shiloh",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

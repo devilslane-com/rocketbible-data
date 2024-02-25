@@ -1,0 +1,80 @@
+[
+    {
+        "name": "season",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.36120406,
+        "mentions": [
+            {
+                "text": {
+                    "content": "season",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "preaching",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.23189662,
+        "mentions": [
+            {
+                "text": {
+                    "content": "preaching",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "command",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17652567,
+        "mentions": [
+            {
+                "text": {
+                    "content": "command",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Savior",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12470622,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Savior",
+                    "beginOffset": 126
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.10566745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 118
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

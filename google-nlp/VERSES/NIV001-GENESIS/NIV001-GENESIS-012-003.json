@@ -1,0 +1,32 @@
+[
+    {
+        "name": "peoples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5,
+        "mentions": [
+            {
+                "text": {
+                    "content": "peoples",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.5,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

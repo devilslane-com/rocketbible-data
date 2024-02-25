@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Barabbas",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02gl4g",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Barabbas"
+        },
+        "salience": 0.422627,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Barabbas",
+                    "beginOffset": 1
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "insurrection",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.19112982,
+        "mentions": [
+            {
+                "text": {
+                    "content": "insurrection",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prison",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18898922,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prison",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "murder",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.13569188,
+        "mentions": [
+            {
+                "text": {
+                    "content": "murder",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.061562084,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

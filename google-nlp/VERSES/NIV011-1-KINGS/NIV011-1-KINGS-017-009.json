@@ -1,0 +1,83 @@
+[
+    {
+        "name": "region",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.61925316,
+        "mentions": [
+            {
+                "text": {
+                    "content": "region",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zarephath",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sarepta",
+            "mid": "\/m\/02z2_0"
+        },
+        "salience": 0.17833726,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zarephath",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sidon",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/070rd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sidon"
+        },
+        "salience": 0.12199988,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sidon",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04935901,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 115
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "widow",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.031050725,
+        "mentions": [
+            {
+                "text": {
+                    "content": "widow",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

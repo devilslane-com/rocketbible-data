@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.93512505,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "burial",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.03980351,
+        "mentions": [
+            {
+                "text": {
+                    "content": "burial",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "perfume",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.025071424,
+        "mentions": [
+            {
+                "text": {
+                    "content": "perfume",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

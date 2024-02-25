@@ -1,0 +1,137 @@
+[
+    {
+        "name": "rain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.32236138,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rain",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "snow",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2561129,
+        "mentions": [
+            {
+                "text": {
+                    "content": "snow",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heaven",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10560556,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heaven",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07337469,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bud",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.067527525,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bud",
+                    "beginOffset": 113
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "seed",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.051315438,
+        "mentions": [
+            {
+                "text": {
+                    "content": "seed",
+                    "beginOffset": 149
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sower",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.051315438,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sower",
+                    "beginOffset": 162
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bread",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.03619354,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 172
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "eater",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03619354,
+        "mentions": [
+            {
+                "text": {
+                    "content": "eater",
+                    "beginOffset": 186
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

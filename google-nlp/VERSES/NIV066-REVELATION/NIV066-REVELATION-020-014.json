@@ -1,0 +1,102 @@
+[
+    {
+        "name": "lake",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.37144879,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lake",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "lake",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.37010807,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fire",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11534844,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fire",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hades",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/027gx6s",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Christian_views_on_Hades"
+        },
+        "salience": 0.08921493,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hades",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.036035694,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fire",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.017844096,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fire",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

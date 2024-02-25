@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Elijah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02p7w",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Elijah"
+        },
+        "salience": 0.51764673,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Elijah",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Elijah",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2308743,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16880089,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "family",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08267809,
+        "mentions": [
+            {
+                "text": {
+                    "content": "family",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

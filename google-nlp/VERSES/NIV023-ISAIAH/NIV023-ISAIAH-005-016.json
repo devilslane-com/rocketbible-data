@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.42166075,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.28563988,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Almighty",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.17179145,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Almighty",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "justice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.080292985,
+        "mentions": [
+            {
+                "text": {
+                    "content": "justice",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "acts",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04061492,
+        "mentions": [
+            {
+                "text": {
+                    "content": "acts",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

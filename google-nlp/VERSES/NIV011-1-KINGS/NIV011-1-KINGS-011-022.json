@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Hadad",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46206838,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hadad",
+                    "beginOffset": 108
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.3171547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nothing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14245649,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nothing",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pharaoh",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05sx9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharaoh"
+        },
+        "salience": 0.07832043,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Onesimus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j3x9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Onesimus"
+        },
+        "salience": 0.8428809,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Onesimus",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "chains",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.091469705,
+        "mentions": [
+            {
+                "text": {
+                    "content": "chains",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06564936,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

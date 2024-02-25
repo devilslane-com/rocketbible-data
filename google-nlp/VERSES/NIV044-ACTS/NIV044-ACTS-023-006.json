@@ -1,0 +1,190 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6169498,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "some",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08045997,
+        "mentions": [
+            {
+                "text": {
+                    "content": "some",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "others",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06902154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "others",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04770783,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 113
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sadducees",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/0196f4",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sadducees"
+        },
+        "salience": 0.04143722,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sadducees",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Pharisees",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/0j3fm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharisees"
+        },
+        "salience": 0.037593115,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharisees",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Pharisees",
+                    "beginOffset": 155
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Pharisee",
+                    "beginOffset": 130
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sanhedrin",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sanhedrin",
+            "mid": "\/m\/0160sc"
+        },
+        "salience": 0.0284978,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sanhedrin",
+                    "beginOffset": 96
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "hope",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.016095798,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hope",
+                    "beginOffset": 198
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "resurrection",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0112919165,
+        "mentions": [
+            {
+                "text": {
+                    "content": "resurrection",
+                    "beginOffset": 210
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0112919165,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 230
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "trial",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.0070879995,
+        "mentions": [
+            {
+                "text": {
+                    "content": "trial",
+                    "beginOffset": 177
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

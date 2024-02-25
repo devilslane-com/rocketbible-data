@@ -1,0 +1,47 @@
+[
+    {
+        "name": "slaves",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.58877224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "slaves",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nation",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.30353427,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nation",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "possessions",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10769349,
+        "mentions": [
+            {
+                "text": {
+                    "content": "possessions",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

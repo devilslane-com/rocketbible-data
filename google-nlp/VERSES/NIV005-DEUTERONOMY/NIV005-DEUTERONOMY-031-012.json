@@ -1,0 +1,147 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5764852,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "women",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.093212485,
+        "mentions": [
+            {
+                "text": {
+                    "content": "women",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.093212485,
+        "mentions": [
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06467742,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "foreigners",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06391341,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foreigners",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "words",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04465187,
+        "mentions": [
+            {
+                "text": {
+                    "content": "words",
+                    "beginOffset": 175
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "law",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.031854313,
+        "mentions": [
+            {
+                "text": {
+                    "content": "law",
+                    "beginOffset": 189
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.020078504,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 132
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.011914308,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 142
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "name": "girl",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6066298,
+        "mentions": [
+            {
+                "text": {
+                    "content": "girl",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15830636,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "request",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.109324366,
+        "mentions": [
+            {
+                "text": {
+                    "content": "request",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "platter",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0549176,
+        "mentions": [
+            {
+                "text": {
+                    "content": "platter",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "John the Baptist",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/John_the_Baptist",
+            "mid": "\/m\/043mx"
+        },
+        "salience": 0.035681963,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John the Baptist",
+                    "beginOffset": 105
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "head",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.035139933,
+        "mentions": [
+            {
+                "text": {
+                    "content": "head",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

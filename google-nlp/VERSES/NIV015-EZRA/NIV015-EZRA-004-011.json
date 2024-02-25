@@ -1,0 +1,83 @@
+[
+    {
+        "name": "copy",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.84584606,
+        "mentions": [
+            {
+                "text": {
+                    "content": "copy",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "letter",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.08734457,
+        "mentions": [
+            {
+                "text": {
+                    "content": "letter",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "servants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03030357,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servants",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "King Artaxerxes",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Artaxerxes_I_of_Persia",
+            "mid": "\/m\/0hyvg"
+        },
+        "salience": 0.023853045,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King Artaxerxes",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Euphrates",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02s22",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Euphrates"
+        },
+        "salience": 0.012652778,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Euphrates",
+                    "beginOffset": 94
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

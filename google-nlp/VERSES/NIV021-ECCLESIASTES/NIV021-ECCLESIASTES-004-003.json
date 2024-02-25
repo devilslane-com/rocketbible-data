@@ -1,0 +1,62 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.47097564,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "both",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3571134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "both",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "evil",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12462358,
+        "mentions": [
+            {
+                "text": {
+                    "content": "evil",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sun",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.047287397,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sun",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

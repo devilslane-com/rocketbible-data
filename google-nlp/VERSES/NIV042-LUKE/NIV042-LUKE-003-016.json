@@ -1,0 +1,110 @@
+[
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.641765,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.23537396,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.065415025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "straps",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.020226354,
+        "mentions": [
+            {
+                "text": {
+                    "content": "straps",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sandals",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.020226354,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sandals",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fire",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.010671799,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fire",
+                    "beginOffset": 199
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Holy Spirit",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/03qsc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Holy_Spirit"
+        },
+        "salience": 0.0063215103,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Holy Spirit",
+                    "beginOffset": 183
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

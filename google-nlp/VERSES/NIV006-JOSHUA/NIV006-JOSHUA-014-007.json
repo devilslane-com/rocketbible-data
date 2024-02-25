@@ -1,0 +1,113 @@
+[
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6033982,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10666066,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0993308,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Kadesh Barnea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02_gp5",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kadesh_(biblical)"
+        },
+        "salience": 0.06477585,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Kadesh Barnea",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.05213355,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "report",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.047925454,
+        "mentions": [
+            {
+                "text": {
+                    "content": "report",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "convictions",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.025775472,
+        "mentions": [
+            {
+                "text": {
+                    "content": "convictions",
+                    "beginOffset": 153
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

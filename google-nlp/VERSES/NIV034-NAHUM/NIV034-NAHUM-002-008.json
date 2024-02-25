@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Nineveh",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nineveh",
+            "mid": "\/m\/05fym"
+        },
+        "salience": 0.43191004,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nineveh",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "pool",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.25078082,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pool",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25078082,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "no one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0665283,
+        "mentions": [
+            {
+                "text": {
+                    "content": "no one",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

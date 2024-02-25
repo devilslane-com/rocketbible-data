@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Eleazar",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02p2_c9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Eleazar"
+        },
+        "salience": 0.7677082,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Eleazar",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13375305,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "presence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.060312774,
+        "mentions": [
+            {
+                "text": {
+                    "content": "presence",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "camp",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.038226016,
+        "mentions": [
+            {
+                "text": {
+                    "content": "camp",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

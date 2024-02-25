@@ -1,0 +1,110 @@
+[
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.36389333,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "foreigners",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20398687,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foreigners",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15562607,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "refuge",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08830506,
+        "mentions": [
+            {
+                "text": {
+                    "content": "refuge",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.072405085,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "another",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06263366,
+        "mentions": [
+            {
+                "text": {
+                    "content": "another",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israelites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.053149927,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

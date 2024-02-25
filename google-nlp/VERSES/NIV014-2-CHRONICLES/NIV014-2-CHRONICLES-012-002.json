@@ -1,0 +1,101 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2584248,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22634661,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.17995827,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Shishak",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04_9kf",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Shishak"
+        },
+        "salience": 0.13890141,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shishak",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.12783714,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 62
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "King Rehoboam",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06h5t",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Rehoboam"
+        },
+        "salience": 0.068531774,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King Rehoboam",
+                    "beginOffset": 108
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

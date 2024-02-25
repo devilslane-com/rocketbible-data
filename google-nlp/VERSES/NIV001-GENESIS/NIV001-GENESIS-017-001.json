@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Abram",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8855523,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abram",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09597081,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God Almighty",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.018476922,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God Almighty",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

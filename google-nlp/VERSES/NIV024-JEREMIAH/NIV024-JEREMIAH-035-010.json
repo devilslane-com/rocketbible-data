@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Jehonadab",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jehonadab",
+            "mid": "\/m\/0lpsw"
+        },
+        "salience": 0.41418156,
+        "mentions": [
+            {
+                "text": {
+                    "content": "forefather",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Jehonadab",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "tents",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.3554058,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tents",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23041262,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

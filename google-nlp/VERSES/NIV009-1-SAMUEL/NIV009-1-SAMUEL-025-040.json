@@ -1,0 +1,80 @@
+[
+    {
+        "name": "servants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6632301,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servants",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17547002,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Carmel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0r1yc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Carmel-by-the-Sea,_California"
+        },
+        "salience": 0.07052589,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Carmel",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abigail",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04817867,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abigail",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wife",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.042595282,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

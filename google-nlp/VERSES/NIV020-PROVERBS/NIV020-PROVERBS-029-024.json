@@ -1,0 +1,54 @@
+[
+    {
+        "name": "thieves",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5414143,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thieves",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "accomplices",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.43748435,
+        "mentions": [
+            {
+                "text": {
+                    "content": "accomplices",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "enemies",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "oath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02110133,
+        "mentions": [
+            {
+                "text": {
+                    "content": "oath",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

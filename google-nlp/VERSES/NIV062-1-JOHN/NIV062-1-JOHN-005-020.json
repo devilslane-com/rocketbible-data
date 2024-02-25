@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Son of God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06_5d",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Son_of_God"
+        },
+        "salience": 0.91014814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son of God",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 190
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.04561081,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 161
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Son",
+                    "beginOffset": 157
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "understanding",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.033749875,
+        "mentions": [
+            {
+                "text": {
+                    "content": "understanding",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.010491154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 206
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

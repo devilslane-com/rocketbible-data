@@ -1,0 +1,50 @@
+[
+    {
+        "name": "prostitute",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.9122043,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prostitute",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "youth",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06628459,
+        "mentions": [
+            {
+                "text": {
+                    "content": "youth",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.0215111,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 109
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5619074,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Elisha",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0crqz1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Elisha"
+        },
+        "salience": 0.2701554,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Elisha",
+                    "beginOffset": 87
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "servants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16793716,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servants",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

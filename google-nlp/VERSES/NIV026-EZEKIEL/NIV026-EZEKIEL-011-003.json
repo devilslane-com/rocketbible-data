@@ -1,0 +1,62 @@
+[
+    {
+        "name": "houses",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.3817726,
+        "mentions": [
+            {
+                "text": {
+                    "content": "houses",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.22820029,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pot",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.22282873,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pot",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "meat",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16719837,
+        "mentions": [
+            {
+                "text": {
+                    "content": "meat",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

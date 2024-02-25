@@ -1,0 +1,95 @@
+[
+    {
+        "name": "twins",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.28650567,
+        "mentions": [
+            {
+                "text": {
+                    "content": "twins",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20226026,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anything",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "order",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18668611,
+        "mentions": [
+            {
+                "text": {
+                    "content": "order",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "purpose",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14302477,
+        "mentions": [
+            {
+                "text": {
+                    "content": "purpose",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "election",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.14302477,
+        "mentions": [
+            {
+                "text": {
+                    "content": "election",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.03849842,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

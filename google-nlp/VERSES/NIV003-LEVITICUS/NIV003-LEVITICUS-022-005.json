@@ -1,0 +1,47 @@
+[
+    {
+        "name": "thing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5387516,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thing",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3534126,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "uncleanness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10783578,
+        "mentions": [
+            {
+                "text": {
+                    "content": "uncleanness",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

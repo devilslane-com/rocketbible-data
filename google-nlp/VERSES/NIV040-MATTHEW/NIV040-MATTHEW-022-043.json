@@ -1,0 +1,50 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40962976,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Spirit",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/05jpb7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Spirit"
+        },
+        "salience": 0.3768568,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Spirit",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21351345,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

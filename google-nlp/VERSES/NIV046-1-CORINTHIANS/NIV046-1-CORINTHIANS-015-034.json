@@ -1,0 +1,65 @@
+[
+    {
+        "name": "some",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5586705,
+        "mentions": [
+            {
+                "text": {
+                    "content": "some",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "senses",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29966134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "senses",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "shame",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10304726,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shame",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.038620852,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 96
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

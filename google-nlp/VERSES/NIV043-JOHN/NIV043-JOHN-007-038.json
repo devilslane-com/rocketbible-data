@@ -1,0 +1,50 @@
+[
+    {
+        "name": "rivers",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.4026061,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rivers",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.37160522,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Scripture",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02mdj1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Religious_text"
+        },
+        "salience": 0.22578868,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Scripture",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

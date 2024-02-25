@@ -1,0 +1,132 @@
+[
+    {
+        "name": "earthquake",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.6484891,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earthquake",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "earthquake",
+                    "beginOffset": 124
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tenth",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10390927,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tenth",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10390927,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05163363,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "glory",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03593185,
+        "mentions": [
+            {
+                "text": {
+                    "content": "glory",
+                    "beginOffset": 178
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "heaven",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.025257574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heaven",
+                    "beginOffset": 198
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "survivors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.015881771,
+        "mentions": [
+            {
+                "text": {
+                    "content": "survivors",
+                    "beginOffset": 144
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.014987507,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 191
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.4501427,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.290825,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.18498138,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "work",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07405091,
+        "mentions": [
+            {
+                "text": {
+                    "content": "work",
+                    "beginOffset": 160
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

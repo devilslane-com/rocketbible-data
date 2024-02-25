@@ -1,0 +1,101 @@
+[
+    {
+        "name": "mountains",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.26623216,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mountains",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "plains",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.25134945,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plains",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abarim",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0hxbr",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abarim"
+        },
+        "salience": 0.21940947,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abarim",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Moab",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0jdn4",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moab"
+        },
+        "salience": 0.1403306,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moab",
+                    "beginOffset": 62
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jericho",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0438t",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jericho"
+        },
+        "salience": 0.075229354,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jericho",
+                    "beginOffset": 93
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jordan",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.047448985,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jordan",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

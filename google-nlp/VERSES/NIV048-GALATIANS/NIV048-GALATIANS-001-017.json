@@ -1,0 +1,71 @@
+[
+    {
+        "name": "apostles",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.68050104,
+        "mentions": [
+            {
+                "text": {
+                    "content": "apostles",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.23200335,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Arabia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0cvmv",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Arabian_Peninsula"
+        },
+        "salience": 0.049515326,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Arabia",
+                    "beginOffset": 90
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Damascus",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02gjp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Damascus"
+        },
+        "salience": 0.037980307,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Damascus",
+                    "beginOffset": 118
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

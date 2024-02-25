@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Herod",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0hsm_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Herod_the_Great"
+        },
+        "salience": 0.6494218,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Herod",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Herod",
+                    "beginOffset": 138
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "guards",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1845907,
+        "mentions": [
+            {
+                "text": {
+                    "content": "guards",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "search",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.09793518,
+        "mentions": [
+            {
+                "text": {
+                    "content": "search",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Caesarea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/09jt1l",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Caesarea"
+        },
+        "salience": 0.054251596,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Caesarea",
+                    "beginOffset": 163
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Judea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0kf0p",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judea"
+        },
+        "salience": 0.013800727,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judea",
+                    "beginOffset": 154
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Josiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02xr84",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Josiah"
+        },
+        "salience": 0.87946254,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Josiah",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10108387,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.019453565,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

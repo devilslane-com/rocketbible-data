@@ -1,0 +1,47 @@
+[
+    {
+        "name": "poor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.76259136,
+        "mentions": [
+            {
+                "text": {
+                    "content": "poor",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "needy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13839138,
+        "mentions": [
+            {
+                "text": {
+                    "content": "needy",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "court",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.099017285,
+        "mentions": [
+            {
+                "text": {
+                    "content": "court",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

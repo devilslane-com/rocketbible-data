@@ -1,0 +1,77 @@
+[
+    {
+        "name": "troops",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3287876,
+        "mentions": [
+            {
+                "text": {
+                    "content": "troops",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nations",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22705655,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nations",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "storm",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.2116372,
+        "mentions": [
+            {
+                "text": {
+                    "content": "storm",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cloud",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16128436,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cloud",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07123431,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 128
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

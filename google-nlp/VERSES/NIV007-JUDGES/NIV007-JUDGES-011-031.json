@@ -1,0 +1,110 @@
+[
+    {
+        "name": "whatever",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.42073128,
+        "mentions": [
+            {
+                "text": {
+                    "content": "whatever",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "door",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13783152,
+        "mentions": [
+            {
+                "text": {
+                    "content": "door",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.13783152,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1077756,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "triumph",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09576528,
+        "mentions": [
+            {
+                "text": {
+                    "content": "triumph",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ammonites",
+        "type": "CONSUMER_GOOD",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ammon",
+            "mid": "\/m\/0sk0"
+        },
+        "salience": 0.052826658,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ammonites",
+                    "beginOffset": 88
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "offering",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04723815,
+        "mentions": [
+            {
+                "text": {
+                    "content": "offering",
+                    "beginOffset": 155
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "battle",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3344771,
+        "mentions": [
+            {
+                "text": {
+                    "content": "battle",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "enemy",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.3120573,
+        "mentions": [
+            {
+                "text": {
+                    "content": "enemy",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.24623369,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 94
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "power",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10723193,
+        "mentions": [
+            {
+                "text": {
+                    "content": "power",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

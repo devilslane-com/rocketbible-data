@@ -1,0 +1,62 @@
+[
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.4639282,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rock",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.4077173,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rock",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "desert",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07850525,
+        "mentions": [
+            {
+                "text": {
+                    "content": "desert",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "river",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.04984927,
+        "mentions": [
+            {
+                "text": {
+                    "content": "river",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

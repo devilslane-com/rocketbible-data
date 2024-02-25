@@ -1,0 +1,62 @@
+[
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3981205,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.26114836,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Bethel",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.19895594,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bethel",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Luz",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14177522,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Luz",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

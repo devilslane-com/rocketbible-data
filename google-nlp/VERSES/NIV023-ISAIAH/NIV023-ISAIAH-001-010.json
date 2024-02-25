@@ -1,0 +1,120 @@
+[
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.40294284,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16735965,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rulers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1150963,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rulers",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "instruction",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10721263,
+        "mentions": [
+            {
+                "text": {
+                    "content": "instruction",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.081536986,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sodom",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0jhj2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sodom_and_Gomorrah"
+        },
+        "salience": 0.06999549,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sodom",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Gomorrah",
+                    "beginOffset": 100
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.021569591,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

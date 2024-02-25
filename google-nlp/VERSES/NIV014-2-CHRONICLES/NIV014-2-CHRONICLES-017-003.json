@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.66592884,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1832755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ways",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07445569,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ways",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jehoshaphat",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jehoshaphat",
+            "mid": "\/m\/043l7"
+        },
+        "salience": 0.065600745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jehoshaphat",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Baals",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0fykc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Baal"
+        },
+        "salience": 0.010739227,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Baals",
+                    "beginOffset": 114
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

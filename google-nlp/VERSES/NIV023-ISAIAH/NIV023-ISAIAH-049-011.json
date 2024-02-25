@@ -1,0 +1,47 @@
+[
+    {
+        "name": "roads",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.58458745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "roads",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mountains",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.32299107,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mountains",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "highways",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09242147,
+        "mentions": [
+            {
+                "text": {
+                    "content": "highways",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

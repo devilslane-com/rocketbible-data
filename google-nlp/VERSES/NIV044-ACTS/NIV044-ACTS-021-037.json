@@ -1,0 +1,95 @@
+[
+    {
+        "name": "soldiers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.28432086,
+        "mentions": [
+            {
+                "text": {
+                    "content": "soldiers",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "commander",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18716915,
+        "mentions": [
+            {
+                "text": {
+                    "content": "commander",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1688649,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "barracks",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.16834094,
+        "mentions": [
+            {
+                "text": {
+                    "content": "barracks",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "something",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15681021,
+        "mentions": [
+            {
+                "text": {
+                    "content": "something",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Greek",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0349s",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Greek_language"
+        },
+        "salience": 0.034493912,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Greek",
+                    "beginOffset": 133
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

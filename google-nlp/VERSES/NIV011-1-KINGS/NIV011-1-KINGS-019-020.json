@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Elisha",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Elisha",
+            "mid": "\/m\/0crqz1"
+        },
+        "salience": 0.77994055,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Elisha",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "oxen",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09024001,
+        "mentions": [
+            {
+                "text": {
+                    "content": "oxen",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Elijah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02p7w",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Elijah"
+        },
+        "salience": 0.081148595,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Elijah",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Elijah",
+                    "beginOffset": 157
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.016223624,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.016223624,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "goodbye",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.016223624,
+        "mentions": [
+            {
+                "text": {
+                    "content": "goodbye",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

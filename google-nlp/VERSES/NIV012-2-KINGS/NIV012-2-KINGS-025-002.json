@@ -1,0 +1,57 @@
+[
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.54855496,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zedekiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0hzcr",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zedekiah"
+        },
+        "salience": 0.26985276,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zedekiah",
+                    "beginOffset": 62
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "siege",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18159227,
+        "mentions": [
+            {
+                "text": {
+                    "content": "siege",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

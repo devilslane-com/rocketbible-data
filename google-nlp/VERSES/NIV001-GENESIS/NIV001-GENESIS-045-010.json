@@ -1,0 +1,92 @@
+[
+    {
+        "name": "region",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.27891454,
+        "mentions": [
+            {
+                "text": {
+                    "content": "region",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17834677,
+        "mentions": [
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "grandchildren",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17834677,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grandchildren",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Goshen",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.16857654,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Goshen",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "herds",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13552906,
+        "mentions": [
+            {
+                "text": {
+                    "content": "herds",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "flocks",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.060286336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "flocks",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

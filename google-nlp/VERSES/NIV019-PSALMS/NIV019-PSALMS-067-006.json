@@ -1,0 +1,57 @@
+[
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.7797487,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "harvest",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1122256,
+        "mentions": [
+            {
+                "text": {
+                    "content": "harvest",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.10802571,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

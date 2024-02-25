@@ -1,0 +1,65 @@
+[
+    {
+        "name": "messengers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.58376545,
+        "mentions": [
+            {
+                "text": {
+                    "content": "messengers",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "village",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.21356413,
+        "mentions": [
+            {
+                "text": {
+                    "content": "village",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Samaritan",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/06_8_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Samaritans"
+        },
+        "salience": 0.12928358,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samaritan",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.073386826,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

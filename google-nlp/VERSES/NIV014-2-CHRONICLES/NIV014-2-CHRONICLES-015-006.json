@@ -1,0 +1,95 @@
+[
+    {
+        "name": "nation",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.3583556,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nation",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "another",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34033388,
+        "mentions": [
+            {
+                "text": {
+                    "content": "another",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1082365,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kind",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.077193975,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kind",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.06113033,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "distress",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0547497,
+        "mentions": [
+            {
+                "text": {
+                    "content": "distress",
+                    "beginOffset": 115
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

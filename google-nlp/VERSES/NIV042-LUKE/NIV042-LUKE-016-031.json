@@ -1,0 +1,68 @@
+[
+    {
+        "name": "someone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.29174453,
+        "mentions": [
+            {
+                "text": {
+                    "content": "someone",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.2508352,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Prophets",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/066dv",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Prophet"
+        },
+        "salience": 0.2508352,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Prophets",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20658503,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 129
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

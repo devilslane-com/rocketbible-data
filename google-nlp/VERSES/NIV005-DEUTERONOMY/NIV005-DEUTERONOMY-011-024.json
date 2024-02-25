@@ -1,0 +1,113 @@
+[
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.64868015,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "foot",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10938532,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foot",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "territory",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07600087,
+        "mentions": [
+            {
+                "text": {
+                    "content": "territory",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "desert",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.06994443,
+        "mentions": [
+            {
+                "text": {
+                    "content": "desert",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lebanon",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.041924085,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lebanon",
+                    "beginOffset": 97
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Euphrates River",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02s22",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Euphrates"
+        },
+        "salience": 0.031746842,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Euphrates River",
+                    "beginOffset": 119
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Mediterranean Sea",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mediterranean_Sea",
+            "mid": "\/m\/04swx"
+        },
+        "salience": 0.022318298,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mediterranean Sea",
+                    "beginOffset": 142
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

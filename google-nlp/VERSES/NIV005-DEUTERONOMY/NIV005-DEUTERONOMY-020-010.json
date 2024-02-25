@@ -1,0 +1,62 @@
+[
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.6794999,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "offer",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13068287,
+        "mentions": [
+            {
+                "text": {
+                    "content": "offer",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "peace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11609755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "peace",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07371963,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

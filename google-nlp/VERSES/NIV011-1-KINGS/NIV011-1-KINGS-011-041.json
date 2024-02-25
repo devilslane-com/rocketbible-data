@@ -1,0 +1,102 @@
+[
+    {
+        "name": "events",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.37031633,
+        "mentions": [
+            {
+                "text": {
+                    "content": "events",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Solomon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070h3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Solomon"
+        },
+        "salience": 0.21731311,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 138
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "reign",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15512018,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reign",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wisdom",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10563141,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wisdom",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "book",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.075809486,
+        "mentions": [
+            {
+                "text": {
+                    "content": "book",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "annals",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.075809486,
+        "mentions": [
+            {
+                "text": {
+                    "content": "annals",
+                    "beginOffset": 128
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

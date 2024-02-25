@@ -1,0 +1,110 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3638108,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.33854634,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.118487544,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "gods",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.054536894,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gods",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "incense",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.050205126,
+        "mentions": [
+            {
+                "text": {
+                    "content": "incense",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.047463294,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "disaster strikes",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.026949989,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disaster strikes",
+                    "beginOffset": 146
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

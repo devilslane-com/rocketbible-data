@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Jesus of Nazareth",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.6303404,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus of Nazareth",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mercy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29110542,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mercy",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Son of David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07855418,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son of David",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

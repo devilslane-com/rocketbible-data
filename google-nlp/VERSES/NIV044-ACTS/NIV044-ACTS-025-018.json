@@ -1,0 +1,47 @@
+[
+    {
+        "name": "accusers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7946769,
+        "mentions": [
+            {
+                "text": {
+                    "content": "accusers",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "crimes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14164914,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crimes",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "any",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06367397,
+        "mentions": [
+            {
+                "text": {
+                    "content": "any",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

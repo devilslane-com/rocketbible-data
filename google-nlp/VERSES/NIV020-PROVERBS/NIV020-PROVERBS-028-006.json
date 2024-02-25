@@ -1,0 +1,47 @@
+[
+    {
+        "name": "poor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.78225183,
+        "mentions": [
+            {
+                "text": {
+                    "content": "poor",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "walk",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.17159732,
+        "mentions": [
+            {
+                "text": {
+                    "content": "walk",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ways",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04615082,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ways",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

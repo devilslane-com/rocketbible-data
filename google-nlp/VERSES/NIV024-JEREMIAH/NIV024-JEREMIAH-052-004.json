@@ -1,0 +1,149 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.31340903,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "reign",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19559506,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reign",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zedekiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0hzcr",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zedekiah"
+        },
+        "salience": 0.118218064,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zedekiah",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Nebuchadnezzar",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0drvz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nebuchadnezzar_II"
+        },
+        "salience": 0.08156073,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nebuchadnezzar",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Babylon",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Babylon",
+            "mid": "\/m\/01cyh"
+        },
+        "salience": 0.08156073,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylon",
+                    "beginOffset": 104
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.07496567,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 128
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.046206784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 185
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "siege",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.046206784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "siege",
+                    "beginOffset": 200
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "army",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.042277142,
+        "mentions": [
+            {
+                "text": {
+                    "content": "army",
+                    "beginOffset": 153
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

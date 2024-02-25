@@ -1,0 +1,50 @@
+[
+    {
+        "name": "cows",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.69639,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cows",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "riverbank",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.21995203,
+        "mentions": [
+            {
+                "text": {
+                    "content": "riverbank",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nile",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nile",
+            "mid": "\/m\/05b5w"
+        },
+        "salience": 0.083658,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nile",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

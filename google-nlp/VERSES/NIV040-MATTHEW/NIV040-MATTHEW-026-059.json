@@ -1,0 +1,83 @@
+[
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.44661546,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.34651098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "evidence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09853359,
+        "mentions": [
+            {
+                "text": {
+                    "content": "evidence",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sanhedrin",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0160sc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sanhedrin"
+        },
+        "salience": 0.059069816,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sanhedrin",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.049270134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

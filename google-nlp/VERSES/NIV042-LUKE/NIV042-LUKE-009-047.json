@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.5488923,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "child",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2915856,
+        "mentions": [
+            {
+                "text": {
+                    "content": "child",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "thoughts",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1595221,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thoughts",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

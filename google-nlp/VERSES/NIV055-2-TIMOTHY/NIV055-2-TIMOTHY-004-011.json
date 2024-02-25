@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Mark",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5318912,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mark",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Luke",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.42736068,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Luke",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ministry",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04074807,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ministry",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

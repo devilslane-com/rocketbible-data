@@ -1,0 +1,111 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Paul_the_Apostle",
+            "mid": "\/m\/060nc"
+        },
+        "salience": 0.341369,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "apostle",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19245115,
+        "mentions": [
+            {
+                "text": {
+                    "content": "apostle",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sosthenes",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j0_9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sosthenes"
+        },
+        "salience": 0.19197349,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Sosthenes",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "will",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14745255,
+        "mentions": [
+            {
+                "text": {
+                    "content": "will",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.09674629,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ Jesus",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.030007519,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

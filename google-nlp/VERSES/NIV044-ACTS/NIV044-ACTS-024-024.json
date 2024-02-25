@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Felix",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5421225,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Felix",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Drusilla",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3471879,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Drusilla",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.054401852,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jewish",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/041rx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews"
+        },
+        "salience": 0.031228075,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jewish",
+                    "beginOffset": 62
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "faith",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.017691711,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faith",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.0073679476,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ Jesus",
+                    "beginOffset": 134
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

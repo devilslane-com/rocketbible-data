@@ -1,0 +1,62 @@
+[
+    {
+        "name": "peoples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6955637,
+        "mentions": [
+            {
+                "text": {
+                    "content": "peoples",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "speech",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.12816016,
+        "mentions": [
+            {
+                "text": {
+                    "content": "speech",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "language",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08813809,
+        "mentions": [
+            {
+                "text": {
+                    "content": "language",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "words",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08813809,
+        "mentions": [
+            {
+                "text": {
+                    "content": "words",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

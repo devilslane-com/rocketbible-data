@@ -1,0 +1,108 @@
+[
+    {
+        "name": "Jews",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/03_gx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judaism"
+        },
+        "salience": 0.5445226,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Judaism",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Arabs",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Arabs",
+            "mid": "\/m\/0xff"
+        },
+        "salience": 0.08956727,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Arabs",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Cretans",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0885007,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cretans",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "tongues",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07367703,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tongues",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wonders",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04653212,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wonders",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.02764941,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 95
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

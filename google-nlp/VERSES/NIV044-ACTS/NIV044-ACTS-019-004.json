@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46316582,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "baptism",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3542287,
+        "mentions": [
+            {
+                "text": {
+                    "content": "baptism",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "baptism",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/043mx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/John_the_Baptist"
+        },
+        "salience": 0.108241215,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "repentance",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04948239,
+        "mentions": [
+            {
+                "text": {
+                    "content": "repentance",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.01774469,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.0071371654,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 131
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

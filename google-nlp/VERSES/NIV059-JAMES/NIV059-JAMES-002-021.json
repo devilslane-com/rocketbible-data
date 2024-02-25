@@ -1,0 +1,61 @@
+[
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8648789,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Isaac",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10818529,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Isaac",
+                    "beginOffset": 88
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "altar",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.026935814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "altar",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

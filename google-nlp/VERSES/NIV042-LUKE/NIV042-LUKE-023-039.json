@@ -1,0 +1,65 @@
+[
+    {
+        "name": "criminals",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.68582743,
+        "mentions": [
+            {
+                "text": {
+                    "content": "criminals",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "One",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23151103,
+        "mentions": [
+            {
+                "text": {
+                    "content": "One",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "insults",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06681902,
+        "mentions": [
+            {
+                "text": {
+                    "content": "insults",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Messiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04ys7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Messiah"
+        },
+        "salience": 0.015842501,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Messiah",
+                    "beginOffset": 79
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

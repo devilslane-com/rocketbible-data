@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Job",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5209939,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Job",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wonders",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3760528,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wonders",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.10295334,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

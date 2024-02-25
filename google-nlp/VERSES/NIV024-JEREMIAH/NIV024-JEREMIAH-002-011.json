@@ -1,0 +1,95 @@
+[
+    {
+        "name": "nation",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.66817904,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nation",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gods",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13729669,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gods",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.097735554,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gods",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05935894,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gods",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "idols",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.020278607,
+        "mentions": [
+            {
+                "text": {
+                    "content": "idols",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.017151166,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 112
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

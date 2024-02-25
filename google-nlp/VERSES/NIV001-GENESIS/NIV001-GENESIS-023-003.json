@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.84938645,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wife",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12630597,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hittites",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03gsz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hittites"
+        },
+        "salience": 0.024307553,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hittites",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

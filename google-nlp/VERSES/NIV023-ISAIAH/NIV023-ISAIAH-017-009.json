@@ -1,0 +1,102 @@
+[
+    {
+        "name": "cities",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.4659847,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cities",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "desolation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20307337,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 139
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "desolation",
+                    "beginOffset": 151
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "places",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.14185119,
+        "mentions": [
+            {
+                "text": {
+                    "content": "places",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israelites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.092735045,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "thickets",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04817785,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thickets",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "undergrowth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04817785,
+        "mentions": [
+            {
+                "text": {
+                    "content": "undergrowth",
+                    "beginOffset": 122
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

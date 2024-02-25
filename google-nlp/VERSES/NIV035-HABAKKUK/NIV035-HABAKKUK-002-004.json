@@ -1,0 +1,62 @@
+[
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4620182,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "enemy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.26309615,
+        "mentions": [
+            {
+                "text": {
+                    "content": "enemy",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "desires",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18153952,
+        "mentions": [
+            {
+                "text": {
+                    "content": "desires",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "faithfulness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09334612,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faithfulness",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

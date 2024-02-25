@@ -1,0 +1,86 @@
+[
+    {
+        "name": "two",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6210608,
+        "mentions": [
+            {
+                "text": {
+                    "content": "two",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18021421,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Holy Spirit",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Holy_Spirit",
+            "mid": "\/m\/03qsc"
+        },
+        "salience": 0.11025832,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Holy Spirit",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Cyprus",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01ppq",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cyprus"
+        },
+        "salience": 0.054268163,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cyprus",
+                    "beginOffset": 102
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Seleucia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/06b_kf",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Seleucia"
+        },
+        "salience": 0.034198508,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Seleucia",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Jacob",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.91423476,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "care",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05254714,
+        "mentions": [
+            {
+                "text": {
+                    "content": "care",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "livestock",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.033218082,
+        "mentions": [
+            {
+                "text": {
+                    "content": "livestock",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

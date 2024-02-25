@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Tirzah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0116jp6x"
+        },
+        "salience": 0.6832641,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Tirzah",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "darling",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "troops",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12663592,
+        "mentions": [
+            {
+                "text": {
+                    "content": "troops",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.10028367,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "banners",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08981631,
+        "mentions": [
+            {
+                "text": {
+                    "content": "banners",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

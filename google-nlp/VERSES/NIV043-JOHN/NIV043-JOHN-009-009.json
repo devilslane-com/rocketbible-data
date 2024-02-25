@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Some",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.9506484,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Some",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Others",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.049351558,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Others",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.32110903,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20490336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16293797,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.14569886,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ahab",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pjp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ahab"
+        },
+        "salience": 0.087714314,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ahab",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Elijah",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Elijah",
+            "mid": "\/m\/02p7w"
+        },
+        "salience": 0.077636465,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 133
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Elijah",
+                    "beginOffset": 141
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5454105,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "war",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.15741712,
+        "mentions": [
+            {
+                "text": {
+                    "content": "war",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "duty",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15741712,
+        "mentions": [
+            {
+                "text": {
+                    "content": "duty",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.05443488,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 135
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "happiness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.047056425,
+        "mentions": [
+            {
+                "text": {
+                    "content": "happiness",
+                    "beginOffset": 150
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wife",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03826391,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 167
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

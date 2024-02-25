@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews",
+            "mid": "\/m\/041rx"
+        },
+        "salience": 0.8257322,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Susa",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0gf0n",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Susa"
+        },
+        "salience": 0.08243996,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Susa",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "attendants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04599032,
+        "mentions": [
+            {
+                "text": {
+                    "content": "attendants",
+                    "beginOffset": 129
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "law",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.031817134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "law",
+                    "beginOffset": 233
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.014020411,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 197
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

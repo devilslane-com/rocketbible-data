@@ -1,0 +1,125 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.38074288,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "soldiers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16306108,
+        "mentions": [
+            {
+                "text": {
+                    "content": "soldiers",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "side",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11423996,
+        "mentions": [
+            {
+                "text": {
+                    "content": "side",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "spear",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10529564,
+        "mentions": [
+            {
+                "text": {
+                    "content": "spear",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "blood",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08035385,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blood",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.06826926,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.056898754,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "flow",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.031138554,
+        "mentions": [
+            {
+                "text": {
+                    "content": "flow",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Titus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7834359,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Titus",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Titus",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "brother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16499455,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "footsteps",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.030296797,
+        "mentions": [
+            {
+                "text": {
+                    "content": "footsteps",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Spirit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.021272786,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Spirit",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "name": "all",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.33751872,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3106313,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 129
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "eyes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21854995,
+        "mentions": [
+            {
+                "text": {
+                    "content": "eyes",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Babylon",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.062933914,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylon",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Babylonia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0cn3b",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Babylonia"
+        },
+        "salience": 0.043584645,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylonia",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Zion",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01626x",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zion_National_Park"
+        },
+        "salience": 0.02678149,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zion",
+                    "beginOffset": 107
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

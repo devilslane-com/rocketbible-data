@@ -1,0 +1,65 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.57369936,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gad",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Generalized_anxiety_disorder",
+            "mid": "\/m\/02zr3h"
+        },
+        "salience": 0.3230968,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gad",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "choice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06665725,
+        "mentions": [
+            {
+                "text": {
+                    "content": "choice",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.036546573,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

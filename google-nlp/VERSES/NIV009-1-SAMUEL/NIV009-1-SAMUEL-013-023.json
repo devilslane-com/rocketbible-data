@@ -1,0 +1,65 @@
+[
+    {
+        "name": "detachment",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.6269714,
+        "mentions": [
+            {
+                "text": {
+                    "content": "detachment",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Philistines",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines",
+            "mid": "\/m\/0618q"
+        },
+        "salience": 0.16592036,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistines",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Mikmash",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11832242,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mikmash",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "pass",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.08878578,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pass",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "poor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.60745543,
+        "mentions": [
+            {
+                "text": {
+                    "content": "poor",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Maker",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.1415056,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Maker",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "contempt",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.109387755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "contempt",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "honors",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09953188,
+        "mentions": [
+            {
+                "text": {
+                    "content": "honors",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.042119358,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 99
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

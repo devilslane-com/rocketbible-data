@@ -1,0 +1,54 @@
+[
+    {
+        "name": "virgin",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.76671624,
+        "mentions": [
+            {
+                "text": {
+                    "content": "virgin",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 133
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21522944,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bride-price",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.018054316,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bride-price",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

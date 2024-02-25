@@ -1,0 +1,50 @@
+[
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5820621,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hebrew",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hebrews",
+            "mid": "\/m\/0j4s1"
+        },
+        "salience": 0.32670507,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hebrew",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "anything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09123282,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anything",
+                    "beginOffset": 124
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

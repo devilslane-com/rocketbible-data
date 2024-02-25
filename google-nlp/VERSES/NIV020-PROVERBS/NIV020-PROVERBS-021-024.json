@@ -1,0 +1,62 @@
+[
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.642413,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1817872,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mocker",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09625625,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mocker",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "fury",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.079543546,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fury",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

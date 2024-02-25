@@ -1,0 +1,120 @@
+[
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.4158554,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Amnon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0138d",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Amnon"
+        },
+        "salience": 0.24521002,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Amnon",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.089597434,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07237641,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "palace",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07153056,
+        "mentions": [
+            {
+                "text": {
+                    "content": "palace",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Tamar",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tamar_Braxton",
+            "mid": "\/m\/01q9f7y"
+        },
+        "salience": 0.06302349,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Tamar",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.042406674,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

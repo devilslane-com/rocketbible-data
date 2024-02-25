@@ -1,0 +1,47 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.85518557,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.123886175,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "square",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.020928245,
+        "mentions": [
+            {
+                "text": {
+                    "content": "square",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

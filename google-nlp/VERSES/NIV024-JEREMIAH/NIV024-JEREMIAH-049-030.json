@@ -1,0 +1,116 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.45253295,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "caves",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.19416212,
+        "mentions": [
+            {
+                "text": {
+                    "content": "caves",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.112851836,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hazor",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04w6j8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tel_Hazor"
+        },
+        "salience": 0.07862254,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hazor",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Nebuchadnezzar",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0drvz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nebuchadnezzar_II"
+        },
+        "salience": 0.07271846,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nebuchadnezzar",
+                    "beginOffset": 90
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "plan",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06494849,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plan",
+                    "beginOffset": 163
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Babylon",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "mid": "\/m\/01cyh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Babylon"
+        },
+        "salience": 0.024163608,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylon",
+                    "beginOffset": 113
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

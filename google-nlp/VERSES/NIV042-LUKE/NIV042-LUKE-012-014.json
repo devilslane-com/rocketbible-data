@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.71951807,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "judge",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1224746,
+        "mentions": [
+            {
+                "text": {
+                    "content": "judge",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11592153,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Man",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "arbiter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.042085823,
+        "mentions": [
+            {
+                "text": {
+                    "content": "arbiter",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

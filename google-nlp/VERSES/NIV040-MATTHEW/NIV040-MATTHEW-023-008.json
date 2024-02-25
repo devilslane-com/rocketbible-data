@@ -1,0 +1,50 @@
+[
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.89144266,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Rabbi",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0djbw",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Rabbi"
+        },
+        "salience": 0.07487977,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rabbi",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Teacher",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03367758,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Teacher",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

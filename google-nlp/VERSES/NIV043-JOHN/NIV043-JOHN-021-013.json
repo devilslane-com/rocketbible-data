@@ -1,0 +1,65 @@
+[
+    {
+        "name": "bread",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.51298803,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.36149386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "fish",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07677042,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fish",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "same",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.048747685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "same",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

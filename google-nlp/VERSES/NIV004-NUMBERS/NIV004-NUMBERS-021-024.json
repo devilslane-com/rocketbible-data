@@ -1,0 +1,116 @@
+[
+    {
+        "name": "Israel",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.62860584,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11605162,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.087830365,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Arnon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0cd3f9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Wadi_Mujib"
+        },
+        "salience": 0.04870841,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Arnon",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jabbok",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zarqa_River",
+            "mid": "\/m\/057bwz6"
+        },
+        "salience": 0.04478674,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jabbok",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "border",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.04006699,
+        "mentions": [
+            {
+                "text": {
+                    "content": "border",
+                    "beginOffset": 139
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ammonites",
+        "type": "CONSUMER_GOOD",
+        "metadata": {
+            "mid": "\/m\/0sk0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ammon"
+        },
+        "salience": 0.033950005,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ammonites",
+                    "beginOffset": 114
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

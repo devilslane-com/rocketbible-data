@@ -1,0 +1,65 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.70007604,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "words",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14118055,
+        "mentions": [
+            {
+                "text": {
+                    "content": "words",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Book of the Law",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "mid": "\/m\/07kgm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/The_Book_of_the_Law"
+        },
+        "salience": 0.08697431,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Book of the Law",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "robes",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.07176908,
+        "mentions": [
+            {
+                "text": {
+                    "content": "robes",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

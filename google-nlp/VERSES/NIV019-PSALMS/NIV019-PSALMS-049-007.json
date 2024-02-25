@@ -1,0 +1,80 @@
+[
+    {
+        "name": "No one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5400246,
+        "mentions": [
+            {
+                "text": {
+                    "content": "No one",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "another",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1687978,
+        "mentions": [
+            {
+                "text": {
+                    "content": "another",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16688168,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ransom",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09216679,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ransom",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.032129142,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Jason",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.741257,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jason",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11913862,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "decrees",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03733498,
+        "mentions": [
+            {
+                "text": {
+                    "content": "decrees",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.036005113,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.028255247,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Caesar",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.024202624,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Caesar",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.013806399,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 131
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

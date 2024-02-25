@@ -1,0 +1,64 @@
+[
+    {
+        "name": "sacrifice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.7649738,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sacrifice",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "spirit",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.14551082,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "heart",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08951535,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heart",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "name": "watchtower",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.385955,
+        "mentions": [
+            {
+                "text": {
+                    "content": "watchtower",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gaza",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0357_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gaza_Strip"
+        },
+        "salience": 0.30489928,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gaza",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.16775768,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Philistines",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0618q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines"
+        },
+        "salience": 0.08242172,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistines",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "territory",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.058966342,
+        "mentions": [
+            {
+                "text": {
+                    "content": "territory",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

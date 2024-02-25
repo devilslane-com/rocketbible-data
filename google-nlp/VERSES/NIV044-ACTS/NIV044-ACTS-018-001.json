@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.41757444,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Athens",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0n2z",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Athens"
+        },
+        "salience": 0.29805547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Athens",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Corinth",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Corinth,_Mississippi",
+            "mid": "\/m\/0wp9q"
+        },
+        "salience": 0.28437012,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Corinth",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

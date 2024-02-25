@@ -1,0 +1,39 @@
+[
+    {
+        "name": "beer",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.92612815,
+        "mentions": [
+            {
+                "text": {
+                    "content": "beer",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anguish",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.073871866,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anguish",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

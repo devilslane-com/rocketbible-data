@@ -1,0 +1,90 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.44851127,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "crowd",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.44632524,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crowd",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.041415226,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 130
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Judas",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0g3y0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judas_Iscariot"
+        },
+        "salience": 0.03567947,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judas",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Twelve",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.02806878,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Twelve",
+                    "beginOffset": 90
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

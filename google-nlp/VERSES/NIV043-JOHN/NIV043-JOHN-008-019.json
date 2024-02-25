@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5485135,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 88
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.29723406,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 140
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15425247,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

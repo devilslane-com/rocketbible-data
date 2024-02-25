@@ -1,0 +1,54 @@
+[
+    {
+        "name": "leader",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.9066157,
+        "mentions": [
+            {
+                "text": {
+                    "content": "leader",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ruler",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.082121916,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ruler",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0112624075,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 206
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

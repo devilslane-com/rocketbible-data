@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.53322035,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.27231595,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16684112,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "speech",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.010161095,
+        "mentions": [
+            {
+                "text": {
+                    "content": "speech",
+                    "beginOffset": 158
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tongue",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.010161095,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tongue",
+                    "beginOffset": 169
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.007300375,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 136
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

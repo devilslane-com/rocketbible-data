@@ -1,0 +1,47 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.53171134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "brother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25137332,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "work",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21691535,
+        "mentions": [
+            {
+                "text": {
+                    "content": "work",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

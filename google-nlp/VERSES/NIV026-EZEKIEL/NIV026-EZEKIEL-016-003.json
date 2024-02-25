@@ -1,0 +1,163 @@
+[
+    {
+        "name": "Sovereign",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4678321,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Sovereign",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hittite",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01z8p2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hittite_language"
+        },
+        "salience": 0.11473554,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 159
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Hittite",
+                    "beginOffset": 168
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "birth",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.10580329,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birth",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09729443,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.062484577,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Amorite",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01twxk",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Amorites"
+        },
+        "salience": 0.04784542,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Amorite",
+                    "beginOffset": 142
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ancestry",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.047692563,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ancestry",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.036931496,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 128
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Canaanites",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/077hgx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ancient_Canaanite_religion"
+        },
+        "salience": 0.019380586,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Canaanites",
+                    "beginOffset": 111
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

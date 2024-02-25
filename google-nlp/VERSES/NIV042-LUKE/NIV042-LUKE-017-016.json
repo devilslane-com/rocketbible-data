@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.7694461,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "feet",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17341793,
+        "mentions": [
+            {
+                "text": {
+                    "content": "feet",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Samaritan",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/06_8_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Samaritans"
+        },
+        "salience": 0.057135973,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samaritan",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "name": "crowd",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.60218984,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crowd",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Son of David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.27221563,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Son of David",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mercy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12559456,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mercy",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

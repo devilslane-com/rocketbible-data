@@ -1,0 +1,65 @@
+[
+    {
+        "name": "child",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8490463,
+        "mentions": [
+            {
+                "text": {
+                    "content": "child",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wisdom",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.081496134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wisdom",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.03768434,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "grace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03177324,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grace",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

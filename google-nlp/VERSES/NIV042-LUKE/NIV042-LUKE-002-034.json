@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Simeon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.51165247,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Simeon",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Mary",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04n7gc6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mary,_mother_of_Jesus"
+        },
+        "salience": 0.23796287,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mary",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sign",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12220632,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sign",
+                    "beginOffset": 144
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "child",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06272013,
+        "mentions": [
+            {
+                "text": {
+                    "content": "child",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "many",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.054466233,
+        "mentions": [
+            {
+                "text": {
+                    "content": "many",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.010991951,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 124
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

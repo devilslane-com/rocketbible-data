@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6830894,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "distance",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11918476,
+        "mentions": [
+            {
+                "text": {
+                    "content": "distance",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "high priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08309199,
+        "mentions": [
+            {
+                "text": {
+                    "content": "high priest",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "courtyard",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.08212091,
+        "mentions": [
+            {
+                "text": {
+                    "content": "courtyard",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fire",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.019961406,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fire",
+                    "beginOffset": 134
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "guards",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.01255158,
+        "mentions": [
+            {
+                "text": {
+                    "content": "guards",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

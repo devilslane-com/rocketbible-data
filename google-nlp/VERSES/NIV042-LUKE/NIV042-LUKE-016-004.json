@@ -1,0 +1,47 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.603838,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "job",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2661727,
+        "mentions": [
+            {
+                "text": {
+                    "content": "job",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "houses",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.12998927,
+        "mentions": [
+            {
+                "text": {
+                    "content": "houses",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

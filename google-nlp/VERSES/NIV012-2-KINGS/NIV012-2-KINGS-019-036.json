@@ -1,0 +1,86 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.49552834,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sennacherib",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070jj",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sennacherib"
+        },
+        "salience": 0.19541158,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sennacherib",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Nineveh",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/05fym",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nineveh"
+        },
+        "salience": 0.13707592,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nineveh",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "camp",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.091332704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "camp",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Assyria",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0wmn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Assyria"
+        },
+        "salience": 0.08065147,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Assyria",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3319063,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tribe",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23563187,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tribe",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16728595,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Levi",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Levi",
+            "mid": "\/m\/01kqk3"
+        },
+        "salience": 0.15035728,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levi",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Levite",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0j8nd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Levite"
+        },
+        "salience": 0.11481863,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levite",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

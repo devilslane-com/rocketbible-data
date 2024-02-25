@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Rock",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7788808,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rock",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.14395173,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "birth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07716752,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birth",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

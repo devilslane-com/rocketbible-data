@@ -1,0 +1,65 @@
+[
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.5151839,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pasturelands",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.3718374,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pasturelands",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "town wall",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.058413167,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town wall",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Levites",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0j8nd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Levite"
+        },
+        "salience": 0.054565523,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levites",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

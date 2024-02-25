@@ -1,0 +1,80 @@
+[
+    {
+        "name": "staff",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3612702,
+        "mentions": [
+            {
+                "text": {
+                    "content": "staff",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Union",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.25845566,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Union",
+                    "beginOffset": 36
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15506941,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 76
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "family bond",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.115821674,
+        "mentions": [
+            {
+                "text": {
+                    "content": "family bond",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.10938306,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

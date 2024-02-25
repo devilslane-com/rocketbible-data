@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Unleavened Bread",
+        "type": "CONSUMER_GOOD",
+        "metadata": {
+            "mid": "\/m\/0118n_nl",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Unleavened_bread"
+        },
+        "salience": 0.7691144,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Unleavened Bread",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Passover",
+        "type": "EVENT",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Passover",
+            "mid": "\/m\/05rds"
+        },
+        "salience": 0.14222999,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Passover",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "lamb",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08865566,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lamb",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

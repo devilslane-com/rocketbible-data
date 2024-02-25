@@ -1,0 +1,84 @@
+[
+    {
+        "name": "Sovereign",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6122879,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Sovereign",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1404993,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cities",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1404993,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cities",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "waters",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06910537,
+        "mentions": [
+            {
+                "text": {
+                    "content": "waters",
+                    "beginOffset": 163
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ocean depths",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.037608195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ocean depths",
+                    "beginOffset": 128
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

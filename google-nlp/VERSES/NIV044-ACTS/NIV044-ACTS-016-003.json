@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5521613,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/041rx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews"
+        },
+        "salience": 0.28065917,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "journey",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.08417855,
+        "mentions": [
+            {
+                "text": {
+                    "content": "journey",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.046103157,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 139
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Greek",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0349s",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Greek_language"
+        },
+        "salience": 0.018702932,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Greek",
+                    "beginOffset": 152
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "area",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.01819488,
+        "mentions": [
+            {
+                "text": {
+                    "content": "area",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

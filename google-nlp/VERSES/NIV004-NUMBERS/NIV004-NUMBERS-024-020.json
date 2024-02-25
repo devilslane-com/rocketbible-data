@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Balaam",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Balaam",
+            "mid": "\/m\/0fyjh"
+        },
+        "salience": 0.49749836,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Balaam",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "destruction",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.26492372,
+        "mentions": [
+            {
+                "text": {
+                    "content": "end",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "destruction",
+                    "beginOffset": 113
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Amalek",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0hyby",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Amalek"
+        },
+        "salience": 0.12347691,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Amalek",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Amalek",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "message",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.059055723,
+        "mentions": [
+            {
+                "text": {
+                    "content": "message",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nations",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.055045266,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nations",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

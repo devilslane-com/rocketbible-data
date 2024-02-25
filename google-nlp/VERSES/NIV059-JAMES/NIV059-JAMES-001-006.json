@@ -1,0 +1,62 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.68505,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wave",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16701092,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wave",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wind",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09054927,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wind",
+                    "beginOffset": 128
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sea",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.057389792,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sea",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

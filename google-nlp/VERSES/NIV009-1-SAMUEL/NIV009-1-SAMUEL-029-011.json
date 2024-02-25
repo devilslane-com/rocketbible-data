@@ -1,0 +1,93 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.6867826,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12315759,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Philistines",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0618q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines"
+        },
+        "salience": 0.084304154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistines",
+                    "beginOffset": 79
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Philistines",
+                    "beginOffset": 100
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07984412,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jezreel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/036747",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jezreel_Valley"
+        },
+        "salience": 0.025911523,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jezreel",
+                    "beginOffset": 123
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2903457,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Babylonians",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2607445,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylonians",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Baruch",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d6nn9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Baruch_ben_Neriah"
+        },
+        "salience": 0.18148224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Baruch",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Neriah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01smg9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Neriah"
+        },
+        "salience": 0.18148224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Neriah",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "exile",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05817441,
+        "mentions": [
+            {
+                "text": {
+                    "content": "exile",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Babylon",
+        "type": "WORK_OF_ART",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Babylon",
+            "mid": "\/m\/01cyh"
+        },
+        "salience": 0.027770894,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylon",
+                    "beginOffset": 134
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

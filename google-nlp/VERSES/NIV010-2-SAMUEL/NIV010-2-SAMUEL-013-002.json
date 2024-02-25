@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Tamar",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.53123564,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sister",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Tamar",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "virgin",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Amnon",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Amnon",
+            "mid": "\/m\/0138d"
+        },
+        "salience": 0.4542799,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Amnon",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "anything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.014484463,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anything",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

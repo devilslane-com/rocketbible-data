@@ -1,0 +1,149 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4987834,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "companions",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21639071,
+        "mentions": [
+            {
+                "text": {
+                    "content": "companions",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "region",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.090642944,
+        "mentions": [
+            {
+                "text": {
+                    "content": "region",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.044298526,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 134
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "province",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.044298526,
+        "mentions": [
+            {
+                "text": {
+                    "content": "province",
+                    "beginOffset": 146
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Phrygia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0hdm3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Phrygia"
+        },
+        "salience": 0.03759102,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Phrygia",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Galatia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03bsf",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Galatia"
+        },
+        "salience": 0.03759102,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Galatia",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Asia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04ldyr",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Asia_(Roman_province)"
+        },
+        "salience": 0.018659657,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Asia",
+                    "beginOffset": 158
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Holy Spirit",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/03qsc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Holy_Spirit"
+        },
+        "salience": 0.0117441965,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Holy Spirit",
+                    "beginOffset": 103
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

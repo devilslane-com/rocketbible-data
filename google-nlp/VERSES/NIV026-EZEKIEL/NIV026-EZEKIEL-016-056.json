@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Sodom",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sodom_and_Gomorrah",
+            "mid": "\/m\/0jhj2"
+        },
+        "salience": 0.74439347,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sister",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Sodom",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "pride",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25560653,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pride",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

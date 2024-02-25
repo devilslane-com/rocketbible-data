@@ -1,0 +1,95 @@
+[
+    {
+        "name": "jailer",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7065432,
+        "mentions": [
+            {
+                "text": {
+                    "content": "jailer",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10592814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "meal",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06424008,
+        "mentions": [
+            {
+                "text": {
+                    "content": "meal",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "joy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05981306,
+        "mentions": [
+            {
+                "text": {
+                    "content": "joy",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "household",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03636858,
+        "mentions": [
+            {
+                "text": {
+                    "content": "household",
+                    "beginOffset": 147
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.027106902,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 124
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

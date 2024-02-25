@@ -1,0 +1,62 @@
+[
+    {
+        "name": "tombs",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6588616,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tombs",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.23587354,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bodies",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05263243,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bodies",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05263243,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

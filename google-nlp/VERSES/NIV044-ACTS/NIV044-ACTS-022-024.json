@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6848432,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "commander",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20633581,
+        "mentions": [
+            {
+                "text": {
+                    "content": "commander",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "barracks",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.060291797,
+        "mentions": [
+            {
+                "text": {
+                    "content": "barracks",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "order",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.027611392,
+        "mentions": [
+            {
+                "text": {
+                    "content": "order",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.020917803,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 137
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

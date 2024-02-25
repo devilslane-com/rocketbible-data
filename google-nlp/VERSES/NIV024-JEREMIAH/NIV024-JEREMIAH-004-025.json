@@ -1,0 +1,47 @@
+[
+    {
+        "name": "bird",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.539723,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bird",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2721282,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sky",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18814883,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sky",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

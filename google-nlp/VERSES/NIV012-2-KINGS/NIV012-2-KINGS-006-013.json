@@ -1,0 +1,65 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7500203,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18570729,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "report",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.035410736,
+        "mentions": [
+            {
+                "text": {
+                    "content": "report",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Dothan",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0q6lr",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Dothan,_Alabama"
+        },
+        "salience": 0.028861636,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Dothan",
+                    "beginOffset": 125
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

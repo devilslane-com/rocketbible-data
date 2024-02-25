@@ -1,0 +1,77 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.70054734,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.14734729,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dust",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07233565,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dust",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "testimony",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.055125512,
+        "mentions": [
+            {
+                "text": {
+                    "content": "testimony",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "feet",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.024644189,
+        "mentions": [
+            {
+                "text": {
+                    "content": "feet",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

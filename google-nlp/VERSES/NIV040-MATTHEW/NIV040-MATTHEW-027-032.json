@@ -1,0 +1,65 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.62237483,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Simon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15482473,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Simon",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Cyrene",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0lrkg",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cyrene,_Libya"
+        },
+        "salience": 0.122176915,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cyrene",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "cross",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10062352,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cross",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

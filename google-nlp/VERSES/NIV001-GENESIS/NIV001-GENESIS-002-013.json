@@ -1,0 +1,83 @@
+[
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.60866165,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "river",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1398358,
+        "mentions": [
+            {
+                "text": {
+                    "content": "river",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gihon",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02sym_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gihon"
+        },
+        "salience": 0.10884846,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gihon",
+                    "beginOffset": 36
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10001778,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Cush",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/025wsg",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cush_(Bible)"
+        },
+        "salience": 0.04263628,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cush",
+                    "beginOffset": 79
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

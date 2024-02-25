@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.7522106,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "spot",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13835819,
+        "mentions": [
+            {
+                "text": {
+                    "content": "spot",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zacchaeus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0hzmg",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zacchaeus"
+        },
+        "salience": 0.076054834,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zacchaeus",
+                    "beginOffset": 62
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.03337638,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

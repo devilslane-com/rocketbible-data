@@ -1,0 +1,50 @@
+[
+    {
+        "name": "self-interest",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.72398204,
+        "mentions": [
+            {
+                "text": {
+                    "content": "self-interest",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.23161319,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.044404794,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

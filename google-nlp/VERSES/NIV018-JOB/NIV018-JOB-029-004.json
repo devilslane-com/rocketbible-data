@@ -1,0 +1,65 @@
+[
+    {
+        "name": "prime",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.361878,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prime",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "friendship",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25513107,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friendship",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.20203967,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18095127,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

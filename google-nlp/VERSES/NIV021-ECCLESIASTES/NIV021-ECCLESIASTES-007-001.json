@@ -1,0 +1,62 @@
+[
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5823796,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "perfume",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17031728,
+        "mentions": [
+            {
+                "text": {
+                    "content": "perfume",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.1593448,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "birth",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.08795832,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birth",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

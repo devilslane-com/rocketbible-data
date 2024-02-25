@@ -1,0 +1,68 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.4466712,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25403202,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Balaam",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0fyjh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Balaam"
+        },
+        "salience": 0.1965761,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Balaam",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "curse",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10272069,
+        "mentions": [
+            {
+                "text": {
+                    "content": "curse",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "name": "warriors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.9035468,
+        "mentions": [
+            {
+                "text": {
+                    "content": "warriors",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "battle",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09645319,
+        "mentions": [
+            {
+                "text": {
+                    "content": "battle",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

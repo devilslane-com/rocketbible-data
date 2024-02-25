@@ -1,0 +1,91 @@
+[
+    {
+        "name": "Lamb",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7276434,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lamb",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lamb",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "war",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.15158549,
+        "mentions": [
+            {
+                "text": {
+                    "content": "war",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lords",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.049187973,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lords",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "King of kings",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.045287374,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King of kings",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "followers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.026295803,
+        "mentions": [
+            {
+                "text": {
+                    "content": "followers",
+                    "beginOffset": 174
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

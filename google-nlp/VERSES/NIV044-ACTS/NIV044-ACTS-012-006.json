@@ -1,0 +1,125 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.49339914,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Herod",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0hsm_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Herod_the_Great"
+        },
+        "salience": 0.1861955,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Herod",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "trial",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.07678728,
+        "mentions": [
+            {
+                "text": {
+                    "content": "trial",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "soldiers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07157268,
+        "mentions": [
+            {
+                "text": {
+                    "content": "soldiers",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sentries",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.054544065,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sentries",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "guard",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.054544065,
+        "mentions": [
+            {
+                "text": {
+                    "content": "guard",
+                    "beginOffset": 133
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "entrance",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.03857304,
+        "mentions": [
+            {
+                "text": {
+                    "content": "entrance",
+                    "beginOffset": 146
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "chains",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.024384249,
+        "mentions": [
+            {
+                "text": {
+                    "content": "chains",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

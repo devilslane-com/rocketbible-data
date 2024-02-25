@@ -1,0 +1,134 @@
+[
+    {
+        "name": "territory",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.41680306,
+        "mentions": [
+            {
+                "text": {
+                    "content": "territory",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.12361444,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1152682,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jazer",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jazer",
+            "mid": "\/m\/05b2w34"
+        },
+        "salience": 0.10905814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jazer",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gilead",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02s25l",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gilead"
+        },
+        "salience": 0.075629555,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gilead",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ammonite",
+        "type": "CONSUMER_GOOD",
+        "metadata": {
+            "mid": "\/m\/0sk0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ammon"
+        },
+        "salience": 0.069578715,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ammonite",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Aroer",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/052p41",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Aroer_(Moab)"
+        },
+        "salience": 0.052823696,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aroer",
+                    "beginOffset": 88
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Rabbah",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.037224192,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rabbah",
+                    "beginOffset": 100
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

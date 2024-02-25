@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Samson",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8574238,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samson",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Philistines",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0618q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines"
+        },
+        "salience": 0.0771034,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistines",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sleep",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.043356456,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sleep",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.022116343,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 180
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

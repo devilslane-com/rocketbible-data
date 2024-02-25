@@ -1,0 +1,80 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6003834,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Micah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21666834,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Micah",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Levite",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Levite",
+            "mid": "\/m\/0j8nd"
+        },
+        "salience": 0.09925751,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levite",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.05122471,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03246603,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

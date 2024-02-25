@@ -1,0 +1,50 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.4378996,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "pledge",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3884783,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pledge",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "security",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17362212,
+        "mentions": [
+            {
+                "text": {
+                    "content": "security",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

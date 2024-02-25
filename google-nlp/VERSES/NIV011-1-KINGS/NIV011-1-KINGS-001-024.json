@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Nathan",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.45126915,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nathan",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Adonijah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0hxvz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Adonijah"
+        },
+        "salience": 0.41113603,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Adonijah",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.059182685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.052273743,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lord",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "throne",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.026138384,
+        "mentions": [
+            {
+                "text": {
+                    "content": "throne",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.71529037,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 87
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19504061,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Uriah the Hittite",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01ttyl",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Uriah_the_Hittite"
+        },
+        "salience": 0.046224415,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Uriah the Hittite",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Joab",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Joab",
+            "mid": "\/m\/0jknj"
+        },
+        "salience": 0.03093032,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joab",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Joab",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

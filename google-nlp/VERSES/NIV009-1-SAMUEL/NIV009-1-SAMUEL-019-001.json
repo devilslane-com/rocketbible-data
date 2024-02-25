@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5096997,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jonathan",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.28878883,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Jonathan",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jonathan",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10926401,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 106
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "attendants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.066066325,
+        "mentions": [
+            {
+                "text": {
+                    "content": "attendants",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "liking",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02618112,
+        "mentions": [
+            {
+                "text": {
+                    "content": "liking",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

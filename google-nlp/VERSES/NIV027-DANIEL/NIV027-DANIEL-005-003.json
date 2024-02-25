@@ -1,0 +1,128 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.37224993,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "goblets",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.26974124,
+        "mentions": [
+            {
+                "text": {
+                    "content": "goblets",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wives",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.107119195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wives",
+                    "beginOffset": 126
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07762485,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "concubines",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.054844912,
+        "mentions": [
+            {
+                "text": {
+                    "content": "concubines",
+                    "beginOffset": 140
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.047038592,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.047038592,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "nobles",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02434269,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nobles",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

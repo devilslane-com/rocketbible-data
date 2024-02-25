@@ -1,0 +1,83 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.83331436,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "edict",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06562285,
+        "mentions": [
+            {
+                "text": {
+                    "content": "edict",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04579871,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Susa",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Susa",
+            "mid": "\/m\/0gf0n"
+        },
+        "salience": 0.036087204,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Susa",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Haman",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04742r",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Haman"
+        },
+        "salience": 0.019176869,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Haman",
+                    "beginOffset": 103
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

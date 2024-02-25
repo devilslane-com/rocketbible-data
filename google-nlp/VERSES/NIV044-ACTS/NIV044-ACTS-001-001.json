@@ -1,0 +1,50 @@
+[
+    {
+        "name": "book",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.6413098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "book",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Theophilus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.27251595,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Theophilus",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.08617426,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

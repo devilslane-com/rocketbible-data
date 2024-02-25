@@ -1,0 +1,65 @@
+[
+    {
+        "name": "virgin",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7551087,
+        "mentions": [
+            {
+                "text": {
+                    "content": "virgin",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22458711,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tradition",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.013966868,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tradition",
+                    "beginOffset": 137
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israelite",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.0063372785,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelite",
+                    "beginOffset": 127
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

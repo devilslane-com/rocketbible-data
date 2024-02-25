@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Micah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5027001,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Micah",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.29755232,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "voice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11600742,
+        "mentions": [
+            {
+                "text": {
+                    "content": "voice",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Levite",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0j8nd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Levite"
+        },
+        "salience": 0.053280156,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levite",
+                    "beginOffset": 76
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.030460019,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 175
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

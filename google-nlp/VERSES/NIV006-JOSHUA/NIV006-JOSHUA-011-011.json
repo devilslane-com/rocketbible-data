@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Everyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5867398,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Everyone",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24583043,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14639041,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hazor",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04w6j8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tel_Hazor"
+        },
+        "salience": 0.021039361,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hazor",
+                    "beginOffset": 115
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

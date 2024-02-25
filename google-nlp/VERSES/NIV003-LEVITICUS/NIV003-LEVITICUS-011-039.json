@@ -1,0 +1,47 @@
+[
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.59386986,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "animal",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.33145636,
+        "mentions": [
+            {
+                "text": {
+                    "content": "animal",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "carcass",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.074673794,
+        "mentions": [
+            {
+                "text": {
+                    "content": "carcass",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4484779,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "goats",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.38826492,
+        "mentions": [
+            {
+                "text": {
+                    "content": "goats",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cow",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16325717,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cow",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

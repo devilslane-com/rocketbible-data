@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.815946,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Macedonia",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.05587233,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Macedonia",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Achaia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0ld56",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Achaea"
+        },
+        "salience": 0.05587233,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Achaia",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.055207,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Rome",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/06c62",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Rome"
+        },
+        "salience": 0.017102387,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rome",
+                    "beginOffset": 156
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

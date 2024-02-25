@@ -1,0 +1,120 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.63301146,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Mizpah",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11096524,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mizpah",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Moab",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moab,_Utah",
+            "mid": "\/m\/010f5z"
+        },
+        "salience": 0.07872466,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moab",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Moab",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06022974,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04978358,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.046337303,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.020948,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 150
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

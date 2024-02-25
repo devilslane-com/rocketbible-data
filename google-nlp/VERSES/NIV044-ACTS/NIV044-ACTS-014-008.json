@@ -1,0 +1,65 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.82018435,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lystra",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05ycbc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Lystra"
+        },
+        "salience": 0.1589058,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lystra",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "birth",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.0115359835,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birth",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009373869,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

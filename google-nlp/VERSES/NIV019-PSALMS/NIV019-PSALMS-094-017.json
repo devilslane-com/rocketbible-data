@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.78263974,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "silence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1269102,
+        "mentions": [
+            {
+                "text": {
+                    "content": "silence",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.09045007,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

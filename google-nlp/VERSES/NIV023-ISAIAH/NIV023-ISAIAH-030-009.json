@@ -1,0 +1,61 @@
+[
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8696506,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07619527,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "instruction",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.054154146,
+        "mentions": [
+            {
+                "text": {
+                    "content": "instruction",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

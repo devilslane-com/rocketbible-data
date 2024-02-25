@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Sarah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8835417,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sarah",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08039526,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lord",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pleasure",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.036063034,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pleasure",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

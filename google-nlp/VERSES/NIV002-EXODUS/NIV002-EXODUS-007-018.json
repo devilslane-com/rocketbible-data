@@ -1,0 +1,83 @@
+[
+    {
+        "name": "fish",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.6228239,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fish",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "river",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11457095,
+        "mentions": [
+            {
+                "text": {
+                    "content": "river",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nile",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/05b5w",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nile"
+        },
+        "salience": 0.101290666,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nile",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08194706,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egyptians",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/025tvhm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egyptians"
+        },
+        "salience": 0.07936745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egyptians",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

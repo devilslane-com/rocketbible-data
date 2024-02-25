@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.38105875,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "exile",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21759953,
+        "mentions": [
+            {
+                "text": {
+                    "content": "exile",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1847724,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Damascus",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02gjp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Damascus"
+        },
+        "salience": 0.13313134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Damascus",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God Almighty",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.08343799,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God Almighty",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

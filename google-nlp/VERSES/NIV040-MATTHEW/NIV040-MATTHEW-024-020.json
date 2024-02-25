@@ -1,0 +1,47 @@
+[
+    {
+        "name": "flight",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.5535226,
+        "mentions": [
+            {
+                "text": {
+                    "content": "flight",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.32226685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sabbath",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.124210596,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sabbath",
+                    "beginOffset": 62
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

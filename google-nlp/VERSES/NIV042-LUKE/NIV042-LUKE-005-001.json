@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.6326658,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14071386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09950332,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lake of Gennesaret",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/043t2z",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kinneret_(archaeological_site)"
+        },
+        "salience": 0.08470004,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lake of Gennesaret",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.04241697,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 122
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "district",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.66471666,
+        "mentions": [
+            {
+                "text": {
+                    "content": "district",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "section",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.21156107,
+        "mentions": [
+            {
+                "text": {
+                    "content": "section",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sanctuary",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09207876,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sanctuary",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Most Holy Place",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Holy_of_Holies",
+            "mid": "\/m\/025t__f"
+        },
+        "salience": 0.031643525,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Most Holy Place",
+                    "beginOffset": 122
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.73564684,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "plain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21878332,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plain",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Shinar",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01k2rj",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Shinar"
+        },
+        "salience": 0.04556982,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shinar",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

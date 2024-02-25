@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Samuel",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070ng",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Samuel"
+        },
+        "salience": 0.4598673,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samuel",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.2945162,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14393434,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10168215,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 119
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

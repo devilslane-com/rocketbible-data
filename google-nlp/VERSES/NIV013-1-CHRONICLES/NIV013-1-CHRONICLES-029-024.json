@@ -1,0 +1,113 @@
+[
+    {
+        "name": "officers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.455515,
+        "mentions": [
+            {
+                "text": {
+                    "content": "officers",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "warriors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15431644,
+        "mentions": [
+            {
+                "text": {
+                    "content": "warriors",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12214446,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09964884,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "submission",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07604463,
+        "mentions": [
+            {
+                "text": {
+                    "content": "submission",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "King David",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David",
+            "mid": "\/m\/02cvn"
+        },
+        "salience": 0.060150485,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King David",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "King Solomon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070h3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Solomon"
+        },
+        "salience": 0.032180145,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King Solomon",
+                    "beginOffset": 98
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

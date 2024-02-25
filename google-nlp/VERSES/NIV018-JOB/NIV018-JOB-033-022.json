@@ -1,0 +1,62 @@
+[
+    {
+        "name": "pit",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.33651444,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pit",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.31416896,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.24069248,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "messengers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10862414,
+        "mentions": [
+            {
+                "text": {
+                    "content": "messengers",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

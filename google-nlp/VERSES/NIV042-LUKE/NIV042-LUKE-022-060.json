@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7030085,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25354543,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Man",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rooster",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.043446098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rooster",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

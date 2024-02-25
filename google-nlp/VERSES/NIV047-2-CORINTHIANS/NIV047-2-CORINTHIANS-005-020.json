@@ -1,0 +1,97 @@
+[
+    {
+        "name": "ambassadors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6073288,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ambassadors",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.25663856,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 144
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.06864302,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 108
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "appeal",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.052034963,
+        "mentions": [
+            {
+                "text": {
+                    "content": "appeal",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "behalf",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.015354672,
+        "mentions": [
+            {
+                "text": {
+                    "content": "behalf",
+                    "beginOffset": 119
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

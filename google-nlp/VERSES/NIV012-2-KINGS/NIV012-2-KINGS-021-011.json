@@ -1,0 +1,123 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7446078,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04frh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kingdom_of_Judah"
+        },
+        "salience": 0.08014488,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 132
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Manasseh",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Manasseh_of_Judah",
+            "mid": "\/m\/02dtfm"
+        },
+        "salience": 0.0753905,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Manasseh",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Amorites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01twxk",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Amorites"
+        },
+        "salience": 0.045707386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Amorites",
+                    "beginOffset": 94
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sins",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.034148186,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sins",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sin",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.011749006,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sin",
+                    "beginOffset": 143
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "idols",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.008252204,
+        "mentions": [
+            {
+                "text": {
+                    "content": "idols",
+                    "beginOffset": 156
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

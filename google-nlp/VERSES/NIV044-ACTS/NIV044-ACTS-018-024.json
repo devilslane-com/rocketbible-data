@@ -1,0 +1,118 @@
+[
+    {
+        "name": "native",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8025169,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jew",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "native",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Apollos",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01081",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Apollos"
+        },
+        "salience": 0.08190188,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Apollos",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ephesus",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02p8r",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ephesus"
+        },
+        "salience": 0.041369013,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ephesus",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Alexandria",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/013h9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Alexandria,_Virginia"
+        },
+        "salience": 0.040877886,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Alexandria",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "knowledge",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.023515705,
+        "mentions": [
+            {
+                "text": {
+                    "content": "knowledge",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Scriptures",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/02mdj1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Religious_text"
+        },
+        "salience": 0.009818613,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Scriptures",
+                    "beginOffset": 127
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

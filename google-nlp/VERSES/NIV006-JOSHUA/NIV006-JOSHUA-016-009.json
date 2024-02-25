@@ -1,0 +1,80 @@
+[
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.4885173,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "villages",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.3762207,
+        "mentions": [
+            {
+                "text": {
+                    "content": "villages",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "inheritance",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.080043815,
+        "mentions": [
+            {
+                "text": {
+                    "content": "inheritance",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Manassites",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.033872504,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Manassites",
+                    "beginOffset": 120
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ephraimites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0h_gc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tribe_of_Ephraim"
+        },
+        "salience": 0.021345647,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ephraimites",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

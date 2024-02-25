@@ -1,0 +1,72 @@
+[
+    {
+        "name": "hunter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.65971553,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hunter",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Nimrod",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01k99c",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nimrod"
+        },
+        "salience": 0.16356465,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nimrod",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "hunter",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13076,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.045959808,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

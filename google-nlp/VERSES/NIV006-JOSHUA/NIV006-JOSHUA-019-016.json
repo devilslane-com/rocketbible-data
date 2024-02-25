@@ -1,0 +1,80 @@
+[
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.522638,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "villages",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18423858,
+        "mentions": [
+            {
+                "text": {
+                    "content": "villages",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "inheritance",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12950988,
+        "mentions": [
+            {
+                "text": {
+                    "content": "inheritance",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "clans",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.091307,
+        "mentions": [
+            {
+                "text": {
+                    "content": "clans",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zebulun",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0h_40",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tribe_of_Zebulun"
+        },
+        "salience": 0.07230651,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zebulun",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "name": "someone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.35480833,
+        "mentions": [
+            {
+                "text": {
+                    "content": "someone",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2446318,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bow",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16580169,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bow",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.076814696,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "scale armor",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.047141105,
+        "mentions": [
+            {
+                "text": {
+                    "content": "scale armor",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "breastplate",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.046584245,
+        "mentions": [
+            {
+                "text": {
+                    "content": "breastplate",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.027918942,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "fighting",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.015996195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fighting",
+                    "beginOffset": 179
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "chariot driver",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.015235961,
+        "mentions": [
+            {
+                "text": {
+                    "content": "chariot driver",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Wheel",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.005067036,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Wheel",
+                    "beginOffset": 144
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

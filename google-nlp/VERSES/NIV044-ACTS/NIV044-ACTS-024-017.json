@@ -1,0 +1,95 @@
+[
+    {
+        "name": "absence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5262397,
+        "mentions": [
+            {
+                "text": {
+                    "content": "absence",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14553325,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "poor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11106021,
+        "mentions": [
+            {
+                "text": {
+                    "content": "poor",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.095487,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "offerings",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.078642,
+        "mentions": [
+            {
+                "text": {
+                    "content": "offerings",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gifts",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04303782,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gifts",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

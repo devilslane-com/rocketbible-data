@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Samuel",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070ng",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Samuel"
+        },
+        "salience": 0.43931186,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samuel",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070hm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul"
+        },
+        "salience": 0.25370833,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "gateway",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16970822,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gateway",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09979339,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "seer",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.037478197,
+        "mentions": [
+            {
+                "text": {
+                    "content": "seer",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

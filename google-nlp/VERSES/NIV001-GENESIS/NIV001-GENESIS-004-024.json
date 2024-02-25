@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Cain",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cain_and_Abel",
+            "mid": "\/m\/01bc6h"
+        },
+        "salience": 0.44854861,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cain",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "times",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.24652201,
+        "mentions": [
+            {
+                "text": {
+                    "content": "times",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "times",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17863452,
+        "mentions": [
+            {
+                "text": {
+                    "content": "times",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lamech",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/025sm3m",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Lamech_(descendant_of_Cain)"
+        },
+        "salience": 0.12629485,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lamech",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

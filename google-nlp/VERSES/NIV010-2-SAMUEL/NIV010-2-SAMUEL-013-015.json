@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Amnon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0138d",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Amnon"
+        },
+        "salience": 0.85744673,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Amnon",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Amnon",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "hatred",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10651942,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hatred",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fact",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.036033835,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fact",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

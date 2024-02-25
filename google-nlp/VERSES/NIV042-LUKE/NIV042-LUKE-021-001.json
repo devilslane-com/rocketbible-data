@@ -1,0 +1,65 @@
+[
+    {
+        "name": "rich",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.43405664,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rich",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.40390244,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "temple treasury",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09910881,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple treasury",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gifts",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06293212,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gifts",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

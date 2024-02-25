@@ -1,0 +1,155 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18615021,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 115
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.18207684,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11939986,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11939986,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cries",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.082668446,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cries",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tears",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.082668446,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tears",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "petitions",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.081687175,
+        "mentions": [
+            {
+                "text": {
+                    "content": "petitions",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prayers",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.079758376,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prayers",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "submission",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.040613797,
+        "mentions": [
+            {
+                "text": {
+                    "content": "submission",
+                    "beginOffset": 191
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.025576979,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 143
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

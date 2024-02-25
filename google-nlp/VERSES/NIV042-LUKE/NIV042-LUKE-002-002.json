@@ -1,0 +1,75 @@
+[
+    {
+        "name": "census",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.6366423,
+        "mentions": [
+            {
+                "text": {
+                    "content": "census",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Quirinius",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/022km5",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Quirinius"
+        },
+        "salience": 0.20038031,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Quirinius",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "governor",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.117499605,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Syria",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02wv8pm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Roman_Syria"
+        },
+        "salience": 0.0454778,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Syria",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.45058087,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.41530305,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everyone",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lachish",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/013pc5",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tel_Lachish"
+        },
+        "salience": 0.13411608,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lachish",
+                    "beginOffset": 118
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

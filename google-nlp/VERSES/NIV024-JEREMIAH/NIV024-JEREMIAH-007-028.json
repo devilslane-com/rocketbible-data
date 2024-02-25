@@ -1,0 +1,95 @@
+[
+    {
+        "name": "nation",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.67083216,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nation",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "correction",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09580765,
+        "mentions": [
+            {
+                "text": {
+                    "content": "correction",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Truth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0835423,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Truth",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.062478323,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.062478323,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "lips",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.024861244,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lips",
+                    "beginOffset": 157
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

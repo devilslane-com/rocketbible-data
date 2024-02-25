@@ -1,0 +1,53 @@
+[
+    {
+        "name": "churches",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.72593325,
+        "mentions": [
+            {
+                "text": {
+                    "content": "churches",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judea",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judea",
+            "mid": "\/m\/0kf0p"
+        },
+        "salience": 0.15550557,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judea",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.11856119,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 62
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

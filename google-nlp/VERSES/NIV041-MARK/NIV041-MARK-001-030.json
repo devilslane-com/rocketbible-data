@@ -1,0 +1,80 @@
+[
+    {
+        "name": "mother-in-law",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.62987745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother-in-law",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Simon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1802102,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Simon",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "bed",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08520478,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bed",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fever",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07858205,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fever",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.026125513,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

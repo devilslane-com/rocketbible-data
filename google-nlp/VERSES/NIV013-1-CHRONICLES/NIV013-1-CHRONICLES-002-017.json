@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Abigail",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.58539873,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abigail",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Amasa",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Amasa",
+            "mid": "\/m\/0hyd0"
+        },
+        "salience": 0.2758606,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Amasa",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0843767,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ishmaelite",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06lk0n",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ishmaelites"
+        },
+        "salience": 0.037608936,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ishmaelite",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jether",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01twgg",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jether"
+        },
+        "salience": 0.016754996,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jether",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

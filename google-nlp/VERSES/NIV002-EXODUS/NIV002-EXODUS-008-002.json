@@ -1,0 +1,47 @@
+[
+    {
+        "name": "plague",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.5302776,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plague",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.28750363,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "frogs",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18221876,
+        "mentions": [
+            {
+                "text": {
+                    "content": "frogs",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

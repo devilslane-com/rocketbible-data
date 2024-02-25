@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8844071,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ministry",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.06065971,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ministry",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Joseph",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04621511,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joseph",
+                    "beginOffset": 111
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Heli",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.008718068,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Heli",
+                    "beginOffset": 130
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

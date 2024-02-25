@@ -1,0 +1,72 @@
+[
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5400144,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judas Iscariot",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0g3y0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judas_Iscariot"
+        },
+        "salience": 0.24567036,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judas",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Judas Iscariot",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "James",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.118469775,
+        "mentions": [
+            {
+                "text": {
+                    "content": "James",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "traitor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.095845446,
+        "mentions": [
+            {
+                "text": {
+                    "content": "traitor",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

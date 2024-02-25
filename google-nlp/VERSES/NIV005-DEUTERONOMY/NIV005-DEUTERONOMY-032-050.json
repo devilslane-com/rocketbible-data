@@ -1,0 +1,90 @@
+[
+    {
+        "name": "mountain",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.5965842,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mountain",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Aaron",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0llm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Aaron"
+        },
+        "salience": 0.2511229,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Aaron",
+                    "beginOffset": 110
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.081801265,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04038851,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 158
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mount Hor",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/05n03v",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mount_Hor"
+        },
+        "salience": 0.03010311,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mount Hor",
+                    "beginOffset": 124
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

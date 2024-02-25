@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Zion",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02p2_8n",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mount_Zion"
+        },
+        "salience": 0.3983726,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zion",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "wasteland",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cities",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.36609516,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cities",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wasteland",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.13213795,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wasteland",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "desolation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05593215,
+        "mentions": [
+            {
+                "text": {
+                    "content": "desolation",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.04746216,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

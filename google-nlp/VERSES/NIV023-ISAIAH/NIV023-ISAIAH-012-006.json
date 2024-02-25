@@ -1,0 +1,80 @@
+[
+    {
+        "name": "joy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.38454852,
+        "mentions": [
+            {
+                "text": {
+                    "content": "joy",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2683925,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zion",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01hlx8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zion"
+        },
+        "salience": 0.16534325,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zion",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.115865424,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Holy One",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.0658503,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Holy One",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

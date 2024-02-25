@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.45818526,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.26316935,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.11335511,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 95
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.101363316,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 152
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wonders",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.063926995,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wonders",
+                    "beginOffset": 115
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

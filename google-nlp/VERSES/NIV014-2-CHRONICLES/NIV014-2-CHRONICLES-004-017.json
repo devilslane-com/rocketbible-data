@@ -1,0 +1,98 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5536193,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "clay molds",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15629877,
+        "mentions": [
+            {
+                "text": {
+                    "content": "clay molds",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "plain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14582215,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plain",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sukkoth",
+        "type": "EVENT",
+        "metadata": {
+            "mid": "\/m\/072qz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sukkot"
+        },
+        "salience": 0.06708874,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sukkoth",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Zarethan",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0hzj2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zaretan"
+        },
+        "salience": 0.047323138,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zarethan",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jordan",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.029847857,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jordan",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

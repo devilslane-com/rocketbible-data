@@ -1,0 +1,54 @@
+[
+    {
+        "name": "shepherd",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.9550538,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shepherd",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "shepherd",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sheep",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.027566558,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sheep",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.017379621,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

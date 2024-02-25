@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.67799675,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "example",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25098962,
+        "mentions": [
+            {
+                "text": {
+                    "content": "example",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "steps",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0710136,
+        "mentions": [
+            {
+                "text": {
+                    "content": "steps",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

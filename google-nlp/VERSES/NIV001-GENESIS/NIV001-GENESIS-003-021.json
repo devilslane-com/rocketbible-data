@@ -1,0 +1,87 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.38080156,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 9
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "garments",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.37286553,
+        "mentions": [
+            {
+                "text": {
+                    "content": "garments",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Adam",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16445377,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Adam",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "skin",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06208134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "skin",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wife",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.019797811,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

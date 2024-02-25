@@ -1,0 +1,87 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.68002874,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sinner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19138783,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 129
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "sinner",
+                    "beginOffset": 138
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "glory",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.048081182,
+        "mentions": [
+            {
+                "text": {
+                    "content": "glory",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "truth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04311387,
+        "mentions": [
+            {
+                "text": {
+                    "content": "truth",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.037388366,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

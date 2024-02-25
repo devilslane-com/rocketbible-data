@@ -1,0 +1,102 @@
+[
+    {
+        "name": "foreigners",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.32271472,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foreigners",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Solomon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.26882625,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "census",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21441996,
+        "mentions": [
+            {
+                "text": {
+                    "content": "census",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10308786,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "census",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.059554964,
+        "mentions": [
+            {
+                "text": {
+                    "content": "census",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.031396262,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

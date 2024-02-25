@@ -1,0 +1,77 @@
+[
+    {
+        "name": "guests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6440025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "guests",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "places",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10847868,
+        "mentions": [
+            {
+                "text": {
+                    "content": "places",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "honor",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10847868,
+        "mentions": [
+            {
+                "text": {
+                    "content": "honor",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "table",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.099985436,
+        "mentions": [
+            {
+                "text": {
+                    "content": "table",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "parable",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.039054718,
+        "mentions": [
+            {
+                "text": {
+                    "content": "parable",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

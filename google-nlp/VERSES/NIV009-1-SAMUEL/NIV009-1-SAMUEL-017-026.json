@@ -1,0 +1,138 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4006256,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2452993,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1580275,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Philistine",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines",
+            "mid": "\/m\/0618q"
+        },
+        "salience": 0.07215626,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistine",
+                    "beginOffset": 87
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Philistine",
+                    "beginOffset": 163
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "disgrace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0584514,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disgrace",
+                    "beginOffset": 115
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.034962147,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 129
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "armies",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.021523925,
+        "mentions": [
+            {
+                "text": {
+                    "content": "armies",
+                    "beginOffset": 198
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.00895388,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 219
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses",
+            "mid": "\/m\/04yfh"
+        },
+        "salience": 0.5446348,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Pharaoh",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharaoh",
+            "mid": "\/m\/05sx9"
+        },
+        "salience": 0.24267335,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Midian",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01twjb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Midian"
+        },
+        "salience": 0.13857146,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Midian",
+                    "beginOffset": 100
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "well",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.074120365,
+        "mentions": [
+            {
+                "text": {
+                    "content": "well",
+                    "beginOffset": 131
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

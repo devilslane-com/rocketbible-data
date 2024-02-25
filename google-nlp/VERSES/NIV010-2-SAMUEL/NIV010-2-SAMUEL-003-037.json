@@ -1,0 +1,125 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21591502,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21340439,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15158686,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.12870386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abner",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abner",
+            "mid": "\/m\/0qkw"
+        },
+        "salience": 0.09086962,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abner",
+                    "beginOffset": 99
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "part",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06776781,
+        "mentions": [
+            {
+                "text": {
+                    "content": "part",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "murder",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.06776781,
+        "mentions": [
+            {
+                "text": {
+                    "content": "murder",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06398463,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ner",
+                    "beginOffset": 112
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

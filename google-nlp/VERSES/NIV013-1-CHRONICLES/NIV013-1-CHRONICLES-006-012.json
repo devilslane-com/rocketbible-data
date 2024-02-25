@@ -1,0 +1,64 @@
+[
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.77521867,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zadok",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zadok",
+            "mid": "\/m\/05b8v2"
+        },
+        "salience": 0.15754542,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zadok",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Zadok",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Shallum",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06723589,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shallum",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

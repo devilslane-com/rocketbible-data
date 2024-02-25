@@ -1,0 +1,47 @@
+[
+    {
+        "name": "physicians",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8689801,
+        "mentions": [
+            {
+                "text": {
+                    "content": "physicians",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lies",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07684363,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lies",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.054176256,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

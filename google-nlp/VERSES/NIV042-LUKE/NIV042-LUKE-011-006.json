@@ -1,0 +1,62 @@
+[
+    {
+        "name": "friend",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7059061,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friend",
+                    "beginOffset": 2
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mine",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.15357453,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mine",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "journey",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10671685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "journey",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.033802524,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

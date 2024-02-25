@@ -1,0 +1,83 @@
+[
+    {
+        "name": "crowd",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4399077,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crowd",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.21784258,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "boat",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16354354,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boat",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "vicinity",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12529469,
+        "mentions": [
+            {
+                "text": {
+                    "content": "vicinity",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Magadan",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0fxsv",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Magadan"
+        },
+        "salience": 0.053411495,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Magadan",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

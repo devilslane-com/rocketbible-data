@@ -1,0 +1,47 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.39085793,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nations",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.38637623,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nations",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "battles",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.22276583,
+        "mentions": [
+            {
+                "text": {
+                    "content": "battles",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

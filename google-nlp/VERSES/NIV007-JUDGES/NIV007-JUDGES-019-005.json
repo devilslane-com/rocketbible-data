@@ -1,0 +1,62 @@
+[
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4582773,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20650278,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son-in-law",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1902411,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son-in-law",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "something",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14497884,
+        "mentions": [
+            {
+                "text": {
+                    "content": "something",
+                    "beginOffset": 136
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

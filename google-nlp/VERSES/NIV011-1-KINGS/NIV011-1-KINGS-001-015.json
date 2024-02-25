@@ -1,0 +1,86 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.595145,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Bathsheba",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Bathsheba",
+            "mid": "\/m\/01tttm"
+        },
+        "salience": 0.20723376,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bathsheba",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "room",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1693841,
+        "mentions": [
+            {
+                "text": {
+                    "content": "room",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abishag",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0hxl9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abishag"
+        },
+        "salience": 0.014118584,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abishag",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Shunammite",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0gmddr_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Shulamite"
+        },
+        "salience": 0.014118584,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shunammite",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

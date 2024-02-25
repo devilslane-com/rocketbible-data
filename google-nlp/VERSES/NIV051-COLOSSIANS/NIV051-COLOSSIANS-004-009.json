@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Onesimus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j3x9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Onesimus"
+        },
+        "salience": 0.8198203,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Onesimus",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09246861,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "everything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08771113,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everything",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

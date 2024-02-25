@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Bathsheba",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6071004,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bathsheba",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.18887301,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lord",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 122
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "face",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08234044,
+        "mentions": [
+            {
+                "text": {
+                    "content": "face",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06495177,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ground",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.05673437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ground",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "nothing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.36360815,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nothing",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.25006,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "appeal",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2329318,
+        "mentions": [
+            {
+                "text": {
+                    "content": "appeal",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Emperor",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07890868,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Emperor",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Rome",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/06c62",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Rome"
+        },
+        "salience": 0.07449139,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rome",
+                    "beginOffset": 119
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

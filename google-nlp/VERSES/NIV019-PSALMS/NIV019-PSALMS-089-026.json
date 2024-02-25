@@ -1,0 +1,42 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.91323775,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Rock my Savior",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08676224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rock my Savior",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

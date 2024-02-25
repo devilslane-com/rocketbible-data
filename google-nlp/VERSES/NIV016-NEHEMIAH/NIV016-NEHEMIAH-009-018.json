@@ -1,0 +1,80 @@
+[
+    {
+        "name": "god",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.53235066,
+        "mentions": [
+            {
+                "text": {
+                    "content": "god",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "image",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.21674031,
+        "mentions": [
+            {
+                "text": {
+                    "content": "image",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "calf",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14881754,
+        "mentions": [
+            {
+                "text": {
+                    "content": "calf",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "blasphemies",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07428207,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blasphemies",
+                    "beginOffset": 150
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.0278094,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 111
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

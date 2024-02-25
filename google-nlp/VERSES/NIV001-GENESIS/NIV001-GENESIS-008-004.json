@@ -1,0 +1,50 @@
+[
+    {
+        "name": "ark",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.52345574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ark",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mountains",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.3316183,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mountains",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ararat",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/039dqs",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mountains_of_Ararat"
+        },
+        "salience": 0.14492597,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ararat",
+                    "beginOffset": 89
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

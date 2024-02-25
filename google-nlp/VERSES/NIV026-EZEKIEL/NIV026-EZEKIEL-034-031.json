@@ -1,0 +1,72 @@
+[
+    {
+        "name": "sheep",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.8790789,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sheep",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "sheep",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pasture",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.063028455,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pasture",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.035302207,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sovereign Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02259044,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sovereign Lord",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,133 @@
+[
+    {
+        "name": "church",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.62517583,
+        "mentions": [
+            {
+                "text": {
+                    "content": "church",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Epenetus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Epenetus_of_Carthage",
+            "mid": "\/m\/028197p"
+        },
+        "salience": 0.21437418,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friend",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Epenetus",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "convert",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Greet",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Greeting",
+            "mid": "\/m\/02q2qc"
+        },
+        "salience": 0.09102138,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Greet",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.041078467,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "province",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.01410561,
+        "mentions": [
+            {
+                "text": {
+                    "content": "province",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.008373609,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 109
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Asia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04ldyr",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Asia_(Roman_province)"
+        },
+        "salience": 0.0058709304,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Asia",
+                    "beginOffset": 135
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

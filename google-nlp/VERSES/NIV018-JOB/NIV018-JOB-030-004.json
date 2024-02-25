@@ -1,0 +1,69 @@
+[
+    {
+        "name": "brush",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.4407506,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brush",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.35878855,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "root",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "salt herbs",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1331228,
+        "mentions": [
+            {
+                "text": {
+                    "content": "salt herbs",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "broom bush",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.067338035,
+        "mentions": [
+            {
+                "text": {
+                    "content": "broom bush",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Jeremiah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7334642,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jeremiah",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17642473,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prison",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.090111114,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prison",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.8101398,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "rebellion",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.09826188,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rebellion",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "clubs",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.06319224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "clubs",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "swords",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.028406113,
+        "mentions": [
+            {
+                "text": {
+                    "content": "swords",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

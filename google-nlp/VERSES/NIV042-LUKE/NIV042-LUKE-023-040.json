@@ -1,0 +1,50 @@
+[
+    {
+        "name": "criminal",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8718632,
+        "mentions": [
+            {
+                "text": {
+                    "content": "criminal",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.0703547,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sentence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.057782136,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sentence",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "name": "followers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.80898577,
+        "mentions": [
+            {
+                "text": {
+                    "content": "followers",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "judges",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "demons",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13501954,
+        "mentions": [
+            {
+                "text": {
+                    "content": "demons",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Beelzebul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/017dn7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Beelzebub"
+        },
+        "salience": 0.05599467,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Beelzebul",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

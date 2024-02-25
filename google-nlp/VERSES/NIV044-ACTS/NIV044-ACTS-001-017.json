@@ -1,0 +1,47 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8082013,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "number",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1123514,
+        "mentions": [
+            {
+                "text": {
+                    "content": "number",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ministry",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.079447314,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ministry",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

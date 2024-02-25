@@ -1,0 +1,65 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.51649445,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Samuel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.33185586,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samuel",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "kingship",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.119487,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kingship",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gilgal",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gilgal",
+            "mid": "\/m\/02tq9t"
+        },
+        "salience": 0.032162685,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gilgal",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

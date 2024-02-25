@@ -1,0 +1,65 @@
+[
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4874589,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "citizens",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.37505177,
+        "mentions": [
+            {
+                "text": {
+                    "content": "citizens",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Shechem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01p205",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Shechem"
+        },
+        "salience": 0.07162072,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shechem",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abimelek",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.065868616,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abimelek",
+                    "beginOffset": 93
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

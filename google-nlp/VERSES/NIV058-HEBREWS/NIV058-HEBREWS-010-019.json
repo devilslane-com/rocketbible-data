@@ -1,0 +1,95 @@
+[
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4686065,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sisters",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20974094,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sisters",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "confidence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14574611,
+        "mentions": [
+            {
+                "text": {
+                    "content": "confidence",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "blood",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10394573,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blood",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04412807,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 103
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Most Holy Place",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/025t__f",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Holy_of_Holies"
+        },
+        "salience": 0.02783265,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Most Holy Place",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7347183,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jonathan",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12979999,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Jonathan",
+                    "beginOffset": 111
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sake",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.059568413,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sake",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04466343,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grandfather",
+                    "beginOffset": 178
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 190
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.017167639,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 151
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "table",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.014082191,
+        "mentions": [
+            {
+                "text": {
+                    "content": "table",
+                    "beginOffset": 226
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "armor-bearer",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.50335103,
+        "mentions": [
+            {
+                "text": {
+                    "content": "armor-bearer",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25369677,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul",
+            "mid": "\/m\/070hm"
+        },
+        "salience": 0.24295221,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

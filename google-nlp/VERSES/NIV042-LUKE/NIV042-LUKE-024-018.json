@@ -1,0 +1,83 @@
+[
+    {
+        "name": "One",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.37436673,
+        "mentions": [
+            {
+                "text": {
+                    "content": "One",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.203027,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18302184,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Cleopas",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/025t9x3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cleopas"
+        },
+        "salience": 0.15029988,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cleopas",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.08928457,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

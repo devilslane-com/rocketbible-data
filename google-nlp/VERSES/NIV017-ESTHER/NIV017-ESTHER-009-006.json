@@ -1,0 +1,68 @@
+[
+    {
+        "name": "citadel",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.41601536,
+        "mentions": [
+            {
+                "text": {
+                    "content": "citadel",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21246693,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/041rx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews"
+        },
+        "salience": 0.19003905,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Susa",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0gf0n",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Susa"
+        },
+        "salience": 0.18147866,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Susa",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

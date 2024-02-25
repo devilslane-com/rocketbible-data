@@ -1,0 +1,89 @@
+[
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.55588055,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ham",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0272rc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ham_(son_of_Noah)"
+        },
+        "salience": 0.15665697,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ham",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Cush",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cush_(Bible)",
+            "mid": "\/m\/025wsg"
+        },
+        "salience": 0.10955542,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cush",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.10094454,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Canaan",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d9f2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Canaan"
+        },
+        "salience": 0.07696255,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Canaan",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

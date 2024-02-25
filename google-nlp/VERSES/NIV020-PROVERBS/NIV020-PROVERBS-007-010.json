@@ -1,0 +1,47 @@
+[
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.65425515,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "intent",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21097232,
+        "mentions": [
+            {
+                "text": {
+                    "content": "intent",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prostitute",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13477255,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prostitute",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

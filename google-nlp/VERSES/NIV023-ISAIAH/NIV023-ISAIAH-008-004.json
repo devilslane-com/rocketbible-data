@@ -1,0 +1,146 @@
+[
+    {
+        "name": "boy",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25926134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boy",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wealth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21861562,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wealth",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12948385,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12796426,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09065296,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 149
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Damascus",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02gjp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Damascus"
+        },
+        "salience": 0.0715408,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Damascus",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "plunder",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.040380273,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plunder",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Assyria",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0wmn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Assyria"
+        },
+        "salience": 0.038119797,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Assyria",
+                    "beginOffset": 157
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Samaria",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Samaria",
+            "mid": "\/m\/070j2"
+        },
+        "salience": 0.023981107,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samaria",
+                    "beginOffset": 114
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

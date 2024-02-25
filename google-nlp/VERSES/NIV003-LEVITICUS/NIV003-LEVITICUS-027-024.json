@@ -1,0 +1,72 @@
+[
+    {
+        "name": "field",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.48221165,
+        "mentions": [
+            {
+                "text": {
+                    "content": "field",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.43158963,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jubilee",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/01h85y",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jubilee_(biblical)"
+        },
+        "salience": 0.047736324,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jubilee",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.03846239,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

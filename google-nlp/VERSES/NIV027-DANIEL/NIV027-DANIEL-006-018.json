@@ -1,0 +1,47 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8214851,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "palace",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10808625,
+        "mentions": [
+            {
+                "text": {
+                    "content": "palace",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "entertainment",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07042863,
+        "mentions": [
+            {
+                "text": {
+                    "content": "entertainment",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

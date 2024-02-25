@@ -1,0 +1,64 @@
+[
+    {
+        "name": "strength",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.68758917,
+        "mentions": [
+            {
+                "text": {
+                    "content": "strength",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "fortress",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.27719447,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "praise",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.035216354,
+        "mentions": [
+            {
+                "text": {
+                    "content": "praise",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

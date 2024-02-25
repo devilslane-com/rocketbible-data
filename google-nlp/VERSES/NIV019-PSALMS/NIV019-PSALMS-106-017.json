@@ -1,0 +1,68 @@
+[
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.8224295,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Dathan",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0cj2ck",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Dathan"
+        },
+        "salience": 0.07968007,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Dathan",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abiram",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0hxkz",
+            "wikipedia_url": "https:\/\/fr.wikipedia.org\/wiki\/Abiron"
+        },
+        "salience": 0.055975154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abiram",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "company",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.041915312,
+        "mentions": [
+            {
+                "text": {
+                    "content": "company",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "mystery",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.8893768,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mystery",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "church",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.087031074,
+        "mentions": [
+            {
+                "text": {
+                    "content": "church",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.02359208,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

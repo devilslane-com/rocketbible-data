@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Segub",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Segub",
+            "mid": "\/m\/0w1fdbv"
+        },
+        "salience": 0.8577799,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Segub",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jair",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/021ryj",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jair"
+        },
+        "salience": 0.063513055,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jair",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gilead",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02s25l",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gilead"
+        },
+        "salience": 0.04503411,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gilead",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.033672918,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.62161535,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "price",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13245814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "price",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "price",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09528282,
+        "mentions": [
+            {
+                "text": {
+                    "content": "price",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.08614774,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ananias",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ananias_of_Damascus",
+            "mid": "\/m\/05p88k"
+        },
+        "salience": 0.05617888,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ananias",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Yes",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.008317097,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Yes",
+                    "beginOffset": 87
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

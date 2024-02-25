@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Enoch",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/017fh1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Idris_(prophet)"
+        },
+        "salience": 0.7542013,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Enoch",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.1515271,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "more",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09427157,
+        "mentions": [
+            {
+                "text": {
+                    "content": "more",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

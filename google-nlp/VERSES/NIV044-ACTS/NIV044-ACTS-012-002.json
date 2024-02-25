@@ -1,0 +1,69 @@
+[
+    {
+        "name": "James",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.75651664,
+        "mentions": [
+            {
+                "text": {
+                    "content": "James",
+                    "beginOffset": 7
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10528537,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09068288,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.04751512,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

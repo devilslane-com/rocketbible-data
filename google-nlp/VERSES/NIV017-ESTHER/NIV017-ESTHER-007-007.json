@@ -1,0 +1,150 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.60221714,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13004926,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rage",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0808611,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rage",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wine",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.05953704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "palace garden",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.056107152,
+        "mentions": [
+            {
+                "text": {
+                    "content": "palace garden",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Esther",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Esther",
+            "mid": "\/m\/02pn7"
+        },
+        "salience": 0.033159826,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Esther",
+                    "beginOffset": 170
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Queen",
+                    "beginOffset": 164
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Haman",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Haman",
+            "mid": "\/m\/04742r"
+        },
+        "salience": 0.016302664,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Haman",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.013368129,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 185
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fate",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.008397687,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fate",
+                    "beginOffset": 137
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

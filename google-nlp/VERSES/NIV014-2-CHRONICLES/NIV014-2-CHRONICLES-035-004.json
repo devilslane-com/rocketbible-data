@@ -1,0 +1,117 @@
+[
+    {
+        "name": "families",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.31289795,
+        "mentions": [
+            {
+                "text": {
+                    "content": "families",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.29112053,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "divisions",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1299601,
+        "mentions": [
+            {
+                "text": {
+                    "content": "divisions",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Solomon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10886737,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 127
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "instructions",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.09043729,
+        "mentions": [
+            {
+                "text": {
+                    "content": "instructions",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.04996728,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 91
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.016749473,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 105
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

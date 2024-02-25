@@ -1,0 +1,50 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.42919648,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "distress",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.30923977,
+        "mentions": [
+            {
+                "text": {
+                    "content": "distress",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cry",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.26156375,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cry",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

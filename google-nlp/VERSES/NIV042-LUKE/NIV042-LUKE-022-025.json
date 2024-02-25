@@ -1,0 +1,98 @@
+[
+    {
+        "name": "kings",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6595677,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kings",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.16224194,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07933745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lord",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gentiles",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gentile",
+            "mid": "\/m\/018wvh"
+        },
+        "salience": 0.046986967,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gentiles",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Benefactors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.027236372,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Benefactors",
+                    "beginOffset": 127
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "exercise authority",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.024629574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "exercise authority",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

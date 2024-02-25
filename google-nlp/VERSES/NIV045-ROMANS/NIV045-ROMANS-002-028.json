@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jew",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews",
+            "mid": "\/m\/041rx"
+        },
+        "salience": 0.5749999,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jew",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3786926,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 2
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "circumcision",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.046307467,
+        "mentions": [
+            {
+                "text": {
+                    "content": "circumcision",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

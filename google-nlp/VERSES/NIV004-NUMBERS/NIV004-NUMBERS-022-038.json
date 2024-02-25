@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Balaam",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Balaam",
+            "mid": "\/m\/0fyjh"
+        },
+        "salience": 0.94712996,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Balaam",
+                    "beginOffset": 36
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "whatever",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.024229072,
+        "mentions": [
+            {
+                "text": {
+                    "content": "whatever",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.015820669,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 115
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mouth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.012820298,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mouth",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

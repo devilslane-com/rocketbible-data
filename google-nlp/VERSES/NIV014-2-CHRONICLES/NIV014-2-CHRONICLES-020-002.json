@@ -1,0 +1,136 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4129427,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jehoshaphat",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/043l7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jehoshaphat"
+        },
+        "salience": 0.16843018,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jehoshaphat",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "army",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.15136063,
+        "mentions": [
+            {
+                "text": {
+                    "content": "army",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "side",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1053296,
+        "mentions": [
+            {
+                "text": {
+                    "content": "side",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Edom",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01sn3h",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Edom"
+        },
+        "salience": 0.063304156,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Edom",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Dead Sea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02cnp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Dead_Sea"
+        },
+        "salience": 0.058195397,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Dead Sea",
+                    "beginOffset": 114
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hazezon Tamar",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/g\/11c37hbz22"
+        },
+        "salience": 0.02132928,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hazezon Tamar",
+                    "beginOffset": 141
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "En Gedi",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ein_Gedi",
+            "mid": "\/m\/04bcnx"
+        },
+        "salience": 0.019108025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "En Gedi",
+                    "beginOffset": 168
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

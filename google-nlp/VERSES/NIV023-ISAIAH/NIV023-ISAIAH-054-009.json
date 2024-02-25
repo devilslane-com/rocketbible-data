@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Noah",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/05fzm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Noah"
+        },
+        "salience": 0.44556352,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Noah",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Noah",
+                    "beginOffset": 72
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "waters",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.32148904,
+        "mentions": [
+            {
+                "text": {
+                    "content": "waters",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.23294744,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

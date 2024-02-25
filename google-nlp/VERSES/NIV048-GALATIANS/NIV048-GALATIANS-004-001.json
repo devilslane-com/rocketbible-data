@@ -1,0 +1,47 @@
+[
+    {
+        "name": "heir",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5896764,
+        "mentions": [
+            {
+                "text": {
+                    "content": "heir",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "estate",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.25114736,
+        "mentions": [
+            {
+                "text": {
+                    "content": "estate",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "slave",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15917628,
+        "mentions": [
+            {
+                "text": {
+                    "content": "slave",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

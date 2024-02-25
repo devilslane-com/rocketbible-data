@@ -1,0 +1,65 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.787401,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wives",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08988252,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wives",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "outcry",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08391407,
+        "mentions": [
+            {
+                "text": {
+                    "content": "outcry",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/041rx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews"
+        },
+        "salience": 0.03880241,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

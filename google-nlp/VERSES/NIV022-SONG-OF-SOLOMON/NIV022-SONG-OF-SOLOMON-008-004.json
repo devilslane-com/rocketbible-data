@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Daughters",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.49599636,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Daughters",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "love",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25844145,
+        "mentions": [
+            {
+                "text": {
+                    "content": "love",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.24556218,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

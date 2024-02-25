@@ -1,0 +1,47 @@
+[
+    {
+        "name": "thing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.7283276,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thing",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "brother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17897773,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "seventh",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.0926947,
+        "mentions": [
+            {
+                "text": {
+                    "content": "seventh",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

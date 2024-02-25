@@ -1,0 +1,102 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.33002698,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "horses",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29803964,
+        "mentions": [
+            {
+                "text": {
+                    "content": "horses",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "officers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17763129,
+        "mentions": [
+            {
+                "text": {
+                    "content": "officers",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israelites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.09075918,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 140
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 201
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.04880777,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "plight",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.029522002,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plight",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8771019,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 1
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12289812,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

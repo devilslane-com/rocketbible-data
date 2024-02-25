@@ -1,0 +1,110 @@
+[
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5246872,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "captain",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15916313,
+        "mentions": [
+            {
+                "text": {
+                    "content": "captain",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "temple guard",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11022046,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple guard",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sadducees",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sadducees",
+            "mid": "\/m\/0196f4"
+        },
+        "salience": 0.06743488,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sadducees",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.062039662,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0555386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 124
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.020916084,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 87
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

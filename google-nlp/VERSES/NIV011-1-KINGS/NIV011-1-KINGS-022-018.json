@@ -1,0 +1,68 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.69845533,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.19374555,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jehoshaphat",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/043l7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jehoshaphat"
+        },
+        "salience": 0.07917873,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jehoshaphat",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "anything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0286204,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anything",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

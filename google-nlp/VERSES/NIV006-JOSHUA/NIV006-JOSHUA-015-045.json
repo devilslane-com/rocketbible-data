@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Ekron",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ekron",
+            "mid": "\/m\/021k1f"
+        },
+        "salience": 0.7469158,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ekron",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "settlements",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14286418,
+        "mentions": [
+            {
+                "text": {
+                    "content": "settlements",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "villages",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11021999,
+        "mentions": [
+            {
+                "text": {
+                    "content": "villages",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

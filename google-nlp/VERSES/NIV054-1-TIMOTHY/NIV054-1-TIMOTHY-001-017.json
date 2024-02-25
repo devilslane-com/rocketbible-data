@@ -1,0 +1,65 @@
+[
+    {
+        "name": "King",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5768452,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "honor",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21546787,
+        "mentions": [
+            {
+                "text": {
+                    "content": "honor",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.14468835,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "glory",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06299856,
+        "mentions": [
+            {
+                "text": {
+                    "content": "glory",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

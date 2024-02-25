@@ -1,0 +1,65 @@
+[
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.44722307,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sisters",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3139434,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sisters",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Galatia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03bsf",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Galatia"
+        },
+        "salience": 0.13656838,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Galatia",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "churches",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.102265134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "churches",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

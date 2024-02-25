@@ -1,0 +1,65 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6970561,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11415751,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Besor Valley",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02831t7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/HaBesor_Stream"
+        },
+        "salience": 0.10713502,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Besor Valley",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "some",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08165134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "some",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

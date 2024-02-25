@@ -1,0 +1,80 @@
+[
+    {
+        "name": "ram",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.4548995,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ram",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "horn",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20141481,
+        "mentions": [
+            {
+                "text": {
+                    "content": "horn",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "moon",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.17536233,
+        "mentions": [
+            {
+                "text": {
+                    "content": "moon",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "New Moon",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/05h14",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/New_moon"
+        },
+        "salience": 0.09686168,
+        "mentions": [
+            {
+                "text": {
+                    "content": "New Moon",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "festival",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.07146167,
+        "mentions": [
+            {
+                "text": {
+                    "content": "festival",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

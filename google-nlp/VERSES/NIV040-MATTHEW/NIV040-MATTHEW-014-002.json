@@ -1,0 +1,80 @@
+[
+    {
+        "name": "John the Baptist",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/043mx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/John_the_Baptist"
+        },
+        "salience": 0.59238505,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John the Baptist",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "attendants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19325145,
+        "mentions": [
+            {
+                "text": {
+                    "content": "attendants",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12379922,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "work",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04583205,
+        "mentions": [
+            {
+                "text": {
+                    "content": "work",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "powers",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.044732258,
+        "mentions": [
+            {
+                "text": {
+                    "content": "powers",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

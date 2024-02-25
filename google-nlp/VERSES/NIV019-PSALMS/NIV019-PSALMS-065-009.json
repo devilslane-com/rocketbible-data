@@ -1,0 +1,95 @@
+[
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.7002075,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "streams",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.098126955,
+        "mentions": [
+            {
+                "text": {
+                    "content": "streams",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.090160474,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.0584141,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "grain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03010266,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grain",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02298833,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

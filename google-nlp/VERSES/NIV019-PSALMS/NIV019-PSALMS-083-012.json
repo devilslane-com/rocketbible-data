@@ -1,0 +1,50 @@
+[
+    {
+        "name": "possession",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.60055643,
+        "mentions": [
+            {
+                "text": {
+                    "content": "possession",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.22840747,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "pasturelands",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.17103608,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pasturelands",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

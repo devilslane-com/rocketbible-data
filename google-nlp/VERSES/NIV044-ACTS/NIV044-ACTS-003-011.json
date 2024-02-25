@@ -1,0 +1,95 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4217758,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2040624,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12922226,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10436648,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.088744454,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Solomon's Colonnade",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/027b5np",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Solomon's_Porch"
+        },
+        "salience": 0.051828634,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Solomon\u2019s Colonnade",
+                    "beginOffset": 117
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "name": "fools",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.9134764,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fools",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08652356,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

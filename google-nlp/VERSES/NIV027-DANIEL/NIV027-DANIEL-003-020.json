@@ -1,0 +1,80 @@
+[
+    {
+        "name": "soldiers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.515658,
+        "mentions": [
+            {
+                "text": {
+                    "content": "soldiers",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "some",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29530045,
+        "mentions": [
+            {
+                "text": {
+                    "content": "some",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "army",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.08919153,
+        "mentions": [
+            {
+                "text": {
+                    "content": "army",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Shadrach, Meshach and Abednego",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02plxdd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Shadrach,_Meshach,_and_Abednego"
+        },
+        "salience": 0.054733887,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shadrach, Meshach and Abednego",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "furnace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04511611,
+        "mentions": [
+            {
+                "text": {
+                    "content": "furnace",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

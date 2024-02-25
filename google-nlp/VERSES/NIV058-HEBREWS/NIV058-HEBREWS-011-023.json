@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses",
+            "mid": "\/m\/04yfh"
+        },
+        "salience": 0.5985473,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 9
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "child",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "parents",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22592436,
+        "mentions": [
+            {
+                "text": {
+                    "content": "parents",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "faith",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13652825,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faith",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "edict",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.019500043,
+        "mentions": [
+            {
+                "text": {
+                    "content": "edict",
+                    "beginOffset": 154
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.019500043,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

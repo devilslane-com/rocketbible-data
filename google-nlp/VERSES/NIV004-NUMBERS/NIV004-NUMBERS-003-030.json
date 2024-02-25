@@ -1,0 +1,102 @@
+[
+    {
+        "name": "leader",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6482127,
+        "mentions": [
+            {
+                "text": {
+                    "content": "leader",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "families",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11108473,
+        "mentions": [
+            {
+                "text": {
+                    "content": "families",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "clans",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10363878,
+        "mentions": [
+            {
+                "text": {
+                    "content": "clans",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Kohathite",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06816901,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Kohathite",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Uzziel",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0118n_pv",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Uzziel"
+        },
+        "salience": 0.04768133,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Uzziel",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Elizaphan",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02121348,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Elizaphan",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

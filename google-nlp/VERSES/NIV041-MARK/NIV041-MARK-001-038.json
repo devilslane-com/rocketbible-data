@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.71319604,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "villages",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.19082938,
+        "mentions": [
+            {
+                "text": {
+                    "content": "villages",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "somewhere",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09597458,
+        "mentions": [
+            {
+                "text": {
+                    "content": "somewhere",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

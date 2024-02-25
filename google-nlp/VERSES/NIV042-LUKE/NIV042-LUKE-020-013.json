@@ -1,0 +1,47 @@
+[
+    {
+        "name": "owner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46936184,
+        "mentions": [
+            {
+                "text": {
+                    "content": "owner",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3229049,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "vineyard",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.20773326,
+        "mentions": [
+            {
+                "text": {
+                    "content": "vineyard",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

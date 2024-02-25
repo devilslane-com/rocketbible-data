@@ -1,0 +1,101 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4577907,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "countryside",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.30351296,
+        "mentions": [
+            {
+                "text": {
+                    "content": "countryside",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judean",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0kf0p",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judea"
+        },
+        "salience": 0.15029286,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judean",
+                    "beginOffset": 10
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.041353606,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sins",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.037139934,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sins",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jordan River",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0cvy5",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jordan_River"
+        },
+        "salience": 0.009909949,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jordan River",
+                    "beginOffset": 134
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

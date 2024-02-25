@@ -1,0 +1,131 @@
+[
+    {
+        "name": "kings",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.33526888,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kings",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kings",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.23672447,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kings",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cave",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.16062644,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cave",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.090166464,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 62
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lachish",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/013pc5",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tel_Lachish"
+        },
+        "salience": 0.06839627,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lachish",
+                    "beginOffset": 90
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Eglon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0464yl0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Eglon_(king)"
+        },
+        "salience": 0.048160322,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Eglon",
+                    "beginOffset": 102
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hebron",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.030328574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hebron",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jarmuth",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.030328574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jarmuth",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

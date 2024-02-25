@@ -1,0 +1,91 @@
+[
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.61336535,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "grain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14652863,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grain",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bread",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.11154136,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "vineyards",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07879819,
+        "mentions": [
+            {
+                "text": {
+                    "content": "vineyards",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wine",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.04976648,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

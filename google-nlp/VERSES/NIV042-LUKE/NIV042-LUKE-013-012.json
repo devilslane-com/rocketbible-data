@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.5838044,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.28132778,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Woman",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "infirmity",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13486779,
+        "mentions": [
+            {
+                "text": {
+                    "content": "infirmity",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

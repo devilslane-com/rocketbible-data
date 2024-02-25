@@ -1,0 +1,65 @@
+[
+    {
+        "name": "homes",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.6065933,
+        "mentions": [
+            {
+                "text": {
+                    "content": "homes",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "church of God",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/01gyz7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Church_of_God_(Cleveland,_Tennessee)"
+        },
+        "salience": 0.27504948,
+        "mentions": [
+            {
+                "text": {
+                    "content": "church of God",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "nothing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07728152,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nothing",
+                    "beginOffset": 110
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "matter",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04107568,
+        "mentions": [
+            {
+                "text": {
+                    "content": "matter",
+                    "beginOffset": 186
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

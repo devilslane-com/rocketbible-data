@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.57474405,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 173
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Simon Peter",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saint_Peter",
+            "mid": "\/m\/071wp"
+        },
+        "salience": 0.175569,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Simon Peter",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Simon",
+                    "beginOffset": 61
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "eating",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14727,
+        "mentions": [
+            {
+                "text": {
+                    "content": "eating",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02395069,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.018115,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Yes",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.010748138,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Yes",
+                    "beginOffset": 118
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "lambs",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0095481975,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lambs",
+                    "beginOffset": 196
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

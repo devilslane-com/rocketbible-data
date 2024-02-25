@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Simon, Simon",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.47051823,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Simon, Simon",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21849012,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wheat",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16788156,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wheat",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Satan",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Satan",
+            "mid": "\/m\/06wzv"
+        },
+        "salience": 0.1431101,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Satan",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

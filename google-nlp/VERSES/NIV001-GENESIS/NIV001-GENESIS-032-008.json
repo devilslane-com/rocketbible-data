@@ -1,0 +1,57 @@
+[
+    {
+        "name": "group",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.8089401,
+        "mentions": [
+            {
+                "text": {
+                    "content": "group",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "group",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Esau",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Esau",
+            "mid": "\/m\/016zh8"
+        },
+        "salience": 0.10109073,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Esau",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "attacks",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.08996914,
+        "mentions": [
+            {
+                "text": {
+                    "content": "attacks",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

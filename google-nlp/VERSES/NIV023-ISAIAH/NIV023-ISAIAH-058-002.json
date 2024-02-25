@@ -1,0 +1,87 @@
+[
+    {
+        "name": "nation",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.59846383,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nation",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.12756673,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 159
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 214
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ways",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12058594,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ways",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "commands",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.112209305,
+        "mentions": [
+            {
+                "text": {
+                    "content": "commands",
+                    "beginOffset": 143
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "decisions",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.041174177,
+        "mentions": [
+            {
+                "text": {
+                    "content": "decisions",
+                    "beginOffset": 185
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

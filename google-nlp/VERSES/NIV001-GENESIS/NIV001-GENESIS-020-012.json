@@ -1,0 +1,69 @@
+[
+    {
+        "name": "daughter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8716602,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sister",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "daughter",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07106239,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wife",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03511624,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02216121,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

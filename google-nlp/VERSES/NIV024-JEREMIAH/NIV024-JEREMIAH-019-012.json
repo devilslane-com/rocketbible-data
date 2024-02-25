@@ -1,0 +1,65 @@
+[
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.59398174,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.16257763,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15807301,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Topheth",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03pgg7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tophet"
+        },
+        "salience": 0.0853676,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Topheth",
+                    "beginOffset": 111
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

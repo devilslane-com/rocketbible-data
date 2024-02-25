@@ -1,0 +1,62 @@
+[
+    {
+        "name": "beer",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.5808701,
+        "mentions": [
+            {
+                "text": {
+                    "content": "beer",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "song",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.16824234,
+        "mentions": [
+            {
+                "text": {
+                    "content": "song",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wine",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.16633251,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "drinkers",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.084555075,
+        "mentions": [
+            {
+                "text": {
+                    "content": "drinkers",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

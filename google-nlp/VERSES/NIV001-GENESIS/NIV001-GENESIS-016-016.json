@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Abram",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.76101744,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abram",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hagar",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hagar",
+            "mid": "\/m\/01sq9c"
+        },
+        "salience": 0.14528568,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hagar",
+                    "beginOffset": 36
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ishmael",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ishmael_in_Islam",
+            "mid": "\/m\/01ghr4"
+        },
+        "salience": 0.0936969,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ishmael",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "name": "sand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20965056,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sand",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "seashore",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.20965056,
+        "mentions": [
+            {
+                "text": {
+                    "content": "seashore",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.19816545,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Dan",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13508224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Dan",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Beersheba",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01tdm6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Beersheba"
+        },
+        "salience": 0.13508224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Beersheba",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "battle",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.112368934,
+        "mentions": [
+            {
+                "text": {
+                    "content": "battle",
+                    "beginOffset": 158
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

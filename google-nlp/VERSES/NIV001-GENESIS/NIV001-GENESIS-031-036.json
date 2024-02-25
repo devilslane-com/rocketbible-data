@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Laban",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6894625,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Laban",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Laban",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jacob",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16834132,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jacob",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "task",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09926183,
+        "mentions": [
+            {
+                "text": {
+                    "content": "task",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "crime",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.042934384,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crime",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

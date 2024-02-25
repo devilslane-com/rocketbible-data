@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Esther",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01dpg",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Book_of_Esther"
+        },
+        "salience": 0.3712022,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Esther",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "adversary",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2662279,
+        "mentions": [
+            {
+                "text": {
+                    "content": "adversary",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "enemy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18499814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "enemy",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Haman",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Haman",
+            "mid": "\/m\/04742r"
+        },
+        "salience": 0.06772031,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Haman",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Haman",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06445591,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "queen",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04539555,
+        "mentions": [
+            {
+                "text": {
+                    "content": "queen",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.555365,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.38537765,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "love",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.053177662,
+        "mentions": [
+            {
+                "text": {
+                    "content": "love",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "predecessor",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.0060796607,
+        "mentions": [
+            {
+                "text": {
+                    "content": "predecessor",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Israel",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.5766304,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.29362422,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Amorites",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/01twxk",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Amorites"
+        },
+        "salience": 0.12974538,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Amorites",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

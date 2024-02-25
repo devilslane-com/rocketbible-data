@@ -1,0 +1,162 @@
+[
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.62310505,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 207
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "door",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14302544,
+        "mentions": [
+            {
+                "text": {
+                    "content": "door",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06461866,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.039331023,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.038860437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.038860437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "thing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.017521566,
+        "mentions": [
+            {
+                "text": {
+                    "content": "thing",
+                    "beginOffset": 140
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.015050806,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 196
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.010393633,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 149
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "evil",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009232922,
+        "mentions": [
+            {
+                "text": {
+                    "content": "evil",
+                    "beginOffset": 233
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

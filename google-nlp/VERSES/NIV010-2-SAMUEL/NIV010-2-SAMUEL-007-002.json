@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Nathan",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3171657,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nathan",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "prophet",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21043172,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1467066,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cedar",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13509928,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cedar",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tent",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.072651856,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tent",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.061560173,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 90
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "ark",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.056384668,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ark",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

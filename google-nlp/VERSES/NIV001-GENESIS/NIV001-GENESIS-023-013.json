@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Ephron",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.86814696,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ephron",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "hearing",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.08133813,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hearing",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "price",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02525745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "price",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "field",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.02525745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "field",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

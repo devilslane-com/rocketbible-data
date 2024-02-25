@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7325337,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 79
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Agrippa",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Marcus_Vipsanius_Agrippa",
+            "mid": "\/m\/04zzd"
+        },
+        "salience": 0.15104078,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Agrippa",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "permission",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07295561,
+        "mentions": [
+            {
+                "text": {
+                    "content": "permission",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.025526555,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "defense",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.01794338,
+        "mentions": [
+            {
+                "text": {
+                    "content": "defense",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

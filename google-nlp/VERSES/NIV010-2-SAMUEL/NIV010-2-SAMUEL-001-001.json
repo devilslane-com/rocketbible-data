@@ -1,0 +1,83 @@
+[
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.52627295,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15698266,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14831303,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Amalekites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/g\/11bc59z1rs",
+            "wikipedia_url": "https:\/\/de.wikipedia.org\/wiki\/Amalekiter"
+        },
+        "salience": 0.09556799,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Amalekites",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ziklag",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0hz9k",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ziklag"
+        },
+        "salience": 0.07286334,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ziklag",
+                    "beginOffset": 88
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

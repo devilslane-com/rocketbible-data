@@ -1,0 +1,54 @@
+[
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.38007888,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 91
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.36102498,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "human origin",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25889614,
+        "mentions": [
+            {
+                "text": {
+                    "content": "human origin",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

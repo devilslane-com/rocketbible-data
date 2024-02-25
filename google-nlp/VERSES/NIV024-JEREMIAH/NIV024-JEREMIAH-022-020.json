@@ -1,0 +1,83 @@
+[
+    {
+        "name": "voice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.30074906,
+        "mentions": [
+            {
+                "text": {
+                    "content": "voice",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lebanon",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.26253167,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lebanon",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "allies",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.21203396,
+        "mentions": [
+            {
+                "text": {
+                    "content": "allies",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Bashan",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01tw_n",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Bashan"
+        },
+        "salience": 0.16791083,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bashan",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abarim",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abarim",
+            "mid": "\/m\/0hxbr"
+        },
+        "salience": 0.056774497,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abarim",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

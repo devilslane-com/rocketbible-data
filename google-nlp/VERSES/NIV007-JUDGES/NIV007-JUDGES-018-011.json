@@ -1,0 +1,86 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3835804,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "battle",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.25161073,
+        "mentions": [
+            {
+                "text": {
+                    "content": "battle",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Danites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02171q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Danite"
+        },
+        "salience": 0.16480395,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Danites",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Zorah",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0hz82",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zorah"
+        },
+        "salience": 0.11713383,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zorah",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Eshtaol",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03m6ks8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Eshtaol"
+        },
+        "salience": 0.08287108,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Eshtaol",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

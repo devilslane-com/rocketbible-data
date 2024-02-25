@@ -1,0 +1,107 @@
+[
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.33840442,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Izhar",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03bx5cp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Izhar"
+        },
+        "salience": 0.31353745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Izhar",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Kohath",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/07lshr",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kehath"
+        },
+        "salience": 0.16203432,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Kohath",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Levi",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16203432,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Levi",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.023989465,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.6471047,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14779298,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Capernaum",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01yrdx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Capernaum"
+        },
+        "salience": 0.11230035,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Capernaum",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09280196,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

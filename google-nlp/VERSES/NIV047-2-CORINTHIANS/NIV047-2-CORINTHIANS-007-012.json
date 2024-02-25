@@ -1,0 +1,80 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4153671,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "account",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19725287,
+        "mentions": [
+            {
+                "text": {
+                    "content": "account",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "account",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19494197,
+        "mentions": [
+            {
+                "text": {
+                    "content": "account",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "party",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.16027708,
+        "mentions": [
+            {
+                "text": {
+                    "content": "party",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.03216098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 146
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

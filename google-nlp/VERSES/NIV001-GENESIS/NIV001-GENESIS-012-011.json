@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Sarai",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.583434,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Sarai",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.25125694,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16530907,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

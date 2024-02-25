@@ -1,0 +1,53 @@
+[
+    {
+        "name": "towns",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.57469267,
+        "mentions": [
+            {
+                "text": {
+                    "content": "towns",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gibeah",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02x014",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gibeah"
+        },
+        "salience": 0.24981357,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gibeah",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israelites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.17549375,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5106725,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pilate",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0svr8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pontius_Pilate"
+        },
+        "salience": 0.2560934,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pilate",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Galilean",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06rzs8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Galilean"
+        },
+        "salience": 0.23323408,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Galilean",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

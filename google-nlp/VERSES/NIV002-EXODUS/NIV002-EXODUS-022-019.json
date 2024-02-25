@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.70984024,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Anyone",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "animal",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1075165,
+        "mentions": [
+            {
+                "text": {
+                    "content": "animal",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "relations",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10631235,
+        "mentions": [
+            {
+                "text": {
+                    "content": "relations",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.07633093,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

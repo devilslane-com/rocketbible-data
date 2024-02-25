@@ -1,0 +1,108 @@
+[
+    {
+        "name": "firstborn",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.326959,
+        "mentions": [
+            {
+                "text": {
+                    "content": "firstborn",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.28901386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25817084,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sons",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Amnon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0138d",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Amnon"
+        },
+        "salience": 0.046845492,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Amnon",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hebron",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/09lvk",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hebron"
+        },
+        "salience": 0.046291426,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hebron",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ahinoam of Jezreel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.032719377,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ahinoam of Jezreel",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

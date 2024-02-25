@@ -1,0 +1,65 @@
+[
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.60527956,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fire",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19482586,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fire",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Taberah",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02w26zt",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Taberah"
+        },
+        "salience": 0.13714199,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Taberah",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06275256,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

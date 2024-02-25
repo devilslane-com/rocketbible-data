@@ -1,0 +1,115 @@
+[
+    {
+        "name": "Dead Sea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02cnp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Dead_Sea"
+        },
+        "salience": 0.5163267,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sea",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Dead Sea",
+                    "beginOffset": 101
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Arabah",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01sp6x",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Arabah"
+        },
+        "salience": 0.16927601,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Arabah",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Arabah",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sea of Galilee",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sea_of_Galilee",
+            "mid": "\/m\/0j1t3"
+        },
+        "salience": 0.1645892,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sea of Galilee",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "slopes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.075939104,
+        "mentions": [
+            {
+                "text": {
+                    "content": "slopes",
+                    "beginOffset": 160
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pisgah",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.045325566,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pisgah",
+                    "beginOffset": 170
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Beth Jeshimoth",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.028543409,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Beth Jeshimoth",
+                    "beginOffset": 115
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

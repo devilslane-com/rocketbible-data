@@ -1,0 +1,65 @@
+[
+    {
+        "name": "baby",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.77239275,
+        "mentions": [
+            {
+                "text": {
+                    "content": "baby",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16169675,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "babies",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.041344944,
+        "mentions": [
+            {
+                "text": {
+                    "content": "babies",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hebrew",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/03hkp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hebrew_language"
+        },
+        "salience": 0.024565557,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hebrew",
+                    "beginOffset": 97
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

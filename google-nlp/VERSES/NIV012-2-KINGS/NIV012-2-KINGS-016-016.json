@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Uriah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01ttyl",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Uriah_the_Hittite"
+        },
+        "salience": 0.40943953,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Uriah",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ahaz",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ahaz",
+            "mid": "\/m\/0hy0s"
+        },
+        "salience": 0.30729628,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ahaz",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2832642,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

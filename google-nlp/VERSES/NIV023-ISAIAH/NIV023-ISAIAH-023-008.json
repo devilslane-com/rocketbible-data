@@ -1,0 +1,91 @@
+[
+    {
+        "name": "Tyre",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.43311527,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Tyre",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "bestower",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "merchants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3770018,
+        "mentions": [
+            {
+                "text": {
+                    "content": "merchants",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "princes",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "crowns",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.105023354,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crowns",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.052514713,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "traders",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03234485,
+        "mentions": [
+            {
+                "text": {
+                    "content": "traders",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

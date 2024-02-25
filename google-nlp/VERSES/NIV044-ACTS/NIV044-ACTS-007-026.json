@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.56376576,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israelites",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites",
+            "mid": "\/m\/0dxbn"
+        },
+        "salience": 0.30554432,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11209012,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Men",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "each other",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.018599777,
+        "mentions": [
+            {
+                "text": {
+                    "content": "each other",
+                    "beginOffset": 151
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

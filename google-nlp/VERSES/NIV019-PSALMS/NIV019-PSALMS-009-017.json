@@ -1,0 +1,65 @@
+[
+    {
+        "name": "nations",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.48573327,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nations",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2242652,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "realm",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22175351,
+        "mentions": [
+            {
+                "text": {
+                    "content": "realm",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.068248,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

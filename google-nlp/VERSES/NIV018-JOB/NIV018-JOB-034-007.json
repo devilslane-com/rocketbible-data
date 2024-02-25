@@ -1,0 +1,65 @@
+[
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.50614065,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21448582,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Job",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/04115t2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Job"
+        },
+        "salience": 0.1825764,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Job",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "scorn",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.096797116,
+        "mentions": [
+            {
+                "text": {
+                    "content": "scorn",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

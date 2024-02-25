@@ -1,0 +1,65 @@
+[
+    {
+        "name": "one",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29716608,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gibeah",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02x014",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gibeah"
+        },
+        "salience": 0.2559508,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gibeah",
+                    "beginOffset": 40
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ramah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.23567872,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ramah",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "places",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.2112044,
+        "mentions": [
+            {
+                "text": {
+                    "content": "places",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

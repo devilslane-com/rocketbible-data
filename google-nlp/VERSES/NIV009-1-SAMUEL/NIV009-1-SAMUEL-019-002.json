@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6615106,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "chance",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22674567,
+        "mentions": [
+            {
+                "text": {
+                    "content": "chance",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hiding",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.077492364,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hiding",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "guard",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.034251392,
+        "mentions": [
+            {
+                "text": {
+                    "content": "guard",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

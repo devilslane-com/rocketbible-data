@@ -1,0 +1,128 @@
+[
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.39853394,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 2
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.24310707,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1244536,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06944092,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "alabaster jar",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04919362,
+        "mentions": [
+            {
+                "text": {
+                    "content": "alabaster jar",
+                    "beginOffset": 128
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.041726157,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Pharisee",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharisees",
+            "mid": "\/m\/0j3fm"
+        },
+        "salience": 0.03882224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharisee",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "perfume",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03472247,
+        "mentions": [
+            {
+                "text": {
+                    "content": "perfume",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

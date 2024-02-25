@@ -1,0 +1,127 @@
+[
+    {
+        "name": "mouth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3413496,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mouth",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "mouth",
+                    "beginOffset": 133
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "boundary",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.3400999,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boundary",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jordan",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03__y",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jordan"
+        },
+        "salience": 0.12761232,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jordan",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jordan",
+                    "beginOffset": 146
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Dead Sea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02cnp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Dead_Sea"
+        },
+        "salience": 0.097132616,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Dead Sea",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "boundary",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.051552594,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boundary",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sea",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.030409036,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sea",
+                    "beginOffset": 122
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bay",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.01184394,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bay",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5433624,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nothing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1818721,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nothing",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "another",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1818721,
+        "mentions": [
+            {
+                "text": {
+                    "content": "another",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wealth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09289342,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wealth",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

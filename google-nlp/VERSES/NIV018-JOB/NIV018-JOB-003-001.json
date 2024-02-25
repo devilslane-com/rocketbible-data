@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Job",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Job",
+            "mid": "\/m\/04115t2"
+        },
+        "salience": 0.7948485,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Job",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mouth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14945222,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mouth",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "birth",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.055699304,
+        "mentions": [
+            {
+                "text": {
+                    "content": "birth",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

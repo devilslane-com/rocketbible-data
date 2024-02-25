@@ -1,0 +1,83 @@
+[
+    {
+        "name": "ancestors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.45897767,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ancestors",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "suffering",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.29278418,
+        "mentions": [
+            {
+                "text": {
+                    "content": "suffering",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt",
+            "mid": "\/m\/02k54"
+        },
+        "salience": 0.12340741,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "cry",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06420758,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cry",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Red Sea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/06jfd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Red_Sea"
+        },
+        "salience": 0.060623154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Red Sea",
+                    "beginOffset": 79
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

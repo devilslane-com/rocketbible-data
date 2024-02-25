@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4764099,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2805268,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hezekiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03myb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hezekiah"
+        },
+        "salience": 0.24306329,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hezekiah",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

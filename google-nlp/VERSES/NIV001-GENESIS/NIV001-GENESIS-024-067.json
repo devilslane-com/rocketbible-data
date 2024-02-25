@@ -1,0 +1,124 @@
+[
+    {
+        "name": "Isaac",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5673425,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Isaac",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Isaac",
+                    "beginOffset": 123
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Rebekah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02qq5_b",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Rebecca"
+        },
+        "salience": 0.20372358,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rebekah",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sarah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13567585,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Sarah",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "tent",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.056234688,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tent",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wife",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.017357,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.010466405,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 153
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.009199989,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 164
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

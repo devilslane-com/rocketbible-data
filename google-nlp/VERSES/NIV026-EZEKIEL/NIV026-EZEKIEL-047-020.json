@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Mediterranean Sea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04swx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mediterranean_Sea"
+        },
+        "salience": 0.5627589,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mediterranean Sea",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "boundary",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "side",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21644887,
+        "mentions": [
+            {
+                "text": {
+                    "content": "side",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "point",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14032565,
+        "mentions": [
+            {
+                "text": {
+                    "content": "point",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "boundary",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.051743746,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boundary",
+                    "beginOffset": 122
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lebo Hamath",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.028722793,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lebo Hamath",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

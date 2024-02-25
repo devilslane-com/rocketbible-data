@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5170385,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ark",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2751403,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ark",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "City of David",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0j3w2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/City_of_David"
+        },
+        "salience": 0.101810545,
+        "mentions": [
+            {
+                "text": {
+                    "content": "City of David",
+                    "beginOffset": 69
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.05779608,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Obed-Edom",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j404",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Obed-Edom"
+        },
+        "salience": 0.024107277,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Obed-Edom",
+                    "beginOffset": 120
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gittite",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/g\/1203n8m2c",
+            "wikipedia_url": "https:\/\/pt.wikipedia.org\/wiki\/Geteu"
+        },
+        "salience": 0.024107277,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gittite",
+                    "beginOffset": 134
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

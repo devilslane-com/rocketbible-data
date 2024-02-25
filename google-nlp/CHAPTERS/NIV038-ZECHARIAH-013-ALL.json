@@ -1,0 +1,901 @@
+[
+    {
+        "name": "farmer",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22953163,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 257
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "farmer",
+                    "beginOffset": 763
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 1046
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "inhabitants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.098852,
+        "mentions": [
+            {
+                "text": {
+                    "content": "inhabitants",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0980598,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 198
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 343
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "idols",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.055868566,
+        "mentions": [
+            {
+                "text": {
+                    "content": "idols",
+                    "beginOffset": 183
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.044972196,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "impurity",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.044972196,
+        "mentions": [
+            {
+                "text": {
+                    "content": "impurity",
+                    "beginOffset": 126
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fountain",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.039578017,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fountain",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sin",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.039578017,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sin",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "parents",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.033318758,
+        "mentions": [
+            {
+                "text": {
+                    "content": "parents",
+                    "beginOffset": 532
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "names",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.023832079,
+        "mentions": [
+            {
+                "text": {
+                    "content": "names",
+                    "beginOffset": 170
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.023524119,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.023524119,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.018320523,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 398
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wounds",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.016779013,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wounds",
+                    "beginOffset": 857
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "wounds",
+                    "beginOffset": 906
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.012582265,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 554
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.010277393,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 775
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prophets",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009677468,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophets",
+                    "beginOffset": 298
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.009091388,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 1458
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "impurity",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.008221514,
+        "mentions": [
+            {
+                "text": {
+                    "content": "impurity",
+                    "beginOffset": 325
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prophet",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.007981598,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 595
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "spirit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0072230496,
+        "mentions": [
+            {
+                "text": {
+                    "content": "spirit",
+                    "beginOffset": 315
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.006900066,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 499
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prophet",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.006544985,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 669
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prophet",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0065342546,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 747
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.006444121,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 356
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.006061714,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 508
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Almighty",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.005451629,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Almighty",
+                    "beginOffset": 262
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Almighty",
+                    "beginOffset": 1051
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "more",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0052737705,
+        "mentions": [
+            {
+                "text": {
+                    "content": "more",
+                    "beginOffset": 235
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0050726556,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 932
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "vision",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0048928144,
+        "mentions": [
+            {
+                "text": {
+                    "content": "vision",
+                    "beginOffset": 638
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hair",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.00488355,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hair",
+                    "beginOffset": 692
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "order",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.00488355,
+        "mentions": [
+            {
+                "text": {
+                    "content": "order",
+                    "beginOffset": 700
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "garment",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.00488355,
+        "mentions": [
+            {
+                "text": {
+                    "content": "garment",
+                    "beginOffset": 681
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.004753324,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 1202
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.004516895,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 1006
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0044841757,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 1180
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "youth",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.004466964,
+        "mentions": [
+            {
+                "text": {
+                    "content": "youth",
+                    "beginOffset": 812
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "someone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0044611804,
+        "mentions": [
+            {
+                "text": {
+                    "content": "someone",
+                    "beginOffset": 825
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "body",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0044611804,
+        "mentions": [
+            {
+                "text": {
+                    "content": "body",
+                    "beginOffset": 872
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "friends",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.004455955,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friends",
+                    "beginOffset": 944
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.004451189,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 966
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "third",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.004172071,
+        "mentions": [
+            {
+                "text": {
+                    "content": "third",
+                    "beginOffset": 1293
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0039953785,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 1495
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "livelihood",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0036241615,
+        "mentions": [
+            {
+                "text": {
+                    "content": "livelihood",
+                    "beginOffset": 792
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lies",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.003484738,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lies",
+                    "beginOffset": 487
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "silver",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0033425514,
+        "mentions": [
+            {
+                "text": {
+                    "content": "silver",
+                    "beginOffset": 1349
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fire",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0033425514,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fire",
+                    "beginOffset": 1319
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.002918061,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 1402
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.002562011,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 387
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gold",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0023393948,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gold",
+                    "beginOffset": 1375
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.0017670115,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 1507
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Each",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.001734482,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Each",
+                    "beginOffset": 718
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "shepherd",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0016744093,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shepherd",
+                    "beginOffset": 984
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "shepherd",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0016712348,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shepherd",
+                    "beginOffset": 1075
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ones",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0014678253,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ones",
+                    "beginOffset": 1161
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sheep",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0014678253,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sheep",
+                    "beginOffset": 1093
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0007930528,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 1137
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

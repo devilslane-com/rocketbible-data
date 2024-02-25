@@ -1,0 +1,50 @@
+[
+    {
+        "name": "wine",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.77044874,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "debauchery",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19955401,
+        "mentions": [
+            {
+                "text": {
+                    "content": "debauchery",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Spirit",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Spirit",
+            "mid": "\/m\/05jpb7"
+        },
+        "salience": 0.029997258,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Spirit",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

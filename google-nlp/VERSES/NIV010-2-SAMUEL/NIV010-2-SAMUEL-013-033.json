@@ -1,0 +1,87 @@
+[
+    {
+        "name": "lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.72033507,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lord",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.09131012,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "report",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.08766177,
+        "mentions": [
+            {
+                "text": {
+                    "content": "report",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07899431,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Amnon",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Amnon",
+            "mid": "\/m\/0138d"
+        },
+        "salience": 0.02169872,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Amnon",
+                    "beginOffset": 100
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

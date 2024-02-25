@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Samuel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8017019,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samuel",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12967716,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 78
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Carmel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Carmel-by-the-Sea,_California",
+            "mid": "\/m\/0r1yc"
+        },
+        "salience": 0.03950095,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Carmel",
+                    "beginOffset": 95
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "monument",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009892452,
+        "mentions": [
+            {
+                "text": {
+                    "content": "monument",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "honor",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009892452,
+        "mentions": [
+            {
+                "text": {
+                    "content": "honor",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gilgal",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02tq9t",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gilgal"
+        },
+        "salience": 0.009335096,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gilgal",
+                    "beginOffset": 186
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

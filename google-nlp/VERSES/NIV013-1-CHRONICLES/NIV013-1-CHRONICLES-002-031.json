@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Ishi",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ishi",
+            "mid": "\/m\/017mhw"
+        },
+        "salience": 0.8527815,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Ishi",
+                    "beginOffset": 19
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Appaim",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.06206469,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Appaim",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sheshan",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.044766184,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sheshan",
+                    "beginOffset": 47
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Sheshan",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03018946,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ahlai",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.010198202,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ahlai",
+                    "beginOffset": 82
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

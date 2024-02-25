@@ -1,0 +1,75 @@
+[
+    {
+        "name": "proclamation",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.55173326,
+        "mentions": [
+            {
+                "text": {
+                    "content": "proclamation",
+                    "beginOffset": 2
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.28358942,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 96
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kingdom_of_Judah",
+            "mid": "\/m\/04frh"
+        },
+        "salience": 0.10747623,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "exiles",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.057201125,
+        "mentions": [
+            {
+                "text": {
+                    "content": "exiles",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

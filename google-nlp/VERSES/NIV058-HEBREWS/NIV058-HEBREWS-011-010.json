@@ -1,0 +1,80 @@
+[
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.28855342,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "foundations",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.28855342,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foundations",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "builder",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20343578,
+        "mentions": [
+            {
+                "text": {
+                    "content": "builder",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.10990224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 88
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "architect",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10955516,
+        "mentions": [
+            {
+                "text": {
+                    "content": "architect",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

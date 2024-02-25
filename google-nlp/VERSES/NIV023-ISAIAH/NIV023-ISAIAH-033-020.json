@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.52580994,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "abode",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zion",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mount_Zion",
+            "mid": "\/m\/02p2_8n"
+        },
+        "salience": 0.28923118,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zion",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "festivals",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.059311356,
+        "mentions": [
+            {
+                "text": {
+                    "content": "festivals",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tent",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.041065186,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tent",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "any",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02865074,
+        "mentions": [
+            {
+                "text": {
+                    "content": "any",
+                    "beginOffset": 160
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "eyes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.023051623,
+        "mentions": [
+            {
+                "text": {
+                    "content": "eyes",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ropes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.020174725,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ropes",
+                    "beginOffset": 171
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "stakes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.012705252,
+        "mentions": [
+            {
+                "text": {
+                    "content": "stakes",
+                    "beginOffset": 124
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

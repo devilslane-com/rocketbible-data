@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Seth",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Seth",
+            "mid": "\/m\/0d51w"
+        },
+        "salience": 0.7340036,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Seth",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Enosh",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0cf982",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Enos_(biblical_figure)"
+        },
+        "salience": 0.15196566,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Enosh",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11403072,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

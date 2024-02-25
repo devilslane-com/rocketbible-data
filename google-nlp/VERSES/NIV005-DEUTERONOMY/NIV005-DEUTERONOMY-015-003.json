@@ -1,0 +1,65 @@
+[
+    {
+        "name": "foreigner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.402656,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foreigner",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "payment",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2968711,
+        "mentions": [
+            {
+                "text": {
+                    "content": "payment",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israelite",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.17206548,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelite",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "debt",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12840745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "debt",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

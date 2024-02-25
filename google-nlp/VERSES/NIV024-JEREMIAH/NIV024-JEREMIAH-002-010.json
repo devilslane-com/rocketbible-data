@@ -1,0 +1,65 @@
+[
+    {
+        "name": "coasts",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.40717995,
+        "mentions": [
+            {
+                "text": {
+                    "content": "coasts",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Cyprus",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cyprus",
+            "mid": "\/m\/01ppq"
+        },
+        "salience": 0.25124678,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cyprus",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Kedar",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17507403,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Kedar",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "anything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16649924,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anything",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

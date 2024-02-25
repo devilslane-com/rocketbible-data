@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6017863,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sins",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15963963,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sins",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "communities",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1194627,
+        "mentions": [
+            {
+                "text": {
+                    "content": "communities",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gaza",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0357_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gaza_Strip"
+        },
+        "salience": 0.09608548,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gaza",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Edom",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01sn3h",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Edom"
+        },
+        "salience": 0.023025857,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Edom",
+                    "beginOffset": 149
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

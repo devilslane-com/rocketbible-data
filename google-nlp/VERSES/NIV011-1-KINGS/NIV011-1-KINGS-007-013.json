@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Solomon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070h3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Solomon"
+        },
+        "salience": 0.74418974,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Tyre",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/07kx2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Tyre,_Lebanon"
+        },
+        "salience": 0.13381897,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Tyre",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Huram",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12199128,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Huram",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

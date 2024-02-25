@@ -1,0 +1,47 @@
+[
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.60580707,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "love",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24943987,
+        "mentions": [
+            {
+                "text": {
+                    "content": "love",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "liar",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14475305,
+        "mentions": [
+            {
+                "text": {
+                    "content": "liar",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

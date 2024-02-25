@@ -1,0 +1,118 @@
+[
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.37574524,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Solomon",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Solomon",
+            "mid": "\/m\/070h3"
+        },
+        "salience": 0.237321,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 104
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jeroboam",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/043mj",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jeroboam"
+        },
+        "salience": 0.16072555,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jeroboam",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Jeroboam",
+                    "beginOffset": 36
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0958595,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Shishak",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04_9kf",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Shishak"
+        },
+        "salience": 0.07868667,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shishak",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.051662065,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

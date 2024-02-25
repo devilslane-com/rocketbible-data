@@ -1,0 +1,65 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.604725,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.19986202,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "dog",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11482483,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dog",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "flea",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.080588154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "flea",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

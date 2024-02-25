@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5029441,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.2976365,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Creator",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "ends",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08286628,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ends",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07616164,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 101
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "no one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04039148,
+        "mentions": [
+            {
+                "text": {
+                    "content": "no one",
+                    "beginOffset": 163
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

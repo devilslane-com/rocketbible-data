@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070hm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul"
+        },
+        "salience": 0.64320576,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 133
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13600077,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.07798938,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 196
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "search",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.05515825,
+        "mentions": [
+            {
+                "text": {
+                    "content": "search",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Desert of Maon",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.040390946,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Desert of Maon",
+                    "beginOffset": 112
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Desert of Maon",
+                    "beginOffset": 167
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "rock",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.038189713,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rock",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pursuit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009065173,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pursuit",
+                    "beginOffset": 185
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

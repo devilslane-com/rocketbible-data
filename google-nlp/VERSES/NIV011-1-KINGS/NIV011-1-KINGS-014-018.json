@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Ahijah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j28pl0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ahijah_the_Shilonite"
+        },
+        "salience": 0.5300889,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Ahijah",
+                    "beginOffset": 102
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34485438,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.12505674,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

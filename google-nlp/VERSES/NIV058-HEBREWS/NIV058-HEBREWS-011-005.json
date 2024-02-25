@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Enoch",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/017fh1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Idris_(prophet)"
+        },
+        "salience": 0.56794614,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Enoch",
+                    "beginOffset": 9
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "faith",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21007404,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faith",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.086621895,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.070747055,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 112
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 200
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.06461089,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6395639,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "household",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.23843224,
+        "mentions": [
+            {
+                "text": {
+                    "content": "household",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "care",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.063906096,
+        "mentions": [
+            {
+                "text": {
+                    "content": "care",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "palace",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.03974653,
+        "mentions": [
+            {
+                "text": {
+                    "content": "palace",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "concubines",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.018351197,
+        "mentions": [
+            {
+                "text": {
+                    "content": "concubines",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3973689,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Damascus",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02gjp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Damascus"
+        },
+        "salience": 0.36223623,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Damascus",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Assyria",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Assyria",
+            "mid": "\/m\/0wmn"
+        },
+        "salience": 0.16518794,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Assyria",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "inhabitants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.03448872,
+        "mentions": [
+            {
+                "text": {
+                    "content": "inhabitants",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.018355817,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Rezin",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/07sbkkm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Rezin"
+        },
+        "salience": 0.015525046,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rezin",
+                    "beginOffset": 112
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Kir",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0068373517,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Kir",
+                    "beginOffset": 100
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

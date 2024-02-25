@@ -1,0 +1,79 @@
+[
+    {
+        "name": "members",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6295809,
+        "mentions": [
+            {
+                "text": {
+                    "content": "members",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "members",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.26024792,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 97
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "bodies",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.088653095,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bodies",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prostitute",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.021518063,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prostitute",
+                    "beginOffset": 126
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

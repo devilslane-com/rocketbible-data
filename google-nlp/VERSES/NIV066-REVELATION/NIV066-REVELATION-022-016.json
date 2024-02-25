@@ -1,0 +1,128 @@
+[
+    {
+        "name": "angel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.36432254,
+        "mentions": [
+            {
+                "text": {
+                    "content": "angel",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.30214486,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "churches",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.13848774,
+        "mentions": [
+            {
+                "text": {
+                    "content": "churches",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "testimony",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10531978,
+        "mentions": [
+            {
+                "text": {
+                    "content": "testimony",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Root",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.03702898,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Root",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Offspring",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.020781392,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Offspring",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Morning Star",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04n24",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Lucifer"
+        },
+        "salience": 0.019609945,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Morning Star",
+                    "beginOffset": 134
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.012304776,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 112
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

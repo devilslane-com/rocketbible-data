@@ -1,0 +1,65 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3825567,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "stubble",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25324494,
+        "mentions": [
+            {
+                "text": {
+                    "content": "stubble",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "straw",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19537896,
+        "mentions": [
+            {
+                "text": {
+                    "content": "straw",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02k54",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt"
+        },
+        "salience": 0.16881938,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

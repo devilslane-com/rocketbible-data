@@ -1,0 +1,47 @@
+[
+    {
+        "name": "ravens",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5083339,
+        "mentions": [
+            {
+                "text": {
+                    "content": "ravens",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.25959462,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cattle",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23207146,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cattle",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

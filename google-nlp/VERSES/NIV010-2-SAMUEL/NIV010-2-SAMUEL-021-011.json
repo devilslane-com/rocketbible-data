@@ -1,0 +1,93 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.3830891,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Rizpah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j1zs",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Rizpah"
+        },
+        "salience": 0.34979904,
+        "mentions": [
+            {
+                "text": {
+                    "content": "daughter",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Rizpah",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Aiah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10858396,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aiah",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul",
+            "mid": "\/m\/070hm"
+        },
+        "salience": 0.10112507,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "concubine",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05740286,
+        "mentions": [
+            {
+                "text": {
+                    "content": "concubine",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

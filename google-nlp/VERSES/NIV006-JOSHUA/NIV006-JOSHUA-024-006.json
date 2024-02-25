@@ -1,0 +1,116 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.58141387,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sea",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.12795211,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sea",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt",
+            "mid": "\/m\/02k54"
+        },
+        "salience": 0.11143981,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 34
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egyptians",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/025tvhm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egyptians"
+        },
+        "salience": 0.07087766,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egyptians",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Red Sea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/06jfd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Red_Sea"
+        },
+        "salience": 0.03782297,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Red Sea",
+                    "beginOffset": 134
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "chariots",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.035246782,
+        "mentions": [
+            {
+                "text": {
+                    "content": "chariots",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "horsemen",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.035246782,
+        "mentions": [
+            {
+                "text": {
+                    "content": "horsemen",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

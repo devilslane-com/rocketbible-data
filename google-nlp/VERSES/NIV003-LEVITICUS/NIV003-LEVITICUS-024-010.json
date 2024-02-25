@@ -1,0 +1,124 @@
+[
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5369217,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10173985,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.070100985,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fight",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.065318,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fight",
+                    "beginOffset": 95
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israelite",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.061763942,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelite",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Israelite",
+                    "beginOffset": 142
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "camp",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.049721744,
+        "mentions": [
+            {
+                "text": {
+                    "content": "camp",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egyptian",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.042193078,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egyptian",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

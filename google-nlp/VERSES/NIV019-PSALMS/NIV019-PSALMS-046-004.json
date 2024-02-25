@@ -1,0 +1,95 @@
+[
+    {
+        "name": "river",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.2858768,
+        "mentions": [
+            {
+                "text": {
+                    "content": "river",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "streams",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2411537,
+        "mentions": [
+            {
+                "text": {
+                    "content": "streams",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.16849697,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "place",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.13191384,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.10164536,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Most High",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.07091334,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Most High",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

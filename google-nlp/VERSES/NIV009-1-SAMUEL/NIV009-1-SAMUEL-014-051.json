@@ -1,0 +1,109 @@
+[
+    {
+        "name": "Ner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30761683,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Ner",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070hm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul"
+        },
+        "salience": 0.29127115,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Kish",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21885706,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Kish",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abner",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08157187,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abner",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abiel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.057656053,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abiel",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.043027032,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Philip",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5149259,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philip",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Philip",
+                    "beginOffset": 126
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "chariot",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.16259237,
+        "mentions": [
+            {
+                "text": {
+                    "content": "chariot",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "prophet",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14166544,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11228422,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Isaiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03x0k",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Isaiah"
+        },
+        "salience": 0.06853206,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Isaiah",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

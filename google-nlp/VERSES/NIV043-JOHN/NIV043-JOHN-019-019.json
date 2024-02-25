@@ -1,0 +1,87 @@
+[
+    {
+        "name": "notice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.35011208,
+        "mentions": [
+            {
+                "text": {
+                    "content": "notice",
+                    "beginOffset": 13
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "jesus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.27441537,
+        "mentions": [
+            {
+                "text": {
+                    "content": "jesus",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pilate",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0svr8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pontius_Pilate"
+        },
+        "salience": 0.24364948,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pilate",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "cross",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10574665,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cross",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "jews",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.026076412,
+        "mentions": [
+            {
+                "text": {
+                    "content": "jews",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

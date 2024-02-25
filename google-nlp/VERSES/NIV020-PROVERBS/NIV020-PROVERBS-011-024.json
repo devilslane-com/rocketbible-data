@@ -1,0 +1,47 @@
+[
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7235557,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "another",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17737311,
+        "mentions": [
+            {
+                "text": {
+                    "content": "another",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "poverty",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09907118,
+        "mentions": [
+            {
+                "text": {
+                    "content": "poverty",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

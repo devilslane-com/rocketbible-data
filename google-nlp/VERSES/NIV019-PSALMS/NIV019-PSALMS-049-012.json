@@ -1,0 +1,47 @@
+[
+    {
+        "name": "People",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.54585797,
+        "mentions": [
+            {
+                "text": {
+                    "content": "People",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "beasts",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24586356,
+        "mentions": [
+            {
+                "text": {
+                    "content": "beasts",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wealth",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20827849,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wealth",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

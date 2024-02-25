@@ -1,0 +1,95 @@
+[
+    {
+        "name": "one",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.46481165,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "journeys",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20203319,
+        "mentions": [
+            {
+                "text": {
+                    "content": "journeys",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "authority",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13097984,
+        "mentions": [
+            {
+                "text": {
+                    "content": "authority",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Damascus",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Damascus",
+            "mid": "\/m\/02gjp"
+        },
+        "salience": 0.086152755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Damascus",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07101409,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "commission",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.04500847,
+        "mentions": [
+            {
+                "text": {
+                    "content": "commission",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

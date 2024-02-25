@@ -1,0 +1,101 @@
+[
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.2191216,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "colony",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.21657367,
+        "mentions": [
+            {
+                "text": {
+                    "content": "colony",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "district",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.20186621,
+        "mentions": [
+            {
+                "text": {
+                    "content": "district",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Philippi",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/010w8y",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philippi,_West_Virginia"
+        },
+        "salience": 0.19093107,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philippi",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Roman",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02l341",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ancient_Rome"
+        },
+        "salience": 0.13061526,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Roman",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Macedonia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0bjv6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Republic_of_Macedonia"
+        },
+        "salience": 0.04089221,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Macedonia",
+                    "beginOffset": 92
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

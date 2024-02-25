@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5113528,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Son",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "image",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.25143963,
+        "mentions": [
+            {
+                "text": {
+                    "content": "image",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "creation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.102414824,
+        "mentions": [
+            {
+                "text": {
+                    "content": "creation",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.08832817,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "firstborn",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.046464603,
+        "mentions": [
+            {
+                "text": {
+                    "content": "firstborn",
+                    "beginOffset": 47
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

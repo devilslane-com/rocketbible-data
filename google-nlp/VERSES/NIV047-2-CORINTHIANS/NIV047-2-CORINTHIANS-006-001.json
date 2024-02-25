@@ -1,0 +1,72 @@
+[
+    {
+        "name": "co-workers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.36677778,
+        "mentions": [
+            {
+                "text": {
+                    "content": "co-workers",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.36146778,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "vain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1817718,
+        "mentions": [
+            {
+                "text": {
+                    "content": "vain",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "grace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08998264,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grace",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

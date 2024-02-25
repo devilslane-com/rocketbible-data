@@ -1,0 +1,80 @@
+[
+    {
+        "name": "brother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3447474,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sister",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3447474,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sister",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "contempt",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15709189,
+        "mentions": [
+            {
+                "text": {
+                    "content": "contempt",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "judgment seat",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08312183,
+        "mentions": [
+            {
+                "text": {
+                    "content": "judgment seat",
+                    "beginOffset": 129
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.07029151,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 121
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

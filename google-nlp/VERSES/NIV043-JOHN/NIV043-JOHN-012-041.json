@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Isaiah",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Isaiah",
+            "mid": "\/m\/03x0k"
+        },
+        "salience": 0.55112886,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Isaiah",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3529838,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "glory",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09588732,
+        "mentions": [
+            {
+                "text": {
+                    "content": "glory",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

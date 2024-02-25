@@ -1,0 +1,110 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.36255088,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Earth",
+            "mid": "\/m\/02j71"
+        },
+        "salience": 0.21065249,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 10
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "disaster",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.12044555,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disaster",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "schemes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08851712,
+        "mentions": [
+            {
+                "text": {
+                    "content": "schemes",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fruit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.083392695,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fruit",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "words",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.067220636,
+        "mentions": [
+            {
+                "text": {
+                    "content": "words",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "law",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.067220636,
+        "mentions": [
+            {
+                "text": {
+                    "content": "law",
+                    "beginOffset": 148
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

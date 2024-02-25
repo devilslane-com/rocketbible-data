@@ -1,0 +1,80 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46209136,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.27335826,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Maker",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.12776393,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Maker",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zion",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02p2_8n",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mount_Zion"
+        },
+        "salience": 0.07215912,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zion",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "King",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.064627334,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

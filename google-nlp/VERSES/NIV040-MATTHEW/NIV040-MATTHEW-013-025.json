@@ -1,0 +1,62 @@
+[
+    {
+        "name": "everyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6445942,
+        "mentions": [
+            {
+                "text": {
+                    "content": "everyone",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "enemy",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16909908,
+        "mentions": [
+            {
+                "text": {
+                    "content": "enemy",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "weeds",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13814797,
+        "mentions": [
+            {
+                "text": {
+                    "content": "weeds",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wheat",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.048158742,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wheat",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "name": "slave masters",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.7710765,
+        "mentions": [
+            {
+                "text": {
+                    "content": "slave masters",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "labor",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09185966,
+        "mentions": [
+            {
+                "text": {
+                    "content": "labor",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "store cities",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.064393446,
+        "mentions": [
+            {
+                "text": {
+                    "content": "store cities",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pithom",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/05x8cv",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pithom"
+        },
+        "salience": 0.028474582,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pithom",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Pharaoh",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05sx9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharaoh"
+        },
+        "salience": 0.027124144,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharaoh",
+                    "beginOffset": 125
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Rameses",
+        "type": "CONSUMER_GOOD",
+        "metadata": {
+            "mid": "\/m\/016fv9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ramesses_II"
+        },
+        "salience": 0.017071657,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Rameses",
+                    "beginOffset": 97
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

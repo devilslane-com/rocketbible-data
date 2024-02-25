@@ -1,0 +1,65 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7742787,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "party",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.19961327,
+        "mentions": [
+            {
+                "text": {
+                    "content": "party",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "master",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.014067336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "master",
+                    "beginOffset": 154
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.012040699,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 102
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

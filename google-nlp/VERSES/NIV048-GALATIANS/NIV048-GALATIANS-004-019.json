@@ -1,0 +1,65 @@
+[
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.74784315,
+        "mentions": [
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "childbirth",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.10818282,
+        "mentions": [
+            {
+                "text": {
+                    "content": "childbirth",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pains",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.095697135,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pains",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.04827689,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

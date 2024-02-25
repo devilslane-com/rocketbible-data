@@ -1,0 +1,95 @@
+[
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.36081618,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "plenty",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17659254,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plenty",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15733668,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Aenon",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0hxb0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/\u00c6non"
+        },
+        "salience": 0.14891829,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aenon",
+                    "beginOffset": 31
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Salim",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.102270864,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Salim",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.054065444,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

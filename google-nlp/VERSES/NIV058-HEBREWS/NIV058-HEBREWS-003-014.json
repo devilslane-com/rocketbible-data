@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.3881534,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "end",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.32408658,
+        "mentions": [
+            {
+                "text": {
+                    "content": "end",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "conviction",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.28776,
+        "mentions": [
+            {
+                "text": {
+                    "content": "conviction",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

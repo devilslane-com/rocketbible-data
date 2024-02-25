@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Edom",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01sn3h",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Edom"
+        },
+        "salience": 0.5483495,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Edom",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "all",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.23562796,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "object",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1085768,
+        "mentions": [
+            {
+                "text": {
+                    "content": "object",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "horror",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.071353,
+        "mentions": [
+            {
+                "text": {
+                    "content": "horror",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wounds",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.036092773,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wounds",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

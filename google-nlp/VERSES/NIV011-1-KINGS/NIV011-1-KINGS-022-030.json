@@ -1,0 +1,127 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.66994786,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 121
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.10606712,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 129
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "robes",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.07548469,
+        "mentions": [
+            {
+                "text": {
+                    "content": "robes",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "battle",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.051003125,
+        "mentions": [
+            {
+                "text": {
+                    "content": "battle",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "disguise",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04554813,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disguise",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jehoshaphat",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jehoshaphat",
+            "mid": "\/m\/043l7"
+        },
+        "salience": 0.039606374,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jehoshaphat",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "battle",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.012342697,
+        "mentions": [
+            {
+                "text": {
+                    "content": "battle",
+                    "beginOffset": 168
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

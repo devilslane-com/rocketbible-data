@@ -1,0 +1,72 @@
+[
+    {
+        "name": "No one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7902469,
+        "mentions": [
+            {
+                "text": {
+                    "content": "No one",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "sir",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.11762805,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "life",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0677945,
+        "mentions": [
+            {
+                "text": {
+                    "content": "life",
+                    "beginOffset": 106
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sin",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.024330556,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sin",
+                    "beginOffset": 114
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

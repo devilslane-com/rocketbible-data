@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Cephas",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7971569,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cephas",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem",
+            "mid": "\/m\/0430_"
+        },
+        "salience": 0.20284311,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

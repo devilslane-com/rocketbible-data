@@ -1,0 +1,95 @@
+[
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.5540154,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bed",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1529303,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bed",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "bedroom",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1529303,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bedroom",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "head",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08200185,
+        "mentions": [
+            {
+                "text": {
+                    "content": "head",
+                    "beginOffset": 127
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "way",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.036500704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "way",
+                    "beginOffset": 181
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Arabah",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01sp6x",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Arabah"
+        },
+        "salience": 0.02162143,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Arabah",
+                    "beginOffset": 192
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

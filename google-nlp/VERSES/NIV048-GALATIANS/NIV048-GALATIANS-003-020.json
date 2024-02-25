@@ -1,0 +1,50 @@
+[
+    {
+        "name": "mediator",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7080323,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mediator",
+                    "beginOffset": 2
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "party",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.23207267,
+        "mentions": [
+            {
+                "text": {
+                    "content": "party",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.05989505,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

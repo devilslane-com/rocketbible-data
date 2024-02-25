@@ -1,0 +1,54 @@
+[
+    {
+        "name": "elders",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5095695,
+        "mentions": [
+            {
+                "text": {
+                    "content": "elders",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "witness",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.417907,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "witness",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Gilead",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.072523475,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gilead",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

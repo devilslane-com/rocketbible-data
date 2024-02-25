@@ -1,0 +1,95 @@
+[
+    {
+        "name": "hail",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3790178,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hail",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lightning",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3400693,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lightning",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "storm",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.22985189,
+        "mentions": [
+            {
+                "text": {
+                    "content": "storm",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nation",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.026272694,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nation",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0155626945,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Egypt",
+            "mid": "\/m\/02k54"
+        },
+        "salience": 0.009225658,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egypt",
+                    "beginOffset": 90
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

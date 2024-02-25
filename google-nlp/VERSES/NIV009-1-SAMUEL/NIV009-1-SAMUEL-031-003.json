@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070hm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul"
+        },
+        "salience": 0.5157787,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "fighting",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.39976686,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fighting",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "archers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08445444,
+        "mentions": [
+            {
+                "text": {
+                    "content": "archers",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

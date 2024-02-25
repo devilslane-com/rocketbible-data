@@ -1,0 +1,113 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3812003,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "orders",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19491409,
+        "mentions": [
+            {
+                "text": {
+                    "content": "orders",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Esau",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/016zh8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Esau"
+        },
+        "salience": 0.19374667,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Esau",
+                    "beginOffset": 114
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "descendants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07610309,
+        "mentions": [
+            {
+                "text": {
+                    "content": "descendants",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "relatives",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07088981,
+        "mentions": [
+            {
+                "text": {
+                    "content": "relatives",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "territory",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.070054926,
+        "mentions": [
+            {
+                "text": {
+                    "content": "territory",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Seir",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/03jfr9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mount_Seir"
+        },
+        "salience": 0.013091101,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Seir",
+                    "beginOffset": 132
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

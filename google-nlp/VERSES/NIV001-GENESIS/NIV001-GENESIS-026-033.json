@@ -1,0 +1,65 @@
+[
+    {
+        "name": "name",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.47010362,
+        "mentions": [
+            {
+                "text": {
+                    "content": "name",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Shibah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34042582,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shibah",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.10708543,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Beersheba",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01tdm6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Beersheba"
+        },
+        "salience": 0.08238511,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Beersheba",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

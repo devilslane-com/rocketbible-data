@@ -1,0 +1,80 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3052814,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "merchants",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21387894,
+        "mentions": [
+            {
+                "text": {
+                    "content": "merchants",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "island",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.21140735,
+        "mentions": [
+            {
+                "text": {
+                    "content": "island",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "seafarers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1504377,
+        "mentions": [
+            {
+                "text": {
+                    "content": "seafarers",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sidon",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/070rd",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sidon"
+        },
+        "salience": 0.11899461,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sidon",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

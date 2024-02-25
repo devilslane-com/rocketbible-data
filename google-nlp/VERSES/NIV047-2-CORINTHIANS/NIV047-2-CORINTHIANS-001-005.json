@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.5496604,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 97
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sufferings",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.34139195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sufferings",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "comfort",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.108947635,
+        "mentions": [
+            {
+                "text": {
+                    "content": "comfort",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Samson",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.67823637,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samson",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gaza",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gaza_Strip",
+            "mid": "\/m\/0357_"
+        },
+        "salience": 0.26574484,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gaza",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "prostitute",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.056018785,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prostitute",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

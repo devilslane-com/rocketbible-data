@@ -1,0 +1,116 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.60575014,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "province",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.100639634,
+        "mentions": [
+            {
+                "text": {
+                    "content": "province",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "hurry",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.093844615,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hurry",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ephesus",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02p8r",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ephesus"
+        },
+        "salience": 0.088788755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ephesus",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Asia",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0j0k",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Asia"
+        },
+        "salience": 0.06157315,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Asia",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Pentecost",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.030305756,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pentecost",
+                    "beginOffset": 155
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.019097969,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 117
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

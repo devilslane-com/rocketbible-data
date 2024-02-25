@@ -1,0 +1,101 @@
+[
+    {
+        "name": "messengers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.58167094,
+        "mentions": [
+            {
+                "text": {
+                    "content": "messengers",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.14839046,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10247657,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kingdom_of_Israel_(Samaria)",
+            "mid": "\/m\/04fry"
+        },
+        "salience": 0.06254601,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ahab",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pjp",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ahab"
+        },
+        "salience": 0.061803468,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ahab",
+                    "beginOffset": 36
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ben-Hadad",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06_ydn7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ben-Hadad_I"
+        },
+        "salience": 0.043112572,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ben-Hadad",
+                    "beginOffset": 81
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

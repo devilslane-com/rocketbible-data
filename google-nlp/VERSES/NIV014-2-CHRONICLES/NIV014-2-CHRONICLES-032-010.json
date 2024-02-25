@@ -1,0 +1,101 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.30160603,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "confidence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1951144,
+        "mentions": [
+            {
+                "text": {
+                    "content": "confidence",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sennacherib",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070jj",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sennacherib"
+        },
+        "salience": 0.18442562,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sennacherib",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Assyria",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0wmn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Assyria"
+        },
+        "salience": 0.1257163,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Assyria",
+                    "beginOffset": 36
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "siege",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10457781,
+        "mentions": [
+            {
+                "text": {
+                    "content": "siege",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.08855983,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 109
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

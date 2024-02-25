@@ -1,0 +1,80 @@
+[
+    {
+        "name": "church",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.3606817,
+        "mentions": [
+            {
+                "text": {
+                    "content": "church",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sister",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25966263,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sister",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "soldier",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.18142937,
+        "mentions": [
+            {
+                "text": {
+                    "content": "soldier",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Archippus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02w_0m",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Archippus"
+        },
+        "salience": 0.108147465,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Archippus",
+                    "beginOffset": 30
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.090078816,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

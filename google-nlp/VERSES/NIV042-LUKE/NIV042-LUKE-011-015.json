@@ -1,0 +1,72 @@
+[
+    {
+        "name": "some",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4074683,
+        "mentions": [
+            {
+                "text": {
+                    "content": "some",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Beelzebul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/017dn7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Beelzebub"
+        },
+        "salience": 0.34965134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Beelzebul",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "prince",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "demons",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13753876,
+        "mentions": [
+            {
+                "text": {
+                    "content": "demons",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "demons",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.105341606,
+        "mentions": [
+            {
+                "text": {
+                    "content": "demons",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

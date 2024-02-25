@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Luke",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/g\/121tbbp4",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Luke_the_Evangelist"
+        },
+        "salience": 0.5976328,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friend",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Luke",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "doctor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21205421,
+        "mentions": [
+            {
+                "text": {
+                    "content": "doctor",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "greetings",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.14995039,
+        "mentions": [
+            {
+                "text": {
+                    "content": "greetings",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Demas",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/09b2nb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Demas"
+        },
+        "salience": 0.04036261,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Demas",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

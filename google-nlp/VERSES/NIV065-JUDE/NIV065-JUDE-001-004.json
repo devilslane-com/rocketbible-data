@@ -1,0 +1,150 @@
+[
+    {
+        "name": "individuals",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.69023854,
+        "mentions": [
+            {
+                "text": {
+                    "content": "individuals",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "condemnation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24252422,
+        "mentions": [
+            {
+                "text": {
+                    "content": "condemnation",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "grace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.021894252,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grace",
+                    "beginOffset": 147
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.011609257,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 239
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.007967272,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus Christ",
+                    "beginOffset": 203
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "license",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0072883354,
+        "mentions": [
+            {
+                "text": {
+                    "content": "license",
+                    "beginOffset": 171
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "immorality",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0072883354,
+        "mentions": [
+            {
+                "text": {
+                    "content": "immorality",
+                    "beginOffset": 183
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sovereign",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.006876915,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sovereign",
+                    "beginOffset": 225
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.0043128473,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 160
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.8430588,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07892308,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "realm",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.078018114,
+        "mentions": [
+            {
+                "text": {
+                    "content": "realm",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

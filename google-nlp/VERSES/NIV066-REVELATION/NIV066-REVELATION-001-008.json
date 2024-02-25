@@ -1,0 +1,75 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.70240736,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Alpha",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.19282667,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Alpha",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Omega",
+        "type": "CONSUMER_GOOD",
+        "metadata": {
+            "mid": "\/m\/05nq2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Omega"
+        },
+        "salience": 0.07817795,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Omega",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Almighty",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.026588002,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Almighty",
+                    "beginOffset": 103
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

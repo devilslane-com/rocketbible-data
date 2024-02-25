@@ -1,0 +1,110 @@
+[
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.37778002,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rule",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.18189679,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rule",
+                    "beginOffset": 146
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "believer",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15045781,
+        "mentions": [
+            {
+                "text": {
+                    "content": "believer",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "situation",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1034726,
+        "mentions": [
+            {
+                "text": {
+                    "content": "situation",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1034726,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.057848282,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 113
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "churches",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.025071878,
+        "mentions": [
+            {
+                "text": {
+                    "content": "churches",
+                    "beginOffset": 173
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

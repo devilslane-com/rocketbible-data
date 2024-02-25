@@ -1,0 +1,98 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.34540078,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rest",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2203329,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rest",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "command",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15394923,
+        "mentions": [
+            {
+                "text": {
+                    "content": "command",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "brother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14182603,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abishai",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0bf05p",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abishai_(biblical_figure)"
+        },
+        "salience": 0.092869475,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abishai",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ammonites",
+        "type": "CONSUMER_GOOD",
+        "metadata": {
+            "mid": "\/m\/0sk0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ammon"
+        },
+        "salience": 0.045621578,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ammonites",
+                    "beginOffset": 104
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

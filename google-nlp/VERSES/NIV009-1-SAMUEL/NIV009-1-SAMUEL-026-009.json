@@ -1,0 +1,68 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David",
+            "mid": "\/m\/02cvn"
+        },
+        "salience": 0.59547406,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abishai",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0bf05p",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abishai_(biblical_figure)"
+        },
+        "salience": 0.26501477,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abishai",
+                    "beginOffset": 18
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "hand",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09255388,
+        "mentions": [
+            {
+                "text": {
+                    "content": "hand",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04695731,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

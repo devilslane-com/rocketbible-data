@@ -1,0 +1,95 @@
+[
+    {
+        "name": "male",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4368791,
+        "mentions": [
+            {
+                "text": {
+                    "content": "male",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "womb",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15118542,
+        "mentions": [
+            {
+                "text": {
+                    "content": "womb",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "offspring",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.14938578,
+        "mentions": [
+            {
+                "text": {
+                    "content": "offspring",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "human",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10538908,
+        "mentions": [
+            {
+                "text": {
+                    "content": "human",
+                    "beginOffset": 120
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israelites",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0dxbn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israelites"
+        },
+        "salience": 0.082993634,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israelites",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "animal",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07416698,
+        "mentions": [
+            {
+                "text": {
+                    "content": "animal",
+                    "beginOffset": 129
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

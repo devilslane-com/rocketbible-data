@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Beer",
+        "type": "CONSUMER_GOOD",
+        "metadata": {
+            "mid": "\/m\/01599",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Beer"
+        },
+        "salience": 0.3701195,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Beer",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.32501686,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16498455,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "well",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07024295,
+        "mentions": [
+            {
+                "text": {
+                    "content": "well",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses",
+            "mid": "\/m\/04yfh"
+        },
+        "salience": 0.042718053,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02691808,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 128
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "name": "tent",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.60671955,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tent",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Salem",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Salem,_Oregon",
+            "mid": "\/m\/0d23k"
+        },
+        "salience": 0.32277912,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Salem",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "dwelling place",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zion",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01626x",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zion_National_Park"
+        },
+        "salience": 0.07050134,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zion",
+                    "beginOffset": 44
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

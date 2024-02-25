@@ -1,0 +1,62 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.57713693,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.15686108,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sleep",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15508047,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sleep",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "grass",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11092155,
+        "mentions": [
+            {
+                "text": {
+                    "content": "grass",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

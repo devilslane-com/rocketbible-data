@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Elijah",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Elijah",
+            "mid": "\/m\/02p7w"
+        },
+        "salience": 0.7389561,
+        "mentions": [
+            {
+                "text": {
+                    "content": "prophet",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Elijah",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.26104394,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

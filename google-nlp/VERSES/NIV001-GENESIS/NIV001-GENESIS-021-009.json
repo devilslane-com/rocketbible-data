@@ -1,0 +1,83 @@
+[
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3810065,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sarah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.35101336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sarah",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hagar",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01sq9c",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hagar"
+        },
+        "salience": 0.10222186,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hagar",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Egyptian",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09412558,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egyptian",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam",
+            "mid": "\/m\/0pwb"
+        },
+        "salience": 0.071632676,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

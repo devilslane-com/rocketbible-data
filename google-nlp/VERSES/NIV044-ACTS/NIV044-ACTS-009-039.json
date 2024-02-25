@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.77135885,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "widows",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11679209,
+        "mentions": [
+            {
+                "text": {
+                    "content": "widows",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Dorcas",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/09p8t8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Dorcas"
+        },
+        "salience": 0.051412743,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Dorcas",
+                    "beginOffset": 167
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "room",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.04470463,
+        "mentions": [
+            {
+                "text": {
+                    "content": "room",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "robes",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.008975539,
+        "mentions": [
+            {
+                "text": {
+                    "content": "robes",
+                    "beginOffset": 137
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "clothing",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.006756164,
+        "mentions": [
+            {
+                "text": {
+                    "content": "clothing",
+                    "beginOffset": 153
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

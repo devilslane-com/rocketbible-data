@@ -1,0 +1,110 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5995644,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.11439892,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "experts",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07514846,
+        "mentions": [
+            {
+                "text": {
+                    "content": "experts",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "law",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07514846,
+        "mentions": [
+            {
+                "text": {
+                    "content": "law",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "woe",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.051466133,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woe",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "burdens",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04791085,
+        "mentions": [
+            {
+                "text": {
+                    "content": "burdens",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "finger",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03636278,
+        "mentions": [
+            {
+                "text": {
+                    "content": "finger",
+                    "beginOffset": 160
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

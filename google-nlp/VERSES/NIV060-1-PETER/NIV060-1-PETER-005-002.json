@@ -1,0 +1,87 @@
+[
+    {
+        "name": "shepherds",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.54361576,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shepherds",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "flock",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3270905,
+        "mentions": [
+            {
+                "text": {
+                    "content": "flock",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.053715978,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 130
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "care",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.050862744,
+        "mentions": [
+            {
+                "text": {
+                    "content": "care",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gain",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.024715025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gain",
+                    "beginOffset": 174
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

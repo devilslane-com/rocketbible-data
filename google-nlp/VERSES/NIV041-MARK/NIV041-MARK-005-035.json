@@ -1,0 +1,105 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40713558,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jairus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03c4ctg",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Raising_of_Jairus'_daughter"
+        },
+        "salience": 0.24244076,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jairus",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "synagogue leader",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.19214816,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 6
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.08836545,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "daughter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.048454728,
+        "mentions": [
+            {
+                "text": {
+                    "content": "daughter",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "teacher",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.021455329,
+        "mentions": [
+            {
+                "text": {
+                    "content": "teacher",
+                    "beginOffset": 155
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

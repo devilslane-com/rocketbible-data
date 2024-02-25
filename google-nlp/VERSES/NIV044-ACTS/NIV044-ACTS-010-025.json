@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.54369646,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Cornelius",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22513628,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cornelius",
+                    "beginOffset": 28
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.12515225,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "feet",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.062024336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "feet",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "reverence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.043990657,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reverence",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

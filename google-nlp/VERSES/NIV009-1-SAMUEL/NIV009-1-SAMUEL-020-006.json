@@ -1,0 +1,99 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4986485,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Bethlehem",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.22531766,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bethlehem",
+                    "beginOffset": 94
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "hometown",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17812875,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "permission",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05533275,
+        "mentions": [
+            {
+                "text": {
+                    "content": "permission",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "clan",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.024745978,
+        "mentions": [
+            {
+                "text": {
+                    "content": "clan",
+                    "beginOffset": 181
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sacrifice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.017826369,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sacrifice",
+                    "beginOffset": 137
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

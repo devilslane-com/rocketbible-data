@@ -1,0 +1,111 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02cvn",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/David"
+        },
+        "salience": 0.7795239,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07354666,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 69
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lo Debar",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0277ph2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Lo-debar"
+        },
+        "salience": 0.06323372,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lo Debar",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.03295964,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ammiel",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ammiel",
+            "mid": "\/m\/0hyg6"
+        },
+        "salience": 0.031123072,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ammiel",
+                    "beginOffset": 76
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Makir",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/03c2sh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Machir"
+        },
+        "salience": 0.019613022,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Makir",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

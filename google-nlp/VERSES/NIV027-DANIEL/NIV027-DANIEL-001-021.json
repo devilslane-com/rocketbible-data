@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Daniel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8380521,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Daniel",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "King Cyrus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Cyrus_the_Great",
+            "mid": "\/m\/03d0c1"
+        },
+        "salience": 0.16194789,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King Cyrus",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

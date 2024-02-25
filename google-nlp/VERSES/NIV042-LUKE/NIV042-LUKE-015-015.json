@@ -1,0 +1,62 @@
+[
+    {
+        "name": "citizen",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.45548716,
+        "mentions": [
+            {
+                "text": {
+                    "content": "citizen",
+                    "beginOffset": 38
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "country",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.24766769,
+        "mentions": [
+            {
+                "text": {
+                    "content": "country",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fields",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.17387936,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fields",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pigs",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12296581,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pigs",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

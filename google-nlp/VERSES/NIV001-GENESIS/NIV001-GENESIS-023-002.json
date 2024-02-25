@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Sarah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.29393095,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sarah",
+                    "beginOffset": 96
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1851206,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Kiriath Arba",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/029c03",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kiryat_Arba"
+        },
+        "salience": 0.16143425,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Kiriath Arba",
+                    "beginOffset": 12
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam",
+            "mid": "\/m\/0pwb"
+        },
+        "salience": 0.13693573,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Canaan",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Canaan",
+            "mid": "\/m\/0d9f2"
+        },
+        "salience": 0.11195129,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Canaan",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hebron",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/09lvk",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hebron"
+        },
+        "salience": 0.11062719,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hebron",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

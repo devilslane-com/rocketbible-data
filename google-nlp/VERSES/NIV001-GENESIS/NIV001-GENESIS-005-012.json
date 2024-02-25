@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Kenan",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7340036,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Kenan",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Mahalalel",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mahalalel",
+            "mid": "\/m\/02m2mb"
+        },
+        "salience": 0.15196566,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mahalalel",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11403072,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "name": "lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8842888,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "lord",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07684251,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.038868677,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

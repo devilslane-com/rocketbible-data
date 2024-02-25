@@ -1,0 +1,47 @@
+[
+    {
+        "name": "disaster",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.67351735,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disaster",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "instant",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.21679007,
+        "mentions": [
+            {
+                "text": {
+                    "content": "instant",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "remedy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10969257,
+        "mentions": [
+            {
+                "text": {
+                    "content": "remedy",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6047918,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 9
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "tetrarch",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08560125,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tetrarch",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "marriage",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05886955,
+        "mentions": [
+            {
+                "text": {
+                    "content": "marriage",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Herod",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01zzhl",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Herod_Antipas"
+        },
+        "salience": 0.058734346,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Herod",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "wife",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0548372,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wife",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "brother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0548372,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brother",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "things",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.041704603,
+        "mentions": [
+            {
+                "text": {
+                    "content": "things",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Herodias",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01ly28",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Herodias"
+        },
+        "salience": 0.04062401,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Herodias",
+                    "beginOffset": 68
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

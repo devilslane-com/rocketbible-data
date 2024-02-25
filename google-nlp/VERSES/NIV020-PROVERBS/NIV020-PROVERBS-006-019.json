@@ -1,0 +1,77 @@
+[
+    {
+        "name": "witness",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.64422405,
+        "mentions": [
+            {
+                "text": {
+                    "content": "witness",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20902206,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lies",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07012722,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lies",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "community",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04690101,
+        "mentions": [
+            {
+                "text": {
+                    "content": "community",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "conflict",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.02972569,
+        "mentions": [
+            {
+                "text": {
+                    "content": "conflict",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

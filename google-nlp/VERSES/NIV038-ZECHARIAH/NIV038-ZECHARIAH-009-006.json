@@ -1,0 +1,83 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6073362,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "end",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14991128,
+        "mentions": [
+            {
+                "text": {
+                    "content": "end",
+                    "beginOffset": 55
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ashdod",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01q2k7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ashdod"
+        },
+        "salience": 0.1419612,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ashdod",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "pride",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05183193,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pride",
+                    "beginOffset": 66
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Philistines",
+        "type": "OTHER",
+        "metadata": {
+            "mid": "\/m\/0618q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Philistines"
+        },
+        "salience": 0.048959352,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philistines",
+                    "beginOffset": 79
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

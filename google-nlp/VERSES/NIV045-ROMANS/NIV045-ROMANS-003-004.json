@@ -1,0 +1,50 @@
+[
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.37239563,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 16
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "liar",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.34561437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "liar",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "human",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.28199,
+        "mentions": [
+            {
+                "text": {
+                    "content": "human",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

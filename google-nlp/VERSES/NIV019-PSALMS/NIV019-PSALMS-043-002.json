@@ -1,0 +1,65 @@
+[
+    {
+        "name": "stronghold",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.52532333,
+        "mentions": [
+            {
+                "text": {
+                    "content": "stronghold",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.45706272,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "enemy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.010812311,
+        "mentions": [
+            {
+                "text": {
+                    "content": "enemy",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mourning",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.006801646,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mourning",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

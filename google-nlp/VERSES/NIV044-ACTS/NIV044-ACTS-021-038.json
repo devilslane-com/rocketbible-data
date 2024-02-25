@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Egyptian",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.3274488,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egyptian",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "revolt",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.29806527,
+        "mentions": [
+            {
+                "text": {
+                    "content": "revolt",
+                    "beginOffset": 43
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "terrorists",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2782729,
+        "mentions": [
+            {
+                "text": {
+                    "content": "terrorists",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wilderness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09621305,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wilderness",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

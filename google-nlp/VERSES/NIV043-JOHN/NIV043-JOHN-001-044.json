@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Philip",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.50500333,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philip",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Andrew",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19408745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Andrew",
+                    "beginOffset": 13
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Peter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13415673,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peter",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Bethsaida",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04hv10",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Bethsaida"
+        },
+        "salience": 0.09535143,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bethsaida",
+                    "beginOffset": 52
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07140105,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

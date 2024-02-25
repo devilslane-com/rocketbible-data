@@ -1,0 +1,80 @@
+[
+    {
+        "name": "zeal",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5420784,
+        "mentions": [
+            {
+                "text": {
+                    "content": "zeal",
+                    "beginOffset": 6
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wrath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23215638,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wrath",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "land",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.114402875,
+        "mentions": [
+            {
+                "text": {
+                    "content": "land",
+                    "beginOffset": 96
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earthquake",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.06294999,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earthquake",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel",
+            "mid": "\/m\/03spz"
+        },
+        "salience": 0.048412383,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 104
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

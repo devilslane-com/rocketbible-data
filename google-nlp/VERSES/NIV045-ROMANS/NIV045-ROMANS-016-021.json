@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Timothy",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8027615,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Timothy",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "co-worker",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "greetings",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.088377535,
+        "mentions": [
+            {
+                "text": {
+                    "content": "greetings",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lucius",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.049409106,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lucius",
+                    "beginOffset": 57
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jews",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jews",
+            "mid": "\/m\/041rx"
+        },
+        "salience": 0.026327144,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jews",
+                    "beginOffset": 96
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jason",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.016562369,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jason",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Sosipater",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05bznm6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sosipater"
+        },
+        "salience": 0.016562369,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sosipater",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

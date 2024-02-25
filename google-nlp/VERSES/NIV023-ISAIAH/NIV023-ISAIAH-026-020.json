@@ -1,0 +1,62 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5033254,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rooms",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.21296777,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rooms",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "doors",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17923702,
+        "mentions": [
+            {
+                "text": {
+                    "content": "doors",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wrath",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10446978,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wrath",
+                    "beginOffset": 108
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

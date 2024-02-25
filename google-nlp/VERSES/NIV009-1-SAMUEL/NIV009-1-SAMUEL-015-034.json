@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070hm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Saul"
+        },
+        "salience": 0.64832336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 70
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Samuel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20310861,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samuel",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Ramah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08034462,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ramah",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gibeah",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/02x014",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Gibeah"
+        },
+        "salience": 0.03905394,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gibeah",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.02916947,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

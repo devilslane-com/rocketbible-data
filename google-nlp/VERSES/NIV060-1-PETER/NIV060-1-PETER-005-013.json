@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Mark",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.40166643,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Mark",
+                    "beginOffset": 93
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "greetings",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3075335,
+        "mentions": [
+            {
+                "text": {
+                    "content": "greetings",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Babylon",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.29080006,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Babylon",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

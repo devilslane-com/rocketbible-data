@@ -1,0 +1,68 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5472212,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Og",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Og",
+            "mid": "\/m\/02fwt3"
+        },
+        "salience": 0.31227654,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Og",
+                    "beginOffset": 4
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Bashan",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01tw_n",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Bashan"
+        },
+        "salience": 0.091698445,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bashan",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "love",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.048803855,
+        "mentions": [
+            {
+                "text": {
+                    "content": "love",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

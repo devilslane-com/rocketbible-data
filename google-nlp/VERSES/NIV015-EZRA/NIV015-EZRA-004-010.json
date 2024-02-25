@@ -1,0 +1,98 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7167074,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "city",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.09623812,
+        "mentions": [
+            {
+                "text": {
+                    "content": "city",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "elsewhere",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07356799,
+        "mentions": [
+            {
+                "text": {
+                    "content": "elsewhere",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ashurbanipal",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ashurbanipal",
+            "mid": "\/m\/01v8fq"
+        },
+        "salience": 0.06255601,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ashurbanipal",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Trans-Euphrates",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03123181,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Trans-Euphrates",
+                    "beginOffset": 124
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Samaria",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/070j2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Samaria"
+        },
+        "salience": 0.019698663,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Samaria",
+                    "beginOffset": 99
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

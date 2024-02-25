@@ -1,0 +1,105 @@
+[
+    {
+        "name": "illness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.6179923,
+        "mentions": [
+            {
+                "text": {
+                    "content": "illness",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "trial",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "angel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.23732717,
+        "mentions": [
+            {
+                "text": {
+                    "content": "angel",
+                    "beginOffset": 133
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "contempt",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04967442,
+        "mentions": [
+            {
+                "text": {
+                    "content": "contempt",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "scorn",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04967442,
+        "mentions": [
+            {
+                "text": {
+                    "content": "scorn",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Christ Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.03538053,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ Jesus",
+                    "beginOffset": 160
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.00995116,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 142
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

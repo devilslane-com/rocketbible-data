@@ -1,0 +1,50 @@
+[
+    {
+        "name": "shepherds",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6417118,
+        "mentions": [
+            {
+                "text": {
+                    "content": "shepherds",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nothing",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.22474791,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nothing",
+                    "beginOffset": 148
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Carmel",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Carmel-by-the-Sea,_California",
+            "mid": "\/m\/0r1yc"
+        },
+        "salience": 0.13354032,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Carmel",
+                    "beginOffset": 141
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

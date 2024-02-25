@@ -1,0 +1,102 @@
+[
+    {
+        "name": "procession",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.5102156,
+        "mentions": [
+            {
+                "text": {
+                    "content": "procession",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.16546349,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "procession",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11421149,
+        "mentions": [
+            {
+                "text": {
+                    "content": "procession",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "view",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10958305,
+        "mentions": [
+            {
+                "text": {
+                    "content": "view",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sanctuary",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.05440746,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sanctuary",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "King",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.04611893,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 71
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

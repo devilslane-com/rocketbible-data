@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Judas",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0g3y0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judas_Iscariot"
+        },
+        "salience": 0.79388285,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judas",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "money",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.116168246,
+        "mentions": [
+            {
+                "text": {
+                    "content": "money",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.089948885,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

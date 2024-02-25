@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Greet Priscilla",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5063289,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Greet Priscilla",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "household",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23188868,
+        "mentions": [
+            {
+                "text": {
+                    "content": "household",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Aquila",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.15280965,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Aquila",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Onesiphorus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Onesiphorus",
+            "mid": "\/m\/0d8mr9"
+        },
+        "salience": 0.1089728,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Onesiphorus",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

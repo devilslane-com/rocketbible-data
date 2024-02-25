@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Egyptian",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.45939875,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Egyptian",
+                    "beginOffset": 14
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "field",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.30592677,
+        "mentions": [
+            {
+                "text": {
+                    "content": "field",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12894696,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.073298305,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "water",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.032429233,
+        "mentions": [
+            {
+                "text": {
+                    "content": "water",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Barabbas",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02gl4g",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Barabbas"
+        },
+        "salience": 0.45501047,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Barabbas",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Barabbas",
+                    "beginOffset": 60
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "part",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.33703485,
+        "mentions": [
+            {
+                "text": {
+                    "content": "part",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "uprising",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.20795467,
+        "mentions": [
+            {
+                "text": {
+                    "content": "uprising",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

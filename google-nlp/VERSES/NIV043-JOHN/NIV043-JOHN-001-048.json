@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus",
+            "mid": "\/m\/045m1_"
+        },
+        "salience": 0.6545813,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 43
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Nathanael",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/011b6__s",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nathanael_(follower_of_Jesus)"
+        },
+        "salience": 0.13779333,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nathanael",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "fig tree",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.13021283,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fig tree",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Philip",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.07741252,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Philip",
+                    "beginOffset": 119
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

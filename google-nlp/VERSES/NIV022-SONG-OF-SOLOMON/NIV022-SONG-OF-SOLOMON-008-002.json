@@ -1,0 +1,77 @@
+[
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.752179,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 37
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.14597686,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nectar",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04996652,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nectar",
+                    "beginOffset": 123
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pomegranates",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.035067078,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pomegranates",
+                    "beginOffset": 136
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wine",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.01681051,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

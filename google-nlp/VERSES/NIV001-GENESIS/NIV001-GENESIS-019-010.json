@@ -1,0 +1,62 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.61861056,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lot",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.15098898,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lot",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "door",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15053135,
+        "mentions": [
+            {
+                "text": {
+                    "content": "door",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07986909,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

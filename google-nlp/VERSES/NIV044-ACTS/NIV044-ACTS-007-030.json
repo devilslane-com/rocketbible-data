@@ -1,0 +1,95 @@
+[
+    {
+        "name": "angel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25689813,
+        "mentions": [
+            {
+                "text": {
+                    "content": "angel",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "flames",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23983939,
+        "mentions": [
+            {
+                "text": {
+                    "content": "flames",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "desert",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1837468,
+        "mentions": [
+            {
+                "text": {
+                    "content": "desert",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moses",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04yfh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moses"
+        },
+        "salience": 0.15826215,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moses",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "burning bush",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08292464,
+        "mentions": [
+            {
+                "text": {
+                    "content": "burning bush",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mount Sinai",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07832887,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mount Sinai",
+                    "beginOffset": 111
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

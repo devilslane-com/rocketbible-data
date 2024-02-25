@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Isaac",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5630582,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Isaac",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Isaac",
+                    "beginOffset": 131
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Abraham",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0pwb",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abraham_in_Islam"
+        },
+        "salience": 0.3379002,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Abraham",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.023582939,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wood",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.021742102,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wood",
+                    "beginOffset": 113
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fire",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.021220062,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fire",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lamb",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.020963699,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lamb",
+                    "beginOffset": 163
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "burnt offering",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.011532801,
+        "mentions": [
+            {
+                "text": {
+                    "content": "burnt offering",
+                    "beginOffset": 176
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

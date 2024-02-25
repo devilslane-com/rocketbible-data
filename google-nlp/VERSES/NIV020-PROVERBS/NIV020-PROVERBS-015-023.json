@@ -1,0 +1,62 @@
+[
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.42622328,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 2
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "joy",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.31913993,
+        "mentions": [
+            {
+                "text": {
+                    "content": "joy",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "reply",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1583661,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reply",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09627067,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 70
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

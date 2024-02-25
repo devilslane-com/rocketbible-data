@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7489983,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 25
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "someone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13322175,
+        "mentions": [
+            {
+                "text": {
+                    "content": "someone",
+                    "beginOffset": 5
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "reward",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.052855942,
+        "mentions": [
+            {
+                "text": {
+                    "content": "reward",
+                    "beginOffset": 139
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "news",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.036573526,
+        "mentions": [
+            {
+                "text": {
+                    "content": "news",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.011498766,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "news",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.010034458,
+        "mentions": [
+            {
+                "text": {
+                    "content": "news",
+                    "beginOffset": 165
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ziklag",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ziklag",
+            "mid": "\/m\/0hz9k"
+        },
+        "salience": 0.0068172743,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ziklag",
+                    "beginOffset": 118
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

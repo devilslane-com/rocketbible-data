@@ -1,0 +1,65 @@
+[
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7430222,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 8
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14212139,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Shechem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01p205",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Shechem"
+        },
+        "salience": 0.06571785,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shechem",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "flocks",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.049138572,
+        "mentions": [
+            {
+                "text": {
+                    "content": "flocks",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

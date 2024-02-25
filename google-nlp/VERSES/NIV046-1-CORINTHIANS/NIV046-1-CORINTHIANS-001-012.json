@@ -1,0 +1,131 @@
+[
+    {
+        "name": "One",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.24261713,
+        "mentions": [
+            {
+                "text": {
+                    "content": "One",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "another",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21052568,
+        "mentions": [
+            {
+                "text": {
+                    "content": "another",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "another",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14710964,
+        "mentions": [
+            {
+                "text": {
+                    "content": "another",
+                    "beginOffset": 130
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "another",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12887613,
+        "mentions": [
+            {
+                "text": {
+                    "content": "another",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/060nc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Paul_the_Apostle"
+        },
+        "salience": 0.09908606,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 50
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Apollos",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01081",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Apollos"
+        },
+        "salience": 0.09213736,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Apollos",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.048919316,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 151
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Cephas",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.030728696,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Cephas",
+                    "beginOffset": 113
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

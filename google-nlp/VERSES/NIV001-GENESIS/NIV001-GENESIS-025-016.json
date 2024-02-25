@@ -1,0 +1,95 @@
+[
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6371605,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "names",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.12461817,
+        "mentions": [
+            {
+                "text": {
+                    "content": "names",
+                    "beginOffset": 50
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Ishmael",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01ghr4",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Ishmael_in_Islam"
+        },
+        "salience": 0.08707773,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Ishmael",
+                    "beginOffset": 23
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "settlements",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07016078,
+        "mentions": [
+            {
+                "text": {
+                    "content": "settlements",
+                    "beginOffset": 103
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "camps",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.04961703,
+        "mentions": [
+            {
+                "text": {
+                    "content": "camps",
+                    "beginOffset": 119
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rulers",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.031365793,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rulers",
+                    "beginOffset": 77
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

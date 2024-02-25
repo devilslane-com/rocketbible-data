@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Darius",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.48079073,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Darius",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19328608,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.17059588,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zechariah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/089bt",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zechariah_(Hebrew_prophet)"
+        },
+        "salience": 0.10390263,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zechariah",
+                    "beginOffset": 64
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Kislev",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Kislev",
+            "mid": "\/m\/087d6"
+        },
+        "salience": 0.051424652,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Kislev",
+                    "beginOffset": 125
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

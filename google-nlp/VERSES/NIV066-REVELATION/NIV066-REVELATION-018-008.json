@@ -1,0 +1,102 @@
+[
+    {
+        "name": "plagues",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.24972671,
+        "mentions": [
+            {
+                "text": {
+                    "content": "plagues",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.20779337,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 133
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 128
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "famine",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17351,
+        "mentions": [
+            {
+                "text": {
+                    "content": "famine",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.17146654,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mourning",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17146654,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mourning",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fire",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.026036812,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fire",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

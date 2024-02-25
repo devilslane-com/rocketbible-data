@@ -1,0 +1,125 @@
+[
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5992926,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21190597,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 126
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "journey",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.07445241,
+        "mentions": [
+            {
+                "text": {
+                    "content": "journey",
+                    "beginOffset": 53
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Passover",
+        "type": "EVENT",
+        "metadata": {
+            "mid": "\/m\/05rds",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Passover"
+        },
+        "salience": 0.057656847,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Passover",
+                    "beginOffset": 84
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "offering",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.016037477,
+        "mentions": [
+            {
+                "text": {
+                    "content": "offering",
+                    "beginOffset": 165
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.016037477,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 156
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "consequences",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.01230863,
+        "mentions": [
+            {
+                "text": {
+                    "content": "consequences",
+                    "beginOffset": 216
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sin",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.01230863,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sin",
+                    "beginOffset": 238
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

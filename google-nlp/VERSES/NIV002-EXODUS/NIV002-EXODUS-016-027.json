@@ -1,0 +1,47 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5879568,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "some",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.3638871,
+        "mentions": [
+            {
+                "text": {
+                    "content": "some",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "none",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04815611,
+        "mentions": [
+            {
+                "text": {
+                    "content": "none",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

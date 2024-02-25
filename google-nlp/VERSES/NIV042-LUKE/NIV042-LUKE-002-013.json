@@ -1,0 +1,65 @@
+[
+    {
+        "name": "company",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.36035344,
+        "mentions": [
+            {
+                "text": {
+                    "content": "company",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "host",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.25780642,
+        "mentions": [
+            {
+                "text": {
+                    "content": "host",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "angel",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23854682,
+        "mentions": [
+            {
+                "text": {
+                    "content": "angel",
+                    "beginOffset": 64
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.14329332,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 80
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

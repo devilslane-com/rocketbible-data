@@ -1,0 +1,65 @@
+[
+    {
+        "name": "soldiers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5805147,
+        "mentions": [
+            {
+                "text": {
+                    "content": "soldiers",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.32229334,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "orders",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07460386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "orders",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Antipatris",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0hyq5",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Antipatris"
+        },
+        "salience": 0.022588078,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Antipatris",
+                    "beginOffset": 107
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

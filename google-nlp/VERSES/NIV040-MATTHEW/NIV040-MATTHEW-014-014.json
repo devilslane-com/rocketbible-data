@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46731943,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "crowd",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21841872,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crowd",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "compassion",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.20377824,
+        "mentions": [
+            {
+                "text": {
+                    "content": "compassion",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sick",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11048362,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sick",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

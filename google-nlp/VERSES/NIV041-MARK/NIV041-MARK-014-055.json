@@ -1,0 +1,98 @@
+[
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6377958,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.17165762,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 76
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "evidence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.064136155,
+        "mentions": [
+            {
+                "text": {
+                    "content": "evidence",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Sanhedrin",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0160sc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Sanhedrin"
+        },
+        "salience": 0.056542348,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Sanhedrin",
+                    "beginOffset": 32
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "any",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.049501285,
+        "mentions": [
+            {
+                "text": {
+                    "content": "any",
+                    "beginOffset": 141
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.020366808,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 112
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

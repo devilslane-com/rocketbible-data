@@ -1,0 +1,47 @@
+[
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.66425955,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 29
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "potter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21663494,
+        "mentions": [
+            {
+                "text": {
+                    "content": "potter",
+                    "beginOffset": 18
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "message",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11910552,
+        "mentions": [
+            {
+                "text": {
+                    "content": "message",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

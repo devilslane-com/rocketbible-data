@@ -1,0 +1,62 @@
+[
+    {
+        "name": "uncle",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.497274,
+        "mentions": [
+            {
+                "text": {
+                    "content": "uncle",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "cousin",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.21040729,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cousin",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "clan",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14701408,
+        "mentions": [
+            {
+                "text": {
+                    "content": "clan",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "blood relative",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1453046,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blood relative",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

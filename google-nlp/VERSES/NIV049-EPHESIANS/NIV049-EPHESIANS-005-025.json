@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Christ",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.40647608,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Christ",
+                    "beginOffset": 35
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Husbands",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3845033,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Husbands",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wives",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12670794,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wives",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "church",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.08231266,
+        "mentions": [
+            {
+                "text": {
+                    "content": "church",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

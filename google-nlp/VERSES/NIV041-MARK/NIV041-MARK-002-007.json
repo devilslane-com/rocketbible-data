@@ -1,0 +1,50 @@
+[
+    {
+        "name": "fellow",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.91756135,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fellow",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God",
+            "mid": "\/m\/0d05l6"
+        },
+        "salience": 0.047254115,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 85
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sins",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.035184562,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sins",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

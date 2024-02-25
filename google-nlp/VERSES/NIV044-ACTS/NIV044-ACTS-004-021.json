@@ -1,0 +1,50 @@
+[
+    {
+        "name": "threats",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.89558715,
+        "mentions": [
+            {
+                "text": {
+                    "content": "threats",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.07111695,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 119
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.033295933,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

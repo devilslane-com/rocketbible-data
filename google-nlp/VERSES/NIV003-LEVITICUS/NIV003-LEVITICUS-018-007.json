@@ -1,0 +1,69 @@
+[
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7916941,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 71
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10175574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "relations",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07933475,
+        "mentions": [
+            {
+                "text": {
+                    "content": "relations",
+                    "beginOffset": 51
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "relations",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.027215408,
+        "mentions": [
+            {
+                "text": {
+                    "content": "relations",
+                    "beginOffset": 111
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

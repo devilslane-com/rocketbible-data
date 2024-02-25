@@ -1,0 +1,97 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5448606,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "King Solomon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070h3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Solomon"
+        },
+        "salience": 0.3618336,
+        "mentions": [
+            {
+                "text": {
+                    "content": "King Solomon",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King Solomon",
+                    "beginOffset": 106
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 124
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "altar",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.058838386,
+        "mentions": [
+            {
+                "text": {
+                    "content": "altar",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Adonijah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0hxvz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Adonijah"
+        },
+        "salience": 0.020165361,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Adonijah",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.014302044,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 152
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

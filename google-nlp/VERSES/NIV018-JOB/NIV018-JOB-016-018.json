@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Earth",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Earth",
+            "mid": "\/m\/02j71"
+        },
+        "salience": 0.5225995,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Earth",
+                    "beginOffset": 3
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "cry",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.28212118,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cry",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "blood",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19527929,
+        "mentions": [
+            {
+                "text": {
+                    "content": "blood",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

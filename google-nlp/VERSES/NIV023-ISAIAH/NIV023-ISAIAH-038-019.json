@@ -1,0 +1,69 @@
+[
+    {
+        "name": "living",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.8389647,
+        "mentions": [
+            {
+                "text": {
+                    "content": "living",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "living",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "parents",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.063791476,
+        "mentions": [
+            {
+                "text": {
+                    "content": "parents",
+                    "beginOffset": 63
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "children",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.050083704,
+        "mentions": [
+            {
+                "text": {
+                    "content": "children",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "faithfulness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.04716015,
+        "mentions": [
+            {
+                "text": {
+                    "content": "faithfulness",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

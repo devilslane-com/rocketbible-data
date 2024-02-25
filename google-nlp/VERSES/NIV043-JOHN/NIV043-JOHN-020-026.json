@@ -1,0 +1,95 @@
+[
+    {
+        "name": "disciples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.44432575,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.23957677,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Thomas",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11197958,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Thomas",
+                    "beginOffset": 56
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "doors",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08202687,
+        "mentions": [
+            {
+                "text": {
+                    "content": "doors",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Peace",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0701233,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Peace",
+                    "beginOffset": 153
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.05196774,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 108
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "name": "share",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.8767676,
+        "mentions": [
+            {
+                "text": {
+                    "content": "share",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "sheep",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "battle",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.12323242,
+        "mentions": [
+            {
+                "text": {
+                    "content": "battle",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

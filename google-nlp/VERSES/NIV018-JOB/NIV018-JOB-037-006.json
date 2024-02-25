@@ -1,0 +1,62 @@
+[
+    {
+        "name": "snow",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.42069042,
+        "mentions": [
+            {
+                "text": {
+                    "content": "snow",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "earth",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.2986628,
+        "mentions": [
+            {
+                "text": {
+                    "content": "earth",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "downpour",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.1844488,
+        "mentions": [
+            {
+                "text": {
+                    "content": "downpour",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rain shower",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09619799,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rain shower",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

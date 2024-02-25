@@ -1,0 +1,77 @@
+[
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.55974555,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.15954715,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 31
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "paths",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.1488528,
+        "mentions": [
+            {
+                "text": {
+                    "content": "paths",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dead",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08070437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dead",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "spirits",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.051150136,
+        "mentions": [
+            {
+                "text": {
+                    "content": "spirits",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

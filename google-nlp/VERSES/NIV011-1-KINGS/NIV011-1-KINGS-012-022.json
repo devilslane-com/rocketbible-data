@@ -1,0 +1,75 @@
+[
+    {
+        "name": "word",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.44744143,
+        "mentions": [
+            {
+                "text": {
+                    "content": "word",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.2911506,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Shemaiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0f2l6g",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Shemaiah_(prophet)"
+        },
+        "salience": 0.15757403,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Shemaiah",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.103833936,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

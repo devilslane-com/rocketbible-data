@@ -1,0 +1,80 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6111709,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "group",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.1580586,
+        "mentions": [
+            {
+                "text": {
+                    "content": "group",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Daniel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08113233,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Daniel",
+                    "beginOffset": 41
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "help",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08088116,
+        "mentions": [
+            {
+                "text": {
+                    "content": "help",
+                    "beginOffset": 75
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.068757005,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

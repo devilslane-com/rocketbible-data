@@ -1,0 +1,108 @@
+[
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6417027,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "tribe",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.105405316,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tribe",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Uri",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.090625055,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Uri",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Bezalel",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06mk19",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Bezalel"
+        },
+        "salience": 0.089553185,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Bezalel",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01db4k",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Judah_(son_of_Jacob)"
+        },
+        "salience": 0.044604845,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 74
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hur",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/07s6tn3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hur_(Bible)"
+        },
+        "salience": 0.028108913,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hur",
+                    "beginOffset": 53
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "David",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4762332,
+        "mentions": [
+            {
+                "text": {
+                    "content": "David",
+                    "beginOffset": 9
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.42909437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sheep pens",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09467239,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sheep pens",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

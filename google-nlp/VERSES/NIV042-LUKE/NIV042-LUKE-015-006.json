@@ -1,0 +1,62 @@
+[
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.73585886,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "friends",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10583786,
+        "mentions": [
+            {
+                "text": {
+                    "content": "friends",
+                    "beginOffset": 33
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "neighbors",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.10583786,
+        "mentions": [
+            {
+                "text": {
+                    "content": "neighbors",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sheep",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05246545,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sheep",
+                    "beginOffset": 115
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

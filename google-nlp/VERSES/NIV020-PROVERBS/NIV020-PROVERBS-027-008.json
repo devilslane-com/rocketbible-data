@@ -1,0 +1,62 @@
+[
+    {
+        "name": "bird",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.6169191,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bird",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anyone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20898943,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anyone",
+                    "beginOffset": 35
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nest",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10210525,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nest",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "home",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07198619,
+        "mentions": [
+            {
+                "text": {
+                    "content": "home",
+                    "beginOffset": 57
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

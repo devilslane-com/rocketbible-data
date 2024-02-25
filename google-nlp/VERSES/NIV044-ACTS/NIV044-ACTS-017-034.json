@@ -1,0 +1,165 @@
+[
+    {
+        "name": "Some",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2984724,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Some",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.2984724,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "followers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12307207,
+        "mentions": [
+            {
+                "text": {
+                    "content": "followers",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Dionysius",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02dmyr",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Dionysius_the_Areopagite"
+        },
+        "salience": 0.103383355,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Dionysius",
+                    "beginOffset": 73
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "member",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.074385025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 39
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Damaris",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.024006158,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Damaris",
+                    "beginOffset": 130
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Areopagus",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/01d10q",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Areopagus"
+        },
+        "salience": 0.022863856,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Areopagus",
+                    "beginOffset": 100
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "number",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.020420967,
+        "mentions": [
+            {
+                "text": {
+                    "content": "number",
+                    "beginOffset": 145
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "others",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.020420967,
+        "mentions": [
+            {
+                "text": {
+                    "content": "others",
+                    "beginOffset": 155
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.014502759,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 118
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

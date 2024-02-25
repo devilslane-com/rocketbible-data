@@ -1,0 +1,110 @@
+[
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.33840442,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 4
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Enosh",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0cf982",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Enos_(biblical_figure)"
+        },
+        "salience": 0.31353745,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Enosh",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 22
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Seth",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Seth",
+            "mid": "\/m\/0d51w"
+        },
+        "salience": 0.16203432,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Seth",
+                    "beginOffset": 29
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 39
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Adam",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/09_c5v",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Adam"
+        },
+        "salience": 0.16203432,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Adam",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.023989465,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 63
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

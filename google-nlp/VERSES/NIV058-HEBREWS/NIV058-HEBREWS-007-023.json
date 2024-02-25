@@ -1,0 +1,62 @@
+[
+    {
+        "name": "many",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5983574,
+        "mentions": [
+            {
+                "text": {
+                    "content": "many",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "priests",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16558632,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priests",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.15283608,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "office",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08322022,
+        "mentions": [
+            {
+                "text": {
+                    "content": "office",
+                    "beginOffset": 89
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

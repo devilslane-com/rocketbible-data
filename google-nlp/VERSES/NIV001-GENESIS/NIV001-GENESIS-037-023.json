@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Joseph",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.70985234,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Joseph",
+                    "beginOffset": 8
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "robe",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.23706949,
+        "mentions": [
+            {
+                "text": {
+                    "content": "robe",
+                    "beginOffset": 62
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "robe",
+                    "beginOffset": 80
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "brothers",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.05307818,
+        "mentions": [
+            {
+                "text": {
+                    "content": "brothers",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

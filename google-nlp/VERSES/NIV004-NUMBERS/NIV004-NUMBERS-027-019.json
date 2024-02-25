@@ -1,0 +1,65 @@
+[
+    {
+        "name": "priest",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.48998135,
+        "mentions": [
+            {
+                "text": {
+                    "content": "priest",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "assembly",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.20493622,
+        "mentions": [
+            {
+                "text": {
+                    "content": "assembly",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Eleazar",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/02p2_c9",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Eleazar"
+        },
+        "salience": 0.19397098,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Eleazar",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "presence",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11111144,
+        "mentions": [
+            {
+                "text": {
+                    "content": "presence",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

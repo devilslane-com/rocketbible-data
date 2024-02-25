@@ -1,0 +1,65 @@
+[
+    {
+        "name": "place",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.5111501,
+        "mentions": [
+            {
+                "text": {
+                    "content": "place",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "kings",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.328952,
+        "mentions": [
+            {
+                "text": {
+                    "content": "kings",
+                    "beginOffset": 23
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Armageddon",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.115695864,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Armageddon",
+                    "beginOffset": 76
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Hebrew",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hebrew_language",
+            "mid": "\/m\/03hkp"
+        },
+        "salience": 0.044202033,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hebrew",
+                    "beginOffset": 59
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

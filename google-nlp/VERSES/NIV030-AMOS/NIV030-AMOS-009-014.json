@@ -1,0 +1,122 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8578899,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "exile",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05898712,
+        "mentions": [
+            {
+                "text": {
+                    "content": "exile",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "ORGANIZATION",
+        "metadata": [],
+        "salience": 0.030683892,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "cities",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.019858245,
+        "mentions": [
+            {
+                "text": {
+                    "content": "cities",
+                    "beginOffset": 83
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "gardens",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.010874939,
+        "mentions": [
+            {
+                "text": {
+                    "content": "gardens",
+                    "beginOffset": 171
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "fruit",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.009623151,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fruit",
+                    "beginOffset": 193
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "vineyards",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.0060413736,
+        "mentions": [
+            {
+                "text": {
+                    "content": "vineyards",
+                    "beginOffset": 124
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wine",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.0060413736,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wine",
+                    "beginOffset": 150
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

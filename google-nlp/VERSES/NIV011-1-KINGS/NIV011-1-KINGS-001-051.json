@@ -1,0 +1,127 @@
+[
+    {
+        "name": "King Solomon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/070h3",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Solomon"
+        },
+        "salience": 0.71960247,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Solomon",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King Solomon",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "King Solomon",
+                    "beginOffset": 120
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Adonijah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0hxvz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Adonijah"
+        },
+        "salience": 0.13224137,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Adonijah",
+                    "beginOffset": 26
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "altar",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.050998658,
+        "mentions": [
+            {
+                "text": {
+                    "content": "altar",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "horns",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05039623,
+        "mentions": [
+            {
+                "text": {
+                    "content": "horns",
+                    "beginOffset": 84
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.017305164,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 176
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.017305164,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 187
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.012150975,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 202
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.4702526,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 52
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "enemies",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.33398363,
+        "mentions": [
+            {
+                "text": {
+                    "content": "enemies",
+                    "beginOffset": 10
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mine",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.13163278,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mine",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "front",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.064130984,
+        "mentions": [
+            {
+                "text": {
+                    "content": "front",
+                    "beginOffset": 102
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

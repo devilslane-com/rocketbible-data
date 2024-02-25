@@ -1,0 +1,82 @@
+[
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5979467,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Salmon",
+        "type": "CONSUMER_GOOD",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Salmon",
+            "mid": "\/m\/09777"
+        },
+        "salience": 0.23845936,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Salmon",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Boaz",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11493058,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Boaz",
+                    "beginOffset": 21
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "Boaz",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Obed",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/05252yh",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Obed_(biblical_figure)"
+        },
+        "salience": 0.048663337,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Obed",
+                    "beginOffset": 46
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "boundary",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.4465483,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boundary",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "coastline",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.18395065,
+        "mentions": [
+            {
+                "text": {
+                    "content": "coastline",
+                    "beginOffset": 28
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "boundaries",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.14420664,
+        "mentions": [
+            {
+                "text": {
+                    "content": "boundaries",
+                    "beginOffset": 78
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.118561566,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Mediterranean Sea",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/04swx",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Mediterranean_Sea"
+        },
+        "salience": 0.06110065,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Mediterranean Sea",
+                    "beginOffset": 45
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "clans",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.02472025,
+        "mentions": [
+            {
+                "text": {
+                    "content": "clans",
+                    "beginOffset": 125
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Judah",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.02091194,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Judah",
+                    "beginOffset": 110
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

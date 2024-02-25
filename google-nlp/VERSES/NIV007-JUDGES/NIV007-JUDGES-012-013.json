@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Hillel",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6033955,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hillel",
+                    "beginOffset": 24
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.22310655,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Abdon",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/036fv0",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Abdon_(Judges)"
+        },
+        "salience": 0.101694465,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Abdon",
+                    "beginOffset": 11
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Israel",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/m\/03spz",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Israel"
+        },
+        "salience": 0.049657617,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Israel",
+                    "beginOffset": 51
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Pirathon",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/09gfrqm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pirathon"
+        },
+        "salience": 0.022145877,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pirathon",
+                    "beginOffset": 37
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

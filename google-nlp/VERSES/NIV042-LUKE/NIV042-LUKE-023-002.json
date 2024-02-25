@@ -1,0 +1,102 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.48856968,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 60
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "nation",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.21185192,
+        "mentions": [
+            {
+                "text": {
+                    "content": "nation",
+                    "beginOffset": 79
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Messiah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/04ys7",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Messiah"
+        },
+        "salience": 0.1537494,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Messiah",
+                    "beginOffset": 142
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 153
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "payment",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09521536,
+        "mentions": [
+            {
+                "text": {
+                    "content": "payment",
+                    "beginOffset": 98
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "taxes",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03179038,
+        "mentions": [
+            {
+                "text": {
+                    "content": "taxes",
+                    "beginOffset": 109
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Caesar",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.018823259,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Caesar",
+                    "beginOffset": 118
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

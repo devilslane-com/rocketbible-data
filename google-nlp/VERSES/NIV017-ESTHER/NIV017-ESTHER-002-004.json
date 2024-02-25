@@ -1,0 +1,87 @@
+[
+    {
+        "name": "woman",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7808756,
+        "mentions": [
+            {
+                "text": {
+                    "content": "woman",
+                    "beginOffset": 19
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "queen",
+                    "beginOffset": 49
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "advice",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.07130046,
+        "mentions": [
+            {
+                "text": {
+                    "content": "advice",
+                    "beginOffset": 82
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06353805,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 41
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "king",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.049991317,
+        "mentions": [
+            {
+                "text": {
+                    "content": "king",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Vashti",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Vashti",
+            "mid": "\/m\/03tww6"
+        },
+        "salience": 0.03429453,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Vashti",
+                    "beginOffset": 66
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

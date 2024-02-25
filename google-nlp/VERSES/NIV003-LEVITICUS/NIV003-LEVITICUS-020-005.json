@@ -1,0 +1,80 @@
+[
+    {
+        "name": "all",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.35314432,
+        "mentions": [
+            {
+                "text": {
+                    "content": "all",
+                    "beginOffset": 107
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "face",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.2563717,
+        "mentions": [
+            {
+                "text": {
+                    "content": "face",
+                    "beginOffset": 21
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "family",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.1753962,
+        "mentions": [
+            {
+                "text": {
+                    "content": "family",
+                    "beginOffset": 46
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.16325437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 86
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Molek",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moloch",
+            "mid": "\/m\/0123hq"
+        },
+        "salience": 0.051833414,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Molek",
+                    "beginOffset": 156
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

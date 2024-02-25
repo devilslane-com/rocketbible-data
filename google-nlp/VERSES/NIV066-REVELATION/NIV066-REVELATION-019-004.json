@@ -1,0 +1,80 @@
+[
+    {
+        "name": "elders",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5187273,
+        "mentions": [
+            {
+                "text": {
+                    "content": "elders",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.30826056,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 77
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "living creatures",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11313086,
+        "mentions": [
+            {
+                "text": {
+                    "content": "living creatures",
+                    "beginOffset": 36
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "throne",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03626927,
+        "mentions": [
+            {
+                "text": {
+                    "content": "throne",
+                    "beginOffset": 104
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Amen, Hallelujah!",
+        "type": "WORK_OF_ART",
+        "metadata": [],
+        "salience": 0.023612015,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Amen, Hallelujah!",
+                    "beginOffset": 131
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

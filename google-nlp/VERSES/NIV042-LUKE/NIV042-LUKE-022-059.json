@@ -1,0 +1,50 @@
+[
+    {
+        "name": "fellow",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.63314533,
+        "mentions": [
+            {
+                "text": {
+                    "content": "fellow",
+                    "beginOffset": 56
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "another",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.26455694,
+        "mentions": [
+            {
+                "text": {
+                    "content": "another",
+                    "beginOffset": 20
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Galilean",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/06rzs8",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Galilean"
+        },
+        "salience": 0.102297716,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Galilean",
+                    "beginOffset": 89
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

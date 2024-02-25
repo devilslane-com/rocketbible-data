@@ -1,0 +1,77 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.49863568,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "dwelling places",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1673212,
+        "mentions": [
+            {
+                "text": {
+                    "content": "dwelling places",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "homes",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.13857172,
+        "mentions": [
+            {
+                "text": {
+                    "content": "homes",
+                    "beginOffset": 59
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "places",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.1200182,
+        "mentions": [
+            {
+                "text": {
+                    "content": "places",
+                    "beginOffset": 81
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "rest",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.075453185,
+        "mentions": [
+            {
+                "text": {
+                    "content": "rest",
+                    "beginOffset": 91
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

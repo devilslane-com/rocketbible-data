@@ -1,0 +1,47 @@
+[
+    {
+        "name": "neighbor",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.7601934,
+        "mentions": [
+            {
+                "text": {
+                    "content": "neighbor",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "loan",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.19018899,
+        "mentions": [
+            {
+                "text": {
+                    "content": "loan",
+                    "beginOffset": 61
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pledge",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.049617596,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pledge",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

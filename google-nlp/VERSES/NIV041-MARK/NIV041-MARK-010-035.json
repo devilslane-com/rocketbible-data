@@ -1,0 +1,80 @@
+[
+    {
+        "name": "John",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5543724,
+        "mentions": [
+            {
+                "text": {
+                    "content": "John",
+                    "beginOffset": 15
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "James",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.20953631,
+        "mentions": [
+            {
+                "text": {
+                    "content": "James",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sons",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.12128133,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sons",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zebedee",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0ds6xt2",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zebedee"
+        },
+        "salience": 0.073451206,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zebedee",
+                    "beginOffset": 33
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Teacher",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.041358806,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Teacher",
+                    "beginOffset": 58
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

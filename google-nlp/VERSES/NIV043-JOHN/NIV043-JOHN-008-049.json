@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.87675244,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 42
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "demon",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.09344714,
+        "mentions": [
+            {
+                "text": {
+                    "content": "demon",
+                    "beginOffset": 27
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.0298004,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Father",
+                    "beginOffset": 67
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

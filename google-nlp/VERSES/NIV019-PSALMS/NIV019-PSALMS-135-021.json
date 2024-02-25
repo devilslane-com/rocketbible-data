@@ -1,0 +1,85 @@
+[
+    {
+        "name": "Lord",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.64303803,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Praise",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.28363568,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Praise",
+                    "beginOffset": 0
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Zion",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/01626x",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Zion_National_Park"
+        },
+        "salience": 0.044197544,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Zion",
+                    "beginOffset": 27
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Praise the Lord",
+        "type": "ORGANIZATION",
+        "metadata": {
+            "mid": "\/g\/11f64ddh6x"
+        },
+        "salience": 0.015211086,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Praise the Lord",
+                    "beginOffset": 65
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.013917647,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 54
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

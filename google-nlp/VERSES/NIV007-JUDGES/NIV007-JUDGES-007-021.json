@@ -1,0 +1,65 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.43196505,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Midianites",
+        "type": "PERSON",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Midian",
+            "mid": "\/m\/01twjb"
+        },
+        "salience": 0.39117897,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Midianites",
+                    "beginOffset": 58
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "position",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.103669755,
+        "mentions": [
+            {
+                "text": {
+                    "content": "position",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "camp",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.07318623,
+        "mentions": [
+            {
+                "text": {
+                    "content": "camp",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

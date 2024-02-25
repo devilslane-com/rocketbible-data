@@ -1,0 +1,80 @@
+[
+    {
+        "name": "man",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.71826,
+        "mentions": [
+            {
+                "text": {
+                    "content": "man",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "donkeys",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08381131,
+        "mentions": [
+            {
+                "text": {
+                    "content": "donkeys",
+                    "beginOffset": 116
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jebus",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.072115004,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jebus",
+                    "beginOffset": 67
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Jerusalem",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/0430_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jerusalem"
+        },
+        "salience": 0.066370636,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jerusalem",
+                    "beginOffset": 83
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "concubine",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.059443034,
+        "mentions": [
+            {
+                "text": {
+                    "content": "concubine",
+                    "beginOffset": 132
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

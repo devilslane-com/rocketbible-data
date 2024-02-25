@@ -1,0 +1,54 @@
+[
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.9011178,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 44
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 99
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "crops",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.08099527,
+        "mentions": [
+            {
+                "text": {
+                    "content": "crops",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "harvest",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.017886916,
+        "mentions": [
+            {
+                "text": {
+                    "content": "harvest",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

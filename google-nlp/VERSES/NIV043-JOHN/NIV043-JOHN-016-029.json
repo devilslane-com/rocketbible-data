@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.44837353,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "disciples",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.28709403,
+        "mentions": [
+            {
+                "text": {
+                    "content": "disciples",
+                    "beginOffset": 14
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "figures",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15445262,
+        "mentions": [
+            {
+                "text": {
+                    "content": "figures",
+                    "beginOffset": 74
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "speech",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.11007982,
+        "mentions": [
+            {
+                "text": {
+                    "content": "speech",
+                    "beginOffset": 85
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

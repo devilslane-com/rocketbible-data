@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Paul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.8783218,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Paul",
+                    "beginOffset": 17
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "food",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.05668139,
+        "mentions": [
+            {
+                "text": {
+                    "content": "food",
+                    "beginOffset": 148
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "anything",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.039889216,
+        "mentions": [
+            {
+                "text": {
+                    "content": "anything",
+                    "beginOffset": 175
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "suspense",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.025107589,
+        "mentions": [
+            {
+                "text": {
+                    "content": "suspense",
+                    "beginOffset": 117
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "sphere",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.6719632,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sphere",
+                    "beginOffset": 87
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "sphere",
+                    "beginOffset": 139
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.17112449,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 105
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "limits",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.081238426,
+        "mentions": [
+            {
+                "text": {
+                    "content": "limits",
+                    "beginOffset": 42
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "service",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0756739,
+        "mentions": [
+            {
+                "text": {
+                    "content": "service",
+                    "beginOffset": 97
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

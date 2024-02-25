@@ -1,0 +1,65 @@
+[
+    {
+        "name": "people",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.6318806,
+        "mentions": [
+            {
+                "text": {
+                    "content": "people",
+                    "beginOffset": 12
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Beeroth",
+        "type": "LOCATION",
+        "metadata": {
+            "mid": "\/m\/080b1x1",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Beeroth_(biblical_city)"
+        },
+        "salience": 0.17807512,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Beeroth",
+                    "beginOffset": 22
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Gittaim",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.124533854,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Gittaim",
+                    "beginOffset": 38
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "foreigners",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.06551043,
+        "mentions": [
+            {
+                "text": {
+                    "content": "foreigners",
+                    "beginOffset": 72
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "name": "one",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.5357756,
+        "mentions": [
+            {
+                "text": {
+                    "content": "one",
+                    "beginOffset": 88
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Moabites",
+        "type": "LOCATION",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Moab",
+            "mid": "\/m\/0jdn4"
+        },
+        "salience": 0.46422437,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Moabites",
+                    "beginOffset": 49
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

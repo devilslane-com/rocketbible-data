@@ -1,0 +1,47 @@
+[
+    {
+        "name": "street",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.51312095,
+        "mentions": [
+            {
+                "text": {
+                    "content": "street",
+                    "beginOffset": 11
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "squares",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.36710036,
+        "mentions": [
+            {
+                "text": {
+                    "content": "squares",
+                    "beginOffset": 30
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "corner",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.119778715,
+        "mentions": [
+            {
+                "text": {
+                    "content": "corner",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

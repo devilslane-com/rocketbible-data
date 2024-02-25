@@ -1,0 +1,113 @@
+[
+    {
+        "name": "Saul",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46279937,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Saul",
+                    "beginOffset": 0
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3117161,
+        "mentions": [
+            {
+                "text": {
+                    "content": "son",
+                    "beginOffset": 68
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.100972824,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 128
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "bread",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.03787962,
+        "mentions": [
+            {
+                "text": {
+                    "content": "bread",
+                    "beginOffset": 93
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "sword",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.03787962,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sword",
+                    "beginOffset": 105
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "wait",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.026398003,
+        "mentions": [
+            {
+                "text": {
+                    "content": "wait",
+                    "beginOffset": 188
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Jesse",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/01ndvc",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesse"
+        },
+        "salience": 0.02235444,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesse",
+                    "beginOffset": 75
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

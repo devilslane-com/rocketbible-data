@@ -1,0 +1,77 @@
+[
+    {
+        "name": "someone",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.45557818,
+        "mentions": [
+            {
+                "text": {
+                    "content": "someone",
+                    "beginOffset": 3
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.19801982,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 24
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "lamp",
+        "type": "CONSUMER_GOOD",
+        "metadata": [],
+        "salience": 0.13919735,
+        "mentions": [
+            {
+                "text": {
+                    "content": "lamp",
+                    "beginOffset": 48
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.13760127,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 34
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "pitch darkness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.0696034,
+        "mentions": [
+            {
+                "text": {
+                    "content": "pitch darkness",
+                    "beginOffset": 76
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

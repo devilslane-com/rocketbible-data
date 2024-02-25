@@ -1,0 +1,65 @@
+[
+    {
+        "name": "speaker",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.46730447,
+        "mentions": [
+            {
+                "text": {
+                    "content": "speaker",
+                    "beginOffset": 32
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "interpreter",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.3072456,
+        "mentions": [
+            {
+                "text": {
+                    "content": "interpreter",
+                    "beginOffset": 15
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "church",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.16994712,
+        "mentions": [
+            {
+                "text": {
+                    "content": "church",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0d05l6",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/God"
+        },
+        "salience": 0.055502832,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 100
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]

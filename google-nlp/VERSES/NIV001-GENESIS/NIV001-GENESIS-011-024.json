@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Nahor",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/g\/122sgc0g",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Nahor,_son_of_Terah"
+        },
+        "salience": 0.7340036,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Nahor",
+                    "beginOffset": 5
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "Terah",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j0hf",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Terah"
+        },
+        "salience": 0.15196566,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Terah",
+                    "beginOffset": 55
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "father",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.11403072,
+        "mentions": [
+            {
+                "text": {
+                    "content": "father",
+                    "beginOffset": 45
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

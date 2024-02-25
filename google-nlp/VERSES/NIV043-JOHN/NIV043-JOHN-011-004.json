@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Jesus",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/045m1_",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Jesus"
+        },
+        "salience": 0.7328129,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Jesus",
+                    "beginOffset": 20
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "sickness",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.10448584,
+        "mentions": [
+            {
+                "text": {
+                    "content": "sickness",
+                    "beginOffset": 40
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.097383834,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "God's Son",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.050606977,
+        "mentions": [
+            {
+                "text": {
+                    "content": "God",
+                    "beginOffset": 86
+                },
+                "type": "PROPER"
+            },
+            {
+                "text": {
+                    "content": "God\u2019s Son",
+                    "beginOffset": 108
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "glory",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.014710455,
+        "mentions": [
+            {
+                "text": {
+                    "content": "glory",
+                    "beginOffset": 94
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

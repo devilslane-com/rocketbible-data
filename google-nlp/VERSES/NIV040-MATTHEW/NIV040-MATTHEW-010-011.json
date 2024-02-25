@@ -1,0 +1,62 @@
+[
+    {
+        "name": "town",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.5219564,
+        "mentions": [
+            {
+                "text": {
+                    "content": "town",
+                    "beginOffset": 9
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "village",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.22353871,
+        "mentions": [
+            {
+                "text": {
+                    "content": "village",
+                    "beginOffset": 17
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "person",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.14434868,
+        "mentions": [
+            {
+                "text": {
+                    "content": "person",
+                    "beginOffset": 65
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "house",
+        "type": "LOCATION",
+        "metadata": [],
+        "salience": 0.11015623,
+        "mentions": [
+            {
+                "text": {
+                    "content": "house",
+                    "beginOffset": 90
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

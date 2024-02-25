@@ -1,0 +1,65 @@
+[
+    {
+        "name": "men",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.63695747,
+        "mentions": [
+            {
+                "text": {
+                    "content": "men",
+                    "beginOffset": 7
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "temple",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.17356966,
+        "mentions": [
+            {
+                "text": {
+                    "content": "temple",
+                    "beginOffset": 26
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Pharisee",
+        "type": "PERSON",
+        "metadata": {
+            "mid": "\/m\/0j3fm",
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Pharisees"
+        },
+        "salience": 0.099834874,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Pharisee",
+                    "beginOffset": 48
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "tax collector",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.08963797,
+        "mentions": [
+            {
+                "text": {
+                    "content": "tax collector",
+                    "beginOffset": 73
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

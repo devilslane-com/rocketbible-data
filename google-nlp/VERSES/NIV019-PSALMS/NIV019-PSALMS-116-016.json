@@ -1,0 +1,54 @@
+[
+    {
+        "name": "servant",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.9128847,
+        "mentions": [
+            {
+                "text": {
+                    "content": "servant",
+                    "beginOffset": 16
+                },
+                "type": "COMMON"
+            },
+            {
+                "text": {
+                    "content": "Lord",
+                    "beginOffset": 25
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "mother",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.056716364,
+        "mentions": [
+            {
+                "text": {
+                    "content": "mother",
+                    "beginOffset": 54
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "chains",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.030398952,
+        "mentions": [
+            {
+                "text": {
+                    "content": "chains",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    }
+]

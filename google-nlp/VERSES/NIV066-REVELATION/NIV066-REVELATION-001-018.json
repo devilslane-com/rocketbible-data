@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Living One",
+        "type": "PERSON",
+        "metadata": [],
+        "salience": 0.68736833,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Living One",
+                    "beginOffset": 9
+                },
+                "type": "PROPER"
+            }
+        ]
+    },
+    {
+        "name": "keys",
+        "type": "OTHER",
+        "metadata": [],
+        "salience": 0.15534711,
+        "mentions": [
+            {
+                "text": {
+                    "content": "keys",
+                    "beginOffset": 92
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "death",
+        "type": "EVENT",
+        "metadata": [],
+        "salience": 0.11091543,
+        "mentions": [
+            {
+                "text": {
+                    "content": "death",
+                    "beginOffset": 100
+                },
+                "type": "COMMON"
+            }
+        ]
+    },
+    {
+        "name": "Hades",
+        "type": "OTHER",
+        "metadata": {
+            "wikipedia_url": "https:\/\/en.wikipedia.org\/wiki\/Hades",
+            "mid": "\/m\/03g72"
+        },
+        "salience": 0.04636915,
+        "mentions": [
+            {
+                "text": {
+                    "content": "Hades",
+                    "beginOffset": 110
+                },
+                "type": "PROPER"
+            }
+        ]
+    }
+]
